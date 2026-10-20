@@ -1,0 +1,398 @@
+{
+ "kapoor2023": {
+  "doi": "10.1016/j.patter.2023.100804",
+  "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "year": 2023,
+  "venue": "Patterns",
+  "authors": [
+   "Kapoor, S",
+   "Narayanan, A"
+  ],
+  "volume": "4",
+  "page": "100804"
+ },
+ "kaufman2012": {
+  "doi": "10.1145/2382577.2382579",
+  "title": "Leakage in data mining",
+  "year": 2012,
+  "venue": "ACM Transactions on Knowledge Discovery from Data",
+  "authors": [
+   "Kaufman, S",
+   "Rosset, S",
+   "Perlich, C",
+   "Stitelman, O"
+  ],
+  "volume": "6",
+  "page": "1-21"
+ },
+ "vanschoren2014": {
+  "doi": "10.1145/2641190.2641198",
+  "title": "OpenML",
+  "year": 2014,
+  "venue": "ACM SIGKDD Explorations Newsletter",
+  "authors": [
+   "Vanschoren, J",
+   "van Rijn, J",
+   "Bischl, B",
+   "Torgo, L"
+  ],
+  "volume": "15",
+  "page": "49-60"
+ },
+ "lee2022": {
+  "doi": "10.18653/v1/2022.acl-long.577",
+  "title": "Deduplicating Training Data Makes Language Models Better",
+  "year": 2022,
+  "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "authors": [
+   "Lee, K",
+   "Ippolito, D",
+   "Nystrom, A",
+   "Zhang, C"
+  ],
+  "volume": null,
+  "page": "8424-8445"
+ },
+ "elangovan2021": {
+  "doi": "10.18653/v1/2021.eacl-main.113",
+  "title": "Memorization vs. Generalization : Quantifying Data Leakage in NLP Performance Evaluation",
+  "year": 2021,
+  "venue": "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+  "authors": [
+   "Elangovan, A",
+   "He, J",
+   "Verspoor, K"
+  ],
+  "volume": null,
+  "page": "1325-1335"
+ },
+ "lewis2021": {
+  "doi": "10.18653/v1/2021.eacl-main.86",
+  "title": "Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets",
+  "year": 2021,
+  "venue": "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+  "authors": [
+   "Lewis, P",
+   "Stenetorp, P",
+   "Riedel, S"
+  ],
+  "volume": null,
+  "page": "1000-1008"
+ },
+ "feldman2020": {
+  "doi": "10.1145/3357713.3384290",
+  "title": "Does learning require memorization? a short tale about a long tail",
+  "year": 2020,
+  "venue": "Proceedings of the 52nd Annual ACM SIGACT Symposium on Theory of Computing",
+  "authors": [
+   "Feldman, V"
+  ],
+  "volume": null,
+  "page": "954-959"
+ },
+ "belkin2019": {
+  "doi": "10.1073/pnas.1903070116",
+  "title": "Reconciling modern machine-learning practice and the classical bias\u2013variance trade-off",
+  "year": 2019,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "authors": [
+   "Belkin, M",
+   "Hsu, D",
+   "Ma, S",
+   "Mandal, S"
+  ],
+  "volume": "116",
+  "page": "15849-15854"
+ },
+ "bates2024": {
+  "doi": "10.1080/01621459.2023.2197686",
+  "title": "Cross-Validation: What Does It Estimate and How Well Does It Do It?",
+  "year": 2023,
+  "venue": "Journal of the American Statistical Association",
+  "authors": [
+   "Bates, S",
+   "Hastie, T",
+   "Tibshirani, R"
+  ],
+  "volume": "119",
+  "page": "1434-1445"
+ },
+ "nadeau2003": {
+  "doi": "10.1023/A:1024068626366",
+  "title": "Inference for the Generalization Error",
+  "year": 2003,
+  "venue": "Machine Learning",
+  "authors": [
+   "Nadeau, C",
+   "Bengio, Y"
+  ],
+  "volume": "52",
+  "page": "239-281"
+ },
+ "varoquaux2018": {
+  "doi": "10.1016/j.neuroimage.2017.06.061",
+  "title": "Cross-validation failure: Small sample sizes lead to large error bars",
+  "year": 2018,
+  "venue": "NeuroImage",
+  "authors": [
+   "Varoquaux, G"
+  ],
+  "volume": "180",
+  "page": "68-77"
+ },
+ "roberts2017": {
+  "doi": "10.1111/ecog.02881",
+  "title": "Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+  "year": 2017,
+  "venue": "Ecography",
+  "authors": [
+   "Roberts, D",
+   "Bahn, V",
+   "Ciuti, S",
+   "Boyce, M"
+  ],
+  "volume": "40",
+  "page": "913-929"
+ },
+ "saeb2017": {
+  "doi": "10.1093/gigascience/gix019",
+  "title": "The need to approximate the use-case in clinical machine learning",
+  "year": 2017,
+  "venue": "GigaScience",
+  "authors": [
+   "Saeb, S",
+   "Lonini, L",
+   "Jayaraman, A",
+   "Mohr, D"
+  ],
+  "volume": "6",
+  "page": "gix019"
+ },
+ "breiman2001": {
+  "doi": "10.1023/A:1010933404324",
+  "title": "Random Forests",
+  "year": 2001,
+  "venue": "Machine Learning",
+  "authors": [
+   "Breiman, L"
+  ],
+  "volume": "45",
+  "page": "5-32"
+ },
+ "geurts2006": {
+  "doi": "10.1007/s10994-006-6226-1",
+  "title": "Extremely randomized trees",
+  "year": 2006,
+  "venue": "Machine Learning",
+  "authors": [
+   "Geurts, P",
+   "Ernst, D",
+   "Wehenkel, L"
+  ],
+  "volume": "63",
+  "page": "3-42"
+ },
+ "cover1967": {
+  "doi": "10.1109/TIT.1967.1053964",
+  "title": "Nearest neighbor pattern classification",
+  "year": 1967,
+  "venue": "IEEE Transactions on Information Theory",
+  "authors": [
+   "Cover, T",
+   "Hart, P"
+  ],
+  "volume": "13",
+  "page": "21-27"
+ },
+ "friedman2001": {
+  "doi": "10.1214/aos/1013203451",
+  "title": "Greedy function approximation: A gradient boosting machine.",
+  "year": 2001,
+  "venue": "The Annals of Statistics",
+  "authors": [
+   "Friedman, J"
+  ],
+  "volume": "29",
+  "page": "1189-1232"
+ },
+ "tavallaee2009": {
+  "doi": "10.1109/CISDA.2009.5356528",
+  "title": "A detailed analysis of the KDD CUP 99 data set",
+  "year": 2009,
+  "venue": "2009 IEEE Symposium on Computational Intelligence for Security and Defense Applications",
+  "authors": [
+   "Tavallaee, M",
+   "Bagheri, E",
+   "Lu, W",
+   "Ghorbani, A"
+  ],
+  "volume": null,
+  "page": "1-6"
+ },
+ "engelen2021": {
+  "doi": "10.1109/EuroSPW54576.2021.00008",
+  "title": "Towards Cybersecurity MOOC Certification",
+  "year": 2021,
+  "venue": "2021 IEEE European Symposium on Security and Privacy Workshops (EuroS&amp;PW)",
+  "authors": [
+   "Beckerle, M",
+   "Chatzopoulou, A",
+   "Fischer-Hubner, S"
+  ],
+  "volume": null,
+  "page": "1-11"
+ },
+ "kendall1938": {
+  "doi": "10.1093/biomet/30.1-2.81",
+  "title": "A NEW MEASURE OF RANK CORRELATION",
+  "year": 1938,
+  "venue": "Biometrika",
+  "authors": [
+   "KENDALL, M"
+  ],
+  "volume": "30",
+  "page": "81-93"
+ },
+ "good1953": {
+  "doi": "10.1093/biomet/40.3-4.237",
+  "title": "THE POPULATION FREQUENCIES OF SPECIES AND THE ESTIMATION OF POPULATION PARAMETERS",
+  "year": 1953,
+  "venue": "Biometrika",
+  "authors": [
+   "GOOD, I"
+  ],
+  "volume": "40",
+  "page": "237-264"
+ },
+ "barz2020": {
+  "doi": "10.3390/jimaging6060041",
+  "title": "Do We Train on Test Data? Purging CIFAR of Near-Duplicates",
+  "year": 2020,
+  "venue": "Journal of Imaging",
+  "authors": [
+   "Barz, B",
+   "Denzler, J"
+  ],
+  "volume": "6",
+  "page": "41"
+ },
+ "dietterich1998": {
+  "doi": "10.1162/089976698300017197",
+  "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms",
+  "year": 1998,
+  "venue": "Neural Computation",
+  "authors": [
+   "Dietterich, T"
+  ],
+  "volume": "10",
+  "page": "1895-1923"
+ },
+ "wilcoxon1945": {
+  "doi": "10.2307/3001968",
+  "title": "Individual Comparisons by Ranking Methods",
+  "year": 1945,
+  "venue": "Biometrics Bulletin",
+  "authors": [
+   "Wilcoxon, F"
+  ],
+  "volume": "1",
+  "page": "80"
+ },
+ "efron1979": {
+  "doi": "10.1214/aos/1176344552",
+  "title": "Bootstrap Methods: Another Look at the Jackknife",
+  "year": 1979,
+  "venue": "The Annals of Statistics",
+  "authors": [
+   "Efron, B"
+  ],
+  "volume": "7",
+  "page": "1-26"
+ },
+ "benjamini1995": {
+  "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+  "title": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+  "year": 1995,
+  "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+  "authors": [
+   "Benjamini, Y",
+   "Hochberg, Y"
+  ],
+  "volume": "57",
+  "page": "289-300"
+ },
+ "cliff1993": {
+  "doi": "10.1037/0033-2909.114.3.494",
+  "title": "Dominance statistics: Ordinal analyses to answer ordinal questions.",
+  "year": 1993,
+  "venue": "Psychological Bulletin",
+  "authors": [
+   "Cliff, N"
+  ],
+  "volume": "114",
+  "page": "494-509"
+ },
+ "zhang2021": {
+  "doi": "10.1145/3446776",
+  "title": "Understanding deep learning (still) requires rethinking generalization",
+  "year": 2021,
+  "venue": "Communications of the ACM",
+  "authors": [
+   "Zhang, C",
+   "Bengio, S",
+   "Hardt, M",
+   "Recht, B"
+  ],
+  "volume": "64",
+  "page": "107-115"
+ },
+ "broder1997": {
+  "doi": "10.1109/SEQUEN.1997.666900",
+  "title": "On the resemblance and containment of documents",
+  "year": null,
+  "venue": "Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No.97TB100171)",
+  "authors": [
+   "Broder, A"
+  ],
+  "volume": null,
+  "page": "21-29"
+ },
+ "littlemann2017": {
+  "doi": "10.1109/TBME.2008.2005954",
+  "title": "Suitability of Dysphonia Measurements for Telemonitoring of Parkinson's Disease",
+  "year": 2009,
+  "venue": "IEEE Transactions on Biomedical Engineering",
+  "authors": [
+   "Little, M",
+   "McSharry, P",
+   "Hunter, E",
+   "Spielman, J"
+  ],
+  "volume": "56",
+  "page": "1015-1022"
+ },
+ "lones2024": {
+  "doi": "10.1016/j.patter.2024.100933",
+  "title": "TCGA-Reports: A machine-readable pathology report resource for benchmarking text-based AI models",
+  "year": 2024,
+  "venue": "Patterns",
+  "authors": [
+   "Kefeli, J",
+   "Tatonetti, N"
+  ],
+  "volume": "5",
+  "page": "100933"
+ },
+ "shwartz2022": {
+  "doi": "10.1016/j.inffus.2021.11.011",
+  "title": "Tabular data: Deep learning is not all you need",
+  "year": 2022,
+  "venue": "Information Fusion",
+  "authors": [
+   "Shwartz-Ziv, R",
+   "Armon, A"
+  ],
+  "volume": "81",
+  "page": "84-90"
+ }
+}
