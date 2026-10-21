@@ -3,7 +3,7 @@
 ## READINESS DECISION: **NOT READY — ADDITIONAL WORK REQUIRED**
 
 Reasons (each is a hard blocker or a disclosed unresolved item):
-1. **Hard journal constraint unmet.** No scope-appropriate journal could be verified at ≤ 72 days submission-to-acceptance; the target (*Accountability in Research*) is best-available only (observed median 105 d; 27 % ≤ 72 d). JCR quartile/JIF **unverified** (no Clarivate access). Current author guidelines **not retrieved**.
+1. **72-day constraint waived by the author (2026-10-21), not met.** On the author's instruction the target was changed to the highest-impact scope-appropriate journal, *Research Integrity and Peer Review* (journal-reported JIF 10.7 (2024); journal-reported median 194 d to acceptance). JCR quartile/JIF **unverified** (no Clarivate access). Current author guidelines **not retrieved**. **Acceptance cannot be guaranteed, and the higher-impact target lowers its probability.**
 2. **No public data/code deposit** (no DOI). Raw snapshot is committed to the project repository (if the push succeeded; see README) but the manuscript's data-availability statement cannot be finalised until a persistent public archive exists.
 3. **Author-specific items are placeholders** (names, affiliations, contributions, funding, COI, originality confirmations, ethics confirmation).
 4. **No human or external expert review.** The ten review passes are same-system simulations; two further reviews (agents A and B) were separately launched model agents — not independent humans.

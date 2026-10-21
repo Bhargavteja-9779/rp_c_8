@@ -1,3 +1,5 @@
+> **NOTE (2026-10-21): the primary target is now *Research Integrity and Peer Review* (see selected_journal.md). The matrix below was written for *Accountability in Research*, which is now the first backup; for the new target the same open items apply (official scope/instructions not retrieved) and its stated scope — research on peer review and editorial processes — is a closer match.**
+
 # Journal-scope and contribution-fit audit (Phase 17) — *Accountability in Research*
 
 **Limits of this audit:** the journal's current author guidelines, aims & scope page and word limits could NOT be retrieved (publisher pages return HTTP 403 to this environment); article abstracts were not available in Crossref. Fit is judged from Crossref titles/DOIs of recent articles and a secondary scope statement. The authors must read the official instructions before formatting.
