@@ -1,0 +1,1123 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34968737,10.1016/j.jbi.2021.103981,J Biomed Inform,Explainable process trace classification: An application to stroke.,2021-05-20,2021-12-20,2021-12-31,3,0
+34920128,10.1016/j.jbi.2021.103970,J Biomed Inform,Extracting experimental parameter entities from scientific articles.,2021-06-17,2021-12-02,2021-12-18,6,0
+34906736,10.1016/j.jbi.2021.103975,J Biomed Inform,Improving non-invasive hemoglobin measurement accuracy using nonparametric models.,2021-05-20,2021-12-06,2021-12-16,5,0
+34864210,10.1016/j.jbi.2021.103969,J Biomed Inform,A weakly supervised model for the automated detection of adverse events using clinical not,2021-07-20,2021-11-27,2021-12-06,3,0
+34954110,10.1016/j.jbi.2021.103979,J Biomed Inform,Multi-level process mining methodology for exploring disease-specific care processes.,2021-06-01,2021-12-14,2021-12-27,3,0
+34922021,10.1016/j.jbi.2021.103978,J Biomed Inform,Multi-view prediction of Alzheimer's disease progression with end-to-end integrated framew,2021-07-21,2021-12-11,2021-12-19,7,0
+34920127,10.1016/j.jbi.2021.103971,J Biomed Inform,"Word embeddings trained on published case reports are lightweight, effective for clinical ",2021-06-02,2021-12-02,2021-12-18,4,46
+34920126,10.1016/j.jbi.2021.103977,J Biomed Inform,Membership inference attacks against synthetic health data.,2021-09-15,2021-12-08,2021-12-18,3,56
+34920125,10.1016/j.jbi.2021.103972,J Biomed Inform,Synthesizing time-series wound prognosis factors from electronic medical records using gen,2021-06-02,2021-12-03,2021-12-18,7,0
+34906737,10.1016/j.jbi.2021.103976,J Biomed Inform,Inferring the patient's age from implicit age clues in health forum posts.,2021-07-25,2021-12-06,2021-12-16,4,0
+34902551,10.1016/j.jbi.2021.103974,J Biomed Inform,Deep graph convolutional network for US birth data harmonization.,2021-05-31,2021-12-04,2021-12-14,5,13
+34879250,10.1016/j.jbi.2021.103961,J Biomed Inform,"The RareDis corpus: A corpus annotated with rare diseases, their signs and symptoms.",2021-08-02,2021-11-22,2021-12-09,4,0
+34875387,10.1016/j.jbi.2021.103960,J Biomed Inform,A contextual multi-task neural approach to medication and adverse events identification fr,2021-09-27,2021-11-22,2021-12-08,6,0
+34875386,10.1016/j.jbi.2021.103949,J Biomed Inform,Disease evolution and risk-based disease trajectories in congestive heart failure patients,2021-05-10,2021-11-03,2021-12-08,5,0
+34871807,10.1016/j.jbi.2021.103968,J Biomed Inform,An attentive joint model with transformer-based weighted graph convolutional network for e,2021-06-29,2021-11-27,2021-12-07,4,0
+34848329,10.1016/j.jbi.2021.103956,J Biomed Inform,MRC4BioER: Joint extraction of biomedical entities and relations in the machine reading co,2021-06-11,2021-11-16,2021-12-02,6,0
+34839017,10.1016/j.jbi.2021.103958,J Biomed Inform,Bayesian tensor factorization-drive breast cancer subtyping by integrating multi-omics dat,2021-03-20,2021-11-19,2021-11-29,4,0
+34826628,10.1016/j.jbi.2021.103959,J Biomed Inform,AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores w,2021-07-06,2021-11-19,2021-11-27,7,0
+34823030,10.1016/j.jbi.2021.103957,J Biomed Inform,Class imbalance in out-of-distribution datasets: Improving the robustness of the TextCNN f,2021-06-30,2021-11-17,2021-11-26,14,47
+34793972,10.1016/j.jbi.2021.103954,J Biomed Inform,Machine learning algorithm for feature space clustering of mixed data with missing informa,2021-05-26,2021-11-08,2021-11-19,1,0
+34785382,10.1016/j.jbi.2021.103951,J Biomed Inform,PASCLex: A comprehensive post-acute sequelae of COVID-19 (PASC) symptom lexicon derived fr,2021-08-04,2021-11-06,2021-11-18,6,44
+34800722,10.1016/j.jbi.2021.103955,J Biomed Inform,Automatic detection of COVID-19 vaccine misinformation with graph link prediction.,2021-05-06,2021-11-12,2021-11-21,2,53
+34798158,10.1016/j.jbi.2021.103952,J Biomed Inform,A cost-effective IoT learning environment for the training and assessment of surgical tech,2021-09-21,2021-11-07,2021-11-20,5,0
+34781009,10.1016/j.jbi.2021.103953,J Biomed Inform,CASIDE: A data model for interoperable cancer survivorship information based on FHIR.,2021-08-18,2021-11-08,2021-11-16,4,47
+34752858,10.1016/j.jbi.2021.103939,J Biomed Inform,GLA-Net: A global-local attention network for automatic cataract classification.,2021-05-01,2021-10-25,2021-11-10,7,0
+34737093,10.1016/j.jbi.2021.103941,J Biomed Inform,EPIsembleVis: A geo-visual analysis and comparison of the prediction ensembles of multiple,2020-10-16,2021-10-25,2021-11-06,5,52
+34728379,10.1016/j.jbi.2021.103940,J Biomed Inform,On learning disentangled representations for individual treatment effect estimation.,2021-02-04,2021-10-26,2021-11-04,5,0
+34695581,10.1016/j.jbi.2021.103938,J Biomed Inform,Estimating redundancy in clinical text.,2021-06-10,2021-10-17,2021-10-26,4,0
+34687867,10.1016/j.jbi.2021.103937,J Biomed Inform,A new methodological framework for hazard detection models in health information technolog,2021-06-07,2021-10-15,2021-10-24,13,0
+34699990,10.1016/j.jbi.2021.103935,J Biomed Inform,Visualising and quantifying relevant parkinsonian gait patterns using 3D convolutional net,2021-03-26,2021-10-10,2021-10-27,2,0
+34670175,10.1016/j.jbi.2021.103936,J Biomed Inform,Abuse detection in healthcare insurance with disease-treatment network embedding.,2021-01-21,2021-10-12,2021-10-21,2,0
+34666185,10.1016/j.jbi.2021.103934,J Biomed Inform,Insufficient sampling frequencies skew heart rate variability estimates: Implications for ,2021-06-17,2021-10-10,2021-10-20,6,0
+34628064,10.1016/j.jbi.2021.103932,J Biomed Inform,A practical approach towards causality mining in clinical text using active transfer learn,2020-07-13,2021-10-04,2021-10-11,9,0
+34628063,10.1016/j.jbi.2021.103931,J Biomed Inform,Protein-protein interaction relation extraction based on multigranularity semantic fusion.,2021-06-09,2021-10-04,2021-10-11,6,0
+34628062,10.1016/j.jbi.2021.103919,J Biomed Inform,"Implementation and evaluation of a multivariate abstraction-based, interval-based dynamic ",2021-05-18,2021-09-27,2021-10-11,2,0
+34628061,10.1016/j.jbi.2021.103921,J Biomed Inform,Prediction of anxiety disorders using a feature ensemble based bayesian neural network.,2021-04-19,2021-09-29,2021-10-11,7,0
+34624552,10.1016/j.jbi.2021.103930,J Biomed Inform,A maintenance hemodialysis mortality prediction model based on anomaly detection using lon,2020-08-19,2021-10-01,2021-10-09,6,0
+34607012,10.1016/j.jbi.2021.103922,J Biomed Inform,Predicting potential palliative care beneficiaries for health plans: A generalized machine,2021-06-23,2021-09-29,2021-10-05,3,0
+34601140,10.1016/j.jbi.2021.103920,J Biomed Inform,A novel deep interval type-2 fuzzy LSTM (DIT2FLSTM) model applied to COVID-19 pandemic tim,2020-12-05,2021-09-27,2021-10-04,3,55
+34600144,10.1016/j.jbi.2021.103915,J Biomed Inform,Attention-based bidirectional long short-term memory networks for extracting temporal rela,2021-05-09,2021-09-09,2021-10-03,3,0
+34560275,10.1016/j.jbi.2021.103918,J Biomed Inform,Query bot for retrieving patients' clinical history: A COVID-19 use-case.,2020-12-21,2021-09-19,2021-09-25,6,25
+34487887,10.1016/j.jbi.2021.103896,J Biomed Inform,Adversarial neural network with sentiment-aware attention for detecting adverse drug react,2021-02-28,2021-08-23,2021-09-07,6,0
+34474187,10.1016/j.jbi.2021.103904,J Biomed Inform,Evaluation of the key active ingredients of 'Radix Astragali and Rehmanniae Radix Mixture',2021-05-11,2021-08-27,2021-09-03,6,0
+34450286,10.1016/j.jbi.2021.103895,J Biomed Inform,Mapping of critical events in disease progression through binary classification: Applicati,2021-03-26,2021-08-22,2021-08-28,8,0
+34534697,10.1016/j.jbi.2021.103916,J Biomed Inform,Ranking sets of morbidities using hypergraph centrality.,2021-05-13,2021-09-09,2021-09-18,11,33
+34509637,10.1016/j.jbi.2021.103914,J Biomed Inform,Information handoffs in critical care and their implications for information quality: A so,2021-05-05,2021-09-04,2021-09-13,2,0
+34487888,10.1016/j.jbi.2021.103913,J Biomed Inform,An informatics approach to examine decision-making impairments in the daily life of indivi,2021-04-26,2021-09-01,2021-09-07,6,0
+34481921,10.1016/j.jbi.2021.103899,J Biomed Inform,scLINE: A multi-network integration framework based on network embedding for representatio,2021-04-26,2021-08-24,2021-09-06,5,0
+34481058,10.1016/j.jbi.2021.103893,J Biomed Inform,Enhancing Biomedical Relation Extraction with Transformer Models using Shortest Dependency,2020-12-11,2021-08-22,2021-09-05,2,0
+34481057,10.1016/j.jbi.2021.103902,J Biomed Inform,"Relation extraction from DailyMed structured product labels by optimally combining crowd, ",2021-02-15,2021-08-26,2021-09-05,4,0
+34481056,10.1016/j.jbi.2021.103905,J Biomed Inform,COVID-19 modelling by time-varying transmission rate associated with mobility trend of dri,2020-10-15,2021-08-29,2021-09-05,8,54
+34474189,10.1016/j.jbi.2021.103901,J Biomed Inform,Dynamic graph and polynomial chaos based models for contact tracing data analysis and opti,2020-10-16,2021-08-24,2021-09-03,3,66
+34474188,10.1016/j.jbi.2021.103903,J Biomed Inform,ReHouSED: A novel measurement of Veteran housing stability using natural language processi,2021-06-18,2021-08-27,2021-09-03,13,19
+34455090,10.1016/j.jbi.2021.103898,J Biomed Inform,Unified concept and assertion detection using contextual multi-task learning in a clinical,2020-11-12,2021-08-23,2021-08-30,4,0
+34454080,10.1016/j.jbi.2021.103894,J Biomed Inform,Long-term prediction for temporal propagation of seasonal influenza using Transformer-base,2021-04-20,2021-08-22,2021-08-29,3,0
+34454079,10.1016/j.jbi.2021.103892,J Biomed Inform,A novel hierarchical machine learning model for hospital-acquired venous thromboembolism r,2021-03-08,2021-08-22,2021-08-29,8,0
+34454078,10.1016/j.jbi.2021.103897,J Biomed Inform,De-novo FAIRification via an Electronic Data Capture system by automated transformation of,2021-03-12,2021-08-23,2021-08-29,11,0
+34450285,10.1016/j.jbi.2021.103891,J Biomed Inform,Enhancing narrative clinical guidance with computer-readable artifacts: Authoring FHIR imp,2021-05-26,2021-08-20,2021-08-28,5,32
+34438071,10.1016/j.jbi.2021.103890,J Biomed Inform,Convolutional neural network in proteomics and metabolomics for determination of comorbidi,2021-05-28,2021-08-19,2021-08-27,14,0
+34411709,10.1016/j.jbi.2021.103872,J Biomed Inform,Supervised line attention for tumor attribute classification from pathology reports: Highe,2020-12-19,2021-07-18,2021-08-20,6,0
+34411707,10.1016/j.jbi.2021.103888,J Biomed Inform,BioPREP: Deep learning-based predicate classification with SemMedDB.,2021-03-04,2021-08-13,2021-08-20,4,0
+34407487,10.1016/j.jbi.2021.103887,J Biomed Inform,Implementation of stacking based ARIMA model for prediction of Covid-19 cases in India.,2020-08-05,2021-08-08,2021-08-19,6,65
+34390853,10.1016/j.jbi.2021.103880,J Biomed Inform,Improving broad-coverage medical entity linking with semantic type prediction and large-sc,2021-01-30,2021-07-31,2021-08-15,5,111
+34329789,10.1016/j.jbi.2021.103879,J Biomed Inform,A strategy for validation of variables derived from large-scale electronic health record d,2021-03-14,2021-07-24,2021-07-31,6,38
+34325021,10.1016/j.jbi.2021.103876,J Biomed Inform,Interpretability of time-series deep learning models: A study in cardiovascular patients a,2021-04-16,2021-07-20,2021-07-30,4,0
+34325020,10.1016/j.jbi.2021.103875,J Biomed Inform,A section identification tool: Towards HL7 CDA/CCR standardization in Spanish discharge su,2021-03-15,2021-07-19,2021-07-30,4,0
+34302957,10.1016/j.jbi.2021.103870,J Biomed Inform,A conceptual framework for external validity.,2020-11-13,2021-07-18,2021-07-25,4,0
+34298157,10.1016/j.jbi.2021.103874,J Biomed Inform,Extracting chemical-induced disease relation by integrating a hierarchical concentrative a,2020-12-16,2021-07-18,2021-07-24,4,0
+34298156,10.1016/j.jbi.2021.103869,J Biomed Inform,Machine learning for holistic visualization of STEMI registry data.,2021-02-20,2021-07-14,2021-07-24,6,0
+34298155,10.1016/j.jbi.2021.103871,J Biomed Inform,REDCap on FHIR: Clinical Data Interoperability Services.,2021-02-04,2021-07-18,2021-07-24,8,24
+34229062,10.1016/j.jbi.2021.103862,J Biomed Inform,Tracking and analysis of discourse dynamics and polarity during the early Corona pandemic ,2020-10-15,2021-06-30,2021-07-07,3,54
+34229061,10.1016/j.jbi.2021.103863,J Biomed Inform,Alzheimer's disease diagnosis framework from incomplete multimodal data using convolutiona,2021-02-26,2021-07-01,2021-07-07,3,0
+34284119,10.1016/j.jbi.2021.103867,J Biomed Inform,Improved biomedical word embeddings in the transformer era.,2020-12-22,2021-07-11,2021-07-21,2,42
+34284118,10.1016/j.jbi.2021.103866,J Biomed Inform,Pixel-wise body composition prediction with a multi-task conditional generative adversaria,2021-01-25,2021-07-11,2021-07-21,5,44
+34271172,10.1016/j.jbi.2021.103868,J Biomed Inform,A novel approach for the analysis of time-course gene expression data based on computing w,2020-12-02,2021-07-10,2021-07-17,1,0
+34265451,10.1016/j.jbi.2021.103864,J Biomed Inform,Development of a generalizable natural language processing pipeline to extract physician-r,2020-11-27,2021-07-04,2021-07-16,8,0
+34237438,10.1016/j.jbi.2021.103854,J Biomed Inform,A generalized kernel machine approach to identify higher-order composite effects in multi-,2020-09-25,2021-06-28,2021-07-09,5,0
+34224898,10.1016/j.jbi.2021.103861,J Biomed Inform,Visual comprehension and orientation into the COVID-19 CIDO ontology.,2020-10-23,2021-06-30,2021-07-06,7,65
+34216803,10.1016/j.jbi.2021.103855,J Biomed Inform,Predictive models of aging of the human eye based on ocular anterior segment morphology.,2020-12-16,2021-06-28,2021-07-04,17,0
+34214696,10.1016/j.jbi.2021.103849,J Biomed Inform,A two-stage workflow to extract and harmonize drug mentions from clinical notes into obser,2020-12-02,2021-06-19,2021-07-03,4,0
+34192573,10.1016/j.jbi.2021.103852,J Biomed Inform,Developing a sampling method and preliminary taxonomy for classifying COVID-19 public heal,2020-10-19,2021-06-24,2021-07-01,8,56
+34182148,10.1016/j.jbi.2021.103850,J Biomed Inform,Accurate pattern-based extraction of complex Gleason score expressions from pathology repo,2020-07-02,2021-06-19,2021-06-29,6,0
+34174396,10.1016/j.jbi.2021.103851,J Biomed Inform,Adaptation of an NLP system to a new healthcare environment to identify social determinant,2021-02-22,2021-06-21,2021-06-27,14,35
+34171485,10.1016/j.jbi.2021.103848,J Biomed Inform,Face mask detection using deep learning: An approach to reduce risk of Coronavirus spread.,2020-09-28,2021-06-20,2021-06-26,3,45
+34153432,10.1016/j.jbi.2021.103844,J Biomed Inform,Pulse of the pandemic: Iterative topic filtering for clinical information extraction from ,2020-10-16,2021-06-15,2021-06-22,5,40
+34146717,10.1016/j.jbi.2021.103841,J Biomed Inform,Augmented reality in robotic assisted orthopaedic surgery: A pilot study.,2020-10-16,2021-06-14,2021-06-20,3,0
+34139331,10.1016/j.jbi.2021.103840,J Biomed Inform,Treatment initiation prediction by EHR mapped PPD tensor based convolutional neural networ,2021-02-04,2021-06-11,2021-06-18,7,0
+34119692,10.1016/j.jbi.2021.103834,J Biomed Inform,KeMRE: Knowledge-enhanced medical relation extraction for Chinese medicine instructions.,2021-03-09,2021-06-02,2021-06-14,9,0
+34119690,10.1016/j.jbi.2021.103837,J Biomed Inform,Predicting morbidity by local similarities in multi-scale patient trajectories.,2020-09-21,2021-06-06,2021-06-14,6,0
+34161824,10.1016/j.jbi.2021.103847,J Biomed Inform,Assessing real-world medication data completeness.,2021-03-11,2021-06-17,2021-06-24,3,0
+34146718,10.1016/j.jbi.2021.103842,J Biomed Inform,Predictive analytics for step-up therapy: Supervised or semi-supervised learning?,2021-03-10,2021-06-14,2021-06-20,3,0
+34119691,10.1016/j.jbi.2021.103838,J Biomed Inform,Learning Drug-Disease-Target Embedding (DDTE) from knowledge graphs to inform drug repurpo,2020-12-17,2021-06-08,2021-06-14,7,0
+34116253,10.1016/j.jbi.2021.103836,J Biomed Inform,"Improving Chinese electronic medical record retrieval by field weight assignment, negation",2020-11-13,2021-06-06,2021-06-12,12,0
+34111555,10.1016/j.jbi.2021.103833,J Biomed Inform,Augmenting aer2vec: Enriching distributed representations of adverse event report data wit,2021-02-10,2021-06-02,2021-06-11,4,51
+34087428,10.1016/j.jbi.2021.103826,J Biomed Inform,Improving hospital readmission prediction using individualized utility analysis.,2021-01-20,2021-05-28,2021-06-05,8,0
+34052441,10.1016/j.jbi.2021.103821,J Biomed Inform,Machine learning enabled identification of potential SARS-CoV-2 3CLpro inhibitors based on,2021-02-08,2021-05-16,2021-05-31,2,76
+34048933,10.1016/j.jbi.2021.103824,J Biomed Inform,Detection of emerging drugs involved in overdose via diachronic word embeddings of substan,2020-11-13,2021-05-23,2021-05-29,5,43
+34044157,10.1016/j.jbi.2021.103820,J Biomed Inform,Causal relationship extraction from biomedical text using deep neural models: A comprehens,2020-06-10,2021-05-15,2021-05-28,2,0
+34044156,10.1016/j.jbi.2021.103822,J Biomed Inform,Clinical comparison between trial participants and potentially eligible patients using ele,2021-03-04,2021-05-20,2021-05-28,4,69
+34044155,10.1016/j.jbi.2021.103823,J Biomed Inform,Clinical decision-making framework against over-testing based on modeling implicit evaluat,2020-10-08,2021-05-21,2021-05-28,8,0
+34029749,10.1016/j.jbi.2021.103819,J Biomed Inform,An effective feature extraction method based on GDS for atrial fibrillation detection.,2021-01-10,2021-05-16,2021-05-25,7,0
+34022422,10.1016/j.jbi.2021.103815,J Biomed Inform,Analysis of security and privacy challenges for DNA-genomics applications and databases.,2021-01-28,2021-05-08,2021-05-23,4,0
+34022421,10.1016/j.jbi.2021.103816,J Biomed Inform,Dynamic deformable attention network (DDANet) for COVID-19 lesions semantic segmentation.,2020-09-01,2021-05-16,2021-05-23,3,47
+34022420,10.1016/j.jbi.2021.103818,J Biomed Inform,Population stratification enables modeling effects of reopening policies on mortality and ,2020-10-13,2021-05-17,2021-05-23,9,47
+34020026,10.1016/j.jbi.2021.103817,J Biomed Inform,The Envirome Web Service: Patient context at the point of care.,2021-02-21,2021-05-15,2021-05-22,7,0
+33965640,10.1016/j.jbi.2021.103802,J Biomed Inform,Learning from past respiratory failure patients to triage COVID-19 patient ventilator need,2020-10-09,2021-05-03,2021-05-10,10,26
+33965641,10.1016/j.jbi.2021.103798,J Biomed Inform,Impact of COVID-19 on the outreach strategy of cancer social service agencies in Singapore,2020-11-23,2021-04-29,2021-05-10,3,53
+33965639,10.1016/j.jbi.2021.103803,J Biomed Inform,Predicting Alzheimer's Disease from Spoken and Written Language Using Fusion-Based Stacked,2020-12-09,2021-05-03,2021-05-10,4,0
+33965638,10.1016/j.jbi.2021.103799,J Biomed Inform,Biomedical named entity recognition using BERT in the machine reading comprehension framew,2020-11-07,2021-05-01,2021-05-10,6,0
+33965637,10.1016/j.jbi.2021.103801,J Biomed Inform,A scheme for inferring viral-host associations based on codon usage patterns identifies th,2020-09-24,2021-05-03,2021-05-10,3,92
+33965636,10.1016/j.jbi.2021.103800,J Biomed Inform,An integrated framework for modelling quantitative effects of entry restrictions and trave,2020-10-16,2021-05-03,2021-05-10,10,33
+33933654,10.1016/j.jbi.2021.103794,J Biomed Inform,A predictive model of clinical deterioration among hospitalized COVID-19 patients by harne,2020-10-23,2021-04-22,2021-05-03,12,25
+33933653,10.1016/j.jbi.2021.103797,J Biomed Inform,Q-CHAT-NAO: A robotic approach to autism screening in toddlers.,2020-11-07,2021-04-26,2021-05-03,5,0
+33932596,10.1016/j.jbi.2021.103796,J Biomed Inform,Differential metabolic network construction for personalized medicine: Study of type 2 dia,2020-10-25,2021-04-26,2021-05-02,6,0
+33930535,10.1016/j.jbi.2021.103795,J Biomed Inform,Genomic considerations for FHIR®; eMERGE implementation lessons.,2021-01-30,2021-04-25,2021-05-01,26,44
+33915273,10.1016/j.jbi.2021.103792,J Biomed Inform,Explainable artificial intelligence in high-throughput drug repositioning for subgroup str,2020-08-30,2021-04-21,2021-04-30,7,0
+33915272,10.1016/j.jbi.2021.103791,J Biomed Inform,Comparative study of machine learning methods for COVID-19 transmission forecasting.,2020-10-11,2021-04-05,2021-04-30,5,71
+33901696,10.1016/j.jbi.2021.103793,J Biomed Inform,A compartment modeling approach to reconstruct and analyze gender and age-grouped CoViD-19,2021-01-29,2021-04-21,2021-04-27,3,35
+33895377,10.1016/j.jbi.2021.103766,J Biomed Inform,A fusion of data science and feed-forward neural network-based modelling of COVID-19 outbr,2020-08-05,2021-03-27,2021-04-26,4,23
+33887457,10.1016/j.jbi.2021.103790,J Biomed Inform,Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials,2020-10-23,2021-04-10,2021-04-23,8,25
+33887456,10.1016/j.jbi.2021.103783,J Biomed Inform,A scalable approach for developing clinical risk prediction applications in different hosp,2020-12-26,2021-04-08,2021-04-23,10,0
+33872817,10.1016/j.jbi.2021.103778,J Biomed Inform,A deep attention model to forecast the Length Of Stay and the in-hospital mortality right ,2020-02-24,2021-04-06,2021-04-20,3,0
+33862230,10.1016/j.jbi.2021.103789,J Biomed Inform,Critical carE Database for Advanced Research (CEDAR): An automated method to support inten,2020-10-23,2021-04-10,2021-04-17,6,27
+33862229,10.1016/j.jbi.2021.103788,J Biomed Inform,Simulation-derived best practices for clustering clinical data.,2020-10-10,2021-04-11,2021-04-17,5,59
+33857641,10.1016/j.jbi.2021.103780,J Biomed Inform,Predicting treatment recommendations in postmenopausal osteoporosis.,2020-10-17,2021-04-05,2021-04-16,6,0
+33839306,10.1016/j.jbi.2021.103781,J Biomed Inform,Model-based pathway enrichment analysis applied to the TGF-beta regulation of autophagy in,2020-11-03,2021-04-05,2021-04-12,1,0
+33839304,10.1016/j.jbi.2021.103779,J Biomed Inform,"NLM-Gene, a richly annotated gold standard dataset for gene entities that addresses ambigu",2021-01-04,2021-04-05,2021-04-12,9,41
+33839305,10.1016/j.jbi.2021.103768,J Biomed Inform,Methods and measures to quantify ICU patient heterogeneity.,2020-10-09,2021-03-29,2021-04-12,5,0
+33839303,10.1016/j.jbi.2021.103782,J Biomed Inform,CDISC-compliant clinical trial imaging management system with automatic verification and d,2020-11-10,2021-04-05,2021-04-12,9,0
+33838341,10.1016/j.jbi.2021.103777,J Biomed Inform,Phenotyping coronavirus disease 2019 during a global health pandemic: Lessons learned from,2020-10-16,2021-04-03,2021-04-11,13,33
+33831537,10.1016/j.jbi.2021.103754,J Biomed Inform,Identification of pediatric respiratory diseases using a fine-grained diagnosis system.,2020-09-23,2021-03-14,2021-04-09,10,0
+33831536,10.1016/j.jbi.2021.103745,J Biomed Inform,A comparative analysis of system features used in the TREC-COVID information retrieval cha,2020-10-16,2021-03-05,2021-04-09,2,36
+33813032,10.1016/j.jbi.2021.103771,J Biomed Inform,A knowledge base of clinical trial eligibility criteria.,2020-11-09,2021-03-30,2021-04-05,5,35
+33811986,10.1016/j.jbi.2021.103758,J Biomed Inform,Calibrating predictive model estimates in a distributed network of patient data.,2020-11-03,2021-03-13,2021-04-04,4,0
+33811985,10.1016/j.jbi.2021.103767,J Biomed Inform,TransforMED: End-to-Εnd Transformers for Evidence-Based Medicine and Argument Mining in me,2020-12-02,2021-03-28,2021-04-04,2,0
+33798717,10.1016/j.jbi.2021.103765,J Biomed Inform,Creating and implementing a COVID-19 recruitment Data Mart.,2020-10-15,2021-03-27,2021-04-03,9,26
+33798716,10.1016/j.jbi.2021.103762,J Biomed Inform,Safety-driven design of machine learning for sepsis treatment.,2020-08-10,2021-03-22,2021-04-03,5,0
+33798715,10.1016/j.jbi.2021.103760,J Biomed Inform,COnVIDa: COVID-19 multidisciplinary data collection and dashboard.,2020-10-15,2021-03-20,2021-04-03,6,23
+33781921,10.1016/j.jbi.2021.103763,J Biomed Inform,A random forest method with feature selection for developing medical prediction models wit,2020-10-15,2021-03-23,2021-03-31,1,69
+33781920,10.1016/j.jbi.2021.103752,J Biomed Inform,A scoring model to detect abusive medical institutions based on patient classification sys,2020-09-29,2021-03-11,2021-03-31,4,0
+33781919,10.1016/j.jbi.2021.103755,J Biomed Inform,Development of a FHIR RDF data transformation and validation framework and its evaluation.,2021-01-18,2021-03-13,2021-03-31,6,28
+33781918,10.1016/j.jbi.2021.103761,J Biomed Inform,Extracting COVID-19 diagnoses and symptoms from clinical text: A new annotated corpus and ,2020-10-14,2021-03-20,2021-03-31,4,61
+33775815,10.1016/j.jbi.2021.103744,J Biomed Inform,"ELII: A novel inverted index for fast temporal query, with application to a large Covid-19",2020-10-15,2021-03-05,2021-03-30,3,42
+33774204,10.1016/j.jbi.2021.103750,J Biomed Inform,Predicting future state for adaptive clinical pathway management.,2020-10-19,2021-03-11,2021-03-29,4,0
+33774203,10.1016/j.jbi.2021.103748,J Biomed Inform,ConceptWAS: A high-throughput method for early identification of COVID-19 presenting sympt,2020-10-15,2021-03-07,2021-03-29,10,34
+33774202,10.1016/j.jbi.2021.103753,J Biomed Inform,"Visual analytics of COVID-19 dissemination in São Paulo state, Brazil.",2020-10-14,2021-03-11,2021-03-29,5,21
+33771732,10.1016/j.jbi.2021.103751,J Biomed Inform,"Machine learning research towards combating COVID-19: Virus detection, spread prevention, ",2020-10-16,2021-03-11,2021-03-28,9,246
+33766781,10.1016/j.jbi.2021.103756,J Biomed Inform,Using information theory to optimize a diagnostic threshold to match physician-ordering pr,2020-10-13,2021-03-13,2021-03-27,3,36
+33766780,10.1016/j.jbi.2021.103749,J Biomed Inform,Technology acceptance and critical mass: Development of a consolidated model to explain th,2020-10-24,2021-03-07,2021-03-27,5,0
+33766779,10.1016/j.jbi.2021.103759,J Biomed Inform,Characterizing managing physicians by claims sequences in episodes of care.,2020-10-05,2021-03-17,2021-03-27,8,0
+33753269,10.1016/j.jbi.2021.103747,J Biomed Inform,Definition and validation of SNOMED CT subsets using the expression constraint language.,2020-12-11,2021-03-06,2021-03-24,5,0
+33753268,10.1016/j.jbi.2021.103743,J Biomed Inform,Knowledge discovery from emergency ambulance dispatch during COVID-19: A case study of Nag,2020-12-08,2021-03-05,2021-03-24,6,24
+33746080,10.1016/j.jbi.2021.103746,J Biomed Inform,Automatic phenotyping of electronical health record: PheVis algorithm.,2020-09-28,2021-03-05,2021-03-23,6,0
+33737208,10.1016/j.jbi.2021.103732,J Biomed Inform,Search and visualization of gene-drug-disease interactions for pharmacogenomics and precis,2020-09-23,2021-02-28,2021-03-20,10,34
+33737206,10.1016/j.jbi.2021.103730,J Biomed Inform,Learning dynamic Bayesian networks from time-dependent and time-independent data: Unraveli,2020-11-04,2021-02-25,2021-03-20,5,0
+33737205,10.1016/j.jbi.2021.103733,J Biomed Inform,"French FastContext: A publicly accessible system for detecting negation, temporality and e",2020-07-13,2021-03-01,2021-03-20,6,0
+33722730,10.1016/j.jbi.2021.103724,J Biomed Inform,Causal discovery using compression-complexity measures.,2020-10-15,2021-02-22,2021-03-17,2,0
+33716168,10.1016/j.jbi.2021.103719,J Biomed Inform,Using computable knowledge mined from the literature to elucidate confounders for EHR-base,2020-08-15,2021-01-04,2021-03-16,5,141
+33713854,10.1016/j.jbi.2021.103727,J Biomed Inform,Multi-source Seq2seq guided by knowledge for Chinese healthcare consultation.,2020-10-29,2021-02-24,2021-03-14,7,0
+33711547,10.1016/j.jbi.2021.103736,J Biomed Inform,Reservoir hosts prediction for COVID-19 by hybrid transfer learning model.,2020-08-23,2021-02-27,2021-03-13,8,64
+33711544,10.1016/j.jbi.2021.103734,J Biomed Inform,"Outcomes prediction in longitudinal data: Study designs evaluation, use case in ICU acquir",2020-01-18,2021-03-01,2021-03-13,4,0
+33711540,10.1016/j.jbi.2021.103735,J Biomed Inform,FeARH: Federated machine learning with anonymous random hybridization on electronic medica,2019-11-19,2021-03-01,2021-03-13,5,0
+33711538,10.1016/j.jbi.2021.103714,J Biomed Inform,Efficient verification for outsourced genome-wide association studies.,2019-11-18,2021-02-10,2021-03-13,3,44
+33617985,10.1016/j.jbi.2021.103698,J Biomed Inform,Nonstationary multivariate Gaussian processes for electronic health records.,2020-07-04,2021-02-01,2021-02-23,6,0
+33610882,10.1016/j.jbi.2021.103691,J Biomed Inform,SURVFIT: Doubly sparse rule learning for survival data.,2020-06-06,2021-01-12,2021-02-22,4,0
+33737207,10.1016/j.jbi.2021.103737,J Biomed Inform,Incorporating multi-level CNN and attention mechanism for Chinese clinical named entity re,2020-10-23,2021-03-04,2021-03-20,4,0
+33711546,10.1016/j.jbi.2021.103725,J Biomed Inform,Predicting opioid overdose risk of patients with opioid prescriptions using electronic hea,2021-01-29,2021-02-22,2021-03-13,8,0
+33711545,10.1016/j.jbi.2021.103729,J Biomed Inform,Extracting clinical terms from radiology reports with deep learning.,2020-05-07,2021-02-25,2021-03-13,11,0
+33711543,10.1016/j.jbi.2021.103728,J Biomed Inform,Explainable automated coding of clinical notes using hierarchical label-wise attention net,2020-10-29,2021-02-25,2021-03-13,4,0
+33711542,10.1016/j.jbi.2021.103723,J Biomed Inform,A new approach to medical diagnostic decision support.,2020-11-27,2021-02-19,2021-03-13,1,0
+33711541,10.1016/j.jbi.2021.103726,J Biomed Inform,Generalized and transferable patient language representation for phenotyping with limited ,2020-08-20,2021-02-23,2021-03-13,3,46
+33711539,10.1016/j.jbi.2021.103731,J Biomed Inform,IoT-based GPS assisted surveillance system with inter-WBAN geographic routing for pandemic,2020-09-23,2021-02-27,2021-03-13,3,28
+33705856,10.1016/j.jbi.2021.103722,J Biomed Inform,Factors influencing mHealth adoption and its impact on mental well-being during COVID-19 p,2020-08-24,2021-02-19,2021-03-12,4,75
+33647519,10.1016/j.jbi.2021.103716,J Biomed Inform,Automatic extension of corpora from the intelligent ensembling of eHealth knowledge discov,2020-07-25,2021-02-14,2021-03-02,5,0
+33647518,10.1016/j.jbi.2021.103717,J Biomed Inform,Toward assessing clinical trial publications for reporting transparency.,2020-11-29,2021-02-15,2021-03-02,8,52
+33640536,10.1016/j.jbi.2021.103720,J Biomed Inform,Propagation source identification of infectious diseases with graph convolutional networks,2020-11-15,2021-01-27,2021-03-01,4,0
+33631382,10.1016/j.jbi.2021.103721,J Biomed Inform,Exploring the effect of virtual reality relaxation environment on white coat hypertension ,2020-07-26,2021-02-18,2021-02-26,8,0
+33631381,10.1016/j.jbi.2021.103718,J Biomed Inform,Traditional Chinese medicine symptom normalization approach leveraging hierarchical semant,2020-08-25,2021-02-15,2021-02-26,11,0
+33610881,10.1016/j.jbi.2021.103711,J Biomed Inform,Similarity-based health risk prediction using Domain Fusion and electronic health records ,2020-10-13,2021-02-08,2021-02-22,8,31
+33610879,10.1016/j.jbi.2021.103706,J Biomed Inform,MultiGBS: A multi-layer graph approach to biomedical summarization.,2020-06-13,2021-02-03,2021-02-22,4,0
+33610878,10.1016/j.jbi.2021.103715,J Biomed Inform,Mind the clinical-analytic gap: Electronic health records and COVID-19 pandemic response.,2020-10-21,2021-02-13,2021-02-22,5,27
+33609761,10.1016/j.jbi.2021.103712,J Biomed Inform,Automated classification of cancer morphology from Italian pathology reports using Natural,2020-09-09,2021-02-08,2021-02-21,8,0
+33601013,10.1016/j.jbi.2021.103699,J Biomed Inform,GHS-NET a generic hybridized shallow neural network for multi-label biomedical text classi,2020-04-25,2021-02-02,2021-02-19,5,0
+33582296,10.1016/j.jbi.2021.103705,J Biomed Inform,Information retrieval on oncology knowledge base using recursive paraphrase lattice.,2020-07-15,2021-02-03,2021-02-15,4,0
+33549658,10.1016/j.jbi.2021.103695,J Biomed Inform,Profile-based assessment of diseases affective factors using fuzzy association rule mining,2020-03-31,2021-02-01,2021-02-08,3,0
+33581323,10.1016/j.jbi.2021.103710,J Biomed Inform,"Knowledge-aware multi-center clinical dataset adaptation: Problem, method, and application",2020-09-23,2021-02-06,2021-02-14,6,0
+33571677,10.1016/j.jbi.2021.103709,J Biomed Inform,Epistemic responsibilities in the COVID-19 pandemic: Is a digital infosphere a friend or a,2020-09-16,2021-02-05,2021-02-12,4,16
+33571676,10.1016/j.jbi.2021.103707,J Biomed Inform,Drug-Drug interaction extraction using a position and similarity fusion-based attention me,2020-06-28,2021-02-03,2021-02-12,2,0
+33571675,10.1016/j.jbi.2021.103696,J Biomed Inform,Drug repurposing for COVID-19 via knowledge graph completion.,2020-10-19,2021-02-01,2021-02-12,6,116
+33548543,10.1016/j.jbi.2021.103692,J Biomed Inform,EHR2CCAS: A framework for mapping EHR to disease knowledge presenting causal chain of diso,2020-03-29,2021-01-27,2021-02-07,7,0
+33548542,10.1016/j.jbi.2021.103689,J Biomed Inform,Bagged random causal networks for interventional queries on observational biomedical datas,2020-10-21,2021-01-23,2021-02-07,3,32
+33548541,10.1016/j.jbi.2021.103697,J Biomed Inform,Obtaining EHR-derived datasets for COVID-19 research within a short time: a flexible metho,2020-10-11,2021-02-01,2021-02-07,13,53
+33545332,10.1016/j.jbi.2021.103694,J Biomed Inform,A neuro evolutionary algorithm for patient calibrated prediction of survival in Glioblasto,2020-09-19,2021-01-29,2021-02-06,3,0
+33545331,10.1016/j.jbi.2021.103688,J Biomed Inform,A scalable random walk with restart on heterogeneous networks with Apache Spark for rankin,2020-08-02,2021-01-23,2021-02-06,4,0
+33540076,10.1016/j.jbi.2021.103693,J Biomed Inform,A tongue features fusion approach to predicting prediabetes and diabetes with machine lear,2020-09-30,2021-01-28,2021-02-05,21,0
+33540075,10.1016/j.jbi.2021.103690,J Biomed Inform,Random forest swarm optimization-based for heart diseases diagnosis.,2020-08-27,2021-01-23,2021-02-05,3,0
+33493631,10.1016/j.jbi.2021.103686,J Biomed Inform,Disease network delineates the disease progression profile of cardiovascular diseases.,2020-10-29,2021-01-15,2021-01-26,6,0
+33486067,10.1016/j.jbi.2021.103673,J Biomed Inform,Repurposing biomedical informaticians for COVID-19.,2020-10-06,2021-01-02,2021-01-25,7,10
+33486066,10.1016/j.jbi.2021.103685,J Biomed Inform,"Making science computable: Developing code systems for statistics, study design, and risk ",2020-10-15,2021-01-14,2021-01-25,9,70
+33484938,10.1016/j.jbi.2021.103683,J Biomed Inform,Exploration of text matching methods in Chinese disease Q&A systems: A method using ensemb,2020-09-25,2021-01-08,2021-01-24,4,0
+33359110,10.1016/j.jbi.2020.103668,J Biomed Inform,Modified Needleman-Wunsch algorithm for clinical pathway clustering.,2020-09-30,2020-12-15,2020-12-29,5,117
+33217541,10.1016/j.jbi.2020.103604,J Biomed Inform,Treatment selection for life-critical shared decision making under ranges of health-state ,2020-05-17,2020-10-15,2020-11-21,2,0
+33450387,10.1016/j.jbi.2021.103684,J Biomed Inform,Medical concept normalization in French using multilingual terminologies and contextual em,2020-09-22,2021-01-06,2021-01-16,3,0
+33422663,10.1016/j.jbi.2021.103672,J Biomed Inform,Interpreting a recurrent neural network's predictions of ICU mortality risk.,2020-04-03,2021-01-03,2021-01-11,4,0
+33378704,10.1016/j.jbi.2020.103659,J Biomed Inform,Formative feedback generation in a VR-based dental surgical skill training simulator.,2020-05-28,2020-12-08,2020-12-31,7,0
+33359111,10.1016/j.jbi.2020.103669,J Biomed Inform,CMIID: A comprehensive medical information identifier for clinical search harmonization in,2020-09-16,2020-12-16,2020-12-29,3,0
+33352331,10.1016/j.jbi.2020.103666,J Biomed Inform,Identifying the essential nodes in network pharmacology based on multilayer network combin,2020-07-20,2020-12-12,2020-12-23,3,0
+33326867,10.1016/j.jbi.2020.103661,J Biomed Inform,GenHITS: A network science approach to driver gene detection in human regulatory network u,2020-03-06,2020-12-10,2020-12-17,3,0
+33285308,10.1016/j.jbi.2020.103651,J Biomed Inform,Predicting neonatal respiratory distress syndrome and hypoglycaemia prior to discharge: Le,2019-11-19,2020-11-30,2020-12-08,3,0
+33359113,10.1016/j.jbi.2020.103664,J Biomed Inform,Discovering prescription patterns in pediatric acute-onset neuropsychiatric syndrome patie,2020-05-29,2020-12-10,2020-12-29,8,0
+33359112,10.1016/j.jbi.2020.103667,J Biomed Inform,Noise-tolerant similarity search in temporal medical data.,2020-08-27,2020-12-15,2020-12-29,3,41
+33338667,10.1016/j.jbi.2020.103653,J Biomed Inform,A prediction and interpretation framework of acute kidney injury in critical care.,2020-09-16,2020-12-01,2020-12-19,5,0
+33333323,10.1016/j.jbi.2020.103665,J Biomed Inform,Domain specific word embeddings for natural language processing in radiology.,2020-08-10,2020-12-10,2020-12-18,7,37
+33321199,10.1016/j.jbi.2020.103660,J Biomed Inform,An aberration detection-based approach for sentinel syndromic surveillance of COVID-19 and,2020-08-08,2020-12-09,2020-12-16,13,94
+33316422,10.1016/j.jbi.2020.103639,J Biomed Inform,Enabling personalized decision support with patient-generated data and attributable compon,2019-11-22,2020-11-26,2020-12-15,5,46
+33316421,10.1016/j.jbi.2020.103658,J Biomed Inform,Challenges and solutions to employing natural language processing and machine learning to ,2020-06-09,2020-12-08,2020-12-15,12,46
+33309994,10.1016/j.jbi.2020.103656,J Biomed Inform,Comparison of segmentation-free and segmentation-dependent computer-aided diagnosis of bre,2020-07-05,2020-12-07,2020-12-15,6,68
+33309993,10.1016/j.jbi.2020.103654,J Biomed Inform,Studying pediatric health outcomes with electronic health records using Bayesian clusterin,2020-05-06,2020-12-06,2020-12-15,5,0
+33309899,10.1016/j.jbi.2020.103657,J Biomed Inform,A retrospective approach to evaluating potential adverse outcomes associated with delay of,2020-07-11,2020-12-07,2020-12-15,15,26
+33307213,10.1016/j.jbi.2020.103635,J Biomed Inform,Hybrid collaborative filtering methods for recommending search terms to clinicians.,2020-08-01,2020-11-25,2020-12-12,4,30
+33290879,10.1016/j.jbi.2020.103637,J Biomed Inform,Language models are an effective representation learning technique for electronic health r,2020-03-31,2020-11-26,2020-12-09,6,52
+33290878,10.1016/j.jbi.2020.103631,J Biomed Inform,"Annotating social determinants of health using active learning, and characterizing determi",2020-04-16,2020-11-18,2020-12-09,3,54
+33279681,10.1016/j.jbi.2020.103652,J Biomed Inform,Phenotype risk scores (PheRS) for pancreatic cancer using time-stamped electronic health r,2020-08-21,2020-11-30,2020-12-07,8,90
+33276113,10.1016/j.jbi.2020.103648,J Biomed Inform,An hybrid ECG-based deep network for the early identification of high-risk to major cardio,2020-07-09,2020-11-27,2020-12-05,2,0
+33271342,10.1016/j.jbi.2020.103636,J Biomed Inform,A hierarchical clustering and data fusion approach for disease subtype discovery.,2020-05-26,2020-11-26,2020-12-04,2,0
+33271341,10.1016/j.jbi.2020.103638,J Biomed Inform,Residual LSTM layered CNN for classification of gastrointestinal tract diseases.,2020-01-24,2020-11-26,2020-12-04,2,0
+33271340,10.1016/j.jbi.2020.103634,J Biomed Inform,Evaluating warfarin dosing models on multiple datasets with a novel software framework and,2020-05-28,2020-11-23,2020-12-04,2,0
+33259943,10.1016/j.jbi.2020.103626,J Biomed Inform,Pre-training phenotyping classifiers.,2020-05-10,2020-11-14,2020-12-02,3,21
+33253896,10.1016/j.jbi.2020.103633,J Biomed Inform,Analysis of the cognitive demands of electronic health record use.,2020-06-26,2020-11-22,2020-12-01,8,0
+33232839,10.1016/j.jbi.2020.103628,J Biomed Inform,From electronic health records to terminology base: A novel knowledge base enrichment appr,2020-06-08,2020-11-15,2020-11-25,7,0
+33221467,10.1016/j.jbi.2020.103625,J Biomed Inform,Best variable identification by means of data-mining and cooperative game theory.,2020-06-27,2020-11-12,2020-11-23,5,0
+33220494,10.1016/j.jbi.2020.103621,J Biomed Inform,An empirical characterization of fair machine learning for clinical risk prediction.,2020-07-21,2020-11-05,2020-11-22,3,108
+33217542,10.1016/j.jbi.2020.103588,J Biomed Inform,Learning Bayesian networks from demographic and health survey data.,2019-12-02,2020-10-03,2020-11-21,2,0
+36283583,10.1016/j.jbi.2022.104236,J Biomed Inform,Efficient algorithms for real-time syndromic surveillance.,2022-05-02,2022-10-19,2022-10-26,2,0
+36356933,10.1016/j.jbi.2022.104239,J Biomed Inform,Time interval uncertainty-aware and text-enhanced based disease prediction.,2022-05-11,2022-11-02,2022-11-11,6,0
+36309197,10.1016/j.jbi.2022.104228,J Biomed Inform,How do others cope? Extracting coping strategies for adverse drug events from social media,2022-03-21,2022-10-09,2022-10-30,5,0
+36586499,10.1016/j.jbi.2022.104276,J Biomed Inform,SATO (IDEAS expAnded wiTh BCIO): Workflow for designers of patient-centered mobile health ,2022-05-05,2022-12-19,2023-01-01,3,70
+36572279,10.1016/j.jbi.2022.104275,J Biomed Inform,Hypothesis-driven modeling of the human lung-ventilator system: A characterization tool fo,2022-04-04,2022-12-14,2022-12-27,5,54
+36566954,10.1016/j.jbi.2022.104277,J Biomed Inform,Behaviour recommendations with a deep learning model and genetic algorithm for health debt,2022-08-19,2022-12-19,2022-12-26,6,0
+36563828,10.1016/j.jbi.2022.104272,J Biomed Inform,Querying semantic catalogues of biomedical databases.,2022-03-10,2022-12-12,2022-12-24,4,0
+36535604,10.1016/j.jbi.2022.104273,J Biomed Inform,Integrated rapid-cycle comparative effectiveness trials using flexible point of care rando,2022-05-10,2022-12-12,2022-12-20,4,0
+36529347,10.1016/j.jbi.2022.104271,J Biomed Inform,Learning the progression patterns of treatments using a probabilistic generative model.,2022-03-22,2022-12-09,2022-12-19,5,0
+36516944,10.1016/j.jbi.2022.104270,J Biomed Inform,Integrating machine learning predictions for perioperative risk management: Towards an emp,2022-07-13,2022-12-07,2022-12-15,7,0
+36513332,10.1016/j.jbi.2022.104268,J Biomed Inform,Deep-learning-based personalized prediction of absolute neutrophil count recovery and comp,2022-06-10,2022-12-07,2022-12-14,9,0
+36494060,10.1016/j.jbi.2022.104267,J Biomed Inform,Optimizing warfarin dosing using deep reinforcement learning.,2022-02-07,2022-12-03,2022-12-10,3,0
+36494059,10.1016/j.jbi.2022.104266,J Biomed Inform,A machine learning method for improving liver cancer staging.,2022-07-27,2022-12-01,2022-12-10,6,0
+36464227,10.1016/j.jbi.2022.104265,J Biomed Inform,Developing a deep learning natural language processing algorithm for automated reporting o,2022-04-06,2022-11-29,2022-12-05,7,0
+36462600,10.1016/j.jbi.2022.104255,J Biomed Inform,Spatio-temporally smoothed deep survival neural network.,2022-10-09,2022-11-24,2022-12-04,4,22
+36462599,10.1016/j.jbi.2022.104264,J Biomed Inform,DC-COX: Data collaboration Cox proportional hazards model for privacy-preserving survival ,2022-05-24,2022-11-28,2022-12-04,5,0
+36462598,10.1016/j.jbi.2022.104257,J Biomed Inform,Generating evidence on privacy outcomes to inform privacy risk management: A way forward?,2022-08-07,2022-11-27,2022-12-04,5,0
+36403757,10.1016/j.jbi.2022.104243,J Biomed Inform,COMMUTE: Communication-efficient transfer learning for multi-site risk prediction.,2022-06-24,2022-11-06,2022-11-21,3,88
+36402277,10.1016/j.jbi.2022.104244,J Biomed Inform,Adversarial reinforcement learning for dynamic treatment regimes.,2022-06-28,2022-11-07,2022-11-20,4,0
+36400330,10.1016/j.jbi.2022.104251,J Biomed Inform,A method for structuring complex clinical knowledge and its representational formalisms to,2022-08-08,2022-11-11,2022-11-19,8,0
+36400329,10.1016/j.jbi.2022.104238,J Biomed Inform,Biomedical named entity normalization via interaction-based synonym marginalization.,2022-04-11,2022-10-29,2022-11-19,6,0
+36375772,10.1016/j.jbi.2022.104241,J Biomed Inform,Methods for development and application of data standards in an ontology-driven informatio,2022-04-15,2022-11-06,2022-11-15,4,0
+36372346,10.1016/j.jbi.2022.104242,J Biomed Inform,Multisource and temporal variability in Portuguese hospital administrative datasets: Data ,2021-07-22,2022-11-06,2022-11-14,9,0
+36368631,10.1016/j.jbi.2022.104240,J Biomed Inform,Ontology-based surgical workflow recognition and prediction.,2022-08-23,2022-11-03,2022-11-12,7,0
+36309196,10.1016/j.jbi.2022.104231,J Biomed Inform,JLCRB: A unified multi-view-based joint representation learning for CircRNA binding sites ,2022-08-05,2022-10-14,2022-10-30,2,0
+36307020,10.1016/j.jbi.2022.104232,J Biomed Inform,Transformer-based models for ICD-10 coding of death certificates with Portuguese text.,2022-02-16,2022-10-14,2022-10-29,2,0
+36283580,10.1016/j.jbi.2022.104237,J Biomed Inform,A Case-Crossover Phenome-wide association study (PheWAS) for understanding Post-COVID-19 d,2022-07-19,2022-10-19,2022-10-26,5,61
+36280089,10.1016/j.jbi.2022.104233,J Biomed Inform,A multi-feature deep learning system to enhance glaucoma severity diagnosis with high accu,2022-05-29,2022-10-17,2022-10-25,11,0
+36307021,10.1016/j.jbi.2022.104229,J Biomed Inform,Semisupervised neural biomedical sense disambiguation approach for aspect-based sentiment ,2022-04-23,2022-10-09,2022-10-29,2,0
+36257482,10.1016/j.jbi.2022.104230,J Biomed Inform,Reducing the question burden of patient reported outcome measures using Bayesian networks.,2022-01-10,2022-10-10,2022-10-19,8,0
+36244612,10.1016/j.jbi.2022.104217,J Biomed Inform,ALLERDET: A novel web app for prediction of protein allergenicity.,2022-07-12,2022-09-30,2022-10-17,2,0
+36243337,10.1016/j.jbi.2022.104219,J Biomed Inform,Detecting anomalous sequences in electronic health records using higher-order tensor netwo,2022-08-18,2022-10-03,2022-10-16,10,0
+36229001,10.1016/j.jbi.2022.104220,J Biomed Inform,RadioBERT: A deep learning-based system for medical report generation from chest X-ray ima,2022-01-25,2022-10-04,2022-10-14,2,0
+36220544,10.1016/j.jbi.2022.104214,J Biomed Inform,Evaluation of an automated phenotyping algorithm for rheumatoid arthritis.,2022-05-02,2022-09-26,2022-10-12,10,19
+36216232,10.1016/j.jbi.2022.104218,J Biomed Inform,Longitudinal deep learning clustering of Type 2 Diabetes Mellitus trajectories using routi,2022-06-20,2022-10-03,2022-10-11,11,0
+36208833,10.1016/j.jbi.2022.104216,J Biomed Inform,Multilayer dynamic ensemble model for intensive care unit mortality prediction of neonate ,2021-12-24,2022-09-28,2022-10-09,5,0
+36195240,10.1016/j.jbi.2022.104215,J Biomed Inform,De-identifying Australian hospital discharge summaries: An end-to-end framework using ense,2021-08-21,2022-09-27,2022-10-05,5,0
+36191830,10.1016/j.jbi.2022.104213,J Biomed Inform,Clustering-based fusion for medical information retrieval.,2021-10-24,2022-09-24,2022-10-04,4,0
+36184069,10.1016/j.jbi.2022.104182,J Biomed Inform,Multimodal model with text and drug embeddings for adverse drug reaction classification.,2022-01-12,2022-08-20,2022-10-03,2,0
+36182054,10.1016/j.jbi.2022.104212,J Biomed Inform,Inductive database to support iterative data mining: Application to biomarker analysis on ,2021-10-05,2022-09-23,2022-10-02,9,0
+36162805,10.1016/j.jbi.2022.104202,J Biomed Inform,Real-time risk prediction of colorectal surgery-related post-surgical complications using ,2022-04-15,2022-09-04,2022-09-27,6,0
+36064114,10.1016/j.jbi.2022.104192,J Biomed Inform,Extracting drug-drug interactions from no-blinding texts using key semantic sentences and ,2021-12-15,2022-08-29,2022-09-06,4,0
+35995107,10.1016/j.jbi.2022.104177,J Biomed Inform,PheValuator 2.0: Methodological improvements for the PheValuator approach to semi-automate,2022-04-18,2022-08-15,2022-08-23,4,0
+36152950,10.1016/j.jbi.2022.104211,J Biomed Inform,Towards a unified search: Improving PubMed retrieval with full text.,2022-04-07,2022-09-15,2022-09-25,5,33
+36150641,10.1016/j.jbi.2022.104195,J Biomed Inform,Modelling patient trajectories using multimodal information.,2022-05-17,2022-08-30,2022-09-24,2,0
+36122879,10.1016/j.jbi.2022.104210,J Biomed Inform,A gradient boosting tree model for multi-department venous thromboembolism risk assessment,2021-12-30,2022-09-12,2022-09-20,8,0
+36108816,10.1016/j.jbi.2022.104204,J Biomed Inform,Adjusting for indirectly measured confounding using large-scale propensity score.,2022-06-22,2022-09-06,2022-09-16,5,69
+36100164,10.1016/j.jbi.2022.104199,J Biomed Inform,Health information exchange through a Device-to-Device protocol supporting lossless encodi,2021-12-01,2022-09-03,2022-09-14,3,0
+36100163,10.1016/j.jbi.2022.104198,J Biomed Inform,Temporal patterns selection for All-Cause Mortality prediction in T2D with ANNs.,2022-05-17,2022-09-03,2022-09-14,5,0
+36089199,10.1016/j.jbi.2022.104201,J Biomed Inform,FHIR-Ontop-OMOP: Building clinical knowledge graphs in FHIR RDF with the OMOP Common data ,2022-05-23,2022-09-04,2022-09-12,11,39
+36089198,10.1016/j.jbi.2022.104200,J Biomed Inform,Development of comprehensive annotation criteria for patients' states from clinical texts.,2022-03-08,2022-09-04,2022-09-12,3,0
+36084801,10.1016/j.jbi.2022.104197,J Biomed Inform,DEGBOE: Discrete time Evolution modeling of Gene mutation through Bayesian inference using,2022-06-18,2022-09-01,2022-09-10,1,58
+36075484,10.1016/j.jbi.2022.104196,J Biomed Inform,An informatics-driven intelligent system to improve healthcare accessibility for vulnerabl,2021-11-03,2022-08-30,2022-09-09,2,0
+36064113,10.1016/j.jbi.2022.104194,J Biomed Inform,Studying the association of diabetes and healthcare cost on distributed data from the Maas,2022-06-25,2022-08-29,2022-09-06,8,0
+36064112,10.1016/j.jbi.2022.104178,J Biomed Inform,A flexible framework for visualizing and exploring patient misdiagnosis over time.,2022-05-20,2022-08-17,2022-09-06,5,0
+36064111,10.1016/j.jbi.2022.104175,J Biomed Inform,Weakly Semi-supervised phenotyping using Electronic Health records.,2021-12-07,2022-08-15,2022-09-06,8,28
+36058522,10.1016/j.jbi.2022.104190,J Biomed Inform,MixEHR-Guided: A guided multi-modal topic modeling approach for large-scale automatic phen,2022-02-06,2022-08-28,2022-09-05,5,0
+36055639,10.1016/j.jbi.2022.104181,J Biomed Inform,Infrastructure platform for privacy-preserving distributed machine learning development of,2022-02-13,2022-08-20,2022-09-03,8,0
+36055638,10.1016/j.jbi.2022.104172,J Biomed Inform,Learning prognostic models using a mixture of biclustering and triclustering: Predicting t,2021-10-22,2022-08-15,2022-09-03,5,0
+36055637,10.1016/j.jbi.2022.104187,J Biomed Inform,A unified graph model based on molecular data binning for disease subtyping.,2022-02-25,2022-08-25,2022-09-03,6,0
+36038067,10.1016/j.jbi.2022.104165,J Biomed Inform,Dual-level diagnostic feature learning with recurrent neural networks for treatment sequen,2021-12-12,2022-08-11,2022-08-30,5,0
+36038065,10.1016/j.jbi.2022.104169,J Biomed Inform,Visualization of frequent temporal patterns in single or two populations.,2021-06-30,2022-08-13,2022-08-30,3,0
+36038064,10.1016/j.jbi.2022.104163,J Biomed Inform,Unsupervised probabilistic models for sequential Electronic Health Records.,2022-04-14,2022-08-11,2022-08-30,4,43
+36038063,10.1016/j.jbi.2022.104183,J Biomed Inform,A Bi-level representation learning model for medical visual question answering.,2022-05-04,2022-08-21,2022-08-30,8,0
+36031086,10.1016/j.jbi.2022.104180,J Biomed Inform,Rich learning representations for human activity recognition: How to empower deep feature ,2021-12-07,2022-08-20,2022-08-29,2,0
+36029954,10.1016/j.jbi.2022.104162,J Biomed Inform,Towards quality improvement of vaccine concept mappings in the OMOP vocabulary with a semi,2022-05-19,2022-08-09,2022-08-28,8,30
+36007785,10.1016/j.jbi.2022.104176,J Biomed Inform,SurvMaximin: Robust federated approach to transporting survival risk prediction models.,2022-02-01,2022-08-15,2022-08-26,59,36
+35987449,10.1016/j.jbi.2022.104168,J Biomed Inform,AdaDiag: Adversarial Domain Adaptation of Diagnostic Prediction with Clinical Event Sequen,2022-02-14,2022-08-12,2022-08-21,3,68
+35872264,10.1016/j.jbi.2022.104151,J Biomed Inform,Confederated learning in healthcare: Training machine learning models using disconnected d,2021-12-25,2022-07-19,2022-07-26,4,0
+35998815,10.1016/j.jbi.2022.104173,J Biomed Inform,MTDCNet: A 3D multi-threading dilated convolutional network for brain tumor automatic segm,2021-11-07,2022-08-15,2022-08-24,6,0
+35998814,10.1016/j.jbi.2022.104174,J Biomed Inform,AnFiSA: An open-source computational platform for the analysis of sequencing data for rare,2021-10-27,2022-08-15,2022-08-24,20,0
+35995108,10.1016/j.jbi.2022.104161,J Biomed Inform,Hierarchical label-wise attention transformer model for explainable ICD coding.,2022-04-22,2022-08-09,2022-08-23,5,0
+35995106,10.1016/j.jbi.2022.104171,J Biomed Inform,Imbalanced prediction of emergency department admission using natural language processing ,2021-12-21,2022-08-13,2022-08-23,6,0
+35985621,10.1016/j.jbi.2022.104164,J Biomed Inform,Prediction and evaluation of combination pharmacotherapy using natural language processing,2022-05-24,2022-08-11,2022-08-20,4,0
+35985620,10.1016/j.jbi.2022.104166,J Biomed Inform,PK-RNN-V E: A deep learning model approach to vancomycin therapeutic drug monitoring using,2022-03-30,2022-08-12,2022-08-20,8,0
+35908625,10.1016/j.jbi.2022.104145,J Biomed Inform,Language-agnostic deep learning framework for automatic monitoring of population-level men,2022-05-05,2022-07-15,2022-08-01,5,0
+35878824,10.1016/j.jbi.2022.104148,J Biomed Inform,Deep similarity analysis and forecasting of actual outbreak of major infectious diseases u,2021-10-12,2022-07-19,2022-07-26,4,0
+35878823,10.1016/j.jbi.2022.104144,J Biomed Inform,Multi-level semantic fusion network for Chinese medical named entity recognition.,2022-01-03,2022-07-10,2022-07-26,6,0
+35878821,10.1016/j.jbi.2022.104149,J Biomed Inform,"""Note Bloat"" impacts deep learning-based NLP models for clinical prediction tasks.",2022-03-22,2022-07-19,2022-07-26,4,0
+35872266,10.1016/j.jbi.2022.104147,J Biomed Inform,Multiview Incomplete Knowledge Graph Integration with application to cross-institutional E,2022-01-31,2022-07-15,2022-07-26,22,0
+35842217,10.1016/j.jbi.2022.104135,J Biomed Inform,A Syntax-enhanced model based on category keywords for biomedical relation extraction.,2021-12-21,2022-07-05,2022-07-17,6,0
+35840061,10.1016/j.jbi.2022.104131,J Biomed Inform,A novel machine learning model based on sparse structure learning with adaptive graph regu,2022-02-11,2022-06-29,2022-07-16,6,0
+35840060,10.1016/j.jbi.2022.104133,J Biomed Inform,KG-Predict: A knowledge graph computational framework for drug repurposing.,2021-11-22,2022-07-03,2022-07-16,3,64
+35835439,10.1016/j.jbi.2022.104141,J Biomed Inform,A simulator with realistic and challenging scenarios for virtual T1D patients undergoing C,2021-11-12,2022-07-07,2022-07-15,4,0
+35835438,10.1016/j.jbi.2022.104132,J Biomed Inform,A deep learning approach for Spatio-Temporal forecasting of new cases and new hospital adm,2021-12-09,2022-07-03,2022-07-15,12,37
+35835437,10.1016/j.jbi.2022.104142,J Biomed Inform,They May Not Work! An evaluation of eleven sentiment analysis tools on seven social media ,2022-02-14,2022-07-07,2022-07-15,3,0
+35820597,10.1016/j.jbi.2022.104130,J Biomed Inform,Integration of persuasive elements into exergames: Application in the development of a nov,2021-06-24,2022-06-25,2022-07-13,6,0
+35811026,10.1016/j.jbi.2022.104139,J Biomed Inform,Trustworthy assertion classification through prompting.,2022-04-19,2022-07-05,2022-07-11,7,47
+35811025,10.1016/j.jbi.2022.104137,J Biomed Inform,NILINKER: Attention-based approach to NIL Entity Linking.,2022-01-25,2022-07-05,2022-07-11,2,0
+35781036,10.1016/j.jbi.2022.104129,J Biomed Inform,Personalized insulin dose manipulation attack and its detection using interval-based tempo,2021-09-27,2022-06-21,2022-07-06,5,0
+35753606,10.1016/j.jbi.2022.104122,J Biomed Inform,A knowledge graph embedding based approach to predict the adverse drug reactions using a d,2021-10-04,2022-06-20,2022-06-27,3,0
+35750261,10.1016/j.jbi.2022.104121,J Biomed Inform,Realistic 3D infant head surfaces augmentation to improve AI-based diagnosis of cranial de,2021-12-20,2022-06-11,2022-06-25,7,0
+35717011,10.1016/j.jbi.2022.104114,J Biomed Inform,Improving the robustness and accuracy of biomedical language models through adversarial tr,2021-11-03,2022-06-05,2022-06-19,2,0
+35700914,10.1016/j.jbi.2022.104099,J Biomed Inform,Graph-based abstractive biomedical text summarization.,2021-07-03,2022-05-27,2022-06-15,3,0
+35690350,10.1016/j.jbi.2022.104113,J Biomed Inform,Generalized genomic data sharing for differentially private federated learning.,2021-10-13,2022-06-05,2022-06-12,4,0
+35688332,10.1016/j.jbi.2022.104107,J Biomed Inform,Tell me something interesting: Clinical utility of machine learning prediction models in t,2022-02-28,2022-05-28,2022-06-11,4,0
+35660521,10.1016/j.jbi.2022.104109,J Biomed Inform,Scalable relevance ranking algorithm via semantic similarity assessment improves efficienc,2022-01-22,2022-05-29,2022-06-07,14,0
+35714819,10.1016/j.jbi.2022.104119,J Biomed Inform,Causal inference for observational longitudinal studies using deep survival models.,2022-02-05,2022-06-06,2022-06-18,2,0
+35709900,10.1016/j.jbi.2022.104120,J Biomed Inform,Discovering novel drug-supplement interactions using SuppKG generated from the biomedical ,2021-09-07,2022-06-08,2022-06-17,10,44
+35690351,10.1016/j.jbi.2022.104116,J Biomed Inform,Improved screening of fall risk using free-living based accelerometer data.,2021-11-24,2022-06-05,2022-06-12,9,0
+35690349,10.1016/j.jbi.2022.104118,J Biomed Inform,A vector-based semantic relatedness measure using multiple relations within SNOMED CT and ,2022-03-06,2022-06-05,2022-06-12,1,0
+35690348,10.1016/j.jbi.2022.104117,J Biomed Inform,CondiS: A conditional survival distribution-based method for censored data imputation over,2022-01-25,2022-06-05,2022-06-12,4,47
+35680074,10.1016/j.jbi.2022.104110,J Biomed Inform,The IeDEA harmonist data toolkit: A data quality and data sharing solution for a global HI,2021-08-02,2022-06-01,2022-06-10,14,34
+35680073,10.1016/j.jbi.2022.104112,J Biomed Inform,Extended endocrine therapy in breast cancer: A basket of length-constraint feature selecti,2022-01-28,2022-06-02,2022-06-10,6,0
+35671939,10.1016/j.jbi.2022.104111,J Biomed Inform,Individual reference intervals for personalised interpretation of clinical and metabolomic,2021-12-15,2022-06-01,2022-06-08,3,0
+35660522,10.1016/j.jbi.2022.104108,J Biomed Inform,Development and validity of computerized neuropsychological assessment devices for screeni,2021-10-20,2022-05-28,2022-06-07,10,0
+35643273,10.1016/j.jbi.2022.104096,J Biomed Inform,Data protection-compliant broad consent for secondary use of health care data and human bi,2021-10-31,2022-05-20,2022-06-02,11,0
+35636720,10.1016/j.jbi.2022.104098,J Biomed Inform,idse-HE: Hybrid embedding graph neural network for drug side effects prediction.,2021-12-23,2022-05-24,2022-06-01,5,0
+35598881,10.1016/j.jbi.2022.104095,J Biomed Inform,Deep learning on time series laboratory test results from electronic health records for ea,2022-01-21,2022-05-16,2022-05-23,9,30
+35550929,10.1016/j.jbi.2022.104094,J Biomed Inform,FIRLA: a Fast Incremental Record Linkage Algorithm.,2021-11-15,2022-05-04,2022-05-14,2,0
+35537690,10.1016/j.jbi.2022.104093,J Biomed Inform,A downsampling method enables robust clustering and integration of single-cell transcripto,2021-12-03,2022-05-03,2022-05-11,10,0
+35533991,10.1016/j.jbi.2022.104084,J Biomed Inform,Continuous-time probabilistic models for longitudinal electronic health records.,2021-12-23,2022-04-25,2022-05-10,7,0
+35533990,10.1016/j.jbi.2022.104092,J Biomed Inform,NEAR: Named entity and attribute recognition of clinical concepts.,2021-08-14,2022-05-01,2022-05-10,3,0
+35525400,10.1016/j.jbi.2022.104081,J Biomed Inform,Process mining-driven analysis of COVID-19's impact on vaccination patterns.,2021-12-22,2022-04-21,2022-05-08,5,64
+35504544,10.1016/j.jbi.2022.104083,J Biomed Inform,How Can Interactive Process Discovery Address Data Quality Issues in Real Business Setting,2022-01-20,2022-04-23,2022-05-04,3,0
+35504543,10.1016/j.jbi.2022.104086,J Biomed Inform,Automated interpretable discovery of heterogeneous treatment effectiveness: A COVID-19 cas,2021-10-23,2022-04-26,2022-05-04,5,31
+35490964,10.1016/j.jbi.2022.104085,J Biomed Inform,Early diagnosis of Parkinson's disease using Continuous Convolution Network: Handwriting r,2021-11-20,2022-04-25,2022-05-02,6,0
+35490963,10.1016/j.jbi.2022.104075,J Biomed Inform,Machine learning-based demand forecasting in cancer palliative care home hospitalization.,2021-06-26,2022-04-09,2022-05-02,3,0
+35489596,10.1016/j.jbi.2022.104079,J Biomed Inform,A multi-task Gaussian process self-attention neural network for real-time prediction of th,2021-02-21,2022-04-18,2022-05-01,5,37
+35489595,10.1016/j.jbi.2022.104078,J Biomed Inform,Diagnosis of COVID-19 via acoustic analysis and artificial intelligence by monitoring brea,2021-11-24,2022-04-16,2022-05-01,10,43
+35472514,10.1016/j.jbi.2022.104080,J Biomed Inform,A simple neural vector space model for medical concept normalization using concept embeddi,2022-01-19,2022-04-19,2022-04-27,2,52
+35452866,10.1016/j.jbi.2022.104077,J Biomed Inform,Automatic Evaluation of Motor Rehabilitation Exercises Based on Deep Mixture Density Neura,2021-09-01,2022-04-16,2022-04-23,2,0
+35427797,10.1016/j.jbi.2022.104073,J Biomed Inform,Privacy-preserving mimic models for clinical named entity recognition in French.,2021-11-10,2022-04-07,2022-04-16,5,0
+35413440,10.1016/j.jbi.2022.104062,J Biomed Inform,Effects of data and entity ablation on multitask learning models for biomedical entity rec,2021-08-23,2022-03-27,2022-04-13,3,0
+35346854,10.1016/j.jbi.2022.104050,J Biomed Inform,Implementation of specialised attention mechanisms: ICD-10 classification of Gastrointesti,2021-10-27,2022-03-07,2022-03-30,5,0
+35436594,10.1016/j.jbi.2022.104070,J Biomed Inform,An efficient model selection for linear discriminant function-based recursive feature elim,2021-11-23,2022-04-05,2022-04-19,3,0
+35429677,10.1016/j.jbi.2022.104071,J Biomed Inform,Diagnosis clarification by generalization to patient-friendly terms and definitions: Valid,2021-12-02,2022-04-05,2022-04-17,7,0
+35421602,10.1016/j.jbi.2022.104072,J Biomed Inform,AutoScore-Imbalance: An interpretable machine learning tool for development of clinical sc,2021-11-14,2022-04-07,2022-04-15,10,0
+35390541,10.1016/j.jbi.2022.104069,J Biomed Inform,TAHDNet: Time-aware hierarchical dependency network for medication recommendation.,2021-09-22,2022-03-31,2022-04-08,5,0
+35367654,10.1016/j.jbi.2022.104061,J Biomed Inform,Sampling rate and heart rate variability: On metrics and health outcomes.,2021-11-30,2022-03-27,2022-04-04,1,0
+35367653,10.1016/j.jbi.2022.104060,J Biomed Inform,Supporting capacity management decisions in healthcare using data-driven process simulatio,2021-09-01,2022-03-26,2022-04-04,4,0
+35351638,10.1016/j.jbi.2022.104059,J Biomed Inform,PhenoRerank: A re-ranking model for phenotypic concept recognition pre-trained on human ph,2021-09-20,2022-03-22,2022-03-31,10,29
+35339665,10.1016/j.jbi.2022.104057,J Biomed Inform,Identifying the oncogenic potential of gene fusions exploiting miRNAs.,2021-11-30,2022-03-15,2022-03-28,4,0
+35337944,10.1016/j.jbi.2022.104056,J Biomed Inform,Process data analytics for hospital case-mix planning.,2021-09-16,2022-03-14,2022-03-27,6,0
+35337943,10.1016/j.jbi.2022.104055,J Biomed Inform,ARCANE-ROG: Algorithm for reconstruction of cancer evolution from single-cell data using r,2021-12-22,2022-03-12,2022-03-27,3,0
+35331966,10.1016/j.jbi.2022.104054,J Biomed Inform,Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data.,2021-09-26,2022-03-12,2022-03-26,6,58
+35318149,10.1016/j.jbi.2022.104051,J Biomed Inform,Supporting rural public health practice to address local-level social determinants of heal,2021-10-23,2022-03-09,2022-03-24,10,0
+35318148,10.1016/j.jbi.2022.104053,J Biomed Inform,Gene Expression Variation Analysis (GEVA): A new R package to evaluate variations in diffe,2021-12-15,2022-03-10,2022-03-24,4,0
+35101638,10.1016/j.jbi.2022.104001,J Biomed Inform,Predicting pharmacotherapeutic outcomes for type 2 diabetes: An evaluation of three approa,2021-10-20,2022-01-17,2022-02-02,9,0
+35301142,10.1016/j.jbi.2022.104052,J Biomed Inform,Temporal information extraction with the scalable cross-sentence context for electronic he,2021-03-23,2022-03-10,2022-03-19,2,0
+35283266,10.1016/j.jbi.2022.104049,J Biomed Inform,Sequential reinforcement active feature learning for gene signature identification in rena,2021-11-26,2022-03-06,2022-03-15,4,0
+35259544,10.1016/j.jbi.2022.104040,J Biomed Inform,Question-aware transformer models for consumer health question summarization.,2021-06-01,2022-02-23,2022-03-09,4,50
+35257868,10.1016/j.jbi.2022.104047,J Biomed Inform,A probabilistic model for co-occurrence analysis in bibliometrics.,2021-07-08,2022-02-28,2022-03-09,4,0
+35248796,10.1016/j.jbi.2022.104038,J Biomed Inform,Assessment of the feasibility of developing a clinical pathway using a clinical order log.,2021-08-30,2022-02-23,2022-03-07,8,0
+35248795,10.1016/j.jbi.2022.104048,J Biomed Inform,A new feature selection method based on feature distinguishing ability and network influen,2021-07-14,2022-03-01,2022-03-07,4,0
+35245700,10.1016/j.jbi.2022.104037,J Biomed Inform,Adaptive feature squeeze network for nuclear cataract classification in AS-OCT image.,2021-06-20,2022-02-21,2022-03-05,7,0
+35231649,10.1016/j.jbi.2022.104039,J Biomed Inform,Clinical notes: An untapped opportunity for improving risk prediction for hospitalization ,2021-09-20,2022-02-23,2022-03-02,11,47
+35219883,10.1016/j.jbi.2022.104036,J Biomed Inform,Novel cross LSTM for predicting the changes of complementary pelvic angles between standin,2021-09-01,2022-02-21,2022-02-28,6,0
+35217186,10.1016/j.jbi.2022.104035,J Biomed Inform,Leveraging Multi-source knowledge for Chinese clinical named entity recognition via relati,2021-11-22,2022-02-18,2022-02-27,7,0
+35202844,10.1016/j.jbi.2022.104034,J Biomed Inform,Non-negative matrix factorization temporal topic models and clinical text data identify CO,2021-09-17,2022-02-18,2022-02-25,9,33
+35202843,10.1016/j.jbi.2022.104033,J Biomed Inform,A framework for the automatic description of healthcare processes in natural language: App,2021-09-01,2022-02-16,2022-02-25,5,0
+35183765,10.1016/j.jbi.2022.104031,J Biomed Inform,Integrating longitudinal clinical and microbiome data to predict growth faltering in prete,2021-09-12,2022-02-14,2022-02-21,16,0
+35182785,10.1016/j.jbi.2022.104029,J Biomed Inform,Producing personalized statin treatment plans to optimize clinical outcomes using big data,2021-07-01,2022-02-11,2022-02-20,12,46
+35181494,10.1016/j.jbi.2022.104025,J Biomed Inform,Sparse modelling of cancer patients' survival based on genomic copy number alterations.,2021-09-27,2022-02-05,2022-02-20,4,0
+35143999,10.1016/j.jbi.2022.104016,J Biomed Inform,Machine learning based predictive model for the analysis of sequence activity relationship,2021-08-03,2022-02-03,2022-02-11,2,0
+35189334,10.1016/j.jbi.2022.104032,J Biomed Inform,Leveraging electronic health record data for clinical trial planning by assessing eligibil,2021-11-18,2022-02-15,2022-02-22,8,63
+35181493,10.1016/j.jbi.2022.104027,J Biomed Inform,Structure-aware siamese graph neural networks for encounter-level patient similarity learn,2021-09-09,2022-02-09,2022-02-20,10,0
+35176451,10.1016/j.jbi.2022.104011,J Biomed Inform,Multi-channel fusion LSTM for medical event prediction using EHRs.,2021-07-05,2022-02-01,2022-02-18,6,0
+35167978,10.1016/j.jbi.2022.104008,J Biomed Inform,Privacy preserving collaborative learning of generalized linear mixed model.,2021-09-07,2022-01-30,2022-02-16,4,0
+35158071,10.1016/j.jbi.2022.104013,J Biomed Inform,"Three-stage intelligent support of clinical decision making for higher trust, validity, an",2021-03-04,2022-02-02,2022-02-15,5,0
+35151869,10.1016/j.jbi.2022.104010,J Biomed Inform,Patient-centric characterization of multimorbidity trajectories in patients with severe me,2021-07-27,2022-01-30,2022-02-14,7,74
+35144001,10.1016/j.jbi.2022.104012,J Biomed Inform,Fusion of sequential visits and medical ontology for mortality prediction.,2021-04-14,2022-02-02,2022-02-11,4,0
+35144000,10.1016/j.jbi.2022.104005,J Biomed Inform,Search like an expert: Reducing expertise disparity using a hybrid neural index for COVID-,2021-08-20,2022-01-24,2022-02-11,4,40
+35134568,10.1016/j.jbi.2022.104015,J Biomed Inform,Predicting physician burnout using clinical activity logs: Model performance and lessons l,2021-08-26,2022-02-02,2022-02-09,6,72
+35124236,10.1016/j.jbi.2022.104007,J Biomed Inform,The BMS-LM ontology for biomedical data reporting throughout the lifecycle of a research s,2021-09-06,2022-01-28,2022-02-07,13,0
+35104644,10.1016/j.jbi.2022.104000,J Biomed Inform,MedGCN: Medication recommendation and lab test imputation via graph convolutional networks,2021-07-05,2022-01-16,2022-02-02,3,56
+35104643,10.1016/j.jbi.2022.104006,J Biomed Inform,Deep neural networks for neuro-oncology: Towards patient individualized design of chemo-ra,2021-10-21,2022-01-25,2022-02-02,3,0
+35104642,10.1016/j.jbi.2022.103999,J Biomed Inform,COVIDSum: A linguistically enriched SciBERT-based summarization model for COVID-19 scienti,2021-09-22,2022-01-13,2022-02-02,7,57
+35104641,10.1016/j.jbi.2022.103994,J Biomed Inform,Process mining for healthcare: Characteristics and challenges.,2021-09-01,2022-01-10,2022-02-02,55,0
+35085813,10.1016/j.jbi.2022.104004,J Biomed Inform,Signal from the noise: A mixed graphical and quantitative process mining approach to evalu,2021-06-12,2022-01-21,2022-01-28,3,18
+35077901,10.1016/j.jbi.2022.104002,J Biomed Inform,Developing an ETL tool for converting the PCORnet CDM into the OMOP CDM to facilitate the ,2021-10-14,2022-01-18,2022-01-26,12,34
+35007754,10.1016/j.jbi.2021.103984,J Biomed Inform,Classifying social determinants of health from unstructured electronic health records usin,2021-09-16,2021-12-29,2022-01-11,10,0
+35063668,10.1016/j.jbi.2022.103998,J Biomed Inform,Fully automated detection of formal thought disorder with Time-series Augmented Representa,2021-07-06,2022-01-13,2022-01-23,8,61
+35051618,10.1016/j.jbi.2022.103997,J Biomed Inform,Identifying cancer sub-types from genomic scale data sets using confidence based integrati,2021-11-25,2022-01-13,2022-01-21,2,0
+35026414,10.1016/j.jbi.2022.103993,J Biomed Inform,COVID-19 and mental disorders in healthcare Personnel: A novel framework to develop Person,2021-07-17,2022-01-06,2022-01-14,5,56
+35007753,10.1016/j.jbi.2022.103985,J Biomed Inform,An annotated corpus from biomedical articles to construct a drug-food interaction database,2021-06-09,2022-01-03,2022-01-11,5,0
+35007752,10.1016/j.jbi.2022.103986,J Biomed Inform,Stratifying individuals into non-alcoholic fatty liver disease risk levels using time seri,2021-08-31,2022-01-03,2022-01-11,9,0
+34995810,10.1016/j.jbi.2021.103973,J Biomed Inform,High-quality gene/disease embedding in a multi-relational heterogeneous graph after a join,2021-03-29,2021-12-04,2022-01-08,9,0
+34990838,10.1016/j.jbi.2021.103983,J Biomed Inform,CODER: Knowledge-infused cross-lingual medical term embedding for term normalization.,2021-09-25,2021-12-29,2022-01-07,6,0
+34968737,10.1016/j.jbi.2021.103981,J Biomed Inform,Explainable process trace classification: An application to stroke.,2021-05-20,2021-12-20,2021-12-31,3,0
+34920128,10.1016/j.jbi.2021.103970,J Biomed Inform,Extracting experimental parameter entities from scientific articles.,2021-06-17,2021-12-02,2021-12-18,6,0
+34906736,10.1016/j.jbi.2021.103975,J Biomed Inform,Improving non-invasive hemoglobin measurement accuracy using nonparametric models.,2021-05-20,2021-12-06,2021-12-16,5,0
+34864210,10.1016/j.jbi.2021.103969,J Biomed Inform,A weakly supervised model for the automated detection of adverse events using clinical not,2021-07-20,2021-11-27,2021-12-06,3,0
+34954110,10.1016/j.jbi.2021.103979,J Biomed Inform,Multi-level process mining methodology for exploring disease-specific care processes.,2021-06-01,2021-12-14,2021-12-27,3,0
+34922021,10.1016/j.jbi.2021.103978,J Biomed Inform,Multi-view prediction of Alzheimer's disease progression with end-to-end integrated framew,2021-07-21,2021-12-11,2021-12-19,7,0
+34920127,10.1016/j.jbi.2021.103971,J Biomed Inform,"Word embeddings trained on published case reports are lightweight, effective for clinical ",2021-06-02,2021-12-02,2021-12-18,4,46
+34920126,10.1016/j.jbi.2021.103977,J Biomed Inform,Membership inference attacks against synthetic health data.,2021-09-15,2021-12-08,2021-12-18,3,56
+34920125,10.1016/j.jbi.2021.103972,J Biomed Inform,Synthesizing time-series wound prognosis factors from electronic medical records using gen,2021-06-02,2021-12-03,2021-12-18,7,0
+34906737,10.1016/j.jbi.2021.103976,J Biomed Inform,Inferring the patient's age from implicit age clues in health forum posts.,2021-07-25,2021-12-06,2021-12-16,4,0
+34902551,10.1016/j.jbi.2021.103974,J Biomed Inform,Deep graph convolutional network for US birth data harmonization.,2021-05-31,2021-12-04,2021-12-14,5,13
+34879250,10.1016/j.jbi.2021.103961,J Biomed Inform,"The RareDis corpus: A corpus annotated with rare diseases, their signs and symptoms.",2021-08-02,2021-11-22,2021-12-09,4,0
+34875387,10.1016/j.jbi.2021.103960,J Biomed Inform,A contextual multi-task neural approach to medication and adverse events identification fr,2021-09-27,2021-11-22,2021-12-08,6,0
+34875386,10.1016/j.jbi.2021.103949,J Biomed Inform,Disease evolution and risk-based disease trajectories in congestive heart failure patients,2021-05-10,2021-11-03,2021-12-08,5,0
+34871807,10.1016/j.jbi.2021.103968,J Biomed Inform,An attentive joint model with transformer-based weighted graph convolutional network for e,2021-06-29,2021-11-27,2021-12-07,4,0
+34848329,10.1016/j.jbi.2021.103956,J Biomed Inform,MRC4BioER: Joint extraction of biomedical entities and relations in the machine reading co,2021-06-11,2021-11-16,2021-12-02,6,0
+34839017,10.1016/j.jbi.2021.103958,J Biomed Inform,Bayesian tensor factorization-drive breast cancer subtyping by integrating multi-omics dat,2021-03-20,2021-11-19,2021-11-29,4,0
+34826628,10.1016/j.jbi.2021.103959,J Biomed Inform,AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores w,2021-07-06,2021-11-19,2021-11-27,7,0
+34823030,10.1016/j.jbi.2021.103957,J Biomed Inform,Class imbalance in out-of-distribution datasets: Improving the robustness of the TextCNN f,2021-06-30,2021-11-17,2021-11-26,14,47
+34793972,10.1016/j.jbi.2021.103954,J Biomed Inform,Machine learning algorithm for feature space clustering of mixed data with missing informa,2021-05-26,2021-11-08,2021-11-19,1,0
+34785382,10.1016/j.jbi.2021.103951,J Biomed Inform,PASCLex: A comprehensive post-acute sequelae of COVID-19 (PASC) symptom lexicon derived fr,2021-08-04,2021-11-06,2021-11-18,6,44
+38160758,10.1016/j.jbi.2023.104582,J Biomed Inform,Development of a 3-Step theory of suicide ontology to facilitate 3ST factor extraction fro,2023-09-18,2023-12-22,2024-01-02,9,44
+38163514,10.1016/j.jbi.2023.104580,J Biomed Inform,Retrieval augmentation of large language models for lay language generation.,2023-07-07,2023-12-17,2024-01-02,5,82
+38142903,10.1016/j.jbi.2023.104581,J Biomed Inform,Learning from vertically distributed data across multiple sites: An efficient privacy-pres,2023-05-21,2023-12-19,2023-12-25,6,47
+38135173,10.1016/j.jbi.2023.104579,J Biomed Inform,The PACIFIC ontology for heterogeneous data management in cardiology.,2023-05-11,2023-12-13,2023-12-23,13,0
+38122841,10.1016/j.jbi.2023.104578,J Biomed Inform,Fine-tuning coreference resolution for different styles of clinical narratives.,2023-08-08,2023-12-12,2023-12-21,3,0
+38104851,10.1016/j.jbi.2023.104569,J Biomed Inform,Identifying the joint signature of brain atrophy and gene variant scores in Alzheimer's Di,2023-02-22,2023-12-07,2023-12-18,9,0
+38101690,10.1016/j.jbi.2023.104576,J Biomed Inform,Deep learning uncertainty quantification for clinical text classification.,2023-04-22,2023-12-10,2023-12-16,17,39
+38101689,10.1016/j.jbi.2023.104577,J Biomed Inform,Improving severity classification of Hebrew PET-CT pathology reports using test-time augme,2023-03-31,2023-12-10,2023-12-16,4,0
+38096945,10.1016/j.jbi.2023.104567,J Biomed Inform,Providing clinical context to the spatio-temporal analysis of 4D CT perfusion to predict a,2023-06-09,2023-12-07,2023-12-15,6,0
+38096944,10.1016/j.jbi.2023.104570,J Biomed Inform,ACDNet: Attention-guided Collaborative Decision Network for effective medication recommend,2023-07-05,2023-12-07,2023-12-15,4,0
+38092247,10.1016/j.jbi.2023.104571,J Biomed Inform,A data-driven epidemic model with human mobility and vaccination protection for COVID-19 p,2023-08-13,2023-12-07,2023-12-14,5,0
+38081566,10.1016/j.jbi.2023.104572,J Biomed Inform,Updating and recalibrating causal probabilistic models on a new target population.,2023-07-06,2023-12-08,2023-12-12,7,0
+38081565,10.1016/j.jbi.2023.104573,J Biomed Inform,Evaluation of clinical practice guideline-derived clinical decision support systems using ,2022-12-12,2023-12-08,2023-12-12,4,0
+38081564,10.1016/j.jbi.2023.104568,J Biomed Inform,Enhanced family history-based algorithms increase the identification of individuals meetin,2023-09-21,2023-12-07,2023-12-12,10,24
+38070818,10.1016/j.jbi.2023.104566,J Biomed Inform,Re-ordered fuzzy conformance checking for uncertain clinical records.,2023-04-11,2023-12-06,2023-12-10,7,0
+38070817,10.1016/j.jbi.2023.104532,J Biomed Inform,Trans-Balance: Reducing demographic disparity for prediction models in the presence of cla,2023-02-26,2023-10-28,2023-12-10,6,31
+38070816,10.1016/j.jbi.2023.104560,J Biomed Inform,Obtaining clinical term embeddings from SNOMED CT ontology.,2023-06-16,2023-12-05,2023-12-10,2,0
+38056702,10.1016/j.jbi.2023.104559,J Biomed Inform,Language inference-based learning for Low-Resource Chinese clinical named entity recogniti,2023-08-28,2023-11-30,2023-12-07,5,0
+38043883,10.1016/j.jbi.2023.104548,J Biomed Inform,Efficient adversarial debiasing with concept activation vector - Medical image case-studie,2023-04-25,2023-11-16,2023-12-04,6,31
+38035971,10.1016/j.jbi.2023.104558,J Biomed Inform,Convert-Pheno: A software toolkit for the interconversion of standard data models for phen,2023-07-11,2023-11-27,2023-12-01,3,0
+38008241,10.1016/j.jbi.2023.104555,J Biomed Inform,Data and models for stance and premise detection in COVID-19 tweets: Insights from the Soc,2023-06-27,2023-12-15,2023-11-27,3,0
+38000765,10.1016/j.jbi.2023.104551,J Biomed Inform,Towards a framework for interoperability and reproducibility of predictive models.,2023-04-05,2023-11-19,2023-11-25,7,0
+37992791,10.1016/j.jbi.2023.104545,J Biomed Inform,A transformer-based deep learning approach for fairly predicting post-liver transplant ris,2023-06-15,2023-11-13,2023-11-23,3,33
+38048895,10.1016/j.jbi.2023.104556,J Biomed Inform,Ensemble machine learning model trained on a new synthesized dataset generalizes well for ,2022-09-14,2023-11-24,2023-12-05,4,0
+38012982,10.1016/j.jbi.2023.104557,J Biomed Inform,Advancing Italian biomedical information extraction with transformers-based models: Method,2023-06-29,2023-11-24,2023-11-28,13,0
+38000767,10.1016/j.jbi.2023.104554,J Biomed Inform,Inferring actual treatment pathways from patient records.,2023-09-01,2023-11-21,2023-11-25,5,0
+38000766,10.1016/j.jbi.2023.104553,J Biomed Inform,Electronic health records (EHRs) in clinical research and platform trials: Application of ,2023-03-28,2023-11-20,2023-11-25,27,0
+37995844,10.1016/j.jbi.2023.104552,J Biomed Inform,PanDelos-frags: A methodology for discovering pangenomic content of incomplete microbial a,2023-02-28,2023-11-19,2023-11-24,5,0
+37995843,10.1016/j.jbi.2023.104544,J Biomed Inform,Fair patient model: Mitigating bias in the patient representation learned from the electro,2023-06-02,2023-11-10,2023-11-24,3,43
+37984547,10.1016/j.jbi.2023.104547,J Biomed Inform,"A methodology of phenotyping ICU patients from EHR data: High-fidelity, personalized, and ",2023-08-24,2023-11-16,2023-11-21,10,66
+37984546,10.1016/j.jbi.2023.104546,J Biomed Inform,A new computational workflow to guide personalized drug therapy.,2023-02-28,2023-11-13,2023-11-21,8,0
+37981107,10.1016/j.jbi.2023.104550,J Biomed Inform,Theory of trust and acceptance of artificial intelligence technology (TrAAIT): An instrume,2023-08-08,2023-11-16,2023-11-20,2,87
+37926392,10.1016/j.jbi.2023.104536,J Biomed Inform,Explainable variational autoencoder (E-VAE) model using genome-wide SNPs to predict dement,2023-01-31,2023-11-02,2023-11-06,4,38
+37918623,10.1016/j.jbi.2023.104533,J Biomed Inform,Leveraging GPT-4 for food effect summarization to enhance product-specific guidance develo,2023-07-12,2023-10-30,2023-11-03,10,0
+37918622,10.1016/j.jbi.2023.104534,J Biomed Inform,Shape Expressions (ShEx) schemas for the FHIR R5 specification.,2023-06-15,2023-10-30,2023-11-03,5,56
+37926393,10.1016/j.jbi.2023.104535,J Biomed Inform,Hybrid visualization-based framework for depressive state detection and characterization o,2023-05-24,2023-11-02,2023-11-06,3,0
+37866640,10.1016/j.jbi.2023.104530,J Biomed Inform,A semi-supervised approach to unobtrusively predict abnormality in breathing patterns usin,2023-05-11,2023-10-17,2023-10-23,8,39
+37858853,10.1016/j.jbi.2023.104529,J Biomed Inform,A pan-cancer landscape of pathogenic somatic copy number variations.,2023-02-27,2023-10-16,2023-10-20,6,0
+37858852,10.1016/j.jbi.2023.104528,J Biomed Inform,EGeRepDR: An enhanced genetic-based representation learning for drug repurposing using mul,2023-07-13,2023-10-16,2023-10-20,3,0
+37852347,10.1016/j.jbi.2023.104527,J Biomed Inform,Learning entity-oriented representation for biomedical relation extraction.,2023-03-21,2023-10-15,2023-10-19,4,0
+37852346,10.1016/j.jbi.2023.104526,J Biomed Inform,A deep learning approach for inpatient length of stay and mortality prediction.,2023-06-05,2023-10-15,2023-10-19,4,0
+37844677,10.1016/j.jbi.2023.104525,J Biomed Inform,Considerations for using predictive models that include race as an input variable: The cas,2023-05-30,2023-10-13,2023-10-17,7,60
+37838290,10.1016/j.jbi.2023.104513,J Biomed Inform,"GERNERMED++: Semantic annotation in German medical NLP through transfer-learning, translat",2022-11-14,2023-10-04,2023-10-15,3,0
+37838288,10.1016/j.jbi.2023.104524,J Biomed Inform,View-independent gait events detection using CNN-transformer hybrid network.,2023-02-14,2023-10-10,2023-10-15,7,0
+37827477,10.1016/j.jbi.2023.104509,J Biomed Inform,EHR-QC: A streamlined pipeline for automated electronic health records standardisation and,2023-06-02,2023-09-28,2023-10-13,5,0
+37827476,10.1016/j.jbi.2023.104522,J Biomed Inform,Clinical outcome prediction using observational supervision with electronic health records,2023-09-01,2023-10-06,2023-10-13,4,0
+37813326,10.1016/j.jbi.2023.104511,J Biomed Inform,Predicting line of therapy transition via similar patient augmentation.,2023-03-25,2023-09-29,2023-10-10,6,0
+37813325,10.1016/j.jbi.2023.104512,J Biomed Inform,Integration of incomplete multi-omics data using Knowledge Distillation and Supervised Var,2023-06-10,2023-10-03,2023-10-10,2,0
+37797704,10.1016/j.jbi.2023.104510,J Biomed Inform,MAGNETO: Cell type marker panel generator from single-cell transcriptomic data.,2023-02-28,2023-09-29,2023-10-06,5,0
+37778673,10.1016/j.jbi.2023.104503,J Biomed Inform,Hyperbolic hierarchical knowledge graph embeddings for biological entities.,2023-06-18,2023-09-19,2023-10-02,5,0
+37778672,10.1016/j.jbi.2023.104507,J Biomed Inform,A deep learning approach for transgender and gender diverse patient identification in elec,2023-06-05,2023-09-22,2023-10-02,8,35
+37777164,10.1016/j.jbi.2023.104497,J Biomed Inform,Embedding-based terminology expansion via secondary use of large clinical real-world datas,2023-01-06,2023-09-08,2023-10-01,4,0
+37774908,10.1016/j.jbi.2023.104505,J Biomed Inform,"Evaluation of OMOP CDM, i2b2 and ICGC ARGO for supporting data harmonization in a breast c",2023-04-25,2023-09-21,2023-09-30,7,0
+37748541,10.1016/j.jbi.2023.104508,J Biomed Inform,Beyond the override: Using evidence of previous drug tolerance to suppress drug allergy al,2023-04-27,2023-09-22,2023-09-26,2,0
+37769828,10.1016/j.jbi.2023.104502,J Biomed Inform,"Introducing the BlendedICU dataset, the first harmonized, international intensive care dat",2023-06-16,2023-09-19,2023-09-29,5,0
+37742781,10.1016/j.jbi.2023.104501,J Biomed Inform,ADSP: An adaptive sample pooling strategy for diagnostic testing.,2023-03-23,2023-09-19,2023-09-25,3,0
+37722445,10.1016/j.jbi.2023.104486,J Biomed Inform,A self-supervised language model selection strategy for biomedical question answering.,2023-01-24,2023-09-01,2023-09-19,2,0
+37714418,10.1016/j.jbi.2023.104499,J Biomed Inform,Large-scale investigation of weakly-supervised deep learning for the fine-grained semantic,2023-05-21,2023-09-10,2023-09-16,5,0
+37704104,10.1016/j.jbi.2023.104496,J Biomed Inform,MKCL: Medical Knowledge with Contrastive Learning model for radiology report generation.,2022-12-23,2023-09-07,2023-09-14,6,0
+37699466,10.1016/j.jbi.2023.104498,J Biomed Inform,Continuous time recurrent neural networks: Overview and benchmarking at forecasting blood ,2023-04-17,2023-09-09,2023-09-13,6,0
+37678485,10.1016/j.jbi.2023.104488,J Biomed Inform,A hybrid neural network based model for blood donation forecasting.,2023-05-06,2023-09-04,2023-09-08,4,0
+37673376,10.1016/j.jbi.2023.104487,J Biomed Inform,BioREx: Improving biomedical relation extraction by leveraging heterogeneous datasets.,2023-03-07,2023-09-02,2023-09-07,5,0
+37660960,10.1016/j.jbi.2023.104485,J Biomed Inform,FedScore: A privacy-preserving framework for federated scoring system development.,2023-03-29,2023-08-31,2023-09-04,11,0
+37659698,10.1016/j.jbi.2023.104484,J Biomed Inform,Graph fusion prediction of autism based on attentional mechanisms.,2023-06-06,2023-08-31,2023-09-03,7,0
+37657712,10.1016/j.jbi.2023.104483,J Biomed Inform,A voice-based digital assistant for intelligent prompting of evidence-based practices duri,2023-04-24,2023-08-29,2023-09-02,10,60
+36283583,10.1016/j.jbi.2022.104236,J Biomed Inform,Efficient algorithms for real-time syndromic surveillance.,2022-05-02,2022-10-19,2022-10-26,2,0
+37648101,10.1016/j.jbi.2023.104481,J Biomed Inform,StepAdd: A personalized mHealth intervention based on social cognitive theory to increase ,2023-02-27,2023-08-27,2023-08-31,7,0
+37634557,10.1016/j.jbi.2023.104479,J Biomed Inform,An omics data analysis method based on feature linear relationship and graph convolutional,2023-03-27,2023-08-23,2023-08-28,6,0
+37625508,10.1016/j.jbi.2023.104478,J Biomed Inform,Annotated dataset creation through large language models for non-english medical NLP.,2023-01-05,2023-08-21,2023-08-26,2,0
+37604272,10.1016/j.jbi.2023.104477,J Biomed Inform,Interpretable physiological forecasting in the ICU using constrained data assimilation and,2023-01-24,2023-08-18,2023-08-22,6,0
+37598737,10.1016/j.jbi.2023.104476,J Biomed Inform,"Padé approximant meets federated learning: A nearly lossless, one-shot algorithm for evide",2023-03-24,2023-08-12,2023-08-21,7,24
+37595770,10.1016/j.jbi.2023.104475,J Biomed Inform,Detection of valvular heart diseases combining orthogonal non-negative matrix factorizatio,2023-03-24,2023-08-11,2023-08-19,7,0
+37572825,10.1016/j.jbi.2023.104474,J Biomed Inform,Associating biological context with protein-protein interactions through text mining at Pu,2022-11-14,2023-08-05,2023-08-13,8,0
+37549722,10.1016/j.jbi.2023.104466,J Biomed Inform,Attention-based multimodal fusion with contrast for robust clinical prediction in the face,2023-01-25,2023-08-01,2023-08-08,4,0
+37541407,10.1016/j.jbi.2023.104465,J Biomed Inform,Optimization of an adverse outcome pathway network on chemical-induced cholestasis using a,2023-06-07,2023-07-31,2023-08-05,14,0
+37541406,10.1016/j.jbi.2023.104464,J Biomed Inform,Graph embedding-based link prediction for literature-based discovery in Alzheimer's Diseas,2023-01-22,2023-07-30,2023-08-05,3,0
+37536643,10.1016/j.jbi.2023.104461,J Biomed Inform,An open source corpus and automatic tool for section identification in Spanish health reco,2023-01-04,2023-07-25,2023-08-04,6,0
+37532000,10.1016/j.jbi.2023.104460,J Biomed Inform,GENA: A knowledge graph for nutrition and mental health.,2023-01-14,2023-07-24,2023-08-03,3,0
+37531999,10.1016/j.jbi.2023.104459,J Biomed Inform,Biomedical document relation extraction with prompt learning and KNN.,2023-01-29,2023-07-22,2023-08-03,7,0
+37517509,10.1016/j.jbi.2023.104463,J Biomed Inform,Diagnostic rate estimation from Medicare records: Dependence on claim numbers and latent c,2023-05-24,2023-07-27,2023-07-31,3,55
+37516375,10.1016/j.jbi.2023.104462,J Biomed Inform,Exploring the potential impact of multi-factor precision interventions in Alzheimer's dise,2023-02-11,2023-07-26,2023-07-30,6,0
+37482171,10.1016/j.jbi.2023.104456,J Biomed Inform,SPBERE: Boosting span-based pipeline biomedical entity and relation extraction via entity ,2022-11-30,2023-07-18,2023-07-24,4,0
+37481052,10.1016/j.jbi.2023.104447,J Biomed Inform,A drug molecular classification model based on graph structure generation.,2023-01-20,2023-07-16,2023-07-23,7,0
+37488025,10.1016/j.jbi.2023.104449,J Biomed Inform,A Few-shot learning approach for Monkeypox recognition from a cross-domain perspective.,2023-01-28,2023-07-16,2023-07-25,3,0
+37488024,10.1016/j.jbi.2023.104457,J Biomed Inform,Supervised Relevance-Redundancy assessments for feature selection in omics-based classific,2023-02-28,2023-07-19,2023-07-25,3,0
+37467836,10.1016/j.jbi.2023.104446,J Biomed Inform,Automating medical simulations.,2022-12-19,2023-07-16,2023-07-20,6,0
+37467835,10.1016/j.jbi.2023.104445,J Biomed Inform,Extracting biomedical relation from cross-sentence text using syntactic dependency graph a,2023-01-07,2023-07-15,2023-07-20,7,0
+37467834,10.1016/j.jbi.2023.104448,J Biomed Inform,Individual health-disease phase diagrams for disease prevention based on machine learning.,2023-01-07,2023-07-16,2023-07-20,11,0
+37455008,10.1016/j.jbi.2023.104443,J Biomed Inform,A cohort of patients in New York State with an alcohol use disorder and subsequent treatme,2023-03-17,2023-07-08,2023-07-17,10,57
+37451495,10.1016/j.jbi.2023.104436,J Biomed Inform,Generating synthetic clinical data that capture class imbalanced distributions with genera,2023-01-31,2023-06-30,2023-07-15,10,0
+37451494,10.1016/j.jbi.2023.104444,J Biomed Inform,Effective matching of patients to clinical trials using entity extraction and neural re-ra,2023-02-14,2023-07-08,2023-07-15,5,0
+37442314,10.1016/j.jbi.2023.104437,J Biomed Inform,Eos and OMOCL: Towards a seamless integration of openEHR records into the OMOP Common Data,2023-02-06,2023-06-30,2023-07-14,7,0
+37437682,10.1016/j.jbi.2023.104441,J Biomed Inform,Self-prediction of relations in GO facilitates its quality auditing.,2023-01-05,2023-07-05,2023-07-13,6,0
+37429512,10.1016/j.jbi.2023.104442,J Biomed Inform,AD-BERT: Using pre-trained language model to predict the progression from mild cognitive i,2023-03-24,2023-07-07,2023-07-11,13,71
+37414368,10.1016/j.jbi.2023.104438,J Biomed Inform,WindowSHAP: An efficient framework for explaining time-series classifiers based on Shapley,2022-11-10,2023-07-03,2023-07-07,5,39
+37394024,10.1016/j.jbi.2023.104435,J Biomed Inform,Increasing physical activity using an just-in-time adaptive digital assistant supported by,2023-01-19,2023-06-28,2023-07-03,7,0
+37391115,10.1016/j.jbi.2023.104434,J Biomed Inform,Aligned deep neural network for integrative analysis with high-dimensional input.,2023-04-02,2023-06-19,2023-07-01,4,49
+37385327,10.1016/j.jbi.2023.104431,J Biomed Inform,Localizing in-domain adaptation of transformer-based biomedical language models.,2022-12-22,2023-06-17,2023-06-30,5,0
+37352900,10.1016/j.jbi.2023.104424,J Biomed Inform,Synergy between imputed genetic pathway and clinical information for predicting recurrence,2022-12-15,2023-06-11,2023-06-24,14,0
+37352899,10.1016/j.jbi.2023.104426,J Biomed Inform,"A statistical comparison between Matthews correlation coefficient (MCC), prevalence thresh",2023-01-31,2023-06-15,2023-06-24,2,0
+37331495,10.1016/j.jbi.2023.104425,J Biomed Inform,Semi-supervised calibration of noisy event risk (SCANER) with electronic health records.,2022-10-16,2023-05-19,2023-06-19,8,27
+37321443,10.1016/j.jbi.2023.104416,J Biomed Inform,Contextualized medication event extraction with striding NER and multi-turn QA.,2023-01-07,2023-05-31,2023-06-16,5,0
+37315831,10.1016/j.jbi.2023.104421,J Biomed Inform,"Integrating differential expression, co-expression and gene network analysis for the ident",2023-02-27,2023-06-09,2023-06-15,7,0
+37301528,10.1016/j.jbi.2023.104419,J Biomed Inform,Who needs what (features) when? Personalizing engagement with data-driven self-management ,2023-02-10,2023-06-06,2023-06-11,10,63
+37182592,10.1016/j.jbi.2023.104390,J Biomed Inform,Enhancing early autism prediction based on electronic records using clinical narratives.,2023-01-06,2023-05-09,2023-05-15,8,46
+37385326,10.1016/j.jbi.2023.104433,J Biomed Inform,Large-scale neural biomedical entity linking with layer overwriting.,2023-01-16,2023-06-19,2023-06-30,3,0
+37339714,10.1016/j.jbi.2023.104427,J Biomed Inform,Representation of time-varying and time-invariant EMR data and its application in modeling,2023-01-06,2023-06-15,2023-06-21,7,0
+37328098,10.1016/j.jbi.2023.104420,J Biomed Inform,Principled estimation and evaluation of treatment effect heterogeneity: A case study appli,2022-10-11,2023-06-06,2023-06-17,4,41
+37315832,10.1016/j.jbi.2023.104417,J Biomed Inform,MedKPL: A heterogeneous knowledge enhanced prompt learning framework for transferable diag,2023-01-05,2023-05-31,2023-06-15,5,0
+37308034,10.1016/j.jbi.2023.104423,J Biomed Inform,Multi-ethnic Imputation System (MI-System): A genotype imputation server for high-dimensio,2022-12-05,2023-06-09,2023-06-13,10,0
+37295630,10.1016/j.jbi.2023.104408,J Biomed Inform,LGTRL-DE: Local and Global Temporal Representation Learning with Demographic Embedding for,2022-05-24,2023-05-28,2023-06-10,4,0
+37276949,10.1016/j.jbi.2023.104415,J Biomed Inform,Multimodal learning on graphs for disease relation extraction.,2022-07-27,2023-05-30,2023-06-06,5,0
+37276948,10.1016/j.jbi.2023.104414,J Biomed Inform,Achieving trust in health-behavior-change artificial intelligence apps (HBC-AIApp) develop,2022-12-12,2023-05-30,2023-06-06,4,0
+37271308,10.1016/j.jbi.2023.104407,J Biomed Inform,Graph-based clinical recommender: Predicting specialists procedure orders using graph repr,2023-03-23,2023-05-25,2023-06-05,10,49
+37270143,10.1016/j.jbi.2023.104405,J Biomed Inform,Creating an ignorance-base: Exploring known unknowns in the scientific literature.,2022-11-08,2023-05-21,2023-06-04,8,171
+37268168,10.1016/j.jbi.2023.104404,J Biomed Inform,Generating synthetic personal health data using conditional generative adversarial network,2023-01-27,2023-05-21,2023-06-03,3,0
+37257630,10.1016/j.jbi.2023.104406,J Biomed Inform,Parea: Multi-view ensemble clustering for cancer subtype discovery.,2023-01-28,2023-05-25,2023-06-01,3,0
+37230405,10.1016/j.jbi.2023.104398,J Biomed Inform,A novel gluten knowledge base of potential biomedical and health-related interactions extr,2022-10-17,2023-05-15,2023-05-26,4,0
+37225066,10.1016/j.jbi.2023.104401,J Biomed Inform,A self-supervised learning-based approach to clustering multivariate time-series data with,2023-02-26,2023-05-17,2023-05-25,6,33
+37217028,10.1016/j.jbi.2023.104402,J Biomed Inform,Deep learning and Gaussian Mixture Modelling clustering mix. A new approach for fetal morp,2022-12-28,2023-05-19,2023-05-23,2,0
+37211197,10.1016/j.jbi.2023.104399,J Biomed Inform,Multi-task learning with dynamic re-weighting to achieve fairness in healthcare predictive,2023-01-12,2023-05-15,2023-05-22,6,42
+37211196,10.1016/j.jbi.2023.104400,J Biomed Inform,Medication event extraction in clinical notes: Contribution of the WisPerMed team to the n,2023-01-27,2023-05-15,2023-05-22,6,0
+37211195,10.1016/j.jbi.2023.104396,J Biomed Inform,Retrieve and rerank for automated ICD coding via Contrastive Learning.,2022-11-10,2023-05-15,2023-05-22,4,0
+37211194,10.1016/j.jbi.2023.104392,J Biomed Inform,KEBLM: Knowledge-Enhanced Biomedical Language Models.,2023-01-14,2023-05-12,2023-05-22,3,0
+37209975,10.1016/j.jbi.2023.104393,J Biomed Inform,Identifying acute kidney injury subphenotypes using an outcome-driven deep-learning approa,2022-12-13,2023-05-14,2023-05-21,9,0
+37196988,10.1016/j.jbi.2023.104391,J Biomed Inform,A deep learning approach for medication disposition and corresponding attributes extractio,2023-01-07,2023-05-10,2023-05-18,9,15
+37146741,10.1016/j.jbi.2023.104362,J Biomed Inform,Exploring a deep learning neural architecture for closed Literature-based discovery.,2022-07-28,2023-04-06,2023-05-06,2,0
+37209976,10.1016/j.jbi.2023.104394,J Biomed Inform,Development of a somatic variant registry in a National Cancer Center: towards Molecular R,2022-11-12,2023-05-14,2023-05-21,14,0
+37201618,10.1016/j.jbi.2023.104395,J Biomed Inform,A community-of-practice-based evaluation methodology for knowledge intensive computational,2022-09-24,2023-05-15,2023-05-19,21,0
+37196989,10.1016/j.jbi.2023.104383,J Biomed Inform,From centralized to ad-hoc knowledge base construction for hypotheses generation.,2022-08-15,2023-05-03,2023-05-18,6,0
+37178781,10.1016/j.jbi.2023.104388,J Biomed Inform,ViPal: A framework for virulence prediction of influenza viruses with prior viral knowledg,2023-01-24,2023-05-07,2023-05-14,7,51
+37178780,10.1016/j.jbi.2023.104386,J Biomed Inform,Learning to rank query expansion terms for COVID-19 scholarly search.,2022-12-19,2023-05-05,2023-05-14,2,39
+37172634,10.1016/j.jbi.2023.104387,J Biomed Inform,Novel evaluation approach for molecular signature-based deconvolution methods.,2022-11-18,2023-05-07,2023-05-13,7,0
+37169058,10.1016/j.jbi.2023.104385,J Biomed Inform,Sequential data mining of infection patterns as predictors for onset of type 1 diabetes in,2023-02-14,2023-05-04,2023-05-12,4,62
+37164244,10.1016/j.jbi.2023.104384,J Biomed Inform,Deep learning to refine the identification of high-quality clinical research articles from,2022-11-15,2023-05-03,2023-05-11,12,0
+37156393,10.1016/j.jbi.2023.104382,J Biomed Inform,Lessons learned to enable question answering on knowledge graphs extracted from scientific,2022-11-15,2023-05-03,2023-05-09,2,73
+37149275,10.1016/j.jbi.2023.104376,J Biomed Inform,Offline reinforcement learning for safer blood glucose control in people with type 1 diabe,2022-12-19,2023-04-28,2023-05-07,3,0
+37149274,10.1016/j.jbi.2023.104371,J Biomed Inform,A method for extracting tumor events from clinical CT examination reports.,2023-01-07,2023-04-19,2023-05-07,4,0
+37141977,10.1016/j.jbi.2023.104375,J Biomed Inform,A data-driven approach to optimizing clinical study eligibility criteria.,2022-11-04,2023-04-27,2023-05-05,6,43
+37120046,10.1016/j.jbi.2023.104374,J Biomed Inform,HLA amino acid Mismatch-Based risk stratification of kidney allograft failure using a nove,2022-12-12,2023-04-23,2023-04-30,7,57
+37105510,10.1016/j.jbi.2023.104372,J Biomed Inform,A robust phenotype-driven likelihood ratio analysis approach assisting interpretable clini,2022-12-12,2023-04-20,2023-04-28,4,0
+37105509,10.1016/j.jbi.2023.104367,J Biomed Inform,Meta-analysis informed machine learning: Supporting cytokine storm detection during CAR-T ,2022-12-23,2023-04-17,2023-04-28,10,0
+37100106,10.1016/j.jbi.2023.104370,J Biomed Inform,Contextualized medication information extraction using Transformer-based deep learning arc,2023-01-06,2023-04-19,2023-04-27,6,30
+37088456,10.1016/j.jbi.2023.104369,J Biomed Inform,Conceptual framework and documentation standards of cystoscopic media content for artifici,2022-09-10,2023-04-18,2023-04-24,8,53
+37086959,10.1016/j.jbi.2023.104368,J Biomed Inform,Causal feature selection using a knowledge graph combining structured knowledge from the b,2022-07-19,2023-04-17,2023-04-23,9,234
+37086958,10.1016/j.jbi.2023.104366,J Biomed Inform,Left ventricle segmentation combining deep learning and deformable models with anatomical ,2022-12-22,2023-04-17,2023-04-23,2,0
+37061012,10.1016/j.jbi.2023.104346,J Biomed Inform,Progress Note Understanding - Assessment and Plan Reasoning: Overview of the 2022 N2C2 Tra,2023-01-06,2023-03-21,2023-04-16,6,23
+36935011,10.1016/j.jbi.2023.104343,J Biomed Inform,Representing and utilizing clinical textual data for real world studies: An OHDSI approach,2022-05-25,2023-03-13,2023-03-20,27,77
+37062419,10.1016/j.jbi.2023.104365,J Biomed Inform,Explainable discovery of disease biomarkers: The case of ovarian cancer to illustrate the ,2022-12-22,2023-04-10,2023-04-17,6,0
+37061014,10.1016/j.jbi.2023.104360,J Biomed Inform,Predicting relations between SOAP note sections: The value of incorporating a clinical inf,2023-01-06,2023-04-05,2023-04-16,6,39
+37061013,10.1016/j.jbi.2023.104364,J Biomed Inform,MAM: Flexible Monte-Carlo Agent based model for modelling COVID-19 spread.,2022-11-08,2023-04-10,2023-04-16,2,52
+37054961,10.1016/j.jbi.2023.104363,J Biomed Inform,A hybrid system to understand the relations between assessments and plans in progress note,2023-01-06,2023-04-07,2023-04-14,4,43
+37054960,10.1016/j.jbi.2023.104361,J Biomed Inform,ICD2Vec: Mathematical representation of diseases.,2022-08-28,2023-04-05,2023-04-14,10,0
+37044134,10.1016/j.jbi.2023.104359,J Biomed Inform,AwarNS: A framework for developing context-aware reactive mobile applications for health a,2022-10-21,2023-04-05,2023-04-13,6,0
+37031755,10.1016/j.jbi.2023.104357,J Biomed Inform,Deep learning prediction of motor performance in stroke individuals using neuroimaging dat,2022-11-15,2023-04-01,2023-04-10,4,0
+37030658,10.1016/j.jbi.2023.104347,J Biomed Inform,Contextualized medication event extraction with levitated markers.,2023-01-06,2023-03-23,2023-04-09,5,0
+37023846,10.1016/j.jbi.2023.104358,J Biomed Inform,Discharge summary hospital course summarisation of in patient Electronic Health Record tex,2022-11-21,2023-04-02,2023-04-07,4,0
+37023844,10.1016/j.jbi.2023.104356,J Biomed Inform,A Multidatabase ExTRaction PipEline (METRE) for facile cross validation in critical care r,2022-11-01,2023-03-31,2023-04-07,2,0
+37023842,10.1016/j.jbi.2023.104355,J Biomed Inform,A fuzzy-based framework for diagnosing esophageal mobility disorder using high-resolution ,2022-12-04,2023-03-30,2023-04-07,4,0
+37015304,10.1016/j.jbi.2023.104349,J Biomed Inform,Measuring the cognitive effort associated with task switching in routine EHR-based tasks.,2022-10-03,2023-03-29,2023-04-05,3,0
+36963450,10.1016/j.jbi.2023.104342,J Biomed Inform,A utility-based machine learning-driven personalized lifestyle recommendation for cardiova,2022-05-03,2023-03-13,2023-03-25,6,0
+36958462,10.1016/j.jbi.2023.104345,J Biomed Inform,Integration of Mendelian randomisation and systems biology models to identify novel blood-,2022-10-29,2023-03-16,2023-03-24,4,0
+36940896,10.1016/j.jbi.2023.104344,J Biomed Inform,Discovering interpretable medical process models: A case study in trauma resuscitation.,2022-06-30,2023-03-13,2023-03-21,9,38
+36940895,10.1016/j.jbi.2023.104339,J Biomed Inform,Learning end-to-end patient representations through self-supervised covariate balancing fo,2022-12-19,2023-03-13,2023-03-21,4,0
+36935013,10.1016/j.jbi.2023.104340,J Biomed Inform,Utilizing shared frailty with the Cox proportional hazards regression: Post discharge surv,2022-04-17,2023-03-13,2023-03-20,5,0
+36935012,10.1016/j.jbi.2023.104337,J Biomed Inform,What is data stewardship? Towards a comprehensive understanding.,2022-09-13,2023-03-11,2023-03-20,3,0
+36933632,10.1016/j.jbi.2023.104341,J Biomed Inform,Developing a Knowledge Graph for Pharmacokinetic Natural Product-Drug Interactions.,2022-09-24,2023-03-13,2023-03-19,7,83
+36924843,10.1016/j.jbi.2023.104328,J Biomed Inform,Using Markov chains and temporal alignment to identify clinical patterns in Dementia.,2022-05-16,2023-03-06,2023-03-17,5,0
+36893995,10.1016/j.jbi.2023.104327,J Biomed Inform,Why is biomedical informatics hard? A fundamental framework.,2022-10-21,2023-03-06,2023-03-10,2,0
+36870586,10.1016/j.jbi.2023.104325,J Biomed Inform,Integrating a new knowledge organisation system for monoclonal antibodies for therapeutic ,2022-06-02,2023-02-25,2023-03-05,8,0
+36870585,10.1016/j.jbi.2023.104326,J Biomed Inform,Diagnosis of Alzheimer's disease using hypergraph p-Laplacian regularized multi-task featu,2022-12-08,2023-03-01,2023-03-05,5,0
+36842490,10.1016/j.jbi.2023.104324,J Biomed Inform,Discerning conversational context in online health communities for personalized digital be,2022-06-05,2023-02-21,2023-02-27,6,112
+36804374,10.1016/j.jbi.2023.104317,J Biomed Inform,ADPG: Biomedical entity recognition based on Automatic Dependency Parsing Graph.,2022-11-26,2023-02-08,2023-02-23,6,0
+36813154,10.1016/j.jbi.2023.104323,J Biomed Inform,Explainable clinical coding with in-domain adapted transformers.,2022-09-20,2023-02-15,2023-02-23,5,0
+36806328,10.1016/j.jbi.2023.104322,J Biomed Inform,"A hierarchical strategy to minimize privacy risk when linking ""De-identified"" data in biom",2022-06-27,2023-02-11,2023-02-23,8,30
+36796599,10.1016/j.jbi.2023.104309,J Biomed Inform,Tracking clusters of patients over time enables extracting information from medico-adminis,2022-10-03,2023-02-06,2023-02-17,4,0
+36791900,10.1016/j.jbi.2023.104319,J Biomed Inform,APLUS: A Python library for usefulness simulations of machine learning models in healthcar,2022-10-11,2023-02-10,2023-02-16,4,62
+36791899,10.1016/j.jbi.2023.104320,J Biomed Inform,Medical multivariate time series imputation and forecasting based on a recurrent condition,2022-12-13,2023-02-10,2023-02-16,2,0
+36781036,10.1016/j.jbi.2023.104316,J Biomed Inform,"An automated ultra-fast, memory-efficient, and accurate method for viral genome classifica",2022-12-03,2023-02-08,2023-02-14,3,0
+36781035,10.1016/j.jbi.2023.104318,J Biomed Inform,Joint learning-based causal relation extraction from biomedical literature.,2022-06-30,2023-02-08,2023-02-14,6,0
+36773821,10.1016/j.jbi.2023.104310,J Biomed Inform,Real-time prediction of organ failures in patients with acute pancreatitis using longitudi,2022-04-21,2023-02-06,2023-02-12,9,0
+36754129,10.1016/j.jbi.2023.104302,J Biomed Inform,Extracting medication changes in clinical narratives using pre-trained language models.,2022-08-17,2023-01-29,2023-02-09,8,53
+36746345,10.1016/j.jbi.2023.104301,J Biomed Inform,DGCL: Distance-wise and Graph Contrastive Learning for medication recommendation.,2022-09-24,2023-01-27,2023-02-07,5,0
+36738871,10.1016/j.jbi.2023.104305,J Biomed Inform,Representation of evidence-based clinical practice guideline recommendations on FHIR.,2022-05-18,2023-01-29,2023-02-05,7,0
+36738870,10.1016/j.jbi.2023.104306,J Biomed Inform,Informative missingness: What can we learn from patterns in missing laboratory data in the,2022-05-17,2023-01-29,2023-02-05,40,53
+36738869,10.1016/j.jbi.2023.104307,J Biomed Inform,Defining the distance between diseases using SNOMED CT embeddings.,2022-08-17,2023-01-29,2023-02-05,4,0
+36736937,10.1016/j.jbi.2023.104296,J Biomed Inform,Benefit-aware early prediction of health outcomes on multivariate EEG time series.,2022-11-04,2023-01-24,2023-02-04,6,0
+36736449,10.1016/j.jbi.2023.104303,J Biomed Inform,Explainable synthetic image generation to improve risk assessment of rare pediatric heart ,2022-11-02,2023-01-29,2023-02-04,15,59
+36736448,10.1016/j.jbi.2023.104297,J Biomed Inform,Supporting SNOMED CT postcoordination with knowledge graph embeddings.,2022-06-03,2023-01-25,2023-02-04,3,0
+36736447,10.1016/j.jbi.2023.104304,J Biomed Inform,Dual parallel net: A novel deep learning model for rectal tumor segmentation via CNN and t,2022-10-31,2023-01-29,2023-02-04,6,0
+36736446,10.1016/j.jbi.2023.104300,J Biomed Inform,A dual-attention based coupling network for diabetes classification with heterogeneous dat,2022-07-25,2023-01-26,2023-02-04,6,0
+36731730,10.1016/j.jbi.2023.104298,J Biomed Inform,Causal knowledge graph construction and evaluation for clinical decision support of diabet,2022-07-30,2023-01-25,2023-02-03,10,0
+36720332,10.1016/j.jbi.2023.104299,J Biomed Inform,An interpretable machine learning approach to multimodal stress detection in a simulated o,2022-07-29,2023-01-26,2023-02-01,8,0
+36716983,10.1016/j.jbi.2023.104295,J Biomed Inform,A method for comparing multiple imputation techniques: A case study on the U.S. national C,2022-06-02,2023-01-21,2023-01-31,24,73
+36682389,10.1016/j.jbi.2023.104293,J Biomed Inform,Detecting evidence of invasive fungal infections in cytology and histopathology reports en,2022-07-04,2023-01-16,2023-01-23,8,0
+36621750,10.1016/j.jbi.2022.104269,J Biomed Inform,Mining for equitable health: Assessing the impact of missing data in electronic health rec,2022-05-12,2022-12-07,2023-01-10,5,26
+36356933,10.1016/j.jbi.2022.104239,J Biomed Inform,Time interval uncertainty-aware and text-enhanced based disease prediction.,2022-05-11,2022-11-02,2022-11-11,6,0
+36309197,10.1016/j.jbi.2022.104228,J Biomed Inform,How do others cope? Extracting coping strategies for adverse drug events from social media,2022-03-21,2022-10-09,2022-10-30,5,0
+36706849,10.1016/j.jbi.2023.104294,J Biomed Inform,Evaluating and mitigating bias in machine learning models for cardiovascular disease predi,2022-07-20,2023-01-21,2023-01-28,6,32
+36706848,10.1016/j.jbi.2023.104286,J Biomed Inform,DR.BENCH: Diagnostic Reasoning Benchmark for Clinical Natural Language Processing.,2022-10-19,2023-01-09,2023-01-28,7,58
+36641030,10.1016/j.jbi.2023.104292,J Biomed Inform,Knowledge-aware patient representation learning for multiple disease subtypes.,2022-09-20,2023-01-10,2023-01-15,5,0
+36638935,10.1016/j.jbi.2023.104281,J Biomed Inform,Contrastive pre-training and linear interaction attention-based transformer for universal ,2022-10-27,2023-01-04,2023-01-14,8,0
+36632861,10.1016/j.jbi.2023.104284,J Biomed Inform,Clinical narrative-aware deep neural network for emergency department critical outcome pre,2022-05-03,2023-01-07,2023-01-13,5,0
+36632860,10.1016/j.jbi.2023.104285,J Biomed Inform,Fine-tuning BERT for automatic ADME semantic labeling in FDA drug labeling to enhance prod,2022-06-25,2023-01-07,2023-01-13,7,0
+36632859,10.1016/j.jbi.2023.104283,J Biomed Inform,Digital cough monitoring - A potential predictive acoustic biomarker of clinical outcomes ,2022-10-21,2023-01-05,2023-01-13,12,19
+36623781,10.1016/j.jbi.2023.104280,J Biomed Inform,Federated electronic data capture (fEDC): Architecture and prototype.,2022-10-28,2023-01-03,2023-01-10,12,0
+36610608,10.1016/j.jbi.2022.104279,J Biomed Inform,Negation-based transfer learning for improving biomedical Named Entity Recognition and Rel,2022-05-10,2022-12-30,2023-01-08,4,0
+36586499,10.1016/j.jbi.2022.104276,J Biomed Inform,SATO (IDEAS expAnded wiTh BCIO): Workflow for designers of patient-centered mobile health ,2022-05-05,2022-12-19,2023-01-01,3,70
+36572279,10.1016/j.jbi.2022.104275,J Biomed Inform,Hypothesis-driven modeling of the human lung-ventilator system: A characterization tool fo,2022-04-04,2022-12-14,2022-12-27,5,54
+36566954,10.1016/j.jbi.2022.104277,J Biomed Inform,Behaviour recommendations with a deep learning model and genetic algorithm for health debt,2022-08-19,2022-12-19,2022-12-26,6,0
+36563828,10.1016/j.jbi.2022.104272,J Biomed Inform,Querying semantic catalogues of biomedical databases.,2022-03-10,2022-12-12,2022-12-24,4,0
+36535604,10.1016/j.jbi.2022.104273,J Biomed Inform,Integrated rapid-cycle comparative effectiveness trials using flexible point of care rando,2022-05-10,2022-12-12,2022-12-20,4,0
+36529347,10.1016/j.jbi.2022.104271,J Biomed Inform,Learning the progression patterns of treatments using a probabilistic generative model.,2022-03-22,2022-12-09,2022-12-19,5,0
+36516944,10.1016/j.jbi.2022.104270,J Biomed Inform,Integrating machine learning predictions for perioperative risk management: Towards an emp,2022-07-13,2022-12-07,2022-12-15,7,0
+36513332,10.1016/j.jbi.2022.104268,J Biomed Inform,Deep-learning-based personalized prediction of absolute neutrophil count recovery and comp,2022-06-10,2022-12-07,2022-12-14,9,0
+36494060,10.1016/j.jbi.2022.104267,J Biomed Inform,Optimizing warfarin dosing using deep reinforcement learning.,2022-02-07,2022-12-03,2022-12-10,3,0
+36494059,10.1016/j.jbi.2022.104266,J Biomed Inform,A machine learning method for improving liver cancer staging.,2022-07-27,2022-12-01,2022-12-10,6,0
+36464227,10.1016/j.jbi.2022.104265,J Biomed Inform,Developing a deep learning natural language processing algorithm for automated reporting o,2022-04-06,2022-11-29,2022-12-05,7,0
+36462600,10.1016/j.jbi.2022.104255,J Biomed Inform,Spatio-temporally smoothed deep survival neural network.,2022-10-09,2022-11-24,2022-12-04,4,22
+36462599,10.1016/j.jbi.2022.104264,J Biomed Inform,DC-COX: Data collaboration Cox proportional hazards model for privacy-preserving survival ,2022-05-24,2022-11-28,2022-12-04,5,0
+36462598,10.1016/j.jbi.2022.104257,J Biomed Inform,Generating evidence on privacy outcomes to inform privacy risk management: A way forward?,2022-08-07,2022-11-27,2022-12-04,5,0
+36403757,10.1016/j.jbi.2022.104243,J Biomed Inform,COMMUTE: Communication-efficient transfer learning for multi-site risk prediction.,2022-06-24,2022-11-06,2022-11-21,3,88
+36402277,10.1016/j.jbi.2022.104244,J Biomed Inform,Adversarial reinforcement learning for dynamic treatment regimes.,2022-06-28,2022-11-07,2022-11-20,4,0
+36400330,10.1016/j.jbi.2022.104251,J Biomed Inform,A method for structuring complex clinical knowledge and its representational formalisms to,2022-08-08,2022-11-11,2022-11-19,8,0
+39746432,10.1016/j.jbi.2024.104764,J Biomed Inform,Visual-linguistic Diagnostic Semantic Enhancement for medical report generation.,2024-07-26,2024-12-24,2025-01-03,7,0
+39746431,10.1016/j.jbi.2024.104767,J Biomed Inform,Human intention recognition for trauma resuscitation: An interpretable deep learning appro,2024-06-20,2024-12-26,2025-01-03,8,64
+39746430,10.1016/j.jbi.2024.104745,J Biomed Inform,Unveiling pathology-related predictive uncertainty of glomerular lesion recognition using ,2024-07-06,2024-11-02,2025-01-03,10,0
+39732354,10.1016/j.jbi.2024.104765,J Biomed Inform,Repeatable process for extracting health data from HL7 CDA documents.,2024-03-25,2024-12-24,2024-12-29,12,0
+39722399,10.1016/j.jbi.2024.104760,J Biomed Inform,Modeling repeated measurements data using the multilevel Bayesian network: A case of child,2024-04-24,2024-12-06,2024-12-26,2,0
+39674292,10.1016/j.jbi.2024.104762,J Biomed Inform,Novel machine learning model for predicting cancer drugs' susceptibilities and discovering,2024-09-22,2024-12-11,2024-12-15,9,0
+39667602,10.1016/j.jbi.2024.104759,J Biomed Inform,Efficient strabismus diagnosis from small samples: Harnessing spatial features for improve,2024-09-12,2024-12-04,2024-12-13,7,0
+39662650,10.1016/j.jbi.2024.104758,J Biomed Inform,Coherence and comprehensibility: Large language models predict lay understanding of health,2024-06-28,2024-12-01,2024-12-12,5,65
+39631489,10.1016/j.jbi.2024.104755,J Biomed Inform,Enhancing suicidal behavior detection in EHRs: A multi-label NLP framework with transforme,2024-06-27,2024-11-24,2024-12-05,5,0
+39622400,10.1016/j.jbi.2024.104754,J Biomed Inform,A multimodal approach for few-shot biomedical named entity recognition in low-resource lan,2024-07-20,2024-11-19,2024-12-03,6,0
+39631488,10.1016/j.jbi.2024.104757,J Biomed Inform,How to identify patient perception of AI voice robots in the follow-up scenario? A multimo,2024-09-04,2024-11-30,2024-12-05,4,0
+39622399,10.1016/j.jbi.2024.104756,J Biomed Inform,Biomedical document-level relation extraction with thematic capture and localized entity p,2024-01-03,2024-11-24,2024-12-03,2,0
+39603550,10.1016/j.jbi.2024.104753,J Biomed Inform,Structural analysis and intelligent classification of clinical trial eligibility criteria ,2024-05-20,2024-11-18,2024-11-28,5,0
+39603549,10.1016/j.jbi.2024.104752,J Biomed Inform,Taxonomy-based prompt engineering to generate synthetic drug-related patient portal messag,2024-06-21,2024-11-16,2024-11-28,9,0
+39571772,10.1016/j.jbi.2024.104751,J Biomed Inform,Early multi-cancer detection through deep learning: An anomaly detection approach using Va,2024-03-09,2024-11-11,2024-11-22,6,0
+39557209,10.1016/j.jbi.2024.104750,J Biomed Inform,Importance of variables from different time frames for predicting self-harm using health s,2024-07-18,2024-11-08,2024-11-19,14,40
+39536999,10.1016/j.jbi.2024.104744,J Biomed Inform,MultiADE: A Multi-domain benchmark for Adverse Drug Event extraction.,2024-06-25,2024-10-29,2024-11-14,5,0
+39536998,10.1016/j.jbi.2024.104748,J Biomed Inform,Cross-Modal self-supervised vision language pre-training with multiple objectives for medi,2024-06-24,2024-11-03,2024-11-14,5,0
+39489457,10.1016/j.jbi.2024.104737,J Biomed Inform,Sleep apnea test prediction based on Electronic Health Records.,2024-06-16,2024-10-09,2024-11-04,5,0
+39510367,10.1016/j.jbi.2024.104749,J Biomed Inform,Adapting the open-source Gen3 platform and kubernetes for the NIH HEAL IMPOWR and MIRHIQL ,2024-06-07,2024-11-04,2024-11-13,6,18
+39510366,10.1016/j.jbi.2024.104747,J Biomed Inform,A mother-child data linkage approach using data from the information system for the develo,2024-05-15,2024-11-03,2024-11-13,7,0
+39490610,10.1016/j.jbi.2024.104739,J Biomed Inform,Demonstration-based learning for few-shot biomedical named entity recognition under machin,2024-04-26,2024-10-11,2024-11-04,4,0
+39486471,10.1016/j.jbi.2024.104743,J Biomed Inform,Disentangling the phenotypic patterns of hypertension and chronic hypotension.,2024-08-08,2024-10-29,2024-11-02,6,305
+39476994,10.1016/j.jbi.2024.104741,J Biomed Inform,HEART: Learning better representation of EHR data with a heterogeneous relation-aware tran,2024-07-20,2024-10-23,2024-10-31,8,0
+39454703,10.1016/j.jbi.2024.104740,J Biomed Inform,Algorithms for evaluation of minimal cut sets.,2024-07-29,2024-10-16,2024-10-26,4,0
+39426695,10.1016/j.jbi.2024.104738,J Biomed Inform,PLRTE: Progressive learning for biomedical relation triplet extraction using large languag,2024-06-27,2024-10-09,2024-10-20,5,0
+39395708,10.1016/j.jbi.2024.104736,J Biomed Inform,Triple and quadruple optimization for feature selection in cancer biomarker discovery.,2024-05-24,2024-10-09,2024-10-13,2,0
+39393477,10.1016/j.jbi.2024.104735,J Biomed Inform,Improving tabular data extraction in scanned laboratory reports using deep learning models,2024-06-16,2024-10-07,2024-10-12,6,0
+39389283,10.1016/j.jbi.2024.104734,J Biomed Inform,Learning to match patients to clinical trials using large language models.,2024-05-28,2024-09-30,2024-10-11,4,0
+39368529,10.1016/j.jbi.2024.104731,J Biomed Inform,Augmenting biomedical named entity recognition with general-domain resources.,2024-06-14,2024-09-27,2024-10-06,9,0
+39368528,10.1016/j.jbi.2024.104733,J Biomed Inform,BAMRE: Joint extraction model of Chinese medical entities and relations based on Biaffine ,2024-05-15,2024-09-28,2024-10-06,6,0
+39357664,10.1016/j.jbi.2024.104732,J Biomed Inform,Clinical outcome-guided deep temporal clustering for disease progression subtyping.,2024-06-25,2024-09-28,2024-10-03,5,39
+39326691,10.1016/j.jbi.2024.104730,J Biomed Inform,FuseLinker: Leveraging LLM's pre-trained text embeddings and domain knowledge to enhance G,2024-07-16,2024-09-23,2024-09-27,6,50
+39307515,10.1016/j.jbi.2024.104728,J Biomed Inform,Cross-domain visual prompting with spatial proximity knowledge distillation for histologic,2024-05-16,2024-09-15,2024-09-23,7,0
+39306314,10.1016/j.jbi.2024.104729,J Biomed Inform,Advancing cancer driver gene identification through an integrative network and pathway app,2024-07-17,2024-09-16,2024-09-22,5,0
+39299565,10.1016/j.jbi.2024.104723,J Biomed Inform,Proxy endpoints - bridging clinical trials and real world data.,2024-06-20,2024-09-03,2024-09-20,9,0
+39293643,10.1016/j.jbi.2024.104727,J Biomed Inform,Health text simplification: An annotated corpus for digestive cancer education and novel s,2024-03-22,2024-09-12,2024-09-19,6,0
+39277154,10.1016/j.jbi.2024.104724,J Biomed Inform,"Large Language Models, scientific knowledge and factuality: A framework to streamline huma",2024-04-04,2024-09-05,2024-09-15,5,0
+39265816,10.1016/j.jbi.2024.104721,J Biomed Inform,Modeling engagement with a digital behavior change intervention (HeartSteps II): An explor,2024-02-29,2024-09-02,2024-09-13,8,0
+39265815,10.1016/j.jbi.2024.104725,J Biomed Inform,Community knowledge graph abstraction for enhanced link prediction: A study on PubMed know,2024-04-09,2024-09-07,2024-09-13,5,0
+39244181,10.1016/j.jbi.2024.104722,J Biomed Inform,Promoting smartphone-based keratitis screening using meta-learning: A multicenter study.,2024-03-21,2024-09-02,2024-09-08,10,0
+39233209,10.1016/j.jbi.2024.104720,J Biomed Inform,Extracting lung cancer staging descriptors from pathology reports: A generative language m,2024-06-10,2024-08-31,2024-09-05,10,0
+39214159,10.1016/j.jbi.2024.104719,J Biomed Inform,SSGU-CD: A combined semantic and structural information graph U-shaped network for documen,2024-04-09,2024-08-27,2024-08-31,5,0
+39209087,10.1016/j.jbi.2024.104717,J Biomed Inform,Integrating graph convolutional networks to enhance prompt learning for biomedical relatio,2024-05-22,2024-08-25,2024-08-31,6,0
+39209086,10.1016/j.jbi.2024.104718,J Biomed Inform,Interactive dual-stream contrastive learning for radiology report generation.,2024-04-06,2024-08-25,2024-09-01,2,0
+39197731,10.1016/j.jbi.2024.104715,J Biomed Inform,BGformer: An improved Informer model to enhance blood glucose prediction.,2024-05-26,2024-08-23,2024-08-31,3,0
+39187170,10.1016/j.jbi.2024.104714,J Biomed Inform,MAFT-SO: A novel multi-atlas fusion template based on spatial overlap for ASD diagnosis.,2024-06-05,2024-08-23,2024-08-27,4,0
+39182632,10.1016/j.jbi.2024.104711,J Biomed Inform,A conditional multi-label model to improve prediction of a rare outcome: An illustration p,2024-01-26,2024-08-17,2024-08-26,10,48
+39182631,10.1016/j.jbi.2024.104712,J Biomed Inform,MolCFL: A personalized and privacy-preserving drug discovery framework based on generative,2024-05-05,2024-08-21,2024-08-26,3,0
+39159864,10.1016/j.jbi.2024.104710,J Biomed Inform,Identifying cooperating cancer driver genes in individual patients through hypergraph rand,2024-04-27,2024-08-14,2024-08-20,4,0
+39153563,10.1016/j.jbi.2024.104709,J Biomed Inform,Investigation of bias in the automated assessment of school violence.,2023-11-15,2024-08-14,2024-08-18,8,28
+39142598,10.1016/j.jbi.2024.104707,J Biomed Inform,On the role of the UMLS in supporting diagnosis generation proposed by Large Language Mode,2024-02-21,2024-08-10,2024-08-15,5,31
+39134233,10.1016/j.jbi.2024.104705,J Biomed Inform,Balancing the efforts of chart review and gains in PRS prediction accuracy: An empirical s,2024-02-05,2024-08-05,2024-08-13,5,35
+39127228,10.1016/j.jbi.2024.104704,J Biomed Inform,The reuse of electronic health records information models in the oncology domain: Studies ,2024-03-27,2024-07-31,2024-08-11,5,0
+39121932,10.1016/j.jbi.2024.104706,J Biomed Inform,A GPT-based EHR modeling system for unsupervised novel disease detection.,2024-04-26,2024-08-06,2024-08-10,7,44
+39084480,10.1016/j.jbi.2024.104702,J Biomed Inform,Rare disease diagnosis using knowledge guided retrieval augmentation for ChatGPT.,2024-03-27,2024-07-24,2024-08-01,5,24
+39079607,10.1016/j.jbi.2024.104700,J Biomed Inform,Desiderata for discoverability and FAIR adoption of health data hubs.,2023-11-13,2024-07-18,2024-07-31,5,0
+39047932,10.1016/j.jbi.2024.104701,J Biomed Inform,Prediction of hypertension risk based on multiple feature fusion.,2024-03-29,2024-07-20,2024-07-26,6,0
+39033866,10.1016/j.jbi.2024.104699,J Biomed Inform,Enhancing identification performance of cognitive impairment high-risk based on a semi-sup,2024-05-09,2024-07-18,2024-07-22,5,0
+39029770,10.1016/j.jbi.2024.104689,J Biomed Inform,A novel deep learning model based on transformer and cross modality attention for classifi,2024-02-29,2024-07-10,2024-07-20,3,0
+39019302,10.1016/j.jbi.2024.104691,J Biomed Inform,A visual approach to facilitating conversations about supportive care options in the conte,2023-09-30,2024-07-12,2024-07-18,5,43
+39019301,10.1016/j.jbi.2024.104693,J Biomed Inform,Recommendations to promote fairness and inclusion in biomedical AI research and clinical u,2023-09-30,2024-07-14,2024-07-18,4,104
+39009174,10.1016/j.jbi.2024.104692,J Biomed Inform,Evaluating gender bias in ML-based clinical risk prediction models: A study on multiple us,2023-10-31,2024-07-12,2024-07-16,13,0
+39004110,10.1016/j.jbi.2024.104690,J Biomed Inform,Leveraging error-prone algorithm-derived phenotypes: Enhancing association studies for ris,2024-03-22,2024-07-10,2024-07-15,7,19
+39004109,10.1016/j.jbi.2024.104685,J Biomed Inform,Semi-supervised Double Deep Learning Temporal Risk Prediction (SeDDLeR) with Electronic He,2024-02-28,2024-06-25,2024-07-15,9,0
+38986921,10.1016/j.jbi.2024.104687,J Biomed Inform,Utilization of geospatial distribution in the measurement of study cohort representativene,2024-03-08,2024-07-04,2024-07-11,9,33
+38925280,10.1016/j.jbi.2024.104679,J Biomed Inform,Assessing gait dysfunction severity in Parkinson's Disease using 2-Stream Spatial-Temporal,2024-01-22,2024-06-19,2024-06-27,1,0
+38880237,10.1016/j.jbi.2024.104669,J Biomed Inform,Assessing inclusion and representativeness on digital platforms for health education: Evid,2023-11-15,2024-06-05,2024-06-17,4,0
+39002866,10.1016/j.jbi.2024.104688,J Biomed Inform,Deep survival analysis for interpretable time-varying prediction of preeclampsia risk.,2024-01-20,2024-07-08,2024-07-14,4,34
+38977257,10.1016/j.jbi.2024.104686,J Biomed Inform,Implementation and evaluation of a system for assessment of the quality of long-term manag,2024-02-17,2024-07-03,2024-07-09,6,0
+38960273,10.1016/j.jbi.2024.104681,J Biomed Inform,Provision and evaluation of explanations within an automated planning-based approach to so,2024-01-18,2024-06-22,2024-07-04,5,0
+38944260,10.1016/j.jbi.2024.104682,J Biomed Inform,Enhancing healthcare process analysis through object-centric process mining: Transforming ,2024-02-21,2024-06-22,2024-06-30,3,0
+38936566,10.1016/j.jbi.2024.104684,J Biomed Inform,Deep self-reconstruction driven joint nonnegative matrix factorization model for identifyi,2024-04-11,2024-06-24,2024-06-28,4,0
+38936565,10.1016/j.jbi.2024.104678,J Biomed Inform,Privacy-preserving model evaluation for logistic and linear regression using homomorphical,2024-04-16,2024-06-19,2024-06-28,4,51
+38925281,10.1016/j.jbi.2024.104683,J Biomed Inform,Assessing racial bias in healthcare predictive models: Practical lessons from an empirical,2023-11-13,2024-06-23,2024-06-27,5,0
+38914411,10.1016/j.jbi.2024.104680,J Biomed Inform,Non-invasive prediction of massive transfusion during surgery using intraoperative hemodyn,2024-03-21,2024-06-21,2024-06-25,9,0
+38880236,10.1016/j.jbi.2024.104662,J Biomed Inform,Applying generative AI with retrieval augmented generation to summarize and extract key cl,2024-02-03,2024-05-28,2024-06-17,4,0
+38880235,10.1016/j.jbi.2024.104670,J Biomed Inform,Toward the European Health Data Space: The IMPaCT-Data secure infrastructure for EHR-based,2023-11-14,2024-06-05,2024-06-17,4,0
+38876453,10.1016/j.jbi.2024.104677,J Biomed Inform,Assessing fairness in machine learning models: A study of racial bias using matched counte,2023-10-01,2024-06-11,2024-06-15,7,46
+38876452,10.1016/j.jbi.2024.104671,J Biomed Inform,Identify and mitigate bias in electronic phenotyping: A comprehensive study from computati,2023-10-01,2024-06-05,2024-06-15,4,0
+38876451,10.1016/j.jbi.2024.104676,J Biomed Inform,Location-enhanced syntactic knowledge for biomedical relation extraction.,2024-01-05,2024-06-10,2024-06-15,5,0
+38871012,10.1016/j.jbi.2024.104674,J Biomed Inform,Improving biomedical Named Entity Recognition with additional external contexts.,2024-01-27,2024-06-07,2024-06-14,6,0
+38862083,10.1016/j.jbi.2024.104673,J Biomed Inform,Clinical domain knowledge-derived template improves post hoc AI explanations in pneumothor,2024-03-27,2024-06-07,2024-06-12,8,0
+38857738,10.1016/j.jbi.2024.104672,J Biomed Inform,DAS-DDI: A dual-view framework with drug association and drug structure for drug-drug inte,2024-03-18,2024-06-06,2024-06-11,5,0
+38857737,10.1016/j.jbi.2024.104668,J Biomed Inform,Clinical research text summarization method based on fusion of domain knowledge.,2024-02-23,2024-06-04,2024-06-11,4,0
+38852777,10.1016/j.jbi.2024.104665,J Biomed Inform,Event prediction by estimating continuously the completion of a single temporal pattern's ,2023-10-08,2024-06-03,2024-06-10,3,0
+38851413,10.1016/j.jbi.2024.104664,J Biomed Inform,Evaluating accuracy and fairness of clinical decision support algorithms when health care ,2023-09-29,2024-06-02,2024-06-09,4,0
+38848885,10.1016/j.jbi.2024.104667,J Biomed Inform,Towards the automatic calculation of the EQUAL Candida Score: Extraction of CVC-related in,2023-06-22,2024-06-03,2024-06-08,14,0
+38838949,10.1016/j.jbi.2024.104663,J Biomed Inform,Promoting equity in clinical research: The role of social determinants of health.,2024-03-22,2024-06-02,2024-06-06,7,53
+38848886,10.1016/j.jbi.2024.104666,J Biomed Inform,Understanding random resampling techniques for class imbalance correction and their conseq,2023-12-12,2024-06-03,2024-06-08,6,0
+38806105,10.1016/j.jbi.2024.104661,J Biomed Inform,Data harmonization and federated learning for multi-cohort dementia research using the OMO,2024-01-29,2024-05-23,2024-05-29,17,0
+38788889,10.1016/j.jbi.2024.104660,J Biomed Inform,Identifying erroneous height and weight values from adult electronic health records in the,2023-11-08,2024-05-21,2024-05-25,9,29
+38782170,10.1016/j.jbi.2024.104656,J Biomed Inform,Causal fairness assessment of treatment allocation with electronic health records.,2023-10-02,2024-05-14,2024-05-24,7,57
+38782169,10.1016/j.jbi.2024.104658,J Biomed Inform,Enhancing the coverage of SemRep using a relation classification approach.,2023-12-19,2024-05-18,2024-05-24,3,50
+38777085,10.1016/j.jbi.2024.104659,J Biomed Inform,Converting OMOP CDM to phenopackets: A model alignment and patient data representation eva,2023-12-06,2024-05-18,2024-05-23,6,34
+38772443,10.1016/j.jbi.2024.104657,J Biomed Inform,Using a clinical narrative-aware pre-trained language model for predicting emergency depar,2024-02-11,2024-05-18,2024-05-22,3,0
+38754531,10.1016/j.jbi.2024.104655,J Biomed Inform,How can we reward you? A compliance and reward ontology (CaRO) for eliciting quantitative ,2024-03-11,2024-05-11,2024-05-17,4,0
+38740316,10.1016/j.jbi.2024.104654,J Biomed Inform,A roadmap to artificial intelligence (AI): Methods for designing and building AI ready dat,2023-09-29,2024-05-10,2024-05-14,6,17
+38734158,10.1016/j.jbi.2024.104653,J Biomed Inform,Opportunities for incorporating intersectionality into biomedical informatics.,2023-11-18,2024-05-08,2024-05-12,6,152
+38718897,10.1016/j.jbi.2024.104652,J Biomed Inform,Cost prediction for ischemic heart disease hospitalization: Interpretable feature extracti,2023-11-21,2024-05-01,2024-05-09,4,0
+38703936,10.1016/j.jbi.2024.104651,J Biomed Inform,Chat-ePRO: Development and pilot study of an electronic patient-reported outcomes system b,2023-12-13,2024-04-29,2024-05-05,5,0
+38701887,10.1016/j.jbi.2024.104650,J Biomed Inform,Automated annotation of disease subtypes.,2023-11-08,2024-04-29,2024-05-04,2,0
+38697494,10.1016/j.jbi.2024.104649,J Biomed Inform,Criteria2Query 3.0: Leveraging generative large language models for clinical trial eligibi,2023-11-12,2024-04-29,2024-05-03,11,49
+38692465,10.1016/j.jbi.2024.104647,J Biomed Inform,Towards Machine-FAIR: Representing software and datasets to facilitate reuse and scientifi,2023-11-15,2024-04-28,2024-05-02,4,42
+38692464,10.1016/j.jbi.2024.104648,J Biomed Inform,Forecasting acute kidney injury and resource utilization in ICU patients using longitudina,2024-03-16,2024-04-29,2024-05-02,7,61
+38642627,10.1016/j.jbi.2024.104641,J Biomed Inform,A framework for longitudinal latent factor modelling of treatment response in clinical tri,2023-12-02,2024-04-11,2024-04-21,21,0
+38631462,10.1016/j.jbi.2024.104644,J Biomed Inform,Identifying gene expression programs in single-cell RNA-seq data using linear correlation ,2023-10-05,2024-04-14,2024-04-18,6,0
+38561170,10.1016/j.jbi.2024.104627,J Biomed Inform,Clinical trial recommendations using Semantics-Based inductive inference and knowledge gra,2023-10-20,2024-03-20,2024-04-02,5,0
+38636701,10.1016/j.jbi.2024.104645,J Biomed Inform,Special issue on learning from multiple data sources for decision making in health care.,2024-04-10,2024-04-16,2024-04-19,3,0
+38631461,10.1016/j.jbi.2024.104638,J Biomed Inform,MixEHR-SurG: A joint proportional hazard and guided topic model for inferring mortality-as,2023-12-20,2024-04-03,2024-04-18,4,0
+38621641,10.1016/j.jbi.2024.104642,J Biomed Inform,Identifying social determinants of health from clinical narratives: A study of performance,2023-10-25,2024-04-12,2024-04-16,16,59
+38621640,10.1016/j.jbi.2024.104643,J Biomed Inform,Variation in monitoring: Glucose measurement in the ICU as a case study to preempt spuriou,2023-09-30,2024-04-12,2024-04-16,6,55
+38608915,10.1016/j.jbi.2024.104640,J Biomed Inform,Leveraging generative AI for clinical evidence synthesis needs to ensure trustworthiness.,2023-09-29,2024-04-09,2024-04-13,14,68
+38583580,10.1016/j.jbi.2024.104639,J Biomed Inform,Discovering clinical drug-drug interactions with known pharmacokinetics mechanisms using s,2024-01-24,2024-04-05,2024-04-08,4,0
+38548007,10.1016/j.jbi.2024.104630,J Biomed Inform,Model tuning or prompt Tuning? a study of large language models for clinical concept and r,2023-12-20,2024-03-25,2024-03-29,7,44
+38548008,10.1016/j.jbi.2024.104628,J Biomed Inform,Automatic categorization of self-acknowledged limitations in randomized controlled trial p,2023-10-02,2024-03-24,2024-03-29,5,75
+38548006,10.1016/j.jbi.2024.104631,J Biomed Inform,Participant flow diagrams for health equity in AI.,2023-09-30,2024-03-26,2024-03-29,7,0
+38521180,10.1016/j.jbi.2024.104626,J Biomed Inform,Developing deep learning-based strategies to predict the risk of hepatocellular carcinoma ,2023-11-20,2024-03-20,2024-03-24,9,0
+38467324,10.1016/j.jbi.2024.104624,J Biomed Inform,ParTRE: A relational triple extraction model of complicated entities and imbalanced relati,2023-07-09,2024-03-07,2024-03-12,3,0
+38458578,10.1016/j.jbi.2024.104623,J Biomed Inform,FedFSA: Hybrid and federated framework for functional status ascertainment across institut,2023-10-12,2024-03-04,2024-03-09,18,36
+38432534,10.1016/j.jbi.2024.104617,J Biomed Inform,Creating a computer assisted ICD coding system: Performance metric choice and use of the I,2023-09-11,2024-02-24,2024-03-04,3,0
+38423266,10.1016/j.jbi.2024.104615,J Biomed Inform,Soft phenotyping for sepsis via EHR time-aware soft clustering.,2023-12-01,2024-02-20,2024-03-01,7,42
+38431151,10.1016/j.jbi.2024.104618,J Biomed Inform,Detecting goals of care conversations in clinical notes with active learning.,2023-07-03,2024-02-26,2024-03-03,11,27
+38395099,10.1016/j.jbi.2024.104614,J Biomed Inform,Improving the interoperability of drugs terminologies: Infusing local standardization with,2023-08-15,2024-02-17,2024-02-24,5,0
+38360080,10.1016/j.jbi.2024.104607,J Biomed Inform,Temporal attention networks for biomedical hypothesis generation.,2023-12-29,2024-02-12,2024-02-16,5,0
+38346530,10.1016/j.jbi.2024.104602,J Biomed Inform,Multi-view representation learning for tabular data integration using inter-feature relati,2023-08-24,2024-02-01,2024-02-13,6,0
+38325698,10.1016/j.jbi.2024.104606,J Biomed Inform,SPeC: A Soft Prompt-Based Calibration on Performance Variability of Large Language Model i,2023-08-09,2024-02-04,2024-02-08,4,37
+38307358,10.1016/j.jbi.2024.104601,J Biomed Inform,Evaluating the dynamic interplay of social distancing policies regarding airborne pathogen,2023-08-19,2024-01-27,2024-02-03,4,0
+38331082,10.1016/j.jbi.2024.104605,J Biomed Inform,EHR-BERT: A BERT-based model for effective anomaly detection in electronic health records.,2023-08-09,2024-02-04,2024-02-09,9,0
+38301750,10.1016/j.jbi.2024.104600,J Biomed Inform,CLARUS: An interactive explainable AI platform for manual counterfactuals in graph neural ,2023-09-07,2024-01-22,2024-02-02,7,0
+38272433,10.1016/j.jbi.2024.104599,J Biomed Inform,CMBEE: A constraint-based multi-task learning framework for biomedical event extraction.,2023-08-07,2024-01-19,2024-01-26,5,0
+38272432,10.1016/j.jbi.2024.104597,J Biomed Inform,Adjusting for false discoveries in constraint-based differential metabolic flux analysis.,2023-02-28,2024-01-19,2024-01-26,3,0
+38253228,10.1016/j.jbi.2024.104598,J Biomed Inform,Useful blunders: Can automated speech recognition errors improve downstream dementia class,2023-02-17,2024-01-19,2024-01-23,4,56
+38244956,10.1016/j.jbi.2024.104587,J Biomed Inform,Strategies for secondary use of real-world clinical and administrative data for outcome as,2023-08-23,2024-01-09,2024-01-21,12,0
+38199300,10.1016/j.jbi.2024.104584,J Biomed Inform,Few-shot learning based oral cancer diagnosis using a dual feature extractor prototypical ,2023-08-16,2024-01-02,2024-01-11,3,0
+38191012,10.1016/j.jbi.2024.104585,J Biomed Inform,Counterfactual formulation of patient-specific root causes of disease.,2023-07-28,2024-01-02,2024-01-09,1,0
+38191011,10.1016/j.jbi.2024.104586,J Biomed Inform,MultiWD: Multi-label wellness dimensions in social media posts.,2023-10-12,2024-01-03,2024-01-09,5,28
+38191010,10.1016/j.jbi.2024.104583,J Biomed Inform,PRIMIS: Privacy-preserving medical image sharing via deep sparsifying transform learning w,2023-05-27,2024-01-02,2024-01-09,8,0
+38160758,10.1016/j.jbi.2023.104582,J Biomed Inform,Development of a 3-Step theory of suicide ontology to facilitate 3ST factor extraction fro,2023-09-18,2023-12-22,2024-01-02,9,44
+38163514,10.1016/j.jbi.2023.104580,J Biomed Inform,Retrieval augmentation of large language models for lay language generation.,2023-07-07,2023-12-17,2024-01-02,5,82
+38142903,10.1016/j.jbi.2023.104581,J Biomed Inform,Learning from vertically distributed data across multiple sites: An efficient privacy-pres,2023-05-21,2023-12-19,2023-12-25,6,47
+38135173,10.1016/j.jbi.2023.104579,J Biomed Inform,The PACIFIC ontology for heterogeneous data management in cardiology.,2023-05-11,2023-12-13,2023-12-23,13,0
+38122841,10.1016/j.jbi.2023.104578,J Biomed Inform,Fine-tuning coreference resolution for different styles of clinical narratives.,2023-08-08,2023-12-12,2023-12-21,3,0
+38104851,10.1016/j.jbi.2023.104569,J Biomed Inform,Identifying the joint signature of brain atrophy and gene variant scores in Alzheimer's Di,2023-02-22,2023-12-07,2023-12-18,9,0
+38101690,10.1016/j.jbi.2023.104576,J Biomed Inform,Deep learning uncertainty quantification for clinical text classification.,2023-04-22,2023-12-10,2023-12-16,17,39
+38101689,10.1016/j.jbi.2023.104577,J Biomed Inform,Improving severity classification of Hebrew PET-CT pathology reports using test-time augme,2023-03-31,2023-12-10,2023-12-16,4,0
+38096945,10.1016/j.jbi.2023.104567,J Biomed Inform,Providing clinical context to the spatio-temporal analysis of 4D CT perfusion to predict a,2023-06-09,2023-12-07,2023-12-15,6,0
+38096944,10.1016/j.jbi.2023.104570,J Biomed Inform,ACDNet: Attention-guided Collaborative Decision Network for effective medication recommend,2023-07-05,2023-12-07,2023-12-15,4,0
+38092247,10.1016/j.jbi.2023.104571,J Biomed Inform,A data-driven epidemic model with human mobility and vaccination protection for COVID-19 p,2023-08-13,2023-12-07,2023-12-14,5,0
+38081566,10.1016/j.jbi.2023.104572,J Biomed Inform,Updating and recalibrating causal probabilistic models on a new target population.,2023-07-06,2023-12-08,2023-12-12,7,0
+38081565,10.1016/j.jbi.2023.104573,J Biomed Inform,Evaluation of clinical practice guideline-derived clinical decision support systems using ,2022-12-12,2023-12-08,2023-12-12,4,0
+38081564,10.1016/j.jbi.2023.104568,J Biomed Inform,Enhanced family history-based algorithms increase the identification of individuals meetin,2023-09-21,2023-12-07,2023-12-12,10,24
+38070818,10.1016/j.jbi.2023.104566,J Biomed Inform,Re-ordered fuzzy conformance checking for uncertain clinical records.,2023-04-11,2023-12-06,2023-12-10,7,0
+38070817,10.1016/j.jbi.2023.104532,J Biomed Inform,Trans-Balance: Reducing demographic disparity for prediction models in the presence of cla,2023-02-26,2023-10-28,2023-12-10,6,31
+38070816,10.1016/j.jbi.2023.104560,J Biomed Inform,Obtaining clinical term embeddings from SNOMED CT ontology.,2023-06-16,2023-12-05,2023-12-10,2,0
+38056702,10.1016/j.jbi.2023.104559,J Biomed Inform,Language inference-based learning for Low-Resource Chinese clinical named entity recogniti,2023-08-28,2023-11-30,2023-12-07,5,0
+38043883,10.1016/j.jbi.2023.104548,J Biomed Inform,Efficient adversarial debiasing with concept activation vector - Medical image case-studie,2023-04-25,2023-11-16,2023-12-04,6,31
+38035971,10.1016/j.jbi.2023.104558,J Biomed Inform,Convert-Pheno: A software toolkit for the interconversion of standard data models for phen,2023-07-11,2023-11-27,2023-12-01,3,0
+38008241,10.1016/j.jbi.2023.104555,J Biomed Inform,Data and models for stance and premise detection in COVID-19 tweets: Insights from the Soc,2023-06-27,2023-12-15,2023-11-27,3,0
+38000765,10.1016/j.jbi.2023.104551,J Biomed Inform,Towards a framework for interoperability and reproducibility of predictive models.,2023-04-05,2023-11-19,2023-11-25,7,0
+37992791,10.1016/j.jbi.2023.104545,J Biomed Inform,A transformer-based deep learning approach for fairly predicting post-liver transplant ris,2023-06-15,2023-11-13,2023-11-23,3,33
+41456845,10.1016/j.jbi.2025.104971,J Biomed Inform,Augmented intelligence for multimodal virtual biopsy in breast cancer using generative art,2025-05-27,2025-12-19,2025-12-29,5,0
+41475631,10.1016/j.jbi.2025.104975,J Biomed Inform,Integrating retrospective quality assessment with real-time guideline application to suppo,2025-07-24,2025-12-25,2026-01-01,9,0
+41453502,10.1016/j.jbi.2025.104972,J Biomed Inform,Fusion framework: Conditional-aware one-stage nested event extraction model.,2025-08-03,2025-12-19,2025-12-27,6,0
+41443488,10.1016/j.jbi.2025.104973,J Biomed Inform,Mamba-enhanced disease semantic knowledge graph for interpretable automatic ICD coding.,2025-07-10,2025-12-20,2025-12-25,4,0
+41421688,10.1016/j.jbi.2025.104968,J Biomed Inform,Beyond manual transcripts: Exploring the potential of automatic speech recognition errors ,2025-07-10,2025-12-06,2025-12-21,9,0
+41386532,10.1016/j.jbi.2025.104970,J Biomed Inform,Modeling temporal self and interactive evolution for biomedical hypothesis generation.,2025-08-12,2025-12-10,2025-12-13,6,0
+41386531,10.1016/j.jbi.2025.104969,J Biomed Inform,Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and i,2025-07-17,2025-12-09,2025-12-13,4,0
+41354118,10.1016/j.jbi.2025.104966,J Biomed Inform,CausalGenDiff: Generative causal diffusion bridges scRNA-seq and spatial transcriptomics.,2025-08-29,2025-12-01,2025-12-08,3,38
+41330484,10.1016/j.jbi.2025.104963,J Biomed Inform,Domain adaptation of stable diffusion for ultrasound inpainting: a synthetic data approach,2025-05-31,2025-11-24,2025-12-03,2,0
+41325892,10.1016/j.jbi.2025.104965,J Biomed Inform,MDD-MARF: a multimodal depression detection model based on multi-level attention mechanism,2025-07-22,2025-11-28,2025-12-02,5,0
+41308969,10.1016/j.jbi.2025.104964,J Biomed Inform,Caption-augmented reasoning model with Hierarchical rank LoRA finetuing for medical visual,2025-04-30,2025-11-24,2025-11-28,4,0
+41297147,10.1016/j.jbi.2025.104962,J Biomed Inform,Study on multimodal spatially-constrained contrastive learning for knee osteoarthritis sev,2025-07-30,2025-11-24,2025-11-27,7,0
+41276241,10.1016/j.jbi.2025.104961,J Biomed Inform,Multi-scale cancer driver gene prediction by flexible data selection and network topology ,2025-09-04,2025-11-19,2025-11-24,12,0
+41260045,10.1016/j.jbi.2025.104960,J Biomed Inform,Predicting drug-target interactions based on multivariate information fusion and graph con,2025-07-02,2025-11-17,2025-11-20,9,0
+41248815,10.1016/j.jbi.2025.104955,J Biomed Inform,Multi-objective optimization formulation for Alzheimer's disease trial patient selection.,2025-08-04,2025-11-10,2025-11-18,3,0
+41242672,10.1016/j.jbi.2025.104957,J Biomed Inform,Turning Dialogues Into Event Data: Lessons From GPT-Based Recognition of Nursing Actions.,2025-08-01,2025-11-13,2025-11-17,6,0
+41242671,10.1016/j.jbi.2025.104959,J Biomed Inform,Unveiling novel bladder cancer associations from multicentred primary and secondary care e,2025-03-10,2025-11-14,2025-11-17,4,0
+41242670,10.1016/j.jbi.2025.104952,J Biomed Inform,SemNovel - A new approach to detecting semantic novelty of biomedical publications using e,2025-02-17,2025-11-07,2025-11-17,8,0
+41242669,10.1016/j.jbi.2025.104958,J Biomed Inform,TopicForest: embedding-driven hierarchical clustering and labeling for biomedical literatu,2025-08-04,2025-11-14,2025-11-17,6,44
+41237920,10.1016/j.jbi.2025.104956,J Biomed Inform,A method for characterizing disease progression from acute kidney injury to chronic kidney,2025-07-09,2025-11-11,2025-11-15,5,82
+41232786,10.1016/j.jbi.2025.104954,J Biomed Inform,A joint learning framework for analyzing data from national geriatric centralized networks,2025-07-31,2025-11-10,2025-11-14,8,43
+41205690,10.1016/j.jbi.2025.104928,J Biomed Inform,Attention-based synthetic data generation for calibration-enhanced survival analysis: A ca,2025-05-30,2025-10-08,2025-11-09,3,0
+41205689,10.1016/j.jbi.2025.104951,J Biomed Inform,LLM-DQR: Large language model-based automated generation of data quality rules for electro,2025-08-28,2025-11-05,2025-11-09,4,0
+41177245,10.1016/j.jbi.2025.104942,J Biomed Inform,Clinical pathway-aware large language models for reliable and transparent medical dialogue,2025-06-30,2025-10-17,2025-11-03,4,0
+41177244,10.1016/j.jbi.2025.104945,J Biomed Inform,Multimodal large language models and mechanistic modeling for glucose forecasting in type ,2025-04-15,2025-10-19,2025-11-03,4,0
+41177243,10.1016/j.jbi.2025.104949,J Biomed Inform,Scalable scientific interest profiling using large language models.,2025-05-22,2025-10-28,2025-11-03,9,56
+41161557,10.1016/j.jbi.2025.104947,J Biomed Inform,Vision-language model-based semantic-guided imaging biomarker for lung nodule malignancy p,2025-04-30,2025-10-19,2025-10-30,7,41
+41161556,10.1016/j.jbi.2025.104948,J Biomed Inform,TransDiffECG: Semantically controllable ECG synthesis via transformer-based diffusion mode,2025-05-30,2025-10-22,2025-10-30,8,0
+41138952,10.1016/j.jbi.2025.104938,J Biomed Inform,Enhancing AI-based diabetic retinopathy screening in low- and middle-income countries with,2025-05-27,2025-10-11,2025-10-26,6,0
+41135780,10.1016/j.jbi.2025.104941,J Biomed Inform,Pseudo-labeling and knowledge-guided contrastive learning for radiology report generation.,2025-05-13,2025-10-16,2025-10-25,4,0
+41235985,10.1016/j.jbi.2025.104943,J Biomed Inform,Pre-coding skin cancer from free-text pathology reports using noise-robust neural networks,2025-02-25,2025-10-18,2025-11-14,4,0
+41138954,10.1016/j.jbi.2025.104930,J Biomed Inform,Exploring multimodal large language models on transthoracic Echocardiogram (TTE) tasks for,2025-05-15,2025-10-08,2025-10-26,18,55
+41138953,10.1016/j.jbi.2025.104946,J Biomed Inform,"Scaling up biomedical vision-language models: Fine-tuning, instruction tuning, and multi-m",2025-04-30,2025-10-19,2025-10-26,6,71
+41129949,10.1016/j.jbi.2025.104944,J Biomed Inform,ADENER: A syntax-augmented grid-tagging model for Adverse Drug Event extraction in social ,2025-05-23,2025-10-18,2025-10-24,4,0
+41120049,10.1016/j.jbi.2025.104935,J Biomed Inform,Discovering signature disease trajectories in pancreatic cancer and soft-tissue sarcoma fr,2025-04-19,2025-10-03,2025-10-22,12,0
+41110740,10.1016/j.jbi.2025.104927,J Biomed Inform,TriMedPrompt: A unified prompting framework for realistic and layout-conformant clinical p,2025-05-31,2025-10-08,2025-10-20,2,0
+41110739,10.1016/j.jbi.2025.104940,J Biomed Inform,A non-interactive Online Medical Pre-Diagnosis system on encrypted vertically partitioned ,2025-05-28,2025-10-13,2025-10-20,4,0
+41110738,10.1016/j.jbi.2025.104932,J Biomed Inform,Towards a Biological Evaluation Framework for Oversampling (BEFO) gene expression data.,2025-02-17,2025-10-08,2025-10-20,4,0
+41110737,10.1016/j.jbi.2025.104929,J Biomed Inform,Synthetic-to-real attentive deep learning for Alzheimer's assessment: A domain-agnostic fr,2025-05-17,2025-10-08,2025-10-20,2,0
+41109546,10.1016/j.jbi.2025.104933,J Biomed Inform,Integrated analysis for electronic health records with structured and sporadic missingness,2025-04-20,2025-10-08,2025-10-19,6,49
+41101426,10.1016/j.jbi.2025.104937,J Biomed Inform,Interpretable statistical modeling of patient flow in emergency departments.,2025-05-26,2025-10-11,2025-10-17,2,0
+41101425,10.1016/j.jbi.2025.104939,J Biomed Inform,A comprehensive evaluation framework for synthetic medical tabular data generation.,2025-05-22,2025-10-12,2025-10-17,2,0
+41093123,10.1016/j.jbi.2025.104924,J Biomed Inform,Soft label-guided transformer for radiology report generation.,2025-02-18,2025-10-03,2025-10-16,5,0
+41093122,10.1016/j.jbi.2025.104936,J Biomed Inform,A LangChain-based pipeline for one-shot synthetic text generation using generative pre-tra,2025-05-20,2025-10-10,2025-10-16,7,0
+41083099,10.1016/j.jbi.2025.104931,J Biomed Inform,From image to report: automating lung cancer screening interpretation and reporting with v,2025-04-30,2025-10-08,2025-10-14,17,33
+41077294,10.1016/j.jbi.2025.104926,J Biomed Inform,MF-DTA: Predicting drug-target affinity with multi-modal feature fusion model.,2025-07-30,2025-10-06,2025-10-13,4,0
+41067296,10.1016/j.jbi.2025.104923,J Biomed Inform,Multi-feature machine learning for enhanced drug-drug interaction prediction.,2025-07-09,2025-09-26,2025-10-10,2,0
+41052664,10.1016/j.jbi.2025.104925,J Biomed Inform,A REDCap advanced randomization module to meet the needs of modern trials.,2025-05-07,2025-10-03,2025-10-07,12,36
+41043697,10.1016/j.jbi.2025.104920,J Biomed Inform,Accelerating probabilistic privacy-preserving medical record linkage: A three-party MPC ap,2025-04-29,2025-09-22,2025-10-04,4,0
+41038297,10.1016/j.jbi.2025.104921,J Biomed Inform,GraphFusion: Integrative prediction of drug synergy using multi-scale graph representation,2025-06-02,2025-09-25,2025-10-03,3,0
+41022360,10.1016/j.jbi.2025.104919,J Biomed Inform,Definitions to data flow: Operationalizing MIABIS in HL7 FHIR.,2025-05-27,2025-09-22,2025-09-30,8,0
+41015224,10.1016/j.jbi.2025.104914,J Biomed Inform,Cross-scale semantic fusion integration of dual pathway models in drug repositioning.,2025-07-03,2025-09-19,2025-09-28,4,0
+41015222,10.1016/j.jbi.2025.104916,J Biomed Inform,Drug repositioning with metapath guidance and adaptive negative sampling enhancement.,2025-06-24,2025-09-19,2025-09-28,6,0
+40998280,10.1016/j.jbi.2025.104913,J Biomed Inform,LFVDNet: Low-frequency variable-driven network for medical time series.,2025-05-14,2025-09-15,2025-09-26,6,0
+40998279,10.1016/j.jbi.2025.104918,J Biomed Inform,Measuring and visualizing healthcare process variability.,2025-03-18,2025-09-22,2025-09-26,3,0
+40987372,10.1016/j.jbi.2025.104915,J Biomed Inform,Prediction of Single-Cell perturbation response based on Direction-Constrained diffusion S,2025-06-28,2025-09-19,2025-09-24,5,0
+40972780,10.1016/j.jbi.2025.104912,J Biomed Inform,MPCM-RRG: Multi-modal Prompt Collaboration Mechanism for Radiology Report Generation.,2025-04-09,2025-09-11,2025-09-20,10,0
+40962129,10.1016/j.jbi.2025.104906,J Biomed Inform,"SynthMedic: Utilizing large language models for synthetic discharge summary generation, co",2025-01-05,2025-09-03,2025-09-18,7,0
+40953714,10.1016/j.jbi.2025.104910,J Biomed Inform,BiFDR: Brain-Inspired Federated Diffusion Transformer with Reinforcement for privacy-prese,2025-04-18,2025-09-07,2025-09-16,4,0
+40945670,10.1016/j.jbi.2025.104909,J Biomed Inform,A machine learning approach for automating review of a RxNorm medication mapping pipeline ,2025-04-06,2025-09-04,2025-09-14,7,0
+40939950,10.1016/j.jbi.2025.104905,J Biomed Inform,Secondary use of radiological imaging data: Vanderbilt's ImageVU approach.,2025-04-18,2025-09-03,2025-09-13,13,35
+40935223,10.1016/j.jbi.2025.104911,J Biomed Inform,An optimized code-free AI approach for efficient and accurate literature screening in bone,2025-06-09,2025-09-08,2025-09-12,9,0
+40935222,10.1016/j.jbi.2025.104907,J Biomed Inform,PCGMMF: a prediction method for breast cancer prognostic recurrence and metastasis risk ba,2025-03-26,2025-09-03,2025-09-12,5,0
+40935221,10.1016/j.jbi.2025.104908,J Biomed Inform,Comparing clinical decision support systems for improving follow-up of abnormal cervical c,2025-02-10,2025-09-03,2025-09-12,17,0
+40907847,10.1016/j.jbi.2025.104904,J Biomed Inform,Overcoming data challenges through enriched validation and targeted sampling to measure wh,2025-02-21,2025-08-27,2025-09-05,10,64
+40886813,10.1016/j.jbi.2025.104901,J Biomed Inform,MedVidDeID: Protecting privacy in clinical encounter video recordings.,2025-01-21,2025-08-21,2025-09-01,10,56
+40886812,10.1016/j.jbi.2025.104888,J Biomed Inform,WoundcareVQA: A multilingual visual question answering benchmark dataset for wound care.,2025-02-04,2025-07-28,2025-09-01,10,0
+40885281,10.1016/j.jbi.2025.104893,J Biomed Inform,Improving large language models for adverse drug reactions named entity recognition via er,2025-02-11,2025-08-09,2025-08-31,2,0
+40854447,10.1016/j.jbi.2025.104900,J Biomed Inform,CeRTS: certainty retrieval token search in large language model clinical information extra,2025-05-28,2025-08-21,2025-08-26,8,0
+40849054,10.1016/j.jbi.2025.104899,J Biomed Inform,Perplexity and proximity: Large language model perplexity complements semantic distance me,2025-03-10,2025-08-18,2025-08-24,10,39
+40849052,10.1016/j.jbi.2025.104896,J Biomed Inform,Resource-efficient instruction tuning of large language models for biomedical named entity,2025-02-24,2025-08-13,2025-08-24,7,0
+40849053,10.1016/j.jbi.2025.104898,J Biomed Inform,Medication information extraction using local large language models.,2025-04-15,2025-08-18,2025-08-24,7,0
+40835041,10.1016/j.jbi.2025.104894,J Biomed Inform,Biomedical knowledge graph verification with multitask learning architectures.,2025-02-07,2025-08-11,2025-08-21,3,0
+40796056,10.1016/j.jbi.2025.104889,J Biomed Inform,AI-driven approach for creating and evaluating a synthetic dataset for Medication Errors.,2024-11-13,2025-07-28,2025-08-13,7,0
+40752671,10.1016/j.jbi.2025.104883,J Biomed Inform,Measuring disease burden with individual cumulative incidence in patients with cirrhosis.,2025-02-14,2025-07-21,2025-08-03,4,18
+40744316,10.1016/j.jbi.2025.104884,J Biomed Inform,CLEAR: A vision to support clinical evidence lifecycle with continuous learning.,2025-04-22,2025-07-24,2025-08-01,7,85
+40730293,10.1016/j.jbi.2025.104887,J Biomed Inform,Conceptual framework for prediction models of patient deterioration based on nursing docum,2025-02-28,2025-07-26,2025-07-30,10,42
+40730292,10.1016/j.jbi.2025.104886,J Biomed Inform,An open-set semi-supervised multi-task learning framework for context classification in bi,2024-12-17,2025-07-26,2025-07-30,5,0
+40720988,10.1016/j.jbi.2025.104885,J Biomed Inform,GutGPT: A multidimensional knowledge-enhanced large language model for gastrointestinal me,2025-03-16,2025-07-24,2025-07-29,7,0
+40712810,10.1016/j.jbi.2025.104869,J Biomed Inform,Adaptive-AutoMO: A domain adaptive automated multiobjective neural network for reliable le,2024-10-15,2025-06-22,2025-07-28,5,0
+40706946,10.1016/j.jbi.2025.104877,J Biomed Inform,Federated causal discovery with missing data in a multicentric study on endometrial cancer,2024-10-14,2025-07-07,2025-07-25,7,0
+40701259,10.1016/j.jbi.2025.104880,J Biomed Inform,Variational temporal deconfounder network for individualized treatment effect estimation w,2025-01-16,2025-07-14,2025-07-24,7,59
+40691893,10.1016/j.jbi.2025.104882,J Biomed Inform,Natural language processing for scalable feature engineering and ultra-high-dimensional co,2025-01-23,2025-07-19,2025-07-22,10,0
+40680806,10.1016/j.jbi.2025.104881,J Biomed Inform,Identifying task groupings for multi-task learning using pointwise V-usable information.,2024-12-27,2025-07-14,2025-07-19,4,0
+40675403,10.1016/j.jbi.2025.104874,J Biomed Inform,A multifaceted approach to drug-drug interaction extraction with fusion strategies.,2025-01-26,2025-07-07,2025-07-18,5,0
+40664278,10.1016/j.jbi.2025.104878,J Biomed Inform,Identifying homogenous patient subgroups using transformer based hierarchical clustering o,2025-03-17,2025-07-11,2025-07-16,4,0
+40653098,10.1016/j.jbi.2025.104872,J Biomed Inform,COVID-19 prediction with doubly multi-task Gaussian Process.,2025-03-28,2025-06-29,2025-07-14,8,0
+40639555,10.1016/j.jbi.2025.104876,J Biomed Inform,Uncovering digital overdiagnosis - Quantification and mitigation using clinical trajectori,2024-11-30,2025-07-07,2025-07-11,3,0
+40623578,10.1016/j.jbi.2025.104873,J Biomed Inform,Accounting for population structure in deep learning models for genomic analysis.,2025-04-03,2025-06-30,2025-07-08,4,0
+40623577,10.1016/j.jbi.2025.104870,J Biomed Inform,Joint modeling of mixed outcomes using a rank-based sparse neural network.,2025-03-16,2025-06-23,2025-07-08,5,43
+40639554,10.1016/j.jbi.2025.104871,J Biomed Inform,MedKA: A knowledge graph-augmented approach to improve factuality in medical Large Languag,2025-02-02,2025-06-23,2025-07-11,5,0
+40619074,10.1016/j.jbi.2025.104868,J Biomed Inform,Leveraging heterogeneous tabular of EHRs with prompt learning for clinical prediction.,2025-02-09,2025-06-22,2025-07-07,6,0
+40578543,10.1016/j.jbi.2025.104864,J Biomed Inform,How well do multimodal LLMs interpret CT scans? An auto-evaluation framework for analyses.,2024-12-27,2025-06-10,2025-06-28,10,0
+40544901,10.1016/j.jbi.2025.104867,J Biomed Inform,A comparative study of recent large language models on generating hospital discharge summa,2024-11-19,2025-06-17,2025-06-23,8,0
+40544900,10.1016/j.jbi.2025.104857,J Biomed Inform,KGiA: Drug repurposing through disease-aware knowledge graph augmentation.,2024-12-10,2025-05-21,2025-06-23,4,69
+40543734,10.1016/j.jbi.2025.104865,J Biomed Inform,"Ontology enrichment using a large language model: Applying lexical, semantic, and knowledg",2024-05-07,2025-06-16,2025-06-22,5,66
+40523493,10.1016/j.jbi.2025.104862,J Biomed Inform,A declarative approach for interactive process discovery in the clinical domain.,2025-03-14,2025-06-02,2025-06-17,3,0
+40505790,10.1016/j.jbi.2025.104844,J Biomed Inform,Evaluating large language models for information extraction from gastroscopy and colonosco,2025-01-14,2025-05-04,2025-06-13,7,0
+40494422,10.1016/j.jbi.2025.104858,J Biomed Inform,Tailoring task arithmetic to address bias in models trained on multi-institutional dataset,2024-10-22,2025-05-23,2025-06-11,8,66
+40484188,10.1016/j.jbi.2025.104836,J Biomed Inform,An attention-based framework for integrating WSI and genomic data in cancer survival predi,2025-02-01,2025-04-22,2025-06-09,5,0
+40482691,10.1016/j.jbi.2025.104854,J Biomed Inform,Monitoring strategies for continuous evaluation of deployed clinical prediction models.,2025-02-07,2025-05-18,2025-06-08,5,42
+40480410,10.1016/j.jbi.2025.104855,J Biomed Inform,GRU-TV: Time- and Velocity-aware Gated Recurrent Unit for patient representation.,2025-01-20,2025-05-19,2025-06-07,9,0
+40466979,10.1016/j.jbi.2025.104852,J Biomed Inform,Multi-view based heterogeneous graph contrastive learning for drug-target interaction pred,2024-12-18,2025-05-15,2025-06-05,4,0
+40466978,10.1016/j.jbi.2025.104851,J Biomed Inform,GatorCLR: Personalized predictions of patient outcomes on electronic health records using ,2025-01-04,2025-05-14,2025-06-05,8,0
+40460925,10.1016/j.jbi.2025.104847,J Biomed Inform,Focused digital cohort selection from social media using the metric backbone of biomedical,2024-07-01,2025-05-08,2025-06-04,6,69
+40456502,10.1016/j.jbi.2025.104859,J Biomed Inform,A trajectory-informed model for detecting drug-drug-host interaction from real-world data.,2024-12-13,2025-05-23,2025-06-03,8,41
+40447171,10.1016/j.jbi.2025.104860,J Biomed Inform,Do it faster with PICOS: Generative AI-Assisted systematic review screening.,2025-01-13,2025-05-27,2025-05-31,7,0
+40456503,10.1016/j.jbi.2025.104849,J Biomed Inform,SigPhi-Med: A lightweight vision-language assistant for biomedicine.,2024-09-28,2025-05-13,2025-06-03,5,0
+40436186,10.1016/j.jbi.2025.104845,J Biomed Inform,Computational strategies in nutrigenetics: Constructing a reference dataset of nutrition-a,2024-07-05,2025-05-07,2025-05-29,6,0
+40409423,10.1016/j.jbi.2025.104856,J Biomed Inform,Navigating regulatory challenges across the life cycle of a SaMD.,2025-03-10,2025-05-20,2025-05-24,8,0
+40398830,10.1016/j.jbi.2025.104853,J Biomed Inform,Impacts of sample weighting on transferability of risk prediction models across EHR-Linked,2025-01-24,2025-05-18,2025-05-22,7,0
+40389101,10.1016/j.jbi.2025.104843,J Biomed Inform,Adaptive debiasing learning for drug repositioning.,2025-01-10,2025-05-01,2025-05-20,10,0
+40381869,10.1016/j.jbi.2025.104850,J Biomed Inform,Biomedical text normalization through generative modeling.,2025-01-17,2025-05-13,2025-05-18,5,37
+40360137,10.1016/j.jbi.2025.104846,J Biomed Inform,A lightweight graph neural network to predict long-term mortality in coronary artery disea,2025-01-25,2025-05-08,2025-05-14,6,0
+40354908,10.1016/j.jbi.2025.104833,J Biomed Inform,Evaluating an information theoretic approach for selecting multimodal data fusion methods.,2024-12-28,2025-04-20,2025-05-13,4,0
+40360136,10.1016/j.jbi.2025.104835,J Biomed Inform,Multi-agent norm perception and induction in distributed healthcare.,2024-12-23,2025-04-21,2025-05-14,4,0
+40348310,10.1016/j.jbi.2025.104840,J Biomed Inform,Knowledge-enhanced Parameter-efficient Transfer Learning with METER for medical vision-lan,2024-11-04,2025-04-23,2025-05-11,5,0
+40345356,10.1016/j.jbi.2025.104842,J Biomed Inform,Implementation of a Digital Maturity Framework for Biobanking.,2024-10-30,2025-04-27,2025-05-10,18,0
+40339968,10.1016/j.jbi.2025.104834,J Biomed Inform,Multimodal fusion architectures for Alzheimer's disease diagnosis: An experimental study.,2024-12-24,2025-04-20,2025-05-09,3,0
+40339967,10.1016/j.jbi.2025.104838,J Biomed Inform,Interpretable deep neural networks for advancing early neonatal birth weight prediction us,2024-10-31,2025-04-23,2025-05-09,7,0
+40324665,10.1016/j.jbi.2025.104826,J Biomed Inform,A transformer-based framework for temporal health event prediction with graph-enhanced rep,2024-12-17,2025-04-03,2025-05-06,5,0
+40320101,10.1016/j.jbi.2025.104830,J Biomed Inform,CD-Tron: Leveraging large clinical language model for early detection of cognitive decline,2024-10-28,2025-04-13,2025-05-05,3,45
+40320100,10.1016/j.jbi.2025.104841,J Biomed Inform,Bioinformatic challenges in metagenomic next generation sequencing data analysis while unr,2025-03-16,2025-04-26,2025-05-05,9,0
+40316004,10.1016/j.jbi.2025.104839,J Biomed Inform,Leveraging undecided cases in chart-reviewed phenotypes to enhance EHR-based association s,2024-08-30,2025-04-23,2025-05-03,8,59
+40306353,10.1016/j.jbi.2025.104832,J Biomed Inform,PregAN-NET: Addressing Class Imbalance with GANs in Interpretable Computational Framework ,2024-12-11,2025-04-15,2025-05-01,3,0
+40280380,10.1016/j.jbi.2025.104837,J Biomed Inform,Unsupervised discovery of clinical disease signatures using probabilistic independence.,2024-11-25,2025-04-22,2025-04-26,9,98
+40274037,10.1016/j.jbi.2025.104829,J Biomed Inform,Leveraging natural language processing to elucidate real-world clinical decision-making pa,2024-11-26,2025-04-12,2025-04-25,5,0
+40274036,10.1016/j.jbi.2025.104828,J Biomed Inform,Causal inference for time series datasets with partially overlapping variables.,2024-11-17,2025-04-08,2025-04-25,3,23
+40268174,10.1016/j.jbi.2025.104831,J Biomed Inform,"Defining phenotypes of disease severity for long-term cardiovascular, renal, metabolic, an",2024-09-02,2025-04-13,2025-04-24,7,0
+40258407,10.1016/j.jbi.2025.104827,J Biomed Inform,ICPPNet: A semantic segmentation network model based on inter-class positional prior for s,2024-09-09,2025-04-07,2025-04-22,8,0
+40250743,10.1016/j.jbi.2025.104819,J Biomed Inform,RoBIn: A Transformer-based model for risk of bias inference with machine reading comprehen,2024-11-01,2025-03-25,2025-04-19,3,0
+40216371,10.1016/j.jbi.2025.104817,J Biomed Inform,A novel machine learning-based workflow to capture intra-patient heterogeneity through tra,2024-11-06,2025-03-14,2025-04-12,3,0
+40209919,10.1016/j.jbi.2025.104795,J Biomed Inform,Low-cost algorithms for clinical notes phenotype classification to enhance epidemiological,2024-11-01,2025-01-24,2025-04-11,6,0
+40209918,10.1016/j.jbi.2025.104821,J Biomed Inform,Transfer learning for a tabular-to-image approach: A case study for cardiovascular disease,2024-11-28,2025-03-27,2025-04-11,7,0
+40189181,10.1016/j.jbi.2025.104823,J Biomed Inform,Multi-modal fusion model for Time-Varying medical Data: Addressing Long-Term dependencies ,2024-12-04,2025-03-31,2025-04-07,5,0
+40185299,10.1016/j.jbi.2025.104824,J Biomed Inform,Deduplicating the FDA adverse event reporting system with a novel application of network-b,2024-11-08,2025-03-31,2025-04-05,6,0
+40180206,10.1016/j.jbi.2025.104820,J Biomed Inform,Identifying progression subphenotypes of Alzheimer's disease from large-scale electronic h,2024-11-30,2025-03-26,2025-04-04,16,69
+40180205,10.1016/j.jbi.2025.104812,J Biomed Inform,Enhancing data quality in medical concept normalization through large language models.,2024-09-07,2025-03-13,2025-04-04,4,0
+40174758,10.1016/j.jbi.2025.104822,J Biomed Inform,A practical guide to usability questionnaires that evaluate clinicians' perceptions of hea,2024-11-07,2025-03-29,2025-04-03,3,0
+40164439,10.1016/j.jbi.2025.104818,J Biomed Inform,Scalable and efficient on-chain data management in blockchain for large biomedical data.,2024-12-12,2025-03-19,2025-04-01,3,16
+40139623,10.1016/j.jbi.2025.104816,J Biomed Inform,PLAGCA: Predicting protein-ligand binding affinity with the graph cross-attention mechanis,2024-12-24,2025-03-14,2025-03-27,5,0
+40127852,10.1016/j.jbi.2025.104810,J Biomed Inform,Integrating Mendelian randomization and literature-mined evidence for breast cancer risk f,2024-12-18,2025-03-07,2025-03-25,5,0
+40122480,10.1016/j.jbi.2025.104813,J Biomed Inform,A graph neural network explainability strategy driven by key subgraph connectivity.,2024-12-29,2025-03-13,2025-03-24,3,0
+40122479,10.1016/j.jbi.2025.104808,J Biomed Inform,Ontology-driven identification of inconsistencies in clinical data: A case study in lung c,2024-09-26,2025-03-04,2025-03-24,5,0
+40118356,10.1016/j.jbi.2025.104799,J Biomed Inform,Uncovering hidden subtypes in dementia: An unsupervised machine learning approach to demen,2024-10-15,2025-02-01,2025-03-22,9,0
+40113190,10.1016/j.jbi.2025.104811,J Biomed Inform,A Language-Guided Progressive Fusion Network with semantic density alignment for Medical V,2024-11-05,2025-03-09,2025-03-21,3,0
+40090432,10.1016/j.jbi.2025.104815,J Biomed Inform,A novel data-driven approach for Personas validation in healthcare using self-supervised m,2024-09-18,2025-03-13,2025-03-17,4,0
+40090431,10.1016/j.jbi.2025.104814,J Biomed Inform,Tentative renderings: Describing local data infrastructures that support the implementatio,2024-10-28,2025-03-13,2025-03-17,12,31
+40058479,10.1016/j.jbi.2025.104793,J Biomed Inform,MedicalGLM: A Pediatric Medical Question Answering Model with a quality evaluation mechani,2024-10-29,2025-02-13,2025-03-10,4,0
+40054590,10.1016/j.jbi.2025.104780,J Biomed Inform,FedIMPUTE: Privacy-preserving missing value imputation for multi-site heterogeneous electr,2024-08-14,2025-01-18,2025-03-09,6,0
+40044019,10.1016/j.jbi.2025.104806,J Biomed Inform,Contextual information contributes to biomedical named entity normalization.,2024-06-12,2025-02-21,2025-03-06,4,0
+40049504,10.1016/j.jbi.2025.104802,J Biomed Inform,Enhancing generalization of medical image segmentation via game theory-based domain select,2024-08-28,2025-02-03,2025-03-07,3,0
+40024422,10.1016/j.jbi.2025.104803,J Biomed Inform,ieGENES: A machine learning method for selecting differentially expressed genes in cancer ,2024-10-17,2025-02-14,2025-03-03,5,0
+40010480,10.1016/j.jbi.2025.104792,J Biomed Inform,CECRel: A joint entity and relation extraction model for Chinese electronic medical record,2024-09-29,2025-02-13,2025-02-27,5,0
+39993589,10.1016/j.jbi.2025.104797,J Biomed Inform,Network-based analysis of Alzheimer's Disease genes using multi-omics network integration ,2024-10-23,2025-02-10,2025-02-25,3,0
+39993588,10.1016/j.jbi.2025.104798,J Biomed Inform,A comprehensive validation study on the influencing factors of cough-based COVID-19 detect,2024-10-15,2025-02-05,2025-02-25,8,0
+39988001,10.1016/j.jbi.2025.104796,J Biomed Inform,Missing-modality enabled multi-modal fusion architecture for medical data.,2024-10-26,2025-02-01,2025-02-24,5,0
+39971225,10.1016/j.jbi.2025.104801,J Biomed Inform,A multimodal machine learning algorithm improved diagnostic accuracy for otitis media in a,2024-09-18,2025-01-24,2025-02-20,7,0
+39978430,10.1016/j.jbi.2025.104805,J Biomed Inform,Imputation of missing aggregate EHR audit log data across individual and multiple organiza,2024-11-07,2025-02-17,2025-02-21,5,0
+39961540,10.1016/j.jbi.2025.104804,J Biomed Inform,Developing libraries of semantically-augmented graphics as visual standards for biomedical,2024-10-31,2025-02-14,2025-02-18,3,38
+39956347,10.1016/j.jbi.2025.104794,J Biomed Inform,Adaptable graph neural networks design to support generalizability for clinical event pred,2024-11-15,2025-02-05,2025-02-17,6,53
+39956346,10.1016/j.jbi.2025.104800,J Biomed Inform,Enhanced heart failure mortality prediction through model-independent hybrid feature selec,2024-10-13,2025-01-23,2025-02-17,8,0
+39952627,10.1016/j.jbi.2025.104788,J Biomed Inform,Enhancing clinical data warehousing with provenance data to support longitudinal analyses ,2024-09-02,2025-02-04,2025-02-15,4,0
+39952626,10.1016/j.jbi.2025.104786,J Biomed Inform,Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining foundati,2024-07-28,2025-01-31,2025-02-15,4,25
+39923968,10.1016/j.jbi.2025.104789,J Biomed Inform,Improving entity recognition using ensembles of deep learning and fine-tuned large languag,2024-06-26,2025-02-05,2025-02-10,7,58
+39922399,10.1016/j.jbi.2025.104785,J Biomed Inform,Patient deep spatio-temporal encoding and medication substructure mapping for safe medicat,2024-11-19,2025-01-29,2025-02-09,6,0
+39909179,10.1016/j.jbi.2025.104784,J Biomed Inform,Federated Bayesian network learning from multi-site data.,2024-03-26,2025-01-27,2025-02-06,6,0
+39904407,10.1016/j.jbi.2025.104787,J Biomed Inform,"Evaluating the Bias, type I error and statistical power of the prior Knowledge-Guided inte",2024-05-08,2025-01-31,2025-02-05,7,14
+39864718,10.1016/j.jbi.2025.104781,J Biomed Inform,Selecting a smartwatch for trials involving older adults with neurodegenerative diseases: ,2024-07-31,2025-01-18,2025-01-27,6,0
+39863245,10.1016/j.jbi.2024.104761,J Biomed Inform,ARCH: Large-scale knowledge graph via aggregated narrative codified health records analysi,2024-03-05,2024-12-08,2025-01-26,22,78
+39832607,10.1016/j.jbi.2025.104777,J Biomed Inform,Modelling diversity in hospital strategies in city-scale ambulance dispatching with couple,2024-06-21,2025-01-12,2025-01-21,4,0
+39832606,10.1016/j.jbi.2025.104778,J Biomed Inform,Analysis of longitudinal social media for monitoring symptoms during a pandemic.,2024-07-13,2025-01-15,2025-01-21,9,0
+39827999,10.1016/j.jbi.2024.104766,J Biomed Inform,Taming vision transformers for clinical laryngoscopy assessment.,2024-08-25,2024-12-26,2025-01-20,5,0
+39827998,10.1016/j.jbi.2025.104774,J Biomed Inform,Valley-Forecast: Forecasting Coccidioidomycosis incidence via enhanced LSTM models trained,2024-09-21,2025-01-09,2025-01-20,3,0
+39814274,10.1016/j.jbi.2024.104769,J Biomed Inform,BiomedRAG: A retrieval augmented large language model for biomedicine.,2024-07-23,2024-12-26,2025-01-16,4,49
+39814273,10.1016/j.jbi.2025.104772,J Biomed Inform,A Multi-Source drug combination and Omnidirectional feature fusion approach for predicting,2024-10-11,2025-01-03,2025-01-16,3,0
+39756527,10.1016/j.jbi.2024.104770,J Biomed Inform,Early detection of subjective cognitive decline from self-reported symptoms: An interpreta,2024-08-23,2024-12-28,2025-01-06,9,0
+39755324,10.1016/j.jbi.2024.104768,J Biomed Inform,DOME: Directional medical embedding vectors from Electronic Health Records.,2024-05-07,2024-12-26,2025-01-05,15,84
+39755323,10.1016/j.jbi.2024.104771,J Biomed Inform,A pipeline for harmonising NHS Scotland laboratory data to enable national-level analyses.,2024-04-04,2024-12-30,2025-01-05,13,0
+39746432,10.1016/j.jbi.2024.104764,J Biomed Inform,Visual-linguistic Diagnostic Semantic Enhancement for medical report generation.,2024-07-26,2024-12-24,2025-01-03,7,0
+39746431,10.1016/j.jbi.2024.104767,J Biomed Inform,Human intention recognition for trauma resuscitation: An interpretable deep learning appro,2024-06-20,2024-12-26,2025-01-03,8,64
+39746430,10.1016/j.jbi.2024.104745,J Biomed Inform,Unveiling pathology-related predictive uncertainty of glomerular lesion recognition using ,2024-07-06,2024-11-02,2025-01-03,10,0
+39732354,10.1016/j.jbi.2024.104765,J Biomed Inform,Repeatable process for extracting health data from HL7 CDA documents.,2024-03-25,2024-12-24,2024-12-29,12,0
+39722399,10.1016/j.jbi.2024.104760,J Biomed Inform,Modeling repeated measurements data using the multilevel Bayesian network: A case of child,2024-04-24,2024-12-06,2024-12-26,2,0
+39674292,10.1016/j.jbi.2024.104762,J Biomed Inform,Novel machine learning model for predicting cancer drugs' susceptibilities and discovering,2024-09-22,2024-12-11,2024-12-15,9,0
+39667602,10.1016/j.jbi.2024.104759,J Biomed Inform,Efficient strabismus diagnosis from small samples: Harnessing spatial features for improve,2024-09-12,2024-12-04,2024-12-13,7,0
+39662650,10.1016/j.jbi.2024.104758,J Biomed Inform,Coherence and comprehensibility: Large language models predict lay understanding of health,2024-06-28,2024-12-01,2024-12-12,5,65
+39631489,10.1016/j.jbi.2024.104755,J Biomed Inform,Enhancing suicidal behavior detection in EHRs: A multi-label NLP framework with transforme,2024-06-27,2024-11-24,2024-12-05,5,0
+39622400,10.1016/j.jbi.2024.104754,J Biomed Inform,A multimodal approach for few-shot biomedical named entity recognition in low-resource lan,2024-07-20,2024-11-19,2024-12-03,6,0
+42892463,10.1016/j.jbi.2026.105111,J Biomed Inform,Direct Effects Multiplicative Inference (DEMI): causal prediction from pairwise clinical r,2026-04-01,2026-10-12,2026-10-18,6,0
+42887662,10.1016/j.jbi.2026.105112,J Biomed Inform,Augmenting electronic health records for adverse event detection.,2026-02-10,2026-10-12,2026-10-16,5,0
+42863778,10.1016/j.jbi.2026.105107,J Biomed Inform,Leveraging routine scheduling patterns to unshift Date-Shifted clinical data.,2026-05-12,2026-09-30,2026-10-13,3,0
+42863777,10.1016/j.jbi.2026.105109,J Biomed Inform,HyHO-DDI: A hypergraph neural network for high-order Drug-Drug interaction prediction.,2026-06-30,2026-10-06,2026-10-13,3,0
+42849682,10.1016/j.jbi.2026.105108,J Biomed Inform,LongCAF: A longitudinal context-constructive agentic framework for LLM-supported hypertens,2026-07-14,2026-10-03,2026-10-08,9,0
+42822573,10.1016/j.jbi.2026.105105,J Biomed Inform,Reproducible synthetic clinical letters for seizure frequency information extraction.,2026-03-17,2026-09-21,2026-10-01,7,0
+42700827,10.1016/j.jbi.2026.105099,J Biomed Inform,GIN-CRC-Pareto: A graph-based pareto-optimized multi-task learning framework to identify m,2026-04-18,2026-08-31,2026-09-06,7,0
+42692314,10.1016/j.jbi.2026.105100,J Biomed Inform,Similarity-Adaptive interaction routing for Drug-Target affinity prediction.,2026-06-12,2026-09-01,2026-09-03,4,0
+42667993,10.1016/j.jbi.2026.105095,J Biomed Inform,Evaluating teacher-supervised small medical language models for institution-constrained cl,2026-05-27,2026-08-17,2026-08-29,3,0
+42667992,10.1016/j.jbi.2026.105094,J Biomed Inform,TriFuse: A multi-signal three-stage data distillation framework for efficient medical mode,2026-02-05,2026-08-17,2026-08-29,2,0
+42648458,10.1016/j.jbi.2026.105097,J Biomed Inform,PAC-Net: A physics-guided multimodal hybrid network for antibody-antigen interaction predi,2026-05-09,2026-08-24,2026-08-26,6,0
+42628772,10.1016/j.jbi.2026.105093,J Biomed Inform,Quality-aware multi-source data fusion and enhancement for Medical Concept Normalization u,2026-01-27,2026-08-13,2026-08-21,6,0
+42586352,10.1016/j.jbi.2026.105090,J Biomed Inform,Common data element (CDE) and AI-Enabled approaches for clinical data Management: Workshop,2026-03-11,2026-08-10,2026-08-12,21,0
+42767585,10.1016/j.jbi.2026.105102,J Biomed Inform,Knowledge augmented causal discovery through large language models and Knowledge Graphs: A,2026-06-24,2026-09-07,2026-09-21,6,0
+42767584,10.1016/j.jbi.2026.105104,J Biomed Inform,Graph-augmented LLMs for social media-based clinical trial recruitment.,2026-02-04,2026-09-16,2026-09-21,5,0
+42753938,10.1016/j.jbi.2026.105098,J Biomed Inform,CMIGAT: Joint learning via Cyclic Modality-Interaction Graph attention for multi-omics int,2026-03-20,2026-08-25,2026-09-17,4,0
+42753937,10.1016/j.jbi.2026.105101,J Biomed Inform,MEDAL: Sequential adapter learning for privacy-preserving multicenter clinical language mo,2026-06-16,2026-09-07,2026-09-17,5,0
+42744066,10.1016/j.jbi.2026.105103,J Biomed Inform,Unifying temporal knowledge Graph and LLMs for Biomedical Hypothesis generation via tempor,2026-04-13,2026-09-14,2026-09-15,9,0
+42722320,10.1016/j.jbi.2026.105096,J Biomed Inform,A reinforcement learning approach to synthetic data generation.,2026-01-26,2026-08-20,2026-09-10,5,0
+42567460,10.1016/j.jbi.2026.105089,J Biomed Inform,CGX: OCR-enhanced knowledge graph retrieval for explainable heart failure analysis.,2026-01-29,2026-08-03,2026-08-08,5,0
+42547002,10.1016/j.jbi.2026.105088,J Biomed Inform,A novel language model for predicting serious adverse event results in clinical trials fro,2025-11-05,2026-08-03,2026-08-04,5,0
+42501880,10.1016/j.jbi.2026.105085,J Biomed Inform,Selection-based prompting with synthesized candidates unlocks high-performance clinical ab,2026-02-05,2026-07-24,2026-07-26,3,0
+42486266,10.1016/j.jbi.2026.105084,J Biomed Inform,Selective classification under imbalance in multiclass settings: A novel metric for bias-a,2026-01-31,2026-07-17,2026-07-23,5,0
+42486265,10.1016/j.jbi.2026.105083,J Biomed Inform,Predicting healthy weight status from physical activity and dietary intake: A time-aware d,2026-01-26,2026-07-11,2026-07-23,6,0
+42471206,10.1016/j.jbi.2026.105079,J Biomed Inform,BiGranMolNet: A deep learning method for predicting blood-brain barrier permeability based,2026-03-03,2026-07-01,2026-07-19,4,0
+42447946,10.1016/j.jbi.2026.105081,J Biomed Inform,Real-time hallucination detection and intervention in medical LLMs via calibrated hidden-s,2026-02-22,2026-07-08,2026-07-15,2,0
+42442653,10.1016/j.jbi.2026.105082,J Biomed Inform,A multi-modal temporal fusion transformer for comprehensive decision support across the em,2026-02-18,2026-07-11,2026-07-14,15,0
+42419494,10.1016/j.jbi.2026.105078,J Biomed Inform,scCLIP: A contrastive masked-reconstruction framework for paired single-cell multi-omics i,2026-03-11,2026-07-01,2026-07-09,2,0
+42398561,10.1016/j.jbi.2026.105080,J Biomed Inform,Causal intervention validation of gene regulatory signals in scGPT.,2026-05-10,2026-07-02,2026-07-04,1,0
+42391908,10.1016/j.jbi.2026.105076,J Biomed Inform,CoAff-DTI: Fine-grained drug-target interaction prediction using pre-trained language mode,2026-05-21,2026-06-28,2026-07-03,4,0
+42372998,10.1016/j.jbi.2026.105074,J Biomed Inform,Evaluation of temporal preservation in synthetic longitudinal patient data.,2026-03-07,2026-06-23,2026-06-30,5,0
+42349807,10.1016/j.jbi.2026.105071,J Biomed Inform,ARKE: An ontology-driven framework for automated mapping of local radiology procedure term,2026-02-02,2026-06-17,2026-06-26,9,0
+42349806,10.1016/j.jbi.2026.105073,J Biomed Inform,A validation-driven training controller for cross-lingual biomedical NER via reinforcement,2026-03-03,2026-06-22,2026-06-26,2,0
+42331210,10.1016/j.jbi.2026.105070,J Biomed Inform,ASP-HR: An Adaptive Spatial Perception and Hierarchical Reasoning mechanism for document-l,2026-01-15,2026-06-17,2026-06-22,2,0
+42331209,10.1016/j.jbi.2026.105072,J Biomed Inform,Beyond Accuracy: Safety-Centered guidelines for the evaluation of LLM-based therapy recomm,2026-03-23,2026-06-20,2026-06-22,7,0
+42323038,10.1016/j.jbi.2026.105067,J Biomed Inform,DeepEN: A deep reinforcement learning framework for personalized enteral nutrition in crit,2025-11-17,2026-06-08,2026-06-21,5,0
+42323037,10.1016/j.jbi.2026.105069,J Biomed Inform,MMTF-DTI: Drug-target interaction prediction via multimodal feature extraction and dynamic,2025-09-26,2026-06-16,2026-06-21,8,0
+42250862,10.1016/j.jbi.2026.105066,J Biomed Inform,Clustering-based federated causal discovery for multicenter clinical data analysis.,2025-06-17,2026-06-03,2026-06-07,4,0
+42235808,10.1016/j.jbi.2026.105059,J Biomed Inform,Robust end-to-end stratification of amyotrophic lateral sclerosis patients via recurrent v,2026-03-10,2026-05-27,2026-06-04,4,0
+42229773,10.1016/j.jbi.2026.105061,J Biomed Inform,IHGCN-PLA: An interpretable heterogeneous graph convolutional network for protein-ligand b,2025-11-13,2026-05-27,2026-06-03,5,0
+42217712,10.1016/j.jbi.2026.105060,J Biomed Inform,Multisite evaluation of automated electronic case report form data entry from electronic h,2025-12-23,2026-05-27,2026-05-31,19,0
+42167629,10.1016/j.jbi.2026.105058,J Biomed Inform,How to determine when data incompleteness compromises the correct training of data-enhance,2025-07-31,2026-05-19,2026-05-22,13,0
+42167628,10.1016/j.jbi.2026.105057,J Biomed Inform,Heterogeneous domain adaptation survival analysis with partially observed outcomes via dic,2026-02-12,2026-05-14,2026-05-22,3,0
+42155660,10.1016/j.jbi.2026.105056,J Biomed Inform,Sparse autoencoders reveal interpretable cell-type programs in single-cell foundation mode,2026-02-17,2026-05-11,2026-05-20,1,0
+42142788,10.1016/j.jbi.2026.105054,J Biomed Inform,DispFormer: A dual attention transformer with denoising for biomedical irregular time seri,2025-12-23,2026-05-10,2026-05-17,5,0
+42140329,10.1016/j.jbi.2026.105055,J Biomed Inform,Mitigating hallucinations in synthesized clinical texts to improve multimodal deep learnin,2026-02-18,2026-05-10,2026-05-16,5,72
+42114794,10.1016/j.jbi.2026.105053,J Biomed Inform,Optimising clinical information extraction: a comparative study of retrieval-augmented gen,2025-10-28,2026-05-05,2026-05-12,4,0
+42069101,10.1016/j.jbi.2026.105051,J Biomed Inform,CBFI: A multi-layer gene network key node identification algorithm integrating structural-,2025-11-06,2026-04-21,2026-05-03,3,0
+42061667,10.1016/j.jbi.2026.105048,J Biomed Inform,Automated identification of incidentalomas requiring follow-up: A multi-anatomy evaluation,2025-12-14,2026-04-19,2026-05-01,9,50
+42044823,10.1016/j.jbi.2026.105038,J Biomed Inform,Are LLM-generated plain language summaries truly understandable? A large-scale crowdsource,2025-10-21,2026-04-05,2026-04-28,4,0
+42031125,10.1016/j.jbi.2026.105049,J Biomed Inform,High-quality data selection-driven instruction tuning for biomedical large language models,2025-10-31,2026-04-19,2026-04-25,4,0
+42000010,10.1016/j.jbi.2026.105043,J Biomed Inform,Generative modeling of clinical time series via latent stochastic differential equations.,2025-11-27,2026-04-07,2026-04-19,3,0
+41997262,10.1016/j.jbi.2026.105047,J Biomed Inform,Towards interpretable AI in personalized medicine through a radiological-biological radiom,2025-12-30,2026-04-14,2026-04-18,6,0
+41985573,10.1016/j.jbi.2026.105035,J Biomed Inform,A pipeline towards missing IS-A relationship discovery in the Gene Ontology.,2025-09-26,2026-03-28,2026-04-16,6,0
+41974266,10.1016/j.jbi.2026.105046,J Biomed Inform,Towards Reliable Clinical Data: A Collaborative Data Governance Architecture with Lifecycl,2025-08-26,2026-04-10,2026-04-14,10,0
+41974265,10.1016/j.jbi.2026.105039,J Biomed Inform,Learning to take it personally: Precision drug repurposing through patient-specific loss o,2025-09-19,2026-04-06,2026-04-14,6,0
+41967790,10.1016/j.jbi.2026.105036,J Biomed Inform,AI-assisted protocol information extraction for improved accuracy and efficiency in clinic,2026-01-17,2026-03-30,2026-04-13,3,0
+41967789,10.1016/j.jbi.2026.105044,J Biomed Inform,A multi-modal survival prediction framework with group-based batch training and structural,2025-12-21,2026-04-09,2026-04-13,2,0
+41932557,10.1016/j.jbi.2026.105031,J Biomed Inform,Exploring the role of reinforcement learning in vision-language models for cardiovascular ,2025-12-02,2026-03-21,2026-04-04,13,46
+41911958,10.1016/j.jbi.2026.105032,J Biomed Inform,Extraction of distant recurrence sites for breast cancer patients from free-text clinical ,2025-10-22,2026-03-22,2026-03-31,7,62
+41905520,10.1016/j.jbi.2026.105034,J Biomed Inform,"A study of large language models for patient information extraction: Model architecture, f",2025-10-28,2026-03-24,2026-03-30,6,41
+41887591,10.1016/j.jbi.2026.105033,J Biomed Inform,DeepSTFSynergy: A multi-scale structural information fusion method for personalized drug c,2025-12-22,2026-03-23,2026-03-27,5,0
+41881288,10.1016/j.jbi.2026.105028,J Biomed Inform,A heterogeneous graph neural network for candidate gene prediction in endometriosis.,2025-12-10,2026-03-20,2026-03-26,7,0
+41881287,10.1016/j.jbi.2026.105027,J Biomed Inform,DynaMamba: Multi-scale dynamic interacting Mamba network for irregular clinical time serie,2025-11-27,2026-03-20,2026-03-26,6,0
+41881286,10.1016/j.jbi.2026.105026,J Biomed Inform,Multi-domain ECG feature extraction enable accurate automated recognition of bipolar disor,2025-09-30,2026-03-20,2026-03-26,4,0
+41875960,10.1016/j.jbi.2026.105029,J Biomed Inform,Heat and hearts: An exposure-anchored computational phenotyping framework for assessing ca,2025-09-29,2026-03-20,2026-03-25,5,0
+41864534,10.1016/j.jbi.2026.105019,J Biomed Inform,PlainQAFact: Retrieval-augmented factual consistency evaluation metric for biomedical plai,2025-09-07,2026-03-13,2026-03-22,2,0
+41864533,10.1016/j.jbi.2026.105017,J Biomed Inform,Retrieval-augmented in-context learning for multimodal large language models in disease cl,2025-04-30,2026-03-11,2026-03-22,11,60
+41864532,10.1016/j.jbi.2026.105014,J Biomed Inform,Personalized federated learning for medical vision-language models via efficient fine-tuni,2025-08-15,2026-03-11,2026-03-22,4,0
+41862148,10.1016/j.jbi.2026.105025,J Biomed Inform,Exploring efficiency frontiers of thinking budget in medical reasoning: Scaling laws betwe,2025-08-23,2026-03-17,2026-03-21,17,0
+41856423,10.1016/j.jbi.2026.105020,J Biomed Inform,Linear and non-linear feature selection for survival modelling of ischemic heart disease i,2025-10-13,2026-03-15,2026-03-20,3,0
+41850346,10.1016/j.jbi.2026.105021,J Biomed Inform,Composite pathway-guided Cox modeling for interpretable survival prediction in breast canc,2025-11-19,2026-03-16,2026-03-19,1,0
+41845969,10.1016/j.jbi.2026.105018,J Biomed Inform,Development of death-risk score based on epidemiology of six mental disorders and applicat,2025-09-16,2026-03-13,2026-03-18,11,0
+41839246,10.1016/j.jbi.2026.105013,J Biomed Inform,A data-driven method for research trend analysis in a scientific discipline: Application t,2025-07-14,2026-03-11,2026-03-16,8,83
+41830753,10.1016/j.jbi.2026.105015,J Biomed Inform,Interpretable Graph Convolutional Networks for cardiovascular disease risk prediction in p,2025-09-23,2026-03-11,2026-03-15,5,0
+41796768,10.1016/j.jbi.2026.105009,J Biomed Inform,Enhancing adverse drug event extraction and summarization for cancer drugs through large l,2025-08-23,2026-03-05,2026-03-09,3,0
+41825516,10.1016/j.jbi.2026.105012,J Biomed Inform,Community medical centers struggle to produce well-calibrated clinical prediction models: ,2025-09-09,2026-03-09,2026-03-14,3,45
+41812848,10.1016/j.jbi.2026.105011,J Biomed Inform,Knowledge-Guided and Reinforced Selective State Space Model for radiology report generatio,2025-10-10,2026-03-07,2026-03-12,4,0
+41802551,10.1016/j.jbi.2026.105010,J Biomed Inform,Model utility and explainability in federated learning - A case study in healthcare using ,2025-10-28,2026-03-06,2026-03-10,7,0
+41794081,10.1016/j.jbi.2026.105008,J Biomed Inform,Scalable discovery and validation of order-specific electronic health record event traject,2025-09-30,2026-03-02,2026-03-08,3,44
+41794080,10.1016/j.jbi.2026.105006,J Biomed Inform,Context-Aware adaptive normalization LSTM (CAAN-LSTM) for immunotherapy decision support i,2025-07-12,2026-02-26,2026-03-08,6,0
+41791441,10.1016/j.jbi.2026.105007,J Biomed Inform,CTKGR: temporal knowledge graph enhanced prediction of in-hospital events for pneumonia pa,2025-08-07,2026-03-02,2026-03-07,8,0
+41771392,10.1016/j.jbi.2026.105004,J Biomed Inform,Bidirectional data harmonization across the multiple chronic disease disparities research ,2025-06-26,2026-02-25,2026-03-03,14,71
+41759800,10.1016/j.jbi.2026.105002,J Biomed Inform,UCVA ontology: Standardizing local context factors to support the analysis of unwarranted ,2025-07-03,2026-02-23,2026-02-28,6,0
+41747919,10.1016/j.jbi.2026.105001,J Biomed Inform,Explainable multimodal deep learning models for variable-length sequences in critically il,2025-12-04,2026-02-23,2026-02-27,10,49
+41763376,10.1016/j.jbi.2026.105003,J Biomed Inform,Integrating histology and spatial transcriptomics via multimodal transformers and contrast,2025-12-08,2026-02-23,2026-03-01,8,0
+41740732,10.1016/j.jbi.2026.105000,J Biomed Inform,Predicting non-coding RNA function using Artificial Intelligence.,2025-06-27,2026-02-11,2026-02-26,3,0
+41698487,10.1016/j.jbi.2026.104999,J Biomed Inform,Multi-level dynamic fusion and temporal role-aware network for diagnosis prediction.,2025-10-13,2026-02-10,2026-02-17,8,0
+41687902,10.1016/j.jbi.2026.104996,J Biomed Inform,Temporally consistent survival prediction for non-uniform longitudinal data.,2025-09-09,2026-02-04,2026-02-14,3,0
+41687901,10.1016/j.jbi.2026.104998,J Biomed Inform,AFTS: A patient-agnostic encoder-decoder architecture with directional attention for blood,2025-11-20,2026-02-10,2026-02-14,7,0
+41679676,10.1016/j.jbi.2026.104994,J Biomed Inform,Learning dynamic binary treatment policies under treatment selection bias: A Conservative ,2025-09-24,2026-01-28,2026-02-13,2,0
+41654286,10.1016/j.jbi.2026.104995,J Biomed Inform,Multi-channel causal variational autoencoder for multimodal biomedical causal disentanglem,2025-08-14,2026-01-28,2026-02-08,3,0
+41621768,10.1016/j.jbi.2026.104991,J Biomed Inform,KATMed: a knowledge-augmented transformer model for contraindication-aware medication reco,2025-10-18,2026-01-20,2026-02-02,6,0
+41610815,10.1016/j.jbi.2026.104993,J Biomed Inform,Ontology-grounded knowledge graphs for mitigating hallucinations in large language models ,2025-10-01,2026-01-27,2026-01-30,3,0
+41580256,10.1016/j.jbi.2026.104986,J Biomed Inform,On the transfer learning behavior of domain-specific vision-language models in screening m,2025-04-29,2026-01-13,2026-01-25,7,32
+41571172,10.1016/j.jbi.2026.104990,J Biomed Inform,Lattice-based privacy-preserving multimodal retrieval for healthcare.,2025-05-29,2026-01-19,2026-01-23,4,0
+41571171,10.1016/j.jbi.2026.104988,J Biomed Inform,PEER: Towards reliable and efficient inference via Patience-Based Early Exiting with Rejec,2025-08-23,2026-01-17,2026-01-23,3,0
+41554365,10.1016/j.jbi.2026.104983,J Biomed Inform,Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track.,2025-07-18,2026-01-09,2026-01-20,6,78
+41544912,10.1016/j.jbi.2026.104985,J Biomed Inform,DMDGRN: A data augmentation-based multilayer directed graph convolutional network for gene,2025-09-13,2026-01-13,2026-01-17,6,0
+41548733,10.1016/j.jbi.2026.104987,J Biomed Inform,A federated learning framework for ethical dynamic treatment allocation across heterogeneo,2025-05-28,2026-01-15,2026-01-19,8,0
+41534605,10.1016/j.jbi.2026.104981,J Biomed Inform,FG-DDI: Functional group-aware graph neural networks for drug-drug interaction prediction.,2025-10-06,2026-01-02,2026-01-15,2,0
+41520750,10.1016/j.jbi.2026.104984,J Biomed Inform,Quantifying the effect of Behaviour Self-Regulation on well-being through causal analysis:,2025-07-01,2026-01-09,2026-01-12,8,0
+41519189,10.1016/j.jbi.2026.104982,J Biomed Inform,Beyond Fine-Tuning: Leveraging Domain-Aware In-Context learning with large language models,2025-08-08,2026-01-06,2026-01-11,5,0
+41519188,10.1016/j.jbi.2026.104980,J Biomed Inform,RINet: synthetic data training for indirect estimation of clinical reference distributions,2025-04-01,2026-01-02,2026-01-11,3,42
+41485526,10.1016/j.jbi.2025.104976,J Biomed Inform,A computational framework for predicting drug-target interactions by fusing gene ontology ,2025-10-16,2025-12-31,2026-01-05,5,0
+41456845,10.1016/j.jbi.2025.104971,J Biomed Inform,Augmented intelligence for multimodal virtual biopsy in breast cancer using generative art,2025-05-27,2025-12-19,2025-12-29,5,0
+41475631,10.1016/j.jbi.2025.104975,J Biomed Inform,Integrating retrospective quality assessment with real-time guideline application to suppo,2025-07-24,2025-12-25,2026-01-01,9,0
+41453502,10.1016/j.jbi.2025.104972,J Biomed Inform,Fusion framework: Conditional-aware one-stage nested event extraction model.,2025-08-03,2025-12-19,2025-12-27,6,0
+41443488,10.1016/j.jbi.2025.104973,J Biomed Inform,Mamba-enhanced disease semantic knowledge graph for interpretable automatic ICD coding.,2025-07-10,2025-12-20,2025-12-25,4,0
+41421688,10.1016/j.jbi.2025.104968,J Biomed Inform,Beyond manual transcripts: Exploring the potential of automatic speech recognition errors ,2025-07-10,2025-12-06,2025-12-21,9,0
+41386532,10.1016/j.jbi.2025.104970,J Biomed Inform,Modeling temporal self and interactive evolution for biomedical hypothesis generation.,2025-08-12,2025-12-10,2025-12-13,6,0
+41386531,10.1016/j.jbi.2025.104969,J Biomed Inform,Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and i,2025-07-17,2025-12-09,2025-12-13,4,0
+41354118,10.1016/j.jbi.2025.104966,J Biomed Inform,CausalGenDiff: Generative causal diffusion bridges scRNA-seq and spatial transcriptomics.,2025-08-29,2025-12-01,2025-12-08,3,38
+41330484,10.1016/j.jbi.2025.104963,J Biomed Inform,Domain adaptation of stable diffusion for ultrasound inpainting: a synthetic data approach,2025-05-31,2025-11-24,2025-12-03,2,0
+41325892,10.1016/j.jbi.2025.104965,J Biomed Inform,MDD-MARF: a multimodal depression detection model based on multi-level attention mechanism,2025-07-22,2025-11-28,2025-12-02,5,0

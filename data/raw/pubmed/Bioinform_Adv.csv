@@ -1,0 +1,1135 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+36699416,10.1093/bioadv/vbab047,Bioinform Adv,"The developmentally dynamic microRNA transcriptome of Glossina pallidipes tsetse flies, ve",2021-08-25,2021-12-24,2021-12-28,7,62
+36699412,10.1093/bioadv/vbab041,Bioinform Adv,protti: an R package for comprehensive data analysis of peptide- and protein-centric botto,2021-08-18,2021-12-06,2021-12-10,3,29
+36699405,10.1093/bioadv/vbab042,Bioinform Adv,A random forest classifier for protein-protein docking models.,2021-11-05,2021-12-06,2021-12-10,5,66
+36699401,10.1093/bioadv/vbab040,Bioinform Adv,wTAM: a web server for annotation of weighted human microRNAs.,2021-09-14,2021-12-01,2021-12-07,4,11
+36699351,10.1093/bioadv/vbab025,Bioinform Adv,MUNDO: protein function prediction embedded in a multispecies world.,2021-06-15,2021-09-23,2021-09-29,6,38
+36699349,10.1093/bioadv/vbab028,Bioinform Adv,Cutevariant: a standalone GUI-based desktop application to explore genetic variations from,2021-08-04,2021-10-25,2021-11-25,5,19
+35036922,10.1093/bioadv/vbab045,Bioinform Adv,LYRUS: a machine learning model for predicting the pathogenicity of missense variants.,2021-07-08,2021-12-21,2022-01-18,5,81
+36700086,10.1093/bioadv/vbab039,Bioinform Adv,Genomic style: yet another deep-learning approach to characterize bacterial genome sequenc,2021-08-13,2021-11-26,2021-12-01,5,30
+36700110,10.1093/bioadv/vbab036,Bioinform Adv,Generating tertiary protein structures via interpretable graph variational autoencoders.,2021-08-26,2021-11-17,2021-11-29,5,29
+36700087,10.1093/bioadv/vbab038,Bioinform Adv,Secondary structure assignment of proteins in the absence of sequence information.,2021-08-02,2021-11-23,2021-11-29,3,43
+36700098,10.1093/bioadv/vbab037,Bioinform Adv,PoET: automated approach for measuring pore edge tension in giant unilamellar vesicles.,2021-09-13,2021-11-17,2021-11-23,4,60
+36700108,10.1093/bioadv/vbab035,Bioinform Adv,Light attention predicts protein location from the language of life.,2021-06-28,2021-11-15,2021-11-19,4,49
+36700095,10.1093/bioadv/vbab034,Bioinform Adv,Validation of predicted anonymous proteins simply using Fisher's exact test.,2021-10-15,2021-11-10,2021-11-15,2,35
+36700088,10.1093/bioadv/vbab032,Bioinform Adv,An expectation-maximization approach to quantifying protein stoichiometry with single-mole,2021-09-24,2021-11-05,2021-11-13,3,43
+36700100,10.1093/bioadv/vbab033,Bioinform Adv,ResCap: plant resistance gene prediction and probe generation pipeline for resistance gene,2021-08-05,2021-11-07,2021-11-11,3,19
+34901870,10.1093/bioadv/vbab031,Bioinform Adv,pdCSM-GPCR: predicting potent GPCR ligands with graph-based signatures.,2021-05-27,2021-11-02,2021-12-14,3,60
+36700106,10.1093/bioadv/vbab029,Bioinform Adv,CCWeights: an R package and web application for automated evaluation and selection of weig,2021-10-12,2021-10-27,2021-10-28,5,11
+36700102,10.1093/bioadv/vbab027,Bioinform Adv,App-SpaM: phylogenetic placement of short reads without sequence alignment.,2021-08-31,2021-10-11,2021-10-13,2,54
+34870209,10.1093/bioadv/vbab026,Bioinform Adv,Dimensional reduction of phenotypes from 53 000 mouse models reveals a diverse landscape o,2021-06-14,2021-10-07,2021-12-07,3,39
+35585947,10.1093/bioadv/vbab023,Bioinform Adv,GraphQL for the delivery of bioinformatics web APIs and application to ZincBind.,2021-07-21,2021-09-23,2022-05-20,2,18
+36700107,10.1093/bioadv/vbab022,Bioinform Adv,LRez: a C++ API and toolkit for analyzing and managing Linked-Reads data.,2021-07-13,2021-09-20,2021-09-25,3,11
+36700091,10.1093/bioadv/vbab024,Bioinform Adv,"Omics Notebook: robust, reproducible and flexible automated multiomics exploratory analysi",2021-04-01,2021-09-16,2021-09-21,2,20
+36700109,10.1093/bioadv/vbab020,Bioinform Adv,RibDif: can individual species be differentiated by 16S sequencing?,2021-06-03,2021-09-01,2021-09-19,1,10
+34806017,10.1093/bioadv/vbab021,Bioinform Adv,CRIS: complete reconstruction of immunoglobulin V-D-J sequences from RNA-seq data.,2021-06-16,2021-09-06,2021-11-23,5,34
+36700114,10.1093/bioadv/vbab017,Bioinform Adv,Identifying anti-TNF response biomarkers in ulcerative colitis using a diffusion-based sig,2021-05-21,2021-07-21,2021-08-18,4,46
+36700093,10.1093/bioadv/vbab016,Bioinform Adv,cblaster: a remote search tool for rapid identification and visualization of homologous ge,2021-07-07,2021-08-03,2021-08-05,6,48
+36700099,10.1093/bioadv/vbab014,Bioinform Adv,Mirage: estimation of ancestral gene-copy numbers by considering different evolutionary pa,2021-04-28,2021-07-28,2021-07-30,2,66
+36700092,10.1093/bioadv/vbab013,Bioinform Adv,A novel method of literature mining to identify candidate COVID-19 drugs.,2021-05-07,2021-07-21,2021-07-22,2,13
+36700113,10.1093/bioadv/vbab008,Bioinform Adv,Chemsearch: collaborative compound libraries with structure-aware browsing.,2021-04-13,2021-07-07,2021-07-16,4,16
+36700096,10.1093/bioadv/vbab010,Bioinform Adv,PathBIX-a web server for network-based pathway annotation with adaptive null models.,2021-06-08,2021-06-30,2021-07-01,3,30
+36700089,10.1093/bioadv/vbab011,Bioinform Adv,Improved prediction of conopeptide superfamilies with ConoDictor 2.0.,2021-03-26,2021-07-16,2021-06-17,3,15
+36700103,10.1093/bioadv/vbab007,Bioinform Adv,Aquila_stLFR: diploid genome assembly based structural variant calling package for stLFR l,2021-04-08,2021-06-14,2021-06-16,7,9
+36700090,10.1093/bioadv/vbab006,Bioinform Adv,CLARINET: efficient learning of dynamic network models from literature.,2021-04-30,2021-06-02,2021-06-03,3,28
+36700105,10.1093/bioadv/vbab004,Bioinform Adv,More practical differentially private publication of key statistics in GWAS.,2021-03-24,2021-05-15,2021-05-18,2,25
+36700101,10.1093/bioadv/vbab003,Bioinform Adv,Hierarchical Meta-Storms enables comprehensive and rapid comparison of microbiome function,2021-04-20,2021-05-06,2021-05-12,5,28
+36698764,10.1093/bioadv/vbac098,Bioinform Adv,Computational analyses reveal fundamental properties of the AT structure related to thromb,2022-10-06,2022-12-22,2023-01-27,6,44
+36698761,10.1093/bioadv/vbac096,Bioinform Adv,Simulation of mass spectrometry-based proteomics data with Synthedia.,2022-09-06,2022-12-16,2023-01-27,5,26
+36698759,10.1093/bioadv/vbac094,Bioinform Adv,Nucleotide augmentation for machine learning-guided protein engineering.,2022-05-20,2022-12-08,2023-01-27,2,41
+36699364,10.1093/bioadv/vbac097,Bioinform Adv,CTCF: an R/bioconductor data package of human and mouse CTCF binding sites.,2022-09-29,2022-12-15,2023-01-27,7,25
+36699399,10.1093/bioadv/vbac092,Bioinform Adv,MAST: a hybrid Multi-Agent Spatio-Temporal model of tumor microenvironment informed using ,2022-11-03,2022-12-03,2023-01-27,11,45
+36699365,10.1093/bioadv/vbac088,Bioinform Adv,GPU-accelerated and pipelined methylation calling.,2022-10-13,2022-11-29,2023-01-27,7,20
+36713287,10.1093/bioadv/vbac091,Bioinform Adv,FUSTA: leveraging FUSE for manipulation of multiFASTA files at scale.,2022-08-01,2022-11-28,2023-01-31,2,10
+36699353,10.1093/bioadv/vbac090,Bioinform Adv,A toolkit for covalent docking with GOLD: from automated ligand preparation with KNIME to ,2022-05-16,2022-11-28,2023-01-27,7,11
+36699347,10.1093/bioadv/vbac089,Bioinform Adv,QuasiFlow: a Nextflow pipeline for analysis of NGS-based HIV-1 drug resistance data.,2022-08-22,2022-11-24,2023-01-27,9,14
+36699367,10.1093/bioadv/vbac087,Bioinform Adv,OAF: a new member of the BRICHOS family.,2022-08-22,2022-11-21,2023-01-27,2,49
+36699346,10.1093/bioadv/vbac086,Bioinform Adv,Synaptome.db: a bioconductor package for synaptic proteomics data.,2022-06-08,2022-11-11,2023-01-27,3,13
+36699394,10.1093/bioadv/vbac084,Bioinform Adv,Biological network topology features predict gene dependencies in cancer cell-lines.,2022-06-24,2022-11-08,2023-01-27,7,42
+36699376,10.1093/bioadv/vbac079,Bioinform Adv,ImaGene: a web-based software platform for tumor radiogenomic evaluation and reporting.,2022-02-08,2022-11-09,2023-01-27,7,70
+36388152,10.1093/bioadv/vbac083,Bioinform Adv,Metadensity: a background-aware python pipeline for summarizing CLIP signals on various tr,2022-06-20,2022-11-07,2022-11-18,3,20
+36699414,10.1093/bioadv/vbac082,Bioinform Adv,beeRapp: an R shiny app for automated high-throughput explorative analysis of multivariate,2022-06-23,2022-11-04,2023-01-27,5,17
+36699345,10.1093/bioadv/vbac081,Bioinform Adv,Towards future directions in data-integrative supervised prediction of human aging-related,2022-05-25,2022-10-31,2023-01-27,3,55
+36699402,10.1093/bioadv/vbac080,Bioinform Adv,AI4AVP: an antiviral peptides predictor in deep learning approach with generative adversar,2022-03-24,2022-10-25,2023-01-27,7,27
+36699418,10.1093/bioadv/vbac078,Bioinform Adv,LinAliFold and CentroidLinAliFold: fast RNA consensus secondary structure prediction for a,2022-07-28,2022-10-21,2023-01-27,2,51
+36388153,10.1093/bioadv/vbac077,Bioinform Adv,Alignment-free comparison of metagenomics sequences via approximate string matching.,2022-07-04,2022-10-19,2022-11-18,5,40
+36330358,10.1093/bioadv/vbac076,Bioinform Adv,Cosbin: cosine score-based iterative normalization of biologically diverse samples.,2022-04-04,2022-10-18,2022-11-05,11,15
+36699355,10.1093/bioadv/vbac074,Bioinform Adv,Identifying gene expression-based biomarkers in online learning environments.,2022-07-07,2022-10-11,2023-01-27,2,28
+36699377,10.1093/bioadv/vbac075,Bioinform Adv,Evidente-a visual analytics tool for data enrichment in SNP-based phylogenetic trees.,2022-09-20,2022-10-10,2023-01-27,3,33
+36699372,10.1093/bioadv/vbac071,Bioinform Adv,reComBat: batch-effect removal in large-scale multi-source gene-expression data integratio,2022-08-11,2022-09-26,2023-01-27,6,52
+36408459,10.1093/bioadv/vbac072,Bioinform Adv,Reciprocal best structure hits: using AlphaFold models to discover distant homologues.,2022-06-21,2022-10-05,2022-11-22,4,38
+36699400,10.1093/bioadv/vbac073,Bioinform Adv,EnrichIntersect: an R package for custom set enrichment analysis and interactive visualiza,2022-09-15,2022-09-26,2023-01-27,3,10
+36699397,10.1093/bioadv/vbac069,Bioinform Adv,High-throughput design of bacterial anti-sense RNAs using CAREng.,2022-03-24,2022-09-23,2023-01-27,6,13
+36699366,10.1093/bioadv/vbac066,Bioinform Adv,GRASP: a computational platform for building kinetic models of cellular metabolism.,2022-05-04,2022-09-25,2023-01-27,6,10
+36699389,10.1093/bioadv/vbac068,Bioinform Adv,QuickDeconvolution: fast and scalable deconvolution of linked-read sequencing data.,2022-03-07,2022-09-21,2023-01-27,2,20
+36699358,10.1093/bioadv/vbac070,Bioinform Adv,TOSCA: an automated Tumor Only Somatic CAlling workflow for somatic mutation detection wit,2022-04-08,2022-09-22,2023-01-27,3,11
+36177485,10.1093/bioadv/vbac067,Bioinform Adv,metabolomicsR: a streamlined workflow to analyze metabolomic data in R.,2022-07-04,2022-09-15,2022-10-01,2,10
+36158455,10.1093/bioadv/vbac065,Bioinform Adv,Integrating multimodal data through interpretable heterogeneous ensembles.,2022-07-26,2022-09-10,2022-09-27,5,55
+36699415,10.1093/bioadv/vbac064,Bioinform Adv,metaLINCS: an R package for meta-level analysis of LINCS L1000 drug signatures using strat,2022-04-13,2022-09-08,2023-01-27,4,19
+36699386,10.1093/bioadv/vbac063,Bioinform Adv,miRspongeR 2.0: an enhanced R package for exploring miRNA sponge regulation.,2022-06-06,2022-09-01,2023-01-27,8,13
+36699357,10.1093/bioadv/vbac062,Bioinform Adv,Echidna: integrated simulations of single-cell immune receptor repertoires and transcripto,2022-01-18,2022-08-26,2023-01-27,14,60
+36699417,10.1093/bioadv/vbac060,Bioinform Adv,Res-Dom: predicting protein domain boundary from sequence using deep residual network and ,2022-01-22,2022-08-30,2023-01-27,4,47
+36699404,10.1093/bioadv/vbac058,Bioinform Adv,PSICalc: a novel approach to identifying and ranking critical non-proximal interdependenci,2022-03-07,2022-08-16,2023-01-27,8,19
+36699419,10.1093/bioadv/vbac059,Bioinform Adv,ProteinPrompt: a webserver for predicting protein-protein interactions.,2021-12-21,2022-08-14,2023-01-27,6,68
+36699361,10.1093/bioadv/vbac057,Bioinform Adv,The field of protein function prediction as viewed by different domain scientists.,2022-07-01,2022-08-14,2023-01-27,3,41
+35992043,10.1093/bioadv/vbac055,Bioinform Adv,Genome-wide alignment-free phylogenetic distance estimation under a no strand-bias model.,2022-06-21,2022-08-09,2022-08-23,5,65
+36699360,10.1093/bioadv/vbac054,Bioinform Adv,Nanopore quality score resolution can be reduced with little effect on downstream analysis,2022-07-12,2022-08-08,2023-01-27,8,29
+36699382,10.1093/bioadv/vbac056,Bioinform Adv,ExplorePipolin: reconstruction and annotation of piPolB-encoding bacterial mobile elements,2022-06-20,2022-08-06,2023-01-27,4,35
+35967929,10.1093/bioadv/vbac051,Bioinform Adv,Cell Layers: uncovering clustering structure in unsupervised single-cell transcriptomic an,2022-03-21,2022-08-01,2022-08-16,8,12
+36699390,10.1093/bioadv/vbac053,Bioinform Adv,CellSium: versatile cell simulator for microcolony ground truth generation.,2022-05-06,2022-07-28,2023-01-27,6,11
+36699375,10.1093/bioadv/vbac052,Bioinform Adv,PhenoComb: a discovery tool to assess complex phenotypes in high-dimensional single-cell d,2022-04-22,2022-07-28,2023-01-27,6,12
+36699374,10.1093/bioadv/vbac049,Bioinform Adv,More accurate estimation of cell composition in bulk expression through robust integration,2022-01-11,2022-07-25,2023-01-27,1,28
+36699380,10.1093/bioadv/vbac050,Bioinform Adv,"Concatenator, a user-friendly program to concatenate DNA sequences, implementing graphical",2022-01-24,2022-07-19,2023-01-27,4,23
+35785021,10.1093/bioadv/vbac045,Bioinform Adv,P-smoother: efficient PBWT smoothing of large haplotype panels.,2022-03-22,2022-06-15,2022-07-06,6,23
+36699413,10.1093/bioadv/vbac048,Bioinform Adv,Sparcle: assigning transcripts to cells in multiplexed images.,2022-03-02,2022-06-14,2023-01-27,1,10
+36699403,10.1093/bioadv/vbac046,Bioinform Adv,AbLang: an antibody language model for completing antibody sequences.,2022-04-15,2022-06-14,2023-01-27,3,15
+35785020,10.1093/bioadv/vbac041,Bioinform Adv,dipm: an R package implementing the Depth Importance in Precision Medicine (DIPM) tree and,2022-03-21,2022-06-09,2022-07-06,3,10
+35747247,10.1093/bioadv/vbac047,Bioinform Adv,fdrci: FDR confidence interval selection and adjustment for large-scale hypothesis testing,2021-12-09,2022-06-10,2022-06-25,9,31
+36704711,10.1093/bioadv/vbac044,Bioinform Adv,fast.adonis: a computationally efficient non-parametric multivariate analysis of microbiom,2022-03-10,2022-06-07,2023-01-28,6,11
+36699352,10.1093/bioadv/vbac042,Bioinform Adv,"Correlation-guided Network Integration (CoNI), an R package for integrating numerical omic",2021-11-18,2022-06-01,2023-01-27,3,15
+36699387,10.1093/bioadv/vbac040,Bioinform Adv,CATHAI: cluster analysis tool for healthcare-associated infections.,2022-02-14,2022-05-24,2023-01-27,5,10
+35673616,10.1093/bioadv/vbac037,Bioinform Adv,COT: an efficient and accurate method for detecting marker genes among many subtypes.,2021-12-09,2022-05-16,2022-06-09,10,11
+36699398,10.1093/bioadv/vbac039,Bioinform Adv,DenVar: density-based variation analysis of multiplex imaging data.,2022-03-04,2022-05-18,2023-01-27,5,58
+35669347,10.1093/bioadv/vbac038,Bioinform Adv,HPiP: an R/Bioconductor package for predicting host-pathogen protein-protein interactions ,2021-12-25,2022-05-17,2022-06-08,4,10
+35722206,10.1093/bioadv/vbac033,Bioinform Adv,Sufficient principal component regression for pattern discovery in transcriptomic data.,2021-11-12,2022-05-04,2022-06-21,3,40
+36699388,10.1093/bioadv/vbac035,Bioinform Adv,MarkerGenie: an NLP-enabled text-mining system for biomedical entity relation extraction.,2022-02-21,2022-05-09,2023-01-27,6,46
+36699373,10.1093/bioadv/vbac036,Bioinform Adv,The network makeup artist (NORMA-2.0): distinguishing annotated groups in a network using ,2022-04-25,2022-05-09,2023-01-27,6,10
+35603231,10.1093/bioadv/vbac028,Bioinform Adv,Pollock: fishing for cell states.,2021-10-08,2022-05-10,2022-05-24,20,37
+36699362,10.1093/bioadv/vbac034,Bioinform Adv,Gilda: biomedical entity text normalization with machine-learned disambiguation as a servi,2021-10-11,2022-05-06,2023-01-27,3,18
+36699370,10.1093/bioadv/vbac031,Bioinform Adv,E-learning strategies from a bioinformatics postgraduate programme to improve student enga,2022-01-24,2022-04-29,2023-01-27,3,34
+35669345,10.1093/bioadv/vbac032,Bioinform Adv,NeoSplice: a bioinformatics method for prediction of splice variant neoantigens.,2021-08-02,2022-05-04,2022-06-08,11,41
+36699393,10.1093/bioadv/vbac029,Bioinform Adv,kmtricks: efficient and flexible construction of Bloom filters for large sequencing data c,2021-11-16,2022-04-27,2023-01-27,4,33
+35669346,10.1093/bioadv/vbac030,Bioinform Adv,Expanding the Galaxy's reference data.,2021-11-12,2022-04-26,2022-06-08,27,12
+36699350,10.1093/bioadv/vbac027,Bioinform Adv,ODEbase: a repository of ODE systems for systems biology.,2022-03-21,2022-04-21,2023-01-27,3,10
+36699410,10.1093/bioadv/vbac023,Bioinform Adv,Prediction of RNA-protein interactions using a nucleotide language model.,2021-07-26,2022-04-05,2023-01-27,2,62
+36699407,10.1093/bioadv/vbac022,Bioinform Adv,Mining hidden knowledge: embedding models of cause-effect relationships curated from the b,2022-01-05,2022-04-06,2023-01-27,6,22
+36699381,10.1093/bioadv/vbac021,Bioinform Adv,LMPred: predicting antimicrobial peptides using pre-trained language models and deep learn,2021-11-29,2022-03-29,2023-01-27,1,40
+35814290,10.1093/bioadv/vbac018,Bioinform Adv,WormBase single-cell tools.,2021-09-07,2022-03-26,2022-07-12,3,5
+36699406,10.1093/bioadv/vbac019,Bioinform Adv,FlexDotPlot: a universal and modular dot plot visualization tool for complex multifaceted ,2022-01-27,2022-03-22,2023-01-27,5,16
+36699385,10.1093/bioadv/vbac016,Bioinform Adv,decoupleR: ensemble of computational methods to infer biological activities from omics dat,2022-01-25,2022-03-04,2023-01-27,11,13
+36699363,10.1093/bioadv/vbac015,Bioinform Adv,AbAdapt: an adaptive approach to predicting antibody-antigen complex structures from seque,2022-02-09,2022-03-03,2023-01-27,9,50
+36699369,10.1093/bioadv/vbac014,Bioinform Adv,Shuffle & untangle: novel untangle methods for solving the tanglegram layout problem.,2021-11-01,2022-02-28,2023-01-27,4,13
+35368424,10.1093/bioadv/vbac013,Bioinform Adv,Gene and drug landing page aggregator.,2021-12-28,2022-02-26,2022-04-05,8,17
+36699379,10.1093/bioadv/vbac010,Bioinform Adv,KaruBioNet: a network and discussion group for a better collaboration and structuring of b,2021-09-27,2022-02-09,2023-01-27,22,51
+36699396,10.1093/bioadv/vbac011,Bioinform Adv,scMoC: single-cell multi-omics clustering.,2021-09-23,2022-02-11,2023-01-27,4,18
+35224501,10.1093/bioadv/vbac003,Bioinform Adv,Compositional Data Analysis using Kernels in mass cytometry data.,2021-08-23,2022-01-12,2022-03-01,4,78
+36699391,10.1093/bioadv/vbac008,Bioinform Adv,"PERCC1, a new member of the Yap/TAZ/FAM181 transcriptional co-regulator family.",2021-10-19,2022-01-26,2023-01-27,4,40
+36699395,10.1093/bioadv/vbac009,Bioinform Adv,SangeR: the high-throughput Sanger sequencing analysis pipeline.,2021-10-27,2022-01-26,2023-01-27,8,11
+36699378,10.1093/bioadv/vbac006,Bioinform Adv,MODalyseR-a novel software for inference of disease module hub regulators identified a put,2021-10-14,2022-01-24,2023-01-27,5,51
+36699344,10.1093/bioadv/vbac002,Bioinform Adv,How sticky are our proteins? Quantifying hydrophobicity of the human proteome.,2021-09-30,2022-01-24,2023-01-27,6,61
+36699356,10.1093/bioadv/vbac004,Bioinform Adv,MSPypeline: a python package for streamlined data analysis of mass spectrometry-based prot,2021-09-17,2022-01-13,2023-01-27,11,10
+36699348,10.1093/bioadv/vbac001,Bioinform Adv,Biclique extension as an effective approach to identify missing links in metabolic compoun,2021-08-17,2022-01-10,2023-01-27,2,38
+36699409,10.1093/bioadv/vbab043,Bioinform Adv,Folding the unfoldable: using AlphaFold to explore spurious proteins.,2021-10-22,2021-12-14,2023-01-27,3,16
+36699416,10.1093/bioadv/vbab047,Bioinform Adv,"The developmentally dynamic microRNA transcriptome of Glossina pallidipes tsetse flies, ve",2021-08-25,2021-12-24,2021-12-28,7,62
+36699412,10.1093/bioadv/vbab041,Bioinform Adv,protti: an R package for comprehensive data analysis of peptide- and protein-centric botto,2021-08-18,2021-12-06,2021-12-10,3,29
+36699405,10.1093/bioadv/vbab042,Bioinform Adv,A random forest classifier for protein-protein docking models.,2021-11-05,2021-12-06,2021-12-10,5,66
+36699401,10.1093/bioadv/vbab040,Bioinform Adv,wTAM: a web server for annotation of weighted human microRNAs.,2021-09-14,2021-12-01,2021-12-07,4,11
+36699351,10.1093/bioadv/vbab025,Bioinform Adv,MUNDO: protein function prediction embedded in a multispecies world.,2021-06-15,2021-09-23,2021-09-29,6,38
+36699349,10.1093/bioadv/vbab028,Bioinform Adv,Cutevariant: a standalone GUI-based desktop application to explore genetic variations from,2021-08-04,2021-10-25,2021-11-25,5,19
+35036922,10.1093/bioadv/vbab045,Bioinform Adv,LYRUS: a machine learning model for predicting the pathogenicity of missense variants.,2021-07-08,2021-12-21,2022-01-18,5,81
+38282976,10.1093/bioadv/vbad190,Bioinform Adv,Comparison of multiple modalities for drug response prediction with learning curves using ,2023-09-22,2023-12-22,2024-01-29,3,36
+38213823,10.1093/bioadv/vbad181,Bioinform Adv,Quantifying orthogonal barcodes for sequence census assays.,2023-05-31,2023-12-19,2024-01-12,4,23
+38213821,10.1093/bioadv/vbad188,Bioinform Adv,PaintorPipe: a pipeline for genetic variant fine-mapping using functional annotations.,2023-10-30,2023-12-19,2024-01-12,4,12
+38213820,10.1093/bioadv/vbad186,Bioinform Adv,Batch correction of single-cell sequencing data via an autoencoder architecture.,2023-08-29,2023-12-17,2024-01-12,3,20
+38205268,10.1093/bioadv/vbad189,Bioinform Adv,Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid ph,2023-08-21,2023-12-21,2024-01-11,2,47
+38187472,10.1093/bioadv/vbad175,Bioinform Adv,BannMI deciphers potential n-to-1 information transduction in signaling pathways to unrave,2023-08-29,2023-11-28,2024-01-08,3,37
+38146538,10.1093/bioadv/vbad184,Bioinform Adv,Availability of web servers significantly boosts citations rates of bioinformatics methods,2023-11-21,2023-12-15,2023-12-26,2,39
+38152341,10.1093/bioadv/vbad185,Bioinform Adv,StabJGL: a stability approach to sparsity and similarity selection in multiple-network rec,2023-06-28,2023-12-18,2023-12-28,2,39
+38146539,10.1093/bioadv/vbad182,Bioinform Adv,mtFRC: depth-dependent resolution quantification of image features in 3D fluorescence micr,2023-07-11,2023-12-14,2023-12-26,2,26
+38107654,10.1093/bioadv/vbad179,Bioinform Adv,escheR: unified multi-dimensional visualizations with Gestalt principles.,2023-08-01,2023-12-04,2023-12-18,5,20
+38107655,10.1093/bioadv/vbad178,Bioinform Adv,D2H2: diabetes data and hypothesis hub.,2023-08-16,2023-12-02,2023-12-18,10,41
+38089110,10.1093/bioadv/vbad177,Bioinform Adv,"PICAFlow: a complete R workflow dedicated to flow/mass cytometry data, from pre-processing",2023-09-04,2023-12-01,2023-12-13,3,22
+38075477,10.1093/bioadv/vbad176,Bioinform Adv,"SMapper: visualizing spatial prevalence data of all types, including sparse and incomplete",2023-07-06,2023-11-30,2023-12-11,5,6
+38089112,10.1093/bioadv/vbad174,Bioinform Adv,ExRec: a python pipeline for generating recombination-filtered multi-locus datasets.,2023-10-06,2023-11-28,2023-12-13,2,33
+38075478,10.1093/bioadv/vbad170,Bioinform Adv,MedicaidJS: a FAIR approach to real-time drug analytics.,2023-09-08,2023-11-28,2023-12-11,4,9
+38046097,10.1093/bioadv/vbad165,Bioinform Adv,TaxaHFE: a machine learning approach to collapse microbiome datasets using taxonomic struc,2023-09-25,2023-11-27,2023-12-04,3,38
+38145107,10.1093/bioadv/vbad167,Bioinform Adv,PanPA: generation and alignment of panproteome graphs.,2023-08-24,2023-11-23,2023-12-25,4,52
+38089111,10.1093/bioadv/vbad172,Bioinform Adv,A Bayesian approach to differential edges with probabilistic interactions: applications in,2023-06-12,2023-11-23,2023-12-13,3,46
+38075479,10.1093/bioadv/vbad171,Bioinform Adv,scTopoGAN: unsupervised manifold alignment of single-cell data.,2023-04-19,2023-11-23,2023-12-11,5,38
+38075476,10.1093/bioadv/vbad173,Bioinform Adv,EnzymeNet: residual neural networks model for Enzyme Commission number prediction.,2023-03-25,2023-11-24,2023-12-11,5,32
+38099262,10.1093/bioadv/vbad166,Bioinform Adv,Adversarial training improves model interpretability in single-cell RNA-seq analysis.,2023-06-09,2023-11-22,2023-12-15,3,45
+38089113,10.1093/bioadv/vbad169,Bioinform Adv,XHap: haplotype assembly using long-distance read correlations learned by transformers.,2023-08-01,2023-11-22,2023-12-13,3,43
+38046098,10.1093/bioadv/vbad168,Bioinform Adv,AdmixPipe v3: facilitating population structure delimitation from SNP data.,2023-09-18,2023-11-22,2023-12-04,4,10
+38033661,10.1093/bioadv/vbad163,Bioinform Adv,link-ancestors: fast simulation of local ancestry with tree sequence software.,2023-07-26,2023-11-16,2023-11-30,5,10
+38075480,10.1093/bioadv/vbad164,Bioinform Adv,STUN: forward-time simulation on TUnable fitNess landscapes in recombining populations.,2023-08-30,2023-11-15,2023-12-11,3,19
+38023332,10.1093/bioadv/vbad162,Bioinform Adv,aaHash: recursive amino acid sequence hashing.,2023-07-14,2023-11-08,2023-11-29,5,36
+38023331,10.1093/bioadv/vbad160,Bioinform Adv,SynAI: an AI-driven cancer drugs synergism prediction platform.,2023-07-31,2023-11-08,2023-11-29,3,15
+38023328,10.1093/bioadv/vbad161,Bioinform Adv,"syntenyPlotteR: a user-friendly R package to visualize genome synteny, ideal for both expe",2023-07-17,2023-11-07,2023-11-29,4,10
+38023329,10.1093/bioadv/vbad159,Bioinform Adv,Enhanced annotation of CD45RA to distinguish T cell subsets in single-cell RNA-seq via mac,2023-07-01,2023-11-03,2023-11-29,2,55
+38023327,10.1093/bioadv/vbad158,Bioinform Adv,pyScoMotif: discovery of similar 3D structural motifs across proteins.,2023-05-09,2023-11-01,2023-11-29,5,22
+37953912,10.1093/bioadv/vbad157,Bioinform Adv,UniProtExtractR: an app and R package for easily extracting protein-specific UniProtKB inf,2023-07-31,2023-10-30,2023-11-13,2,4
+37928344,10.1093/bioadv/vbad156,Bioinform Adv,JEasyTFM: an open-source software package for the analysis of large 2D TFM data within Ima,2023-03-10,2023-10-24,2023-11-06,2,24
+37904893,10.1093/bioadv/vbad154,Bioinform Adv,JSONWP: a static website generator for protein bioinformatics research.,2023-07-26,2023-10-24,2023-10-31,3,16
+37928345,10.1093/bioadv/vbad155,Bioinform Adv,Multi-shelled ECIF: improved extended connectivity interaction features for accurate bindi,2023-08-01,2023-10-19,2023-11-06,2,28
+37928341,10.1093/bioadv/vbad149,Bioinform Adv,Allele detection using k-mer-based sequencing error profiles.,2023-06-20,2023-10-19,2023-11-06,3,24
+37928343,10.1093/bioadv/vbad153,Bioinform Adv,ProbioMinServer: an integrated platform for assessing the safety and functional properties,2023-04-11,2023-10-17,2023-11-06,5,50
+37886712,10.1093/bioadv/vbad150,Bioinform Adv,Single-cell gene set scoring with nearest neighbor graph smoothed data (gssnng).,2023-04-25,2023-10-16,2023-10-27,3,29
+38023330,10.1093/bioadv/vbad152,Bioinform Adv,Guiding the design of well-powered Hi-C experiments to detect differential loops.,2023-05-16,2023-10-14,2023-11-29,3,28
+37901344,10.1093/bioadv/vbad151,Bioinform Adv,"NetAllergen, a random forest model integrating MHC-II presentation propensity for improved",2023-07-01,2023-10-13,2023-10-30,4,45
+37928342,10.1093/bioadv/vbad148,Bioinform Adv,Improving efficiency of fitting Cox proportional hazards models for time-to-event outcomes,2023-04-17,2023-10-11,2023-11-06,5,36
+37881170,10.1093/bioadv/vbad146,Bioinform Adv,LOCATOR: feature extraction and spatial analysis of the cancer tissue microenvironment usi,2023-05-16,2023-10-10,2023-10-26,4,56
+37928340,10.1093/bioadv/vbad141,Bioinform Adv,The impact of similarity metrics on cell-type clustering in highly multiplexed in situ ima,2023-06-15,2023-10-07,2023-11-06,3,55
+37868335,10.1093/bioadv/vbad145,Bioinform Adv,"PRScalc, a privacy-preserving calculation of raw polygenic risk scores from direct-to-cons",2023-06-16,2023-10-07,2023-10-23,10,9
+37840907,10.1093/bioadv/vbad144,Bioinform Adv,PhyloMatcher: a tool for resolving conflicts in taxonomic nomenclature.,2023-06-14,2023-10-03,2023-10-16,4,52
+37860106,10.1093/bioadv/vbad140,Bioinform Adv,Identification of disease modules using higher-order network structure.,2023-05-23,2023-10-03,2023-10-20,3,48
+37860104,10.1093/bioadv/vbad143,Bioinform Adv,FORALL: an interactive shiny/R web portal to navigate multi-omics high-throughput data of ,2023-06-12,2023-10-03,2023-10-20,2,16
+37840906,10.1093/bioadv/vbad142,Bioinform Adv,G2GSnake: a Snakemake workflow for host-pathogen genomic association studies.,2023-04-26,2023-10-03,2023-10-16,4,14
+38046099,10.1093/bioadv/vbad134,Bioinform Adv,Structome: a tool for the rapid assembly of datasets for structural phylogenetics.,2023-03-02,2023-09-29,2023-12-04,5,58
+37860105,10.1093/bioadv/vbad137,Bioinform Adv,BioNAR: an integrated biological network analysis package in bioconductor.,2023-06-28,2023-09-28,2023-10-20,5,48
+37822724,10.1093/bioadv/vbad136,Bioinform Adv,wTSA-CRAFT: an open-access web server for rapid analysis of thermal shift assay experiment,2023-05-12,2023-09-28,2023-10-12,4,9
+37818175,10.1093/bioadv/vbad139,Bioinform Adv,An R package for ensemble learning stacking.,2023-08-14,2023-09-28,2023-10-11,2,12
+37810458,10.1093/bioadv/vbad127,Bioinform Adv,VISTA: visualizing the spatial transcriptome of the C.elegans nervous system.,2023-05-09,2023-09-12,2023-10-09,3,28
+37810457,10.1093/bioadv/vbad135,Bioinform Adv,EXPANSION: a webserver to explore the functional consequences of protein-coding alternativ,2023-05-18,2023-09-25,2023-10-09,6,34
+37810456,10.1093/bioadv/vbad131,Bioinform Adv,Adaptive differentiable grids for cryo-electron tomography reconstruction and denoising.,2023-05-05,2023-09-20,2023-10-09,5,40
+37818176,10.1093/bioadv/vbad132,Bioinform Adv,Ethoscopy and ethoscope-lab: a framework for behavioural analysis to lower entrance barrie,2023-01-24,2023-09-18,2023-10-11,2,16
+37767186,10.1093/bioadv/vbad130,Bioinform Adv,CCPlotR: an R package for the visualization of cell-cell interactions.,2023-08-19,2023-09-18,2023-09-28,3,8
+37786533,10.1093/bioadv/vbad129,Bioinform Adv,Investigating the conformational landscape of AlphaFold2-predicted protein kinase structur,2023-05-18,2023-09-13,2023-10-03,9,45
+37745000,10.1093/bioadv/vbad115,Bioinform Adv,mStrain: strain-level identification of Yersinia pestis using metagenomic data.,2023-03-22,2023-09-07,2023-09-25,8,23
+37799190,10.1093/bioadv/vbad125,Bioinform Adv,Immuno-metabolic signaling in leishmaniasis: insights gained from mathematical modeling.,2023-06-16,2023-09-12,2023-10-06,2,55
+37750068,10.1093/bioadv/vbad124,Bioinform Adv,The Free Lunch is not over yet-systematic exploration of numerical thresholds in maximum l,2023-06-16,2023-09-12,2023-09-26,4,35
+37745003,10.1093/bioadv/vbad126,Bioinform Adv,ChromNetMotif: a Python tool to extract chromatin-sate marked motifs in a chromatin intera,2023-05-01,2023-09-12,2023-09-25,1,19
+37745001,10.1093/bioadv/vbad128,Bioinform Adv,Detecting biased validation of predictive models in the positive-unlabeled setting: diseas,2023-06-14,2023-09-12,2023-09-25,2,29
+37750069,10.1093/bioadv/vbad123,Bioinform Adv,bubbleHeatmap: an R package for visualization of nightingale health metabolomics datasets.,2023-03-15,2023-09-11,2023-09-26,3,12
+37720007,10.1093/bioadv/vbad122,Bioinform Adv,WSIC: a Python package and command-line interface for fast whole slide image conversion.,2023-06-09,2023-09-08,2023-09-18,4,7
+37745002,10.1093/bioadv/vbad121,Bioinform Adv,KAS-Analyzer: a novel computational framework for exploring KAS-seq data.,2023-06-05,2023-09-06,2023-09-25,6,43
+37745005,10.1093/bioadv/vbad119,Bioinform Adv,SEM3De: image restoration for FIB-SEM.,2023-02-23,2023-09-05,2023-09-25,10,20
+37745004,10.1093/bioadv/vbad120,Bioinform Adv,Cell type-specific interaction analysis using doublets in scRNA-seq.,2023-03-13,2023-09-05,2023-09-25,4,44
+37744999,10.1093/bioadv/vbad118,Bioinform Adv,An improved framework for detecting discrete epidemiologically meaningful partitions in hi,2023-05-16,2023-08-31,2023-09-25,4,25
+38496344,10.1093/bioadv/vbad117,Bioinform Adv,RepairNatrix: a Snakemake workflow for processing DNA sequencing data for DNA storage.,2023-05-03,2023-08-24,2024-03-18,4,27
+38282612,10.1093/bioadv/vbad116,Bioinform Adv,SAGDTI: self-attention and graph neural network with multiple information representations ,2023-04-21,2023-08-24,2024-01-29,10,48
+37701675,10.1093/bioadv/vbad107,Bioinform Adv,VCFshiny: an R/Shiny application for interactively analyzing and visualizing genetic varia,2023-02-09,2023-08-24,2023-09-13,11,37
+38496343,10.1093/bioadv/vbad113,Bioinform Adv,OntoloViz: a GUI for interactive visualization of ranked disease or drug lists using the M,2023-05-09,2023-08-22,2024-03-18,5,9
+37661945,10.1093/bioadv/vbad114,Bioinform Adv,DANGER analysis: risk-averse on/off-target assessment for CRISPR editing without a referen,2023-03-15,2023-08-22,2023-09-04,2,52
+37886711,10.1093/bioadv/vbad109,Bioinform Adv,AntiRef: reference clusters of human antibody sequences.,2023-03-17,2023-08-21,2023-10-27,1,22
+37786534,10.1093/bioadv/vbad112,Bioinform Adv,QuTIE: quantum optimization for target identification by enzymes.,2023-05-15,2023-08-18,2023-10-03,3,34
+37655178,10.1093/bioadv/vbad111,Bioinform Adv,RibDif2: expanding amplicon analysis to full genomes.,2023-06-09,2023-08-18,2023-09-01,2,16
+37701676,10.1093/bioadv/vbad110,Bioinform Adv,DPSP: a multimodal deep learning framework for polypharmacy side effects prediction.,2023-06-08,2023-08-15,2023-09-13,2,50
+37621456,10.1093/bioadv/vbad108,Bioinform Adv,Seedability: optimizing alignment parameters for sensitive sequence comparison.,2023-04-21,2023-08-10,2023-08-25,3,26
+39131740,10.1093/bioadv/vbad106,Bioinform Adv,A Bayesian model for genomic prediction using metabolic networks.,2023-05-12,2023-08-10,2024-08-12,1,30
+37638212,10.1093/bioadv/vbad105,Bioinform Adv,Ab initio gene prediction for protein-coding regions.,2023-02-15,2023-08-08,2023-08-28,3,32
+37600846,10.1093/bioadv/vbad104,Bioinform Adv,Cobind: quantitative analysis of the genomic overlaps.,2023-05-24,2023-08-04,2023-08-21,4,50
+37600847,10.1093/bioadv/vbad103,Bioinform Adv,"AliGater: a framework for the development of bioinformatic pipelines for large-scale, high",2023-03-15,2023-08-03,2023-08-21,6,25
+37720006,10.1093/bioadv/vbad097,Bioinform Adv,Toward computing attributions for dimensionality reduction techniques.,2023-04-20,2023-08-01,2023-09-18,5,29
+37641717,10.1093/bioadv/vbad101,Bioinform Adv,PhaBOX: a web server for identifying and characterizing phage contigs in metagenomic data.,2023-04-25,2023-08-01,2023-08-29,5,16
+37600845,10.1093/bioadv/vbad102,Bioinform Adv,Genesis-DB: a database for autonomous laboratory systems.,2023-05-16,2023-08-01,2023-08-21,9,14
+37565237,10.1093/bioadv/vbad100,Bioinform Adv,KOMPUTE: imputing summary statistics of missing phenotypes in high-throughput model organi,2023-03-13,2023-07-30,2023-08-11,3,16
+37521310,10.1093/bioadv/vbad090,Bioinform Adv,A soft-computation hybrid method for search of the antibiotic-resistant gene in Mycobacter,2023-03-31,2023-07-26,2023-07-31,2,34
+38952748,10.1093/bioadv/vbad096,Bioinform Adv,Turtling: a time-aware neural topic model on NIH grant data.,2023-03-20,2023-07-21,2024-07-02,6,24
+37521311,10.1093/bioadv/vbad099,Bioinform Adv,FASTdRNA: a workflow for the analysis of ONT direct RNA sequencing.,2023-03-13,2023-07-19,2023-07-31,6,20
+37641716,10.1093/bioadv/vbad084,Bioinform Adv,DOCEST-fast and accurate estimator of human NGS sequencing depth and error rate.,2022-12-15,2023-07-16,2023-08-29,4,11
+37577265,10.1093/bioadv/vbad092,Bioinform Adv,Improving taxonomic classification with feature space balancing.,2023-06-07,2023-07-14,2023-08-14,3,19
+37521309,10.1093/bioadv/vbad098,Bioinform Adv,Prediction of metabolite-protein interactions based on integration of machine learning and,2022-11-15,2023-07-15,2023-07-31,4,34
+37485423,10.1093/bioadv/vbad095,Bioinform Adv,Enhancing biomedical search interfaces with images.,2023-05-15,2023-07-14,2023-07-24,4,29
+37502274,10.1093/bioadv/vbad091,Bioinform Adv,Measuring the relative contribution to predictive power of modern nucleotide substitution ,2023-04-20,2023-07-06,2023-07-28,3,36
+37456510,10.1093/bioadv/vbad083,Bioinform Adv,"TraceTrack, an open-source software for batch processing, alignment and visualization of s",2023-05-04,2023-07-11,2023-07-17,5,10
+37448814,10.1093/bioadv/vbad088,Bioinform Adv,"(m, n)-mer-a simple statistical feature for sequence classification.",2023-02-11,2023-07-10,2023-07-14,4,9
+37465397,10.1093/bioadv/vbad094,Bioinform Adv,ZooPathWeb: a comprehensive web resource for zoonotic pathogens.,2023-04-19,2023-07-08,2023-07-19,3,16
+37485422,10.1093/bioadv/vbad093,Bioinform Adv,circRNA-sponging: a pipeline for extensive analysis of circRNA expression and their role i,2023-05-12,2023-07-07,2023-07-24,11,60
+37465398,10.1093/bioadv/vbad089,Bioinform Adv,Scdrake: a reproducible and scalable pipeline for scRNA-seq data analysis.,2023-01-19,2023-07-05,2023-07-19,3,15
+37521308,10.1093/bioadv/vbad074,Bioinform Adv,MSFP: undergraduate 'collaborate-from-home' research in macromolecular structure and funct,2022-12-10,2023-06-12,2023-07-31,1,19
+37456508,10.1093/bioadv/vbad087,Bioinform Adv,1LocusSim a mobile-friendly simulator for teaching population genetics.,2023-04-26,2023-07-04,2023-07-17,1,8
+37456509,10.1093/bioadv/vbad085,Bioinform Adv,RegCFinder: targeted discovery of genomic subregions with differential read density.,2023-06-14,2023-07-03,2023-07-17,2,17
+37476534,10.1093/bioadv/vbad082,Bioinform Adv,Network-augmented compartmental models to track asymptomatic disease spread.,2023-05-20,2023-07-01,2023-07-21,5,33
+37448813,10.1093/bioadv/vbad086,Bioinform Adv,BERTwalk for integrating gene networks to predict gene- to pathway-level properties.,2023-05-09,2023-07-02,2023-07-14,2,23
+37431435,10.1093/bioadv/vbad081,Bioinform Adv,CroMaSt: a workflow for assessing protein domain classification by cross-mapping of struct,2023-05-03,2023-06-26,2023-07-11,3,21
+37397353,10.1093/bioadv/vbad080,Bioinform Adv,snHiC: a complete and simplified snakemake pipeline for grouped Hi-C data analysis.,2023-05-09,2023-06-20,2023-07-03,2,12
+37359721,10.1093/bioadv/vbad077,Bioinform Adv,IsoAnalytics: a single-cell proteomics web server.,2023-01-18,2023-06-19,2023-06-26,3,9
+37521307,10.1093/bioadv/vbad079,Bioinform Adv,A statistical algorithm for outbreak detection in multisite settings: an application to si,2022-12-09,2023-06-13,2023-07-31,3,27
+37359722,10.1093/bioadv/vbad078,Bioinform Adv,Improvement of protein tertiary and quaternary structure predictions using the ReFOLD refi,2023-03-24,2023-06-13,2023-06-26,5,37
+37416509,10.1093/bioadv/vbad062,Bioinform Adv,A deep-learning-based RNA-seq germline variant caller.,2022-12-06,2023-05-30,2023-07-07,7,39
+37359727,10.1093/bioadv/vbad073,Bioinform Adv,SPECK: an unsupervised learning approach for cell surface receptor abundance estimation fo,2022-10-15,2023-06-12,2023-06-26,2,38
+37359726,10.1093/bioadv/vbad072,Bioinform Adv,GDockScore: a graph-based protein-protein docking scoring function.,2023-04-14,2023-06-10,2023-06-26,2,56
+37359725,10.1093/bioadv/vbad076,Bioinform Adv,DepLink: an R Shiny app to systematically link genetic and pharmacologic dependencies of c,2023-04-25,2023-06-10,2023-06-26,10,9
+37448812,10.1093/bioadv/vbad069,Bioinform Adv,StandEnA: a customizable workflow for standardized annotation and generating a presence-ab,2023-01-09,2023-06-08,2023-07-14,6,29
+37351311,10.1093/bioadv/vbad071,Bioinform Adv,tidytof: a user-friendly framework for scalable and reproducible high-dimensional cytometr,2023-01-20,2023-06-07,2023-06-23,5,24
+37351310,10.1093/bioadv/vbad070,Bioinform Adv,PIQLE: protein-protein interface quality estimation by deep graph learning of multimeric i,2023-02-22,2023-06-01,2023-06-23,4,50
+37359724,10.1093/bioadv/vbad067,Bioinform Adv,PPIntegrator: semantic integrative system for protein-protein interaction and application ,2022-12-08,2023-05-30,2023-06-26,6,42
+37359723,10.1093/bioadv/vbad064,Bioinform Adv,Nightingale: web components for protein feature visualization.,2023-02-13,2023-05-23,2023-06-26,8,7
+37275772,10.1093/bioadv/vbad066,Bioinform Adv,FLONE: fully Lorentz network embedding for inferring novel drug targets.,2023-03-20,2023-05-23,2023-06-05,6,38
+37359720,10.1093/bioadv/vbad063,Bioinform Adv,LongDat: an R package for covariate-sensitive longitudinal analysis of high-dimensional da,2022-08-24,2023-05-17,2023-06-26,3,55
+37288323,10.1093/bioadv/vbad065,Bioinform Adv,tiny-count: a counting tool for hierarchical classification and quantification of small RN,2022-08-26,2023-05-17,2023-06-08,3,25
+37234699,10.1093/bioadv/vbad061,Bioinform Adv,MetaMOPE: a web service for mobile phase determination and fast chromatography peaks evalu,2022-10-24,2023-05-17,2023-05-26,8,10
+37228387,10.1093/bioadv/vbad059,Bioinform Adv,A self-knowledge distillation-driven CNN-LSTM model for predicting disease outcomes using ,2023-01-05,2023-05-01,2023-05-25,4,49
+37213868,10.1093/bioadv/vbad054,Bioinform Adv,NRRS: a re-tracing strategy to refine neuron reconstruction.,2022-10-24,2023-04-24,2023-05-22,4,28
+37213867,10.1093/bioadv/vbad060,Bioinform Adv,Identification of representative species-specific genes for abundance measurements.,2022-08-26,2023-05-05,2023-05-22,6,20
+37168281,10.1093/bioadv/vbad058,Bioinform Adv,TRviz: a Python library for decomposing and visualizing tandem repeat sequences.,2023-01-17,2023-04-24,2023-05-12,4,11
+37128577,10.1093/bioadv/vbad057,Bioinform Adv,PGPointNovo: an efficient neural network-based tool for parallel de novo peptide sequencin,2023-03-13,2023-04-24,2023-05-02,8,11
+37179703,10.1093/bioadv/vbad056,Bioinform Adv,RBAtools: a programming interface for Resource Balance Analysis models.,2023-01-31,2023-04-21,2023-05-14,5,11
+37424942,10.1093/bioadv/vbad053,Bioinform Adv,MetChem: a new pipeline to explore structural similarity across metabolite modules.,2022-12-28,2023-04-19,2023-07-10,7,30
+37153629,10.1093/bioadv/vbad055,Bioinform Adv,CREPE: a Shiny app for transcription factor cataloguing.,2023-02-13,2023-04-20,2023-05-08,2,14
+37128578,10.1093/bioadv/vbad052,Bioinform Adv,HMMerge: an ensemble method for multiple sequence alignment.,2022-12-12,2023-04-13,2023-05-02,2,26
+37123454,10.1093/bioadv/vbad050,Bioinform Adv,CanIsoNet: a database to study the functional impact of isoform switching events in diseas,2022-10-25,2023-04-13,2023-05-01,6,19
+37250110,10.1093/bioadv/vbad049,Bioinform Adv,EpiCompare: R package for the comparison and quality control of epigenomic peak files.,2022-12-21,2023-04-12,2023-05-30,5,22
+37113250,10.1093/bioadv/vbad048,Bioinform Adv,nestedcv: an R package for fast implementation of nested cross-validation with embedded fe,2022-12-05,2023-04-12,2023-04-28,6,16
+37113249,10.1093/bioadv/vbad051,Bioinform Adv,ACDA: implementation of an augmented drug synergy prediction algorithm.,2022-11-27,2023-04-12,2023-04-28,4,11
+37123453,10.1093/bioadv/vbad047,Bioinform Adv,Latent disease similarities and therapeutic repurposing possibilities uncovered by multi-m,2022-11-11,2023-03-31,2023-05-01,7,65
+37092035,10.1093/bioadv/vbad042,Bioinform Adv,SAINT-Angle: self-attention augmented inception-inside-inception network and transfer lear,2022-11-29,2023-04-04,2023-04-24,5,56
+37038446,10.1093/bioadv/vbad032,Bioinform Adv,AGRN: accurate gene regulatory network inference using ensemble machine learning methods.,2022-12-25,2023-04-04,2023-04-12,4,56
+37187795,10.1093/bioadv/vbad045,Bioinform Adv,Mpox Knowledge Graph: a comprehensive representation embedding chemical entities and assoc,2022-10-19,2023-03-31,2023-05-16,4,21
+37033468,10.1093/bioadv/vbad044,Bioinform Adv,Peak Pair Pruner: a post-processing software to MS-DIAL for peak pair validation and ratio,2023-02-06,2023-03-25,2023-04-11,2,5
+37113248,10.1093/bioadv/vbad043,Bioinform Adv,iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale c,2022-12-05,2023-03-24,2023-04-28,7,42
+36998720,10.1093/bioadv/vbad029,Bioinform Adv,EasyCellType: marker-based cell-type annotation by automatically querying multiple databas,2022-09-06,2023-03-22,2023-04-01,3,43
+37033466,10.1093/bioadv/vbad040,Bioinform Adv,TB-ML-a framework for comparing machine learning approaches to predict drug resistance of ,2022-12-13,2023-03-22,2023-04-11,6,7
+37033465,10.1093/bioadv/vbad038,Bioinform Adv,HTRX: an R package for learning non-contiguous haplotypes associated with a phenotype.,2023-01-09,2023-03-22,2023-04-11,2,13
+37020976,10.1093/bioadv/vbad039,Bioinform Adv,"Computational speed-up of large-scale, single-cell model simulations via a fully integrate",2023-01-25,2023-03-22,2023-04-07,8,27
+37016683,10.1093/bioadv/vbad033,Bioinform Adv,The Epilepsy Ontology: a community-based ontology tailored for semantic interoperability a,2022-10-01,2023-03-21,2023-04-06,13,6
+37250111,10.1093/bioadv/vbad034,Bioinform Adv,Machine learning classifier approaches for predicting response to RTK-type-III inhibitors ,2022-09-08,2023-03-21,2023-05-30,9,30
+37096121,10.1093/bioadv/vbad037,Bioinform Adv,Identification of a gene expression signature associated with breast cancer survival and r,2022-11-28,2023-03-21,2023-04-25,5,37
+37066135,10.1093/bioadv/vbad035,Bioinform Adv,easyPheno: An easy-to-use and easy-to-extend Python framework for phenotype prediction usi,2023-02-07,2023-03-21,2023-04-18,3,10
+37033467,10.1093/bioadv/vbad036,Bioinform Adv,Federated learning framework integrating REFINED CNN and Deep Regression Forests.,2022-09-30,2023-03-21,2023-04-11,4,39
+37033469,10.1093/bioadv/vbad031,Bioinform Adv,Motif elucidation in ChIP-seq datasets with a knockout control.,2022-09-21,2023-03-15,2023-04-11,3,87
+36949780,10.1093/bioadv/vbad030,Bioinform Adv,scAnnotate: an automated cell-type annotation tool for single-cell RNA-sequencing data.,2022-11-07,2023-03-10,2023-03-24,6,43
+36936370,10.1093/bioadv/vbad026,Bioinform Adv,Phylostems: a new graphical tool to investigate temporal signal of heterochronous sequence,2023-02-07,2023-03-10,2023-03-21,5,19
+37123455,10.1093/bioadv/vbad028,Bioinform Adv,Predicting phenotypes from novel genomic markers using deep learning.,2022-12-19,2023-03-08,2023-05-01,3,49
+36936371,10.1093/bioadv/vbad022,Bioinform Adv,ProFeatMap: a highly customizable tool for 2D feature representation of protein sets.,2022-08-30,2023-03-07,2023-03-21,4,8
+36922981,10.1093/bioadv/vbad025,Bioinform Adv,promor: a comprehensive R package for label-free proteomics data analysis and predictive m,2022-09-30,2023-03-06,2023-03-17,9,20
+36970502,10.1093/bioadv/vbad024,Bioinform Adv,WITCH-NG: efficient and accurate alignment of datasets with sequence length heterogeneity.,2022-12-11,2023-03-03,2023-03-28,2,28
+37056516,10.1093/bioadv/vbad023,Bioinform Adv,GPTree Cluster: phylogenetic tree cluster generator in the context of supertree inference.,2022-12-29,2023-03-02,2023-04-15,2,23
+36908398,10.1093/bioadv/vbad021,Bioinform Adv,Exploiting parallelization in positional Burrows-Wheeler transform (PBWT) algorithms for e,2023-01-17,2023-03-01,2023-03-14,4,16
+37143924,10.1093/bioadv/vbad016,Bioinform Adv,MonoNet: enhancing interpretability in neural networks via monotonic features.,2022-10-05,2023-02-22,2023-05-05,4,57
+36874954,10.1093/bioadv/vbad014,Bioinform Adv,Benchmarking of microbiome detection tools on RNA-seq synthetic databases according to div,2022-03-15,2023-02-03,2023-03-07,7,18
+36874953,10.1093/bioadv/vbad020,Bioinform Adv,recountmethylation enables flexible analysis of public blood DNA methylation array data.,2022-07-18,2023-02-17,2023-03-07,6,92
+36845201,10.1093/bioadv/vbad019,Bioinform Adv,iSC.MEB: an R package for multi-sample spatial clustering analysis of spatial transcriptom,2022-11-01,2023-02-16,2023-02-28,4,15
+36908397,10.1093/bioadv/vbad018,Bioinform Adv,LAVAA: a lightweight association viewer across ailments.,2022-09-12,2023-02-11,2023-03-14,7,11
+36818730,10.1093/bioadv/vbad017,Bioinform Adv,baseLess: lightweight detection of sequences in raw MinION data.,2023-01-04,2023-02-12,2023-02-24,6,23
+36818729,10.1093/bioadv/vbad010,Bioinform Adv,NSPA: characterizing the disease association of multiple genetic interactions at single-su,2022-10-31,2023-02-02,2023-02-24,3,66
+36789293,10.1093/bioadv/vbad015,Bioinform Adv,DISCO+QR: rooting species trees in the presence of GDL and ILS.,2022-12-12,2023-02-06,2023-02-16,4,32
+36818727,10.1093/bioadv/vbad011,Bioinform Adv,G-RANK: an equivariant graph neural network for the scoring of protein-protein docking mod,2022-11-07,2023-02-01,2023-02-24,4,23
+36818731,10.1093/bioadv/vbad013,Bioinform Adv,An immune-suppressing protein in human endogenous retroviruses.,2022-12-10,2023-02-01,2023-02-24,3,17
+36789294,10.1093/bioadv/vbad005,Bioinform Adv,Snekmer: a scalable pipeline for protein sequence fingerprinting based on amino acid recod,2022-03-14,2023-02-01,2023-02-16,6,33
+36789292,10.1093/bioadv/vbad012,Bioinform Adv,Improving classification of correct and incorrect protein-protein docking models by augmen,2022-11-27,2023-02-01,2023-02-16,5,70
+36922980,10.1093/bioadv/vbad009,Bioinform Adv,IntLIM 2.0: identifying multi-omic relationships dependent on discrete or continuous pheno,2023-01-03,2023-02-01,2023-03-17,5,19
+36818728,10.1093/bioadv/vbad008,Bioinform Adv,SCAMPP+FastTree: improving scalability for likelihood-based phylogenetic placement.,2022-12-08,2023-01-27,2023-02-24,2,32
+36908399,10.1093/bioadv/vbad007,Bioinform Adv,Faltwerk: a library for spatial exploratory data analysis of protein structures.,2022-10-24,2023-01-20,2023-03-14,1,31
+36845202,10.1093/bioadv/vbad006,Bioinform Adv,Pancancer survival prediction using a deep learning architecture with multimodal represent,2022-07-04,2023-01-22,2023-02-28,4,54
+36726731,10.1093/bioadv/vbac101,Bioinform Adv,cvlr: finding heterogeneously methylated genomic regions using ONT reads.,2022-07-01,2023-01-03,2023-02-03,4,18
+36726729,10.1093/bioadv/vbac095,Bioinform Adv,A cloud-based pipeline for analysis of FHIR and long-read data.,2022-09-21,2023-01-19,2023-02-03,2,50
+36698763,10.1093/bioadv/vbac093,Bioinform Adv,OmicsTIDE: interactive exploration of trends in multi-omics data.,2022-08-09,2022-12-06,2023-01-27,4,24
+36726730,10.1093/bioadv/vbad002,Bioinform Adv,Deep learning predicts the impact of regulatory variants on cell-type-specific enhancers i,2022-08-01,2023-01-11,2023-02-03,4,58
+36698768,10.1093/bioadv/vbad003,Bioinform Adv,scMEGA: single-cell multi-omic enhancer-based gene regulatory network inference.,2022-10-18,2023-01-11,2023-01-27,5,21
+36698767,10.1093/bioadv/vbac100,Bioinform Adv,Learning from small medical data-robust semi-supervised cancer prognosis classifier with B,2022-10-24,2023-01-08,2023-01-27,2,58
+36698766,10.1093/bioadv/vbac099,Bioinform Adv,GlobeCorr: interactive globe-based visualization for correlation datasets.,2022-10-26,2023-01-05,2023-01-27,10,9
+36698765,10.1093/bioadv/vbac102,Bioinform Adv,CoDe: a web-based tool for codon deoptimization.,2022-10-11,2022-12-30,2023-01-27,5,24
+36698760,10.1093/bioadv/vbac103,Bioinform Adv,Prediction of antibody binding to SARS-CoV-2 RBDs.,2022-10-13,2022-12-31,2023-01-27,1,49
+36698764,10.1093/bioadv/vbac098,Bioinform Adv,Computational analyses reveal fundamental properties of the AT structure related to thromb,2022-10-06,2022-12-22,2023-01-27,6,44
+36698761,10.1093/bioadv/vbac096,Bioinform Adv,Simulation of mass spectrometry-based proteomics data with Synthedia.,2022-09-06,2022-12-16,2023-01-27,5,26
+36698759,10.1093/bioadv/vbac094,Bioinform Adv,Nucleotide augmentation for machine learning-guided protein engineering.,2022-05-20,2022-12-08,2023-01-27,2,41
+40260118,10.1093/bioadv/vbae206,Bioinform Adv,NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination f,2024-06-05,2024-12-18,2025-04-22,5,188
+40196750,10.1093/bioadv/vbaf042,Bioinform Adv,Fast protein structure searching using structure graph embeddings.,2025-01-07,2025-03-03,2024-03-05,2,70
+39927292,10.1093/bioadv/vbae210,Bioinform Adv,VAREANT: a bioinformatics application for gene variant reduction and annotation.,2024-10-31,2024-12-30,2025-02-10,5,37
+39897947,10.1093/bioadv/vbae181,Bioinform Adv,Flexible fitting of AlphaFold2-predicted models to cryo-EM density maps using elastic netw,2024-04-02,2024-11-14,2025-02-03,3,41
+39897946,10.1093/bioadv/vbae199,Bioinform Adv,A comparative analysis of gene expression profiling by statistical and machine learning ap,2024-05-29,2024-12-16,2025-02-03,6,61
+39846081,10.1093/bioadv/vbae187,Bioinform Adv,Dissecting AlphaFold2's capabilities with limited sequence information.,2024-08-06,2024-11-21,2025-01-23,2,48
+39846080,10.1093/bioadv/vbae205,Bioinform Adv,Identification of promising dipeptidyl peptidase-4 and protein tyrosine phosphatase 1B inh,2024-05-20,2024-12-16,2025-01-23,9,91
+39801779,10.1093/bioadv/vbae182,Bioinform Adv,ICoN: integration using co-attention across biological networks.,2024-07-10,2024-11-14,2025-01-13,2,30
+39801778,10.1093/bioadv/vbae208,Bioinform Adv,QOMIC: quantum optimization for motif identification.,2024-04-17,2024-12-20,2025-01-13,4,40
+39776894,10.1093/bioadv/vbae207,Bioinform Adv,Genal: a Python toolkit for genetic risk scoring and Mendelian randomization.,2024-09-16,2024-12-19,2025-01-08,8,10
+39758831,10.1093/bioadv/vbae173,Bioinform Adv,LncLSTA: a versatile predictor unveiling subcellular localization of lncRNAs through long-,2024-06-27,2024-11-07,2025-01-06,5,30
+39758830,10.1093/bioadv/vbae196,Bioinform Adv,TraitTrainR: accelerating large-scale simulation under models of continuous trait evolutio,2024-06-21,2024-12-05,2025-01-06,6,70
+39758829,10.1093/bioadv/vbae184,Bioinform Adv,Predicting CRISPR-Cas9 off-target effects in human primary cells using bidirectional LSTM ,2024-07-26,2024-12-05,2025-01-06,4,50
+39758828,10.1093/bioadv/vbae172,Bioinform Adv,MitoMAMMAL: a genome scale model of mammalian mitochondria predicts cardiac and BAT metabo,2024-07-26,2024-11-03,2025-01-06,4,104
+39736966,10.1093/bioadv/vbae200,Bioinform Adv,Exploring the role of the Rab network in epithelial-to-mesenchymal transition.,2024-07-12,2024-12-12,2024-12-31,3,66
+39735577,10.1093/bioadv/vbae203,Bioinform Adv,Multitask knowledge-primed neural network for predicting missing metadata and host phenoty,2024-09-25,2024-12-11,2024-12-30,3,39
+39735576,10.1093/bioadv/vbae197,Bioinform Adv,MSA clustering enhances AF-Multimer's ability to predict conformational landscapes of prot,2024-08-27,2024-12-05,2024-12-30,2,34
+39735575,10.1093/bioadv/vbae192,Bioinform Adv,Protomix: a Python package for 1H-NMR metabolomics data preprocessing.,2024-06-12,2024-11-26,2024-12-30,3,30
+39735574,10.1093/bioadv/vbae201,Bioinform Adv,SurfR: Riding the wave of RNA-seq data with a comprehensive bioconductor package to identi,2024-09-04,2024-12-12,2024-12-30,3,36
+39735573,10.1093/bioadv/vbae195,Bioinform Adv,CCfrag: scanning folding potential of coiled-coil fragments with AlphaFold.,2024-06-13,2024-12-05,2024-12-30,1,26
+39735572,10.1093/bioadv/vbae183,Bioinform Adv,"SeqLengthPlot v2.0: an all-in-one, easy-to-use tool for visualizing and retrieving sequenc",2024-07-03,2024-11-18,2024-12-30,4,11
+39717202,10.1093/bioadv/vbae194,Bioinform Adv,Joint extraction of entity and relation based on fine-tuning BERT for long biomedical lite,2024-07-09,2024-12-04,2024-12-24,5,28
+39659590,10.1093/bioadv/vbae186,Bioinform Adv,HLA-EpiCheck: novel approach for HLA B-cell epitope prediction using 3D-surface patch desc,2024-05-29,2024-12-04,2024-12-11,7,49
+39659592,10.1093/bioadv/vbae170,Bioinform Adv,Negative binomial mixture model for identification of noise in antibody-antigen specificit,2024-07-30,2024-11-18,2024-12-11,5,20
+39678206,10.1093/bioadv/vbae193,Bioinform Adv,Optimizing design of genomics studies for clonal evolution analysis.,2024-08-20,2024-11-29,2024-12-16,2,40
+39678207,10.1093/bioadv/vbae190,Bioinform Adv,epiTCR-KDA: knowledge distillation model on dihedral angles for TCR-peptide prediction.,2024-06-19,2024-11-27,2024-12-16,9,50
+39659587,10.1093/bioadv/vbae191,Bioinform Adv,Efficient genome monomer higher-order structure annotation and identification using the GR,2024-08-20,2024-11-26,2024-12-11,3,41
+39664861,10.1093/bioadv/vbae189,Bioinform Adv,wQFM-DISCO: DISCO-enabled wQFM improves phylogenomic analyses despite the presence of para,2024-08-22,2024-11-24,2024-12-12,3,44
+39659588,10.1093/bioadv/vbae188,Bioinform Adv,Keeping it in the family: using protein family templates to rescue low confidence AlphaFol,2024-09-02,2024-11-22,2024-12-11,3,18
+39717201,10.1093/bioadv/vbae180,Bioinform Adv,Predicting the genetic component of gene expression using gene regulatory networks.,2024-08-09,2024-11-12,2024-12-24,2,29
+39659591,10.1093/bioadv/vbae185,Bioinform Adv,blast2galaxy: a CLI and Python API for BLAST+ and DIAMOND searches on Galaxy servers.,2024-09-17,2024-11-19,2024-12-11,5,13
+39600382,10.1093/bioadv/vbae169,Bioinform Adv,The combined focal loss and dice loss function improves the segmentation of beta-sheets in,2024-03-26,2024-11-19,2024-11-27,6,36
+39697868,10.1093/bioadv/vbae179,Bioinform Adv,KTED: a comprehensive web-based database for transposable elements in the Korean genome.,2024-07-15,2024-11-15,2024-12-19,9,42
+39678208,10.1093/bioadv/vbae166,Bioinform Adv,The ISCB competency framework v. 3: a revised and extended standard for bioinformatics edu,2024-01-07,2024-11-14,2024-12-16,15,14
+39659589,10.1093/bioadv/vbae178,Bioinform Adv,MeTEor: an R Shiny app for exploring longitudinal metabolomics data.,2024-04-11,2024-11-12,2024-12-11,8,42
+39569320,10.1093/bioadv/vbae175,Bioinform Adv,MultiOmicsIntegrator: a nextflow pipeline for integrated omics analyses.,2024-06-25,2024-11-08,2024-11-21,6,18
+39600381,10.1093/bioadv/vbae174,Bioinform Adv,Conditional flux balance analysis toolbox for python: application to research metabolism i,2024-08-06,2024-11-11,2024-11-27,5,16
+39552929,10.1093/bioadv/vbae155,Bioinform Adv,mxfda: a comprehensive toolkit for functional data analysis of single-cell spatial data.,2024-07-25,2024-10-13,2024-11-18,7,33
+39678203,10.1093/bioadv/vbae177,Bioinform Adv,"Introducing GWAStic: a user-friendly, cross-platform solution for genome-wide association ",2024-06-18,2024-11-09,2024-12-16,3,18
+39575230,10.1093/bioadv/vbae176,Bioinform Adv,LUKB: preparing local UK Biobank data for analysis.,2024-07-25,2024-11-08,2024-11-22,7,12
+39529841,10.1093/bioadv/vbae158,Bioinform Adv,Phylogenetic-informed graph deep learning to classify dynamic transmission clusters in inf,2024-09-16,2024-10-16,2024-11-14,8,42
+39659586,10.1093/bioadv/vbae171,Bioinform Adv,SpecGMM: Integrating Spectral analysis and Gaussian Mixture Models for taxonomic classific,2024-05-27,2024-11-01,2024-12-11,3,23
+39678209,10.1093/bioadv/vbae163,Bioinform Adv,RecGOBD: accurate recognition of gene ontology related brain development protein functions,2024-08-25,2024-10-23,2024-12-16,6,40
+39544628,10.1093/bioadv/vbae165,Bioinform Adv,AAclust: k-optimized clustering for selecting redundancy-reduced sets of amino acid scales,2024-06-10,2024-10-23,2024-11-15,2,36
+39569321,10.1093/bioadv/vbae157,Bioinform Adv,Exon nomenclature and classification of transcripts database (ENACTdb): a resource for ana,2024-07-26,2024-10-27,2024-11-21,3,26
+39678204,10.1093/bioadv/vbae168,Bioinform Adv,Population-aware permutation-based significance thresholds for genome-wide association stu,2024-07-25,2024-10-25,2024-12-16,4,25
+39569319,10.1093/bioadv/vbae142,Bioinform Adv,MetaboScope: a statistical toolbox for analyzing 1H nuclear magnetic resonance spectra fro,2024-06-10,2024-09-24,2024-11-21,9,10
+39526038,10.1093/bioadv/vbae167,Bioinform Adv,MicroNet-MIMRF: a microbial network inference approach based on mutual information and Mar,2024-07-18,2024-10-25,2024-11-14,9,39
+40034104,10.1093/bioadv/vbae160,Bioinform Adv,arcMS: transformation of multi-dimensional high-resolution mass spectrometry data to colum,2024-08-26,2024-10-17,2025-03-04,2,19
+39474623,10.1093/bioadv/vbae162,Bioinform Adv,motifbreakR v2: expanded variant analysis including indels and integrated evidence from tr,2024-07-18,2024-10-22,2024-10-30,2,13
+39544627,10.1093/bioadv/vbae161,Bioinform Adv,ProCogGraph: a graph-based mapping of cognate ligand domain interactions.,2024-08-16,2024-10-18,2024-11-15,2,45
+39493540,10.1093/bioadv/vbae152,Bioinform Adv,TransAnnot-a fast transcriptome annotation pipeline.,2023-09-26,2024-10-18,2024-11-04,5,19
+39539946,10.1093/bioadv/vbae159,Bioinform Adv,Two subtle problems with overrepresentation analysis.,2024-07-24,2024-10-17,2024-11-14,3,54
+39526039,10.1093/bioadv/vbae156,Bioinform Adv,Predicting 'pain genes': multi-modal data integration using probabilistic classifiers and ,2024-06-17,2024-10-15,2024-11-14,4,67
+39483526,10.1093/bioadv/vbae154,Bioinform Adv,PatchProt: hydrophobic patch prediction using protein foundation models.,2024-06-25,2024-10-11,2024-11-04,4,55
+39464748,10.1093/bioadv/vbae153,Bioinform Adv,Accelerating protein-protein interaction screens with reduced AlphaFold-Multimer sampling.,2024-07-22,2024-10-10,2024-10-28,3,10
+39575229,10.1093/bioadv/vbae149,Bioinform Adv,ULTRA-effective labeling of tandem repeats in genomic sequence.,2024-06-04,2024-10-07,2024-11-22,2,64
+39506989,10.1093/bioadv/vbae151,Bioinform Adv,mosGraphGen: a novel tool to generate multi-omics signaling graphs to facilitate integrati,2024-08-12,2024-10-04,2024-11-12,11,38
+39440005,10.1093/bioadv/vbae150,Bioinform Adv,CAPTVRED: an automated pipeline for viral tracking and discovery from capture-based metage,2024-05-15,2024-10-04,2024-10-23,7,26
+39391633,10.1093/bioadv/vbae145,Bioinform Adv,DynProfiler: a Python package for comprehensive analysis and interpretation of signaling d,2024-05-31,2024-10-03,2024-10-11,2,10
+39474624,10.1093/bioadv/vbae147,Bioinform Adv,A modern multi-omics data exploration experience with Panomicon.,2024-04-02,2024-10-01,2024-10-30,5,12
+39411449,10.1093/bioadv/vbae148,Bioinform Adv,tidysbml: R/Bioconductor package for SBML extraction into dataframes.,2024-07-09,2024-10-01,2024-10-16,2,10
+39440006,10.1093/bioadv/vbae141,Bioinform Adv,iTraNet: a web-based platform for integrated trans-omics network visualization and analysi,2024-06-03,2024-09-25,2024-10-23,6,48
+39399375,10.1093/bioadv/vbae144,Bioinform Adv,RNAelem: an algorithm for discovering sequence-structure motifs in RNA bound by RNA-bindin,2024-04-25,2024-09-26,2024-10-14,3,48
+39387060,10.1093/bioadv/vbae143,Bioinform Adv,FAVOR-GPT: a generative natural language interface to whole genome variant functional anno,2024-08-27,2024-09-27,2024-10-10,11,18
+39678205,10.1093/bioadv/vbae138,Bioinform Adv,How pairs of insertion mutations impact protein structure: an exhaustive computational stu,2024-04-28,2024-09-25,2024-12-16,3,32
+39483525,10.1093/bioadv/vbae139,Bioinform Adv,Meeting the challenge of genomic analysis: a collaboratively developed workshop for pangen,2024-04-16,2024-09-23,2024-11-04,10,26
+39399374,10.1093/bioadv/vbae146,Bioinform Adv,Chronogram: an R package for data curation and analysis of infection and vaccination cohor,2024-06-13,2024-09-26,2024-10-14,13,10
+39411450,10.1093/bioadv/vbae136,Bioinform Adv,"DECOMICS, a shiny application for unsupervised cell type deconvolution and biological inte",2024-04-11,2024-09-18,2024-10-16,5,27
+39399372,10.1093/bioadv/vbae137,Bioinform Adv,VCAb: a web-tool for structure-guided exploration of antibodies.,2024-06-06,2024-09-19,2024-10-14,4,59
+39399373,10.1093/bioadv/vbae132,Bioinform Adv,Investigation of protein family relationships with deep learning.,2023-11-14,2024-09-17,2024-10-14,5,34
+39664859,10.1093/bioadv/vbae135,Bioinform Adv,EmbedGEM: a framework to evaluate the utility of embeddings for genetic discovery.,2024-07-31,2024-09-13,2024-12-12,16,25
+39387061,10.1093/bioadv/vbae134,Bioinform Adv,Batch-effect correction in single-cell RNA sequencing data using JIVE.,2023-12-20,2024-09-11,2024-10-10,3,47
+39319026,10.1093/bioadv/vbae133,Bioinform Adv,Evaluating GPT and BERT models for protein-protein interaction identification in biomedica,2024-07-05,2024-09-09,2024-09-25,8,48
+39286602,10.1093/bioadv/vbae131,Bioinform Adv,AlphaCRV: a pipeline for identifying accurate binder topologies in mass-modeling with Alph,2024-02-21,2024-09-04,2024-09-17,2,25
+39346952,10.1093/bioadv/vbae130,Bioinform Adv,SPIDER: constructing cell-type-specific protein-protein interaction networks.,2024-06-04,2024-08-28,2024-09-30,3,36
+39664860,10.1093/bioadv/vbae128,Bioinform Adv,ZMIX: estimating ancestry proportions using GWAS association Z-scores.,2024-03-14,2024-08-27,2024-12-12,2,21
+39262905,10.1093/bioadv/vbae129,Bioinform Adv,ginmappeR: an unified approach for integrating gene and protein identifiers across biologi,2024-05-07,2024-08-27,2024-09-12,7,19
+39224836,10.1093/bioadv/vbae126,Bioinform Adv,synphage: a pipeline for phage genome synteny graphics focused on gene conservation.,2024-04-07,2024-08-28,2024-09-03,2,16
+39239360,10.1093/bioadv/vbae125,Bioinform Adv,Utilizing biological experimental data and molecular dynamics for the classification of mu,2024-03-21,2024-08-23,2024-09-06,2,80
+39233897,10.1093/bioadv/vbae127,Bioinform Adv,Meta-analysis of RNA interaction profiles of RNA-binding protein using the RBPInper tool.,2024-04-29,2024-08-22,2024-09-05,5,43
+39224838,10.1093/bioadv/vbae123,Bioinform Adv,An extension of latent unknown clustering integrating multi-omics data (LUCID) incorporati,2023-10-19,2024-08-22,2024-09-03,5,40
+39211313,10.1093/bioadv/vbae124,Bioinform Adv,evolSOM: An R package for analyzing conservation and displacement of biological variables ,2024-03-07,2024-08-20,2024-08-31,3,8
+39224837,10.1093/bioadv/vbae122,Bioinform Adv,refseqR: an R package for common computational operations with records on RefSeq collectio,2024-04-30,2024-08-19,2024-09-03,1,10
+39411448,10.1093/bioadv/vbae116,Bioinform Adv,CoNECo: a Corpus for Named Entity recognition and normalization of protein Complexes.,2024-05-29,2024-08-04,2024-10-16,4,34
+39193566,10.1093/bioadv/vbae118,Bioinform Adv,IVEA: an integrative variational Bayesian inference method for predicting enhancer-gene re,2024-01-05,2024-08-18,2024-08-28,4,51
+39233898,10.1093/bioadv/vbae120,Bioinform Adv,Improving protein function prediction by learning and integrating representations of prote,2024-06-07,2024-08-12,2024-09-05,2,42
+39219843,10.1093/bioadv/vbae121,Bioinform Adv,splicekit: an integrative toolkit for splicing analysis from short-read RNA-seq.,2024-04-17,2024-08-16,2024-09-02,6,21
+39183802,10.1093/bioadv/vbae119,Bioinform Adv,In the twilight zone of protein sequence homology: do protein language models learn protei,2024-04-01,2024-08-12,2024-08-26,4,44
+39246384,10.1093/bioadv/vbae112,Bioinform Adv,C2CDB: an advanced platform integrating comprehensive information and analysis tools of ca,2024-03-05,2024-08-14,2024-09-09,13,37
+39176288,10.1093/bioadv/vbae117,Bioinform Adv,Understanding the natural language of DNA using encoder-decoder foundation models with byt,2024-04-10,2024-08-10,2024-08-23,5,41
+39246385,10.1093/bioadv/vbae115,Bioinform Adv,gwid: an R package and Shiny application for Genome-Wide analysis of IBD data.,2024-03-11,2024-07-29,2024-09-09,3,20
+39165344,10.1093/bioadv/vbae114,Bioinform Adv,Introducing field-programmable gate arrays in genotype phasing and imputation.,2024-03-31,2024-07-29,2024-08-21,2,17
+39139705,10.1093/bioadv/vbae110,Bioinform Adv,Evolution and subfamilies of HERVL human endogenous retrovirus.,2024-03-29,2024-07-29,2024-08-14,2,23
+39228995,10.1093/bioadv/vbae108,Bioinform Adv,Investigating alignment-free machine learning methods for HIV-1 subtype classification.,2024-05-01,2024-07-26,2024-09-04,5,44
+39132288,10.1093/bioadv/vbae109,Bioinform Adv,Systematic analysis on the horse-shoe-like effect in PCA plots of scRNA-seq data.,2024-03-05,2024-07-27,2024-08-12,4,23
+39132289,10.1093/bioadv/vbae113,Bioinform Adv,Marker discovery in the large.,2024-05-16,2024-07-26,2024-08-12,5,25
+39100546,10.1093/bioadv/vbae111,Bioinform Adv,ZMPY3D: accelerating protein structure volume analysis through vectorized 3D Zernike momen,2024-05-14,2024-07-25,2024-08-05,3,26
+39086987,10.1093/bioadv/vbae105,Bioinform Adv,survivalContour: visualizing predicted survival via colored contour plots.,2024-02-12,2024-07-24,2024-08-01,5,13
+39077633,10.1093/bioadv/vbae107,Bioinform Adv,Genotype imputation in F2 crosses of inbred lines.,2024-03-22,2024-07-22,2024-07-30,6,47
+39092007,10.1093/bioadv/vbae106,Bioinform Adv,Mining drug-target interactions from biomedical literature using chemical and gene descrip,2024-03-12,2024-07-17,2024-08-02,3,35
+39132287,10.1093/bioadv/vbae104,Bioinform Adv,ScyNet: Visualizing interactions in community metabolic models.,2024-04-29,2024-07-12,2024-08-12,4,13
+39040219,10.1093/bioadv/vbae101,Bioinform Adv,TWCOM: an R package for inference of cell-cell communication on spatially resolved transcr,2024-02-28,2024-07-15,2024-07-23,2,38
+39040220,10.1093/bioadv/vbae103,Bioinform Adv,TemBERTure: advancing protein thermostability prediction with deep learning and attention ,2024-04-30,2024-07-12,2024-07-23,3,63
+39027644,10.1093/bioadv/vbae102,Bioinform Adv,consICA: an R package for robust reference-free deconvolution of multi-omics data.,2024-02-28,2024-07-12,2024-07-19,5,13
+39006965,10.1093/bioadv/vbae098,Bioinform Adv,loco-pipe: an automated pipeline for population genomics with low-coverage whole-genome se,2024-02-15,2024-07-10,2024-07-15,5,22
+39006966,10.1093/bioadv/vbae100,Bioinform Adv,"INCAWrapper: a Python wrapper for INCA for seamless data import, -export, and -processing.",2023-11-01,2024-07-03,2024-07-15,6,9
+39027642,10.1093/bioadv/vbae087,Bioinform Adv,"A customizable secure DIY web application for accessing, sharing, and browsing aggregate e",2024-01-03,2024-06-27,2024-07-19,4,8
+38948010,10.1093/bioadv/vbae084,Bioinform Adv,racoon_clip-a complete pipeline for single-nucleotide analyses of iCLIP and eCLIP data.,2024-02-14,2024-06-24,2024-07-01,2,11
+39011276,10.1093/bioadv/vbae093,Bioinform Adv,Optimal linear ensemble of binary classifiers.,2023-12-19,2024-06-13,2024-07-16,3,50
+38962404,10.1093/bioadv/vbae095,Bioinform Adv,SlowMoMan: a web app for discovery of important features along user-drawn trajectories in ,2024-05-01,2024-06-19,2024-07-04,3,31
+39872360,10.1093/bioadv/vbae096,Bioinform Adv,Computational discovery of co-expressed antigens as dual targeting candidates for cancer t,2023-11-21,2024-06-19,2025-01-28,6,45
+39310046,10.1093/bioadv/vbae077,Bioinform Adv,Making proteomics accessible: RokaiXplorer for interactive analysis of phospho-proteomic d,2024-01-08,2024-06-05,2024-09-23,6,18
+39132286,10.1093/bioadv/vbae082,Bioinform Adv,Differentiable phylogenetics via hyperbolic embeddings with Dodonaphy.,2024-01-08,2024-06-05,2024-08-12,2,49
+38948009,10.1093/bioadv/vbae092,Bioinform Adv,Evergene: an interactive webtool for large-scale gene-centric analysis of primary tumours.,2024-03-06,2024-06-15,2024-07-01,6,21
+38911822,10.1093/bioadv/vbae089,Bioinform Adv,Discovering genomic islands in unannotated bacterial genomes using sequence embedding.,2024-04-19,2024-06-11,2024-06-24,3,33
+38966592,10.1093/bioadv/vbae088,Bioinform Adv,Sensitive and error-tolerant annotation of protein-coding DNA with BATH.,2024-02-04,2024-06-10,2024-07-05,3,55
+39027640,10.1093/bioadv/vbae086,Bioinform Adv,scVIC: deep generative modeling of heterogeneity for scRNA-seq data.,2024-02-01,2024-06-12,2024-07-19,4,39
+38911824,10.1093/bioadv/vbae085,Bioinform Adv,Demultiplexing of single-cell RNA-sequencing data using interindividual variation in gene ,2024-05-11,2024-06-07,2024-06-24,14,67
+38915884,10.1093/bioadv/vbae079,Bioinform Adv,OM2Seq: learning retrieval embeddings for optical genome mapping.,2024-01-08,2024-05-28,2024-06-25,7,32
+38895561,10.1093/bioadv/vbae083,Bioinform Adv,"Hapsolutely: a user-friendly tool integrating haplotype phasing, network construction, and",2024-01-23,2024-06-04,2024-06-19,6,35
+38915885,10.1093/bioadv/vbae081,Bioinform Adv,"CellsFromSpace: a fast, accurate, and reference-free tool to deconvolve and annotate spati",2024-01-30,2024-05-29,2024-06-25,12,58
+38863673,10.1093/bioadv/vbae080,Bioinform Adv,Prediction of tumor-specific splicing from somatic mutations as a source of neoantigen can,2024-01-08,2024-05-28,2024-06-12,14,62
+38827413,10.1093/bioadv/vbae064,Bioinform Adv,Uncover spatially informed variations for single-cell spatial transcriptomics with STew.,2024-01-02,2024-05-01,2024-06-03,7,47
+39559823,10.1093/bioadv/vbae078,Bioinform Adv,Using deep learning and large protein language models to predict protein-membrane interfac,2024-02-07,2024-05-26,2024-11-19,3,45
+38846137,10.1093/bioadv/vbae076,Bioinform Adv,Improve-RRBS: a novel tool to correct the 3' trimming of reduced representation sequencing,2023-12-14,2024-05-23,2024-06-07,4,36
+38841126,10.1093/bioadv/vbae074,Bioinform Adv,Predmoter-cross-species prediction of plant promoter and enhancer regions.,2024-01-04,2024-05-22,2024-06-06,7,74
+38808070,10.1093/bioadv/vbae070,Bioinform Adv,WGCCRR: a web-based tool for genome-wide screening of convergent indels and substitutions ,2023-08-14,2024-05-23,2024-05-29,3,64
+38827411,10.1093/bioadv/vbae075,Bioinform Adv,The axes of biology: a novel axes-based network embedding paradigm to decipher the functio,2023-10-17,2024-05-22,2024-06-03,5,58
+38808071,10.1093/bioadv/vbae073,Bioinform Adv,Assessing the validity of driver gene identification tools for targeted genome sequencing ,2023-10-09,2024-05-22,2024-05-29,3,34
+38799704,10.1093/bioadv/vbae072,Bioinform Adv,DeGeCI 1.1: a web platform for gene annotation of mitochondrial genomes.,2024-02-05,2024-05-12,2024-05-27,3,4
+38827412,10.1093/bioadv/vbae071,Bioinform Adv,ASpedia-R: a package to retrieve junction-incorporating features and knowledge-based funct,2023-11-27,2024-05-09,2024-06-03,6,17
+38911823,10.1093/bioadv/vbae068,Bioinform Adv,Microbial Abundances Retrieved from Sequencing data-automated NCBI Taxonomy (MARS): a pipe,2023-09-04,2024-05-07,2024-06-24,4,11
+38808072,10.1093/bioadv/vbae067,Bioinform Adv,COSGAP: COntainerized Statistical Genetics Analysis Pipelines.,2023-11-29,2024-05-08,2024-05-29,18,15
+39027639,10.1093/bioadv/vbae066,Bioinform Adv,Network depth affects inference of gene sets from bacterial transcriptomes using denoising,2024-02-01,2024-05-02,2024-07-19,2,53
+38736683,10.1093/bioadv/vbae063,Bioinform Adv,rNMPID: a database for riboNucleoside MonoPhosphates in DNA.,2023-12-12,2024-05-07,2024-05-13,7,39
+38770229,10.1093/bioadv/vbae065,Bioinform Adv,danRerLib: a Python package for zebrafish transcriptomics.,2024-02-01,2024-05-03,2024-05-21,3,27
+38721399,10.1093/bioadv/vbae040,Bioinform Adv,ISMB/ECCB 2023 organization benefited from the strengths of the French bioinformatics comm,2024-01-10,2024-03-06,2024-05-09,4,0
+38779177,10.1093/bioadv/vbae062,Bioinform Adv,scX: a user-friendly tool for scRNAseq exploration.,2023-12-27,2024-04-30,2024-05-23,11,16
+39027641,10.1093/bioadv/vbae060,Bioinform Adv,Deep IDA: a deep learning approach for integrative discriminant analysis of multi-omics da,2023-08-31,2024-04-22,2024-07-19,2,29
+38745763,10.1093/bioadv/vbae061,Bioinform Adv,MerCat2: a versatile k-mer counter and diversity estimator for database-independent proper,2023-09-01,2024-04-22,2024-05-15,7,26
+38708029,10.1093/bioadv/vbae059,Bioinform Adv,Syntactic sugars: crafting a regular expression framework for glycan structures.,2024-02-12,2024-04-17,2024-05-06,2,14
+38736685,10.1093/bioadv/vbae058,Bioinform Adv,GLIMMERS: glioma molecular markers exploration using long-read sequencing.,2023-10-09,2024-04-12,2024-05-13,7,7
+38681522,10.1093/bioadv/vbae056,Bioinform Adv,FlexStat: combinatory differentially expressed protein extraction.,2024-01-23,2024-04-10,2024-04-29,3,35
+38645715,10.1093/bioadv/vbae055,Bioinform Adv,OpenAnnotateApi: Python and R packages to efficiently annotate and analyze chromatin acces,2024-01-29,2024-04-08,2024-04-22,3,14
+38764475,10.1093/bioadv/vbae052,Bioinform Adv,WAS IT A MATch I SAW? Approximate palindromes lead to overstated false match rates in benc,2023-10-21,2024-04-04,2024-05-20,2,39
+38645719,10.1093/bioadv/vbae054,Bioinform Adv,Single-cell type annotation with deep learning in 265 cell types for humans.,2023-11-08,2024-04-05,2024-04-22,3,19
+38645718,10.1093/bioadv/vbae053,Bioinform Adv,Changes in total charge on spike protein of SARS-CoV-2 in emerging lineages.,2023-11-08,2024-04-04,2024-04-22,2,48
+38645717,10.1093/bioadv/vbae051,Bioinform Adv,Adjusting for covariates and assessing modeling fitness in machine learning using MUVR2.,2023-10-11,2024-04-03,2024-04-22,4,40
+38606187,10.1093/bioadv/vbae042,Bioinform Adv,Extending BioMASS to construct mathematical models from external knowledge.,2023-10-02,2024-04-03,2024-04-12,4,10
+38606186,10.1093/bioadv/vbae028,Bioinform Adv,"Adapting beyond borders: Insights from the 19th Student Council Symposium (SCS2023), the f",2023-12-18,2024-03-01,2024-04-12,10,24
+38566919,10.1093/bioadv/vbae039,Bioinform Adv,Yves Moreau has received the 2023 Einstein Foundation Individual Award for Promoting Quali,2024-03-01,2024-03-08,2024-04-03,1,11
+38606185,10.1093/bioadv/vbae047,Bioinform Adv,Text-mining-based feature selection for anticancer drug response prediction.,2023-08-07,2024-03-22,2024-04-12,5,59
+38577543,10.1093/bioadv/vbae049,Bioinform Adv,ExplaineR: an R package to explain machine learning models.,2024-01-15,2024-03-22,2024-04-05,1,18
+38638280,10.1093/bioadv/vbae048,Bioinform Adv,CATD: a reproducible pipeline for selecting cell-type deconvolution methods across tissues,2023-11-09,2024-03-21,2024-04-19,6,72
+38586119,10.1093/bioadv/vbae037,Bioinform Adv,dingo: a Python package for metabolic flux sampling.,2023-09-04,2024-03-21,2024-04-08,4,18
+38571784,10.1093/bioadv/vbae046,Bioinform Adv,BioNexusSentinel: a visual tool for bioregulatory network and cytohistological RNA-seq gen,2023-12-18,2024-03-18,2024-04-04,2,59
+38560553,10.1093/bioadv/vbae045,Bioinform Adv,Data-driven information extraction and enrichment of molecular profiling data for cancer c,2023-11-08,2024-03-14,2024-04-01,5,37
+38590916,10.1093/bioadv/vbae044,Bioinform Adv,DeGenPrime provides robust primer design and optimization unlocking the biosphere.,2023-12-02,2024-03-12,2024-04-09,3,27
+38545087,10.1093/bioadv/vbae043,Bioinform Adv,CAFA-evaluator: a Python tool for benchmarking ontological classification methods.,2023-11-20,2024-03-12,2024-03-28,11,6
+38566918,10.1093/bioadv/vbae041,Bioinform Adv,Prediction of bitterness based on modular designed graph neural network.,2023-12-13,2024-03-11,2024-04-03,4,35
+38736684,10.1093/bioadv/vbae038,Bioinform Adv,Mapping drug biology to disease genetics to discover drug impacts on the human phenome.,2023-10-30,2024-03-07,2024-05-13,3,52
+38560554,10.1093/bioadv/vbae033,Bioinform Adv,nanoBERT: a deep learning model for gene agnostic navigation of the nanobody mutational sp,2023-10-25,2024-03-04,2024-04-01,7,40
+38577542,10.1093/bioadv/vbae036,Bioinform Adv,Node-degree aware edge sampling mitigates inflated classification performance in biomedica,2023-01-11,2024-02-29,2024-04-05,17,42
+38464975,10.1093/bioadv/vbae027,Bioinform Adv,Tackling reference bias in genotyping by using founder sequences with PanVC 3.,2023-10-04,2024-02-29,2024-03-11,2,28
+38549946,10.1093/bioadv/vbae035,Bioinform Adv,MERITS: a web-based integrated Mycobacterial PE/PPE protein database.,2024-01-23,2024-02-29,2024-03-29,10,42
+38505804,10.1093/bioadv/vbae034,Bioinform Adv,Inference of differential gene regulatory networks using boosted differential trees.,2023-08-29,2024-02-27,2024-03-20,7,92
+38476298,10.1093/bioadv/vbae031,Bioinform Adv,Trackplot: a fast and lightweight R script for epigenomic enrichment plots.,2023-12-06,2024-02-26,2024-03-13,2,9
+38464974,10.1093/bioadv/vbae032,Bioinform Adv,Making mouse transcriptomics deconvolution accessible with immunedeconv.,2023-12-14,2024-02-26,2024-03-11,5,21
+38464973,10.1093/bioadv/vbae029,Bioinform Adv,The T2T-CHM13 reference assembly uncovers essential WASH1 and GPRIN2 paralogues.,2023-10-02,2024-02-26,2024-03-11,2,34
+38476299,10.1093/bioadv/vbae030,Bioinform Adv,MetaQuad: shared informative variants discovery in metagenomic samples.,2023-10-23,2024-02-23,2024-03-13,5,28
+38645716,10.1093/bioadv/vbae026,Bioinform Adv,TrajPy: empowering feature engineering for trajectory analysis across domains.,2023-11-28,2024-02-21,2024-04-22,4,28
+38495055,10.1093/bioadv/vbae024,Bioinform Adv,CloudProteoAnalyzer: scalable processing of big data from proteomics using cloud computing,2023-09-11,2024-02-21,2024-03-18,5,15
+38456127,10.1093/bioadv/vbae021,Bioinform Adv,TOSCCA: a framework for interpretation and testing of sparse canonical correlations.,2023-11-03,2024-02-14,2024-03-08,4,20
+38456126,10.1093/bioadv/vbae025,Bioinform Adv,OMEinfo: global geographic metadata for -omics experiments.,2023-10-30,2024-02-20,2024-03-08,2,10
+38456125,10.1093/bioadv/vbae023,Bioinform Adv,BioModME for building and simulating dynamic computational models of complex biological sy,2023-09-05,2024-02-19,2024-03-08,5,10
+38638281,10.1093/bioadv/vbae022,Bioinform Adv,Novel symmetry-preserving neural network model for phylogenetic inference.,2023-09-14,2024-02-17,2024-04-19,5,41
+38425781,10.1093/bioadv/vbae020,Bioinform Adv,ExpoSeq: simplified analysis of high-throughput sequencing data from antibody discovery ca,2023-11-24,2024-02-08,2024-03-01,8,24
+38384862,10.1093/bioadv/vbae014,Bioinform Adv,Ultrafast learning of four-node hybridization cycles in phylogenetic networks using algebr,2023-07-25,2024-02-06,2024-02-22,2,50
+38384863,10.1093/bioadv/vbae018,Bioinform Adv,CMAT: ClinVar Mapping and Annotation Toolkit.,2023-10-05,2024-02-05,2024-02-22,6,9
+38560552,10.1093/bioadv/vbae017,Bioinform Adv,ZygosityPredictor.,2023-08-23,2024-02-02,2024-04-01,9,10
+38371920,10.1093/bioadv/vbae016,Bioinform Adv,HiTaxon: a hierarchical ensemble framework for taxonomic classification of short reads.,2024-02-16,2024-02-16,2024-02-19,2,50
+38698887,10.1093/bioadv/vbae015,Bioinform Adv,iCluF: an unsupervised iterative cluster-fusion method for patient stratification using mu,2023-10-11,2024-01-26,2024-05-03,4,43
+38371919,10.1093/bioadv/vbae013,Bioinform Adv,PM-CNN: microbiome status recognition and disease detection model based on phylogeny and m,2024-02-15,2024-02-15,2024-02-19,4,59
+38384861,10.1093/bioadv/vbae012,Bioinform Adv,RAMZIS: a bioinformatic toolkit for rigorous assessment of the alterations to glycoprotein,2023-08-29,2024-01-22,2024-02-22,4,28
+38282973,10.1093/bioadv/vbae004,Bioinform Adv,Optimizer's dilemma: optimization strongly influences model selection in transcriptomic pr,2023-07-24,2024-01-13,2024-01-29,3,36
+38736682,10.1093/bioadv/vbae009,Bioinform Adv,Non-Negative matrix factorization combined with kernel regression for the prediction of ad,2023-09-26,2024-01-18,2024-05-13,3,25
+38444538,10.1093/bioadv/vbae011,Bioinform Adv,SPREd: a simulation-supervised neural network tool for gene regulatory network reconstruct,2023-06-21,2024-01-18,2024-03-06,2,56
+38371918,10.1093/bioadv/vbae010,Bioinform Adv,MMDRP: drug response prediction and biomarker discovery using multi-modal deep learning.,2023-07-21,2024-01-16,2024-02-19,2,31
+38282974,10.1093/bioadv/vbae002,Bioinform Adv,Predicting evolutionary targets and parameters of gene deletion from expression data.,2023-06-05,2024-01-04,2024-01-29,3,72
+38304121,10.1093/bioadv/vbae005,Bioinform Adv,mvlearnR and Shiny App for multiview learning.,2023-07-06,2024-01-14,2024-02-02,2,18
+38343388,10.1093/bioadv/vbae007,Bioinform Adv,DeepRegFinder: deep learning-based regulatory elements finder.,2023-06-14,2024-01-12,2024-02-12,5,42
+38312948,10.1093/bioadv/vbae008,Bioinform Adv,HIVseqDB: a portable resource for NGS and sample metadata integration for HIV-1 drug resis,2023-09-10,2024-01-12,2024-02-05,8,11
+38282975,10.1093/bioadv/vbae006,Bioinform Adv,ClusterV-Web: a user-friendly tool for profiling HIV quasispecies and generating drug resi,2023-11-01,2024-01-12,2024-01-29,5,7
+38269257,10.1093/bioadv/vbae003,Bioinform Adv,RespirAnalyzer: an R package for analyzing data from continuous monitoring of respiratory ,2023-07-22,2024-01-11,2024-01-25,5,32
+38249340,10.1093/bioadv/vbae001,Bioinform Adv,DIAgui: a Shiny application to process the output from DIA-NN.,2023-10-03,2024-01-04,2024-01-22,3,10
+38239846,10.1093/bioadv/vbad187,Bioinform Adv,Advancements in bioinformatics and computational biology: 15th annual Polish Bioinformatic,2023-12-14,2023-12-21,2024-01-19,5,7
+38264461,10.1093/bioadv/vbad192,Bioinform Adv,Joint regression analysis of multiple traits based on genetic relationships.,2023-04-11,2023-12-31,2024-01-24,3,47
+38282976,10.1093/bioadv/vbad190,Bioinform Adv,Comparison of multiple modalities for drug response prediction with learning curves using ,2023-09-22,2023-12-22,2024-01-29,3,36
+38213823,10.1093/bioadv/vbad181,Bioinform Adv,Quantifying orthogonal barcodes for sequence census assays.,2023-05-31,2023-12-19,2024-01-12,4,23
+38213821,10.1093/bioadv/vbad188,Bioinform Adv,PaintorPipe: a pipeline for genetic variant fine-mapping using functional annotations.,2023-10-30,2023-12-19,2024-01-12,4,12
+38213820,10.1093/bioadv/vbad186,Bioinform Adv,Batch correction of single-cell sequencing data via an autoencoder architecture.,2023-08-29,2023-12-17,2024-01-12,3,20
+38205268,10.1093/bioadv/vbad189,Bioinform Adv,Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid ph,2023-08-21,2023-12-21,2024-01-11,2,47
+38187472,10.1093/bioadv/vbad175,Bioinform Adv,BannMI deciphers potential n-to-1 information transduction in signaling pathways to unrave,2023-08-29,2023-11-28,2024-01-08,3,37
+42317557,10.1093/bioadv/vbaf254,Bioinform Adv,K-FluDB: a novel K-mer-based database for enhanced genomic surveillance of Influenza A vir,2025-03-04,2025-08-27,2026-06-19,3,27
+41938594,10.1093/bioadv/vbaf216,Bioinform Adv,Node2Vec-DGI-EL: a hierarchical graph representation learning model for ingredient-disease,2025-06-02,2025-09-02,2026-04-06,4,48
+41858380,10.1093/bioadv/vbaf315,Bioinform Adv,genCRC32: collision-free CRC32-based hashing of DNA sequences.,2025-06-26,2025-11-07,2026-03-20,8,26
+41822385,10.1093/bioadv/vbaf243,Bioinform Adv,optTMT: optimizing any experimental design to minimize false positives caused by TMT repor,2025-02-24,2025-09-29,2026-03-13,1,14
+41808772,10.1093/bioadv/vbaf317,Bioinform Adv,Removing array-specific batch effects in GWAS mega-analyses by applying a two-step imputat,2025-07-22,2025-11-27,2026-03-11,8,37
+41736998,10.1093/bioadv/vbaf321,Bioinform Adv,REDAC: RNA-seq expression data analysis chatbot.,2025-09-05,2025-12-10,2026-02-25,14,38
+41695265,10.1093/bioadv/vbaf219,Bioinform Adv,SNP-based prediction of schizophrenia using machine learning.,2025-03-15,2025-09-02,2026-02-16,5,73
+41695261,10.1093/bioadv/vbaf322,Bioinform Adv,IHIT-BED: an interpretable transformer approach using unbiased hematology analyzer impedan,2025-03-12,2025-12-03,2026-02-16,4,64
+41695257,10.1093/bioadv/vbaf324,Bioinform Adv,Machine learning can distinguish orphans that have resulted from sequence divergence beyon,2025-07-09,2025-12-11,2026-02-16,5,57
+41640623,10.1093/bioadv/vbaf270,Bioinform Adv,Shiny-Calorie: a context-aware application for indirect calorimetry data analysis and visu,2025-06-25,2025-10-14,2026-02-05,23,14
+41573168,10.1093/bioadv/vbaf329,Bioinform Adv,Puzzler: scalable one-command platinum-quality genome assembly from HiFi and Hi-C.,2025-08-14,2025-12-22,2026-01-23,2,32
+41550256,10.1093/bioadv/vbaf285,Bioinform Adv,Adding highly variable genes to spatially variable genes can improve cell type clustering ,2025-05-08,2025-09-27,2026-01-19,7,46
+41550255,10.1093/bioadv/vbaf218,Bioinform Adv,Rosace-AA: enhancing interpretation of deep mutational scanning data with amino acid subst,2025-04-26,2025-09-07,2026-01-19,7,24
+41542367,10.1093/bioadv/vbaf290,Bioinform Adv,FroM Superstring to Indexing: a space-efficient index for unconstrained k-mer sets using t,2025-09-26,2025-10-30,2026-01-16,3,53
+41542364,10.1093/bioadv/vbaf323,Bioinform Adv,Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline.,2025-10-08,2025-12-14,2026-01-16,3,41
+41523656,10.1093/bioadv/vbaf240,Bioinform Adv,SLiMs prediction method based on enhanced attention mechanism and feature fusion.,2025-05-23,2025-09-26,2026-01-12,2,45
+41523655,10.1093/bioadv/vbaf307,Bioinform Adv,Omics BioAnalytics: an RShiny application for multimodal biomarker panel discovery and ass,2025-08-01,2025-11-19,2026-01-12,5,11
+41523654,10.1093/bioadv/vbaf308,Bioinform Adv,Prompt-based bioinformatic pipeline generation for a multi-step metaviral workflow.,2025-10-27,2025-11-24,2026-01-12,8,27
+41523653,10.1093/bioadv/vbaf319,Bioinform Adv,Beyond synthetic lethality in large-scale metabolic and regulatory network models via gene,2025-09-01,2025-12-09,2026-01-12,7,39
+41523652,10.1093/bioadv/vbaf320,Bioinform Adv,Fluoro-forest: a random forest workflow for cell type annotation in high-dimensional immun,2025-06-06,2025-12-06,2026-01-12,4,12
+41510027,10.1093/bioadv/vbaf306,Bioinform Adv,DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction.,2025-07-31,2025-11-13,2026-01-09,5,44
+41510026,10.1093/bioadv/vbaf283,Bioinform Adv,mhn: a Python package for analyzing cancer progression with Mutual Hazard Networks.,2025-09-24,2025-09-29,2026-01-09,9,11
+41510025,10.1093/bioadv/vbaf305,Bioinform Adv,Integrative analysis and imputation of multiple data streams via deep Gaussian processes.,2025-06-27,2025-11-17,2026-01-09,5,64
+41510024,10.1093/bioadv/vbaf309,Bioinform Adv,A new LUCApedia database for data-driven research on early evolutionary history.,2025-08-26,2025-11-10,2026-01-09,5,83
+41510023,10.1093/bioadv/vbaf303,Bioinform Adv,AI-powered rapid detection of multidrug-resistant Klebsiella pneumoniae with informative p,2025-09-21,2025-11-17,2026-01-09,9,37
+41510022,10.1093/bioadv/vbaf304,Bioinform Adv,Colony: a framework for reproducible and easy-to-use data analysis pipelines for biomedica,2025-06-23,2025-10-31,2026-01-09,3,10
+41510021,10.1093/bioadv/vbaf318,Bioinform Adv,Computational identification of Azadirachta indica compounds targeting trypanothione reduc,2025-06-09,2025-12-03,2026-01-09,10,42
+41510020,10.1093/bioadv/vbaf316,Bioinform Adv,Data-based clustering in prediction of cervical cancer DNA methylation using pan-cancer ge,2025-07-14,2025-11-24,2026-01-09,2,24
+41425652,10.1093/bioadv/vbaf311,Bioinform Adv,Mapping educational needs in bioinformatics in Brazil: adapting ISCB 3.0 competencies to a,2025-05-20,2025-11-10,2025-12-22,8,16
+41394075,10.1093/bioadv/vbaf312,Bioinform Adv,AmpWrap: a one-line fully automated amplicon metabarcoding 16S and 18S rRNA gene analysis.,2025-07-22,2025-11-21,2025-12-15,4,19
+41399632,10.1093/bioadv/vbaf310,Bioinform Adv,Bridging worlds: connecting glycan representations with glycoinformatics via Universal Inp,2025-10-15,2025-11-24,2025-12-16,3,35
+41394082,10.1093/bioadv/vbaf302,Bioinform Adv,tskit_arg_visualizer: interactive plotting of ancestral recombination graphs.,2025-08-27,2025-10-12,2025-12-15,2,24
+41399633,10.1093/bioadv/vbaf299,Bioinform Adv,geomeTriD: a Bioconductor package for interactive and integrative visualization of 3D stru,2025-09-02,2025-11-17,2025-12-16,2,54
+41394084,10.1093/bioadv/vbaf300,Bioinform Adv,Performance assessment of phylogenetic inference tools using PhyloSmew.,2025-10-02,2025-11-17,2025-12-15,5,45
+41394076,10.1093/bioadv/vbaf298,Bioinform Adv,Integrating differential privacy into federated multi-task learning algorithms in dsMTL.,2025-09-08,2025-11-17,2025-12-15,6,39
+41341171,10.1093/bioadv/vbaf297,Bioinform Adv,SNPraefentia: a toolkit to prioritize microbial genome variants linked to health and disea,2025-08-13,2025-11-13,2025-12-04,4,11
+41357306,10.1093/bioadv/vbaf296,Bioinform Adv,Snappy: fast identification of DNA methylation motifs based on oxford nanopore reads.,2025-08-25,2025-11-17,2025-12-08,4,13
+41394080,10.1093/bioadv/vbaf293,Bioinform Adv,PSQAN: a pipeline to prioritize novel and biologically relevant transcripts from long-read,2025-04-03,2025-11-06,2025-12-15,4,14
+41293319,10.1093/bioadv/vbaf248,Bioinform Adv,SiaScoreNet: a siamese neural network-based model integrating prediction scores for HLA-pe,2025-01-16,2025-09-29,2025-11-26,3,47
+41409468,10.1093/bioadv/vbaf291,Bioinform Adv,SurprisalAnalysis: an open-source software for information-theoretic analysis of gene expr,2025-07-08,2025-11-11,2025-12-18,1,20
+41357308,10.1093/bioadv/vbaf295,Bioinform Adv,GDC Cohort Copilot: an AI copilot for curating cohorts from the genomic data commons.,2025-09-02,2025-11-13,2025-12-08,5,17
+41334429,10.1093/bioadv/vbaf294,Bioinform Adv,MxlPy-Python package for mechanistic learning and hybrid modelling in life science.,2025-09-17,2025-11-13,2025-12-03,4,54
+41743841,10.1093/bioadv/vbaf292,Bioinform Adv,Ish: SIMD and GPU accelerated local and semi-global alignment as a CLI filtering tool.,2025-09-10,2025-11-04,2026-02-26,1,10
+41394081,10.1093/bioadv/vbaf282,Bioinform Adv,SeqManager: a web-based tool for efficient sequencing data storage management and duplicat,2025-08-29,2025-10-22,2025-12-15,3,1
+41394085,10.1093/bioadv/vbaf267,Bioinform Adv,Unveiling novel drug-target couples: an empowered automated pipeline for enhanced virtual ,2025-05-20,2025-10-15,2025-12-15,6,30
+41323648,10.1093/bioadv/vbaf289,Bioinform Adv,KSMoFinder-knowledge graph embedding of proteins and motifs for predicting kinases of huma,2025-07-18,2025-11-02,2025-12-01,5,43
+41268478,10.1093/bioadv/vbaf288,Bioinform Adv,Exploring SARS-CoV-2 spike protein mutations through genetic algorithm-driven structural m,2025-05-30,2025-11-03,2025-11-21,7,24
+41383407,10.1093/bioadv/vbaf287,Bioinform Adv,ntRoot: computational inference of human ancestry at scale from genomic data.,2025-07-28,2025-11-04,2025-12-12,5,41
+41323649,10.1093/bioadv/vbaf279,Bioinform Adv,pyALRA: python implementation of low-rank zero-preserving approximation of single cell RNA,2025-08-14,2025-10-24,2025-12-01,2,6
+41287806,10.1093/bioadv/vbaf281,Bioinform Adv,BacExplorer: an integrated platform for de novo bacterial genome annotation.,2025-07-30,2025-11-03,2025-11-25,6,50
+41278007,10.1093/bioadv/vbaf286,Bioinform Adv,Are the tools fit for purpose? Network inference algorithms evaluated on a simulated lipid,2025-05-23,2025-11-02,2025-11-24,6,47
+41268474,10.1093/bioadv/vbaf280,Bioinform Adv,GlobDB: a comprehensive species-dereplicated microbial genome resource.,2025-07-01,2025-10-29,2025-11-21,8,31
+41234328,10.1093/bioadv/vbaf275,Bioinform Adv,"ProCaliper: functional and structural analysis, visualization, and annotation of proteins.",2025-08-11,2025-10-14,2025-11-14,7,29
+41230491,10.1093/bioadv/vbaf188,Bioinform Adv,ProkBERT PhaStyle: accurate phage lifestyle prediction with pretrained genomic language mo,2025-04-09,2025-07-21,2025-11-13,6,52
+41394078,10.1093/bioadv/vbaf251,Bioinform Adv,Matrix-based vector representations in neural networks for classifying molecular biology d,2025-08-16,2025-10-02,2025-12-15,3,18
+41278006,10.1093/bioadv/vbaf284,Bioinform Adv,"BEREN: a bioinformatic tool for recovering giant viruses, polinton-like viruses, and virop",2025-03-27,2025-10-29,2025-11-24,2,41
+41268475,10.1093/bioadv/vbaf278,Bioinform Adv,WebCMap: an R package for high-throughput connectivity analysis within the CMap framework.,2025-07-11,2025-10-24,2025-11-21,3,19
+41230489,10.1093/bioadv/vbaf255,Bioinform Adv,zAMP and zAMPExplorer: reproducible scalable amplicon-based metagenomics analysis and visu,2025-03-20,2025-10-06,2025-11-13,7,69
+41268477,10.1093/bioadv/vbaf273,Bioinform Adv,scExplorer: a comprehensive web server for single-cell RNA sequencing data analysis.,2025-06-26,2025-10-16,2025-11-21,5,22
+41278009,10.1093/bioadv/vbaf272,Bioinform Adv,CoRTE: a web-service for constructing temporal networks from genotype-tissue expression da,2025-06-25,2025-10-25,2025-11-24,2,10
+41230490,10.1093/bioadv/vbaf274,Bioinform Adv,Long short-term memory-based deep learning model for the discovery of antimicrobial peptid,2025-08-10,2025-10-24,2025-11-13,4,32
+41216218,10.1093/bioadv/vbaf263,Bioinform Adv,PSO-FeatureFusion: a general framework for fusing heterogeneous features via particle swar,2025-08-01,2025-10-06,2025-11-11,2,46
+41234327,10.1093/bioadv/vbaf269,Bioinform Adv,DSA-DeepFM: a dual-stage attention-enhanced DeepFM model for predicting anticancer synergi,2025-06-23,2025-10-22,2025-11-14,4,48
+41221371,10.1093/bioadv/vbaf262,Bioinform Adv,TidyGWAS: a scalable approach for standardized cleaning of genome-wide association study s,2025-07-03,2025-10-06,2025-11-12,5,19
+41268476,10.1093/bioadv/vbaf268,Bioinform Adv,Gaining insights into Alzheimer's disease by predicting chromatin spatial organization.,2025-01-31,2025-09-23,2025-11-21,4,67
+41306380,10.1093/bioadv/vbaf265,Bioinform Adv,MutSeqR: an open source R package for standardized analysis of error-corrected next-genera,2025-07-23,2025-09-16,2025-11-27,12,41
+41394077,10.1093/bioadv/vbaf258,Bioinform Adv,RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-desi,2025-04-22,2025-10-07,2025-12-15,2,27
+41357305,10.1093/bioadv/vbaf266,Bioinform Adv,Unifying proteomic technologies with ProteinProjector.,2025-09-13,2025-10-04,2025-12-08,5,39
+41278008,10.1093/bioadv/vbaf264,Bioinform Adv,SUMO: an R package for simulating multi-omics data for methods development and testing.,2025-05-22,2025-10-09,2025-11-24,4,11
+41250674,10.1093/bioadv/vbaf259,Bioinform Adv,Genomic optimum contribution selection and mate allocation using JuMP.,2025-07-21,2025-10-13,2025-11-18,1,37
+41394083,10.1093/bioadv/vbaf261,Bioinform Adv,"StarPepWeb: an integrative, graph-based resource for bioactive peptides.",2025-08-06,2025-10-02,2025-12-15,8,31
+41323650,10.1093/bioadv/vbaf260,Bioinform Adv,NifFinder: improved Nif protein prediction using SWeeP vectors and neural networks.,2025-06-27,2025-10-09,2025-12-01,5,26
+41262968,10.1093/bioadv/vbaf215,Bioinform Adv,The Hydractinia Genome Project Portal: multi-omic annotation and visualization of Hydracti,2025-05-15,2025-08-30,2025-11-20,6,28
+41250675,10.1093/bioadv/vbaf257,Bioinform Adv,ICCTax: a hierarchical taxonomic classifier for metagenomic sequences on a large language ,2025-06-17,2025-10-07,2025-11-18,6,30
+41209040,10.1093/bioadv/vbaf256,Bioinform Adv,In silico analysis of insect-associated bacterial phytases reveals optimal biochemical pro,2025-06-03,2025-10-07,2025-11-10,4,48
+41180965,10.1093/bioadv/vbaf253,Bioinform Adv,Asymmetric integration of various cancer datasets for identifying risk-associated variants,2025-06-20,2025-10-02,2025-11-03,7,25
+41111907,10.1093/bioadv/vbaf231,Bioinform Adv,Pathogenicity patterns in cytochrome P450 family.,2025-04-08,2025-09-18,2025-10-20,4,43
+41169711,10.1093/bioadv/vbaf245,Bioinform Adv,ProtFun: a protein function prediction model using graph attention networks with a protein,2025-04-22,2025-09-15,2025-10-31,2,32
+41180966,10.1093/bioadv/vbaf252,Bioinform Adv,Nextpie: a web-based reporting tool and database for reproducible nextflow pipelines.,2025-03-24,2025-09-22,2025-11-03,4,13
+41216217,10.1093/bioadv/vbaf250,Bioinform Adv,GeoGenIE: a deep learning approach to predict geographic provenance of biodiversity sample,2025-06-27,2025-09-26,2025-11-11,5,34
+41209038,10.1093/bioadv/vbaf247,Bioinform Adv,OncotreeVIS-an interactive graphical user interface for visualizing mutation tree cohorts.,2025-06-02,2025-08-18,2025-11-10,2,10
+41141336,10.1093/bioadv/vbaf249,Bioinform Adv,KinMethyl: robust methylation detection in prokaryotic SMRT sequencing via kinetic signal ,2025-05-30,2025-09-15,2025-10-27,2,33
+41293318,10.1093/bioadv/vbaf246,Bioinform Adv,Retention order prediction of peptides containing non-proteinogenic amino acids.,2025-01-24,2025-07-25,2025-11-26,6,30
+41262969,10.1093/bioadv/vbaf238,Bioinform Adv,FastGA: fast genome alignment.,2025-07-07,2025-09-15,2025-11-20,3,43
+41158442,10.1093/bioadv/vbaf244,Bioinform Adv,Synthetic data-driven AI approach for fetal chromosomal aneuploidies detection.,2025-07-02,2025-09-29,2025-10-29,4,15
+41103542,10.1093/bioadv/vbaf224,Bioinform Adv,Craft: a machine learning approach to dengue subtyping.,2025-05-12,2025-07-31,2025-10-17,7,24
+41425653,10.1093/bioadv/vbaf241,Bioinform Adv,Metadata harmonization from biological datasets with language models.,2025-06-12,2025-09-15,2025-12-22,3,34
+41293320,10.1093/bioadv/vbaf229,Bioinform Adv,Orthonormal pairwise logratio selection (OPALS) algorithm for compositional data analysis ,2025-02-20,2025-07-29,2025-11-26,6,41
+41079223,10.1093/bioadv/vbaf233,Bioinform Adv,FBAT DAP-G: fine-mapping of genetic associations in family-based studies using the Determi,2025-03-07,2025-09-16,2025-10-13,6,10
+41221370,10.1093/bioadv/vbaf232,Bioinform Adv,Disc-Hub: a python package for benchmarking machine learning strategies in DIA-MS identifi,2025-06-05,2025-09-15,2025-11-12,3,14
+41169710,10.1093/bioadv/vbaf234,Bioinform Adv,Deconvolution and phylogeny inference of diverse variant types integrating bulk DNA-seq wi,2025-07-03,2025-09-16,2025-10-31,2,41
+41103543,10.1093/bioadv/vbaf239,Bioinform Adv,SocialViruses: integrating quantitative phage-bacteria and phage-phage interaction network,2025-07-08,2025-09-24,2025-10-17,3,25
+41221372,10.1093/bioadv/vbaf236,Bioinform Adv,FinaleToolkit: accelerating cell-free DNA fragmentation analysis with a high-speed computa,2025-05-14,2025-09-14,2025-11-12,4,10
+41103544,10.1093/bioadv/vbaf235,Bioinform Adv,TAILcaller: an R package for analyzing differences in poly(A) tail length for Oxford Nanop,2025-04-23,2025-09-20,2025-10-17,3,27
+41079221,10.1093/bioadv/vbaf237,Bioinform Adv,sc2DAT: workflow for targeting tumor subpopulations of single cells.,2025-05-16,2025-09-23,2025-10-13,5,53
+41230488,10.1093/bioadv/vbaf226,Bioinform Adv,Atlantool: a command line tool to retrieve DNA and RNA sequencing reads from BAM files by ,2025-03-20,2025-08-10,2025-11-13,10,7
+41185853,10.1093/bioadv/vbaf227,Bioinform Adv,Benchmarking of variant pathogenicity prediction methods using a population genetics appro,2025-04-04,2025-09-03,2025-11-04,8,33
+41127882,10.1093/bioadv/vbaf225,Bioinform Adv,tBN-CSDI: a time-varying blue noise-based diffusion model for time-series imputation.,2025-06-13,2025-09-15,2025-10-23,5,46
+41216219,10.1093/bioadv/vbaf220,Bioinform Adv,HeraNorm: an R shiny application for identifying optimal endogenous controls for miRNA and,2025-04-03,2025-09-06,2025-11-11,9,30
+41031058,10.1093/bioadv/vbaf221,Bioinform Adv,DeepEPI: CNN-transformer-based model for extracting TF interactions through predicting enh,2025-04-25,2025-09-07,2025-10-01,3,34
+41089558,10.1093/bioadv/vbaf206,Bioinform Adv,Competencies for bioinformatics core facility scientists: extension of the ISCB competency,2025-05-17,2025-09-01,2025-10-15,10,31
+40989495,10.1093/bioadv/vbaf217,Bioinform Adv,MSA Class Logos: a web server for automated sequence logo generation for user-defined sequ,2025-06-26,2025-09-04,2025-09-24,4,12
+41000193,10.1093/bioadv/vbaf212,Bioinform Adv,PACO: a Shiny app for comparing perturbed pathways associated with different phenotypes.,2025-01-19,2025-08-28,2025-09-26,3,10
+41018818,10.1093/bioadv/vbaf213,Bioinform Adv,PerseuCPP: a machine learning strategy to predict cell-penetrating peptides and their upta,2025-03-15,2025-09-01,2025-09-29,7,42
+41000192,10.1093/bioadv/vbaf214,Bioinform Adv,DRAGoN: a robust pipeline for analyzing DRUG-seq datasets.,2025-04-10,2025-08-27,2025-09-26,2,10
+41064111,10.1093/bioadv/vbaf209,Bioinform Adv,DNPcall: a new pipeline for accurate double nucleotide polymorphism calling.,2025-05-07,2025-09-03,2025-10-09,6,13
+40980551,10.1093/bioadv/vbaf211,Bioinform Adv,"MADVAR: a lightweight, data-driven tool for automated feature selection in omics data.",2025-03-17,2025-09-02,2025-09-22,1,9
+40980556,10.1093/bioadv/vbaf210,Bioinform Adv,bloodAGENT: a versatile tool for blood group typing and genomic variation analysis.,2025-05-08,2025-09-01,2025-09-22,4,22
+40980553,10.1093/bioadv/vbaf193,Bioinform Adv,Exploration of chaos game representation and integrative deep learning approaches for whol,2025-06-24,2025-08-04,2025-09-22,4,34
+41018817,10.1093/bioadv/vbaf207,Bioinform Adv,GCompip: a pipeline for estimating the gene abundance in microbial communities.,2025-06-13,2025-08-26,2025-09-29,8,25
+40980555,10.1093/bioadv/vbaf205,Bioinform Adv,"IGD: a simple, efficient genotype data format.",2025-04-08,2025-08-22,2025-09-22,2,21
+40926956,10.1093/bioadv/vbaf204,Bioinform Adv,NFEmbed: modeling nitrogenase activity via classification and regression with pretrained p,2025-06-24,2025-08-22,2025-09-10,2,88
+40917651,10.1093/bioadv/vbaf198,Bioinform Adv,ResLysEmbed: a ResNet-based framework for succinylated lysine residue prediction using seq,2025-04-07,2025-08-20,2025-09-08,3,47
+40980554,10.1093/bioadv/vbaf195,Bioinform Adv,Direct inference of haplotypes from sequencing data.,2025-03-31,2025-08-18,2025-09-22,12,32
+40917649,10.1093/bioadv/vbaf200,Bioinform Adv,Multimodal deep learning for predicting protein ubiquitination sites.,2025-04-12,2025-08-18,2025-09-08,5,61
+40900912,10.1093/bioadv/vbaf194,Bioinform Adv,DgeaHeatmap: an R package for transcriptomic analysis and heatmap generation.,2025-02-26,2025-08-18,2025-09-03,4,10
+40917650,10.1093/bioadv/vbaf197,Bioinform Adv,MBC PathNet: integration and visualization of networks connecting functionally related pat,2025-03-05,2025-08-14,2025-09-08,2,21
+40917653,10.1093/bioadv/vbaf196,Bioinform Adv,A foundation model for learning genetic associations from brain imaging phenotypes.,2025-05-15,2025-08-11,2025-09-08,4,56
+41195088,10.1093/bioadv/vbaf191,Bioinform Adv,Revealing tissue architecture through the hypercomplex Fourier analysis of spatial transcr,2025-05-14,2025-08-07,2025-11-06,1,23
+40874236,10.1093/bioadv/vbaf189,Bioinform Adv,Harmonizing heterogeneous single-cell gene expression data with individual-level covariate,2025-04-21,2025-08-04,2025-08-28,2,36
+40799494,10.1093/bioadv/vbaf184,Bioinform Adv,robin2: accelerating single-cell data clustering evaluation.,2025-03-05,2025-08-04,2025-08-13,4,10
+40896714,10.1093/bioadv/vbaf185,Bioinform Adv,Marker genes reveal dynamic features of cell evolving processes.,2025-05-14,2025-08-02,2025-09-02,3,45
+40861396,10.1093/bioadv/vbaf183,Bioinform Adv,smartSim: simulation of splice aware single cell smart-seq3 data.,2025-03-07,2025-07-28,2025-08-27,2,6
+40799498,10.1093/bioadv/vbaf180,Bioinform Adv,Estimating protein complex model accuracy using graph transformers and pairwise similarity,2025-02-12,2025-07-27,2025-08-13,3,33
+40861397,10.1093/bioadv/vbaf181,Bioinform Adv,Diffusion model for imputing time-series gut microbiome profiles using phylogenetic inform,2025-02-24,2025-07-10,2025-08-27,3,29
+40831759,10.1093/bioadv/vbaf182,Bioinform Adv,In silico design of immunogenic antigen cocktail via affinity maturation-guided optimizati,2025-03-29,2025-07-25,2025-08-20,3,39
+40799492,10.1093/bioadv/vbaf177,Bioinform Adv,Exonize: a tool for finding and classifying exon duplications in annotated genomes.,2024-11-28,2025-07-25,2025-08-13,4,12
+40861393,10.1093/bioadv/vbaf178,Bioinform Adv,Gene-set enrichment analysis and visualization on the web using EnrichmentMap:RNASeq.,2025-02-28,2025-07-22,2025-08-27,6,28
+40861392,10.1093/bioadv/vbaf175,Bioinform Adv,Statistical relationships across epigenomes using large-scale hierarchical clustering.,2024-08-13,2025-07-21,2025-08-27,4,35
+40799496,10.1093/bioadv/vbaf174,Bioinform Adv,Structure-based metabolite function prediction using graph neural networks.,2025-05-26,2025-07-16,2025-08-13,5,35
+40756678,10.1093/bioadv/vbaf176,Bioinform Adv,GRPhIN: graphlet characterization of regulatory and physical interaction networks.,2025-06-06,2025-07-17,2025-08-04,3,37
+40761325,10.1093/bioadv/vbaf172,Bioinform Adv,pgxRpi: an R/bioconductor package for user-friendly access to the Beacon v2 API.,2025-04-08,2025-07-15,2025-08-05,2,10
+40746506,10.1093/bioadv/vbaf171,Bioinform Adv,IsoPrimer: a pipeline for designing isoform-aware primer pairs for comprehensive gene expr,2025-02-19,2025-07-14,2025-08-01,4,12
+40708868,10.1093/bioadv/vbaf170,Bioinform Adv,Hybrid representation learning for human m6A modifications with chromosome-level generaliz,2025-04-08,2025-07-11,2025-07-25,3,32
+40799493,10.1093/bioadv/vbaf166,Bioinform Adv,Enhancing genome-scale metabolic models with kinetic data: resolving growth and citramalat,2025-02-07,2025-07-09,2025-08-13,4,47
+41079222,10.1093/bioadv/vbaf164,Bioinform Adv,RMapAlign3N: fast mapping of 3N-Reads.,2025-01-09,2025-07-08,2025-10-13,5,13
+40740683,10.1093/bioadv/vbaf165,Bioinform Adv,"PeGAS: a versatile bioinformatics pipeline for antimicrobial resistance, virulence and pan",2025-04-04,2025-07-08,2025-07-31,2,25
+40808987,10.1093/bioadv/vbaf162,Bioinform Adv,Volcano: a pipeline to characterize long terminal repeat-retrotransposons families in plan,2024-11-21,2025-07-03,2025-08-14,4,25
+40746507,10.1093/bioadv/vbaf163,Bioinform Adv,Optimal solution to the set cover problem with a vicinity constraint for estimating genoty,2025-03-17,2025-07-02,2025-08-01,3,31
+40630502,10.1093/bioadv/vbaf151,Bioinform Adv,Blackbird: structural variant detection using synthetic and low-coverage long-reads.,2024-12-24,2025-07-02,2025-07-09,6,43
+40746508,10.1093/bioadv/vbaf160,Bioinform Adv,MEAanalysis: an open-source R package for downstream visualization of AxIS navigator multi,2025-01-27,2025-07-01,2025-08-01,4,20
+40692622,10.1093/bioadv/vbaf161,Bioinform Adv,Improved prediction of antibody and their complexes with clustered generative modelling en,2025-02-24,2025-07-02,2025-07-22,3,25
+40677735,10.1093/bioadv/vbaf157,Bioinform Adv,X-CRISP: domain-adaptable and interpretable CRISPR repair outcome prediction.,2024-11-12,2025-07-01,2025-07-18,2,33
+40677734,10.1093/bioadv/vbaf158,Bioinform Adv,Calculating genetic risk scores directly from summary statistics with an application to ty,2024-12-18,2025-07-01,2025-07-18,3,12
+40655198,10.1093/bioadv/vbaf159,Bioinform Adv,PangenePro: an automated pipeline for rapid identification and classification of gene fami,2025-02-04,2025-07-01,2025-07-14,3,18
+40630498,10.1093/bioadv/vbaf146,Bioinform Adv,StackGlyEmbed: prediction of N-linked glycosylation sites using protein language models.,2025-02-17,2025-06-26,2025-07-09,2,61
+40861394,10.1093/bioadv/vbaf155,Bioinform Adv,Unlocking the potential of PubMed Central supplementary data files.,2025-03-03,2025-06-26,2025-08-27,7,24
+40708869,10.1093/bioadv/vbaf153,Bioinform Adv,"ABCFold: easier running and comparison of AlphaFold 3, Boltz-1, and Chai-1.",2025-03-26,2025-06-26,2025-07-25,3,23
+40718017,10.1093/bioadv/vbaf147,Bioinform Adv,Genome Evaluation Pipeline (GEP): a fully automated quality control tool for parallel eval,2024-11-12,2025-06-25,2025-07-28,4,13
+40655196,10.1093/bioadv/vbaf152,Bioinform Adv,BugBuster: a novel automatic and reproducible workflow for metagenomic data analysis.,2025-02-13,2025-06-25,2025-07-14,4,36
+40734899,10.1093/bioadv/vbaf150,Bioinform Adv,EpipwR: efficient power analysis for EWAS with continuous outcomes.,2024-12-18,2025-06-23,2025-07-30,2,61
+40666130,10.1093/bioadv/vbaf148,Bioinform Adv,Survey and improvement strategies for gene prioritization with large language models.,2025-02-03,2025-06-20,2025-07-16,12,37
+40626042,10.1093/bioadv/vbaf149,Bioinform Adv,VueGen: automating the generation of scientific reports.,2025-03-07,2025-06-23,2025-07-08,3,22
+40861395,10.1093/bioadv/vbaf142,Bioinform Adv,The TEMPO integrator: accelerating molecular simulations by temporally multiscale force pr,2025-04-03,2025-06-17,2025-08-27,2,55
+40630500,10.1093/bioadv/vbaf140,Bioinform Adv,Prediction of the infecting organism in peritoneal dialysis patients with acute peritoniti,2025-03-12,2025-06-09,2025-07-09,7,36
+40630501,10.1093/bioadv/vbaf145,Bioinform Adv,FPGA acceleration of GWAS permutation testing.,2025-05-27,2025-06-15,2025-07-09,6,10
+40630499,10.1093/bioadv/vbaf143,Bioinform Adv,DAPCy: a Python package for the discriminant analysis of principal components method for p,2025-02-13,2025-06-14,2025-07-09,5,17
+40575479,10.1093/bioadv/vbaf096,Bioinform Adv,GRU-SCANET: unleashing the power of GRU-based sinusoidal capture network for precision-dri,2024-10-29,2025-06-13,2025-06-27,4,46
+40538444,10.1093/bioadv/vbaf129,Bioinform Adv,"NRGSuite-Qt: a PyMOL plugin for high-throughput virtual screening, molecular docking, norm",2025-04-03,2025-06-13,2025-06-20,4,41
+40677736,10.1093/bioadv/vbaf139,Bioinform Adv,A comprehensive analysis of the inherited lncRNA and circRNA repertoire of zebrafish.,2025-02-20,2025-06-10,2025-07-18,4,37
+40621601,10.1093/bioadv/vbaf141,Bioinform Adv,Leveraging generative AI to assist biocuration of medical actions for rare disease.,2025-03-22,2025-06-10,2025-07-07,15,18
+40521380,10.1093/bioadv/vbaf119,Bioinform Adv,Next-generation sequencing-based tools or nanopore-based tools: which is more suitable for,2025-02-04,2025-06-10,2025-06-16,4,29
+40662058,10.1093/bioadv/vbaf126,Bioinform Adv,A hierarchical negative-binomial model for analysis of correlated sequencing data: practic,2024-10-29,2025-06-09,2025-07-15,3,29
+40621603,10.1093/bioadv/vbaf134,Bioinform Adv,UTRGAN: learning to generate 5' UTR sequences for optimized translation efficiency and gen,2024-12-24,2025-06-08,2025-07-07,5,44
+40621602,10.1093/bioadv/vbaf137,Bioinform Adv,BoKDiff: best-of-K diffusion alignment for target-specific 3D molecule generation.,2025-04-22,2025-06-06,2025-07-07,3,37
+40636789,10.1093/bioadv/vbaf127,Bioinform Adv,A fast method for extracting essential and synthetic lethality genes in GEM models.,2024-10-28,2025-05-30,2025-07-10,2,28
+40599331,10.1093/bioadv/vbaf132,Bioinform Adv,Pharmacological assessment of Coffea arabica compounds as potential therapeutics for cervi,2024-12-24,2025-06-02,2025-07-02,10,46
+40575478,10.1093/bioadv/vbaf133,Bioinform Adv,Harpy: a pipeline for processing haplotagging linked-read data.,2025-02-14,2025-06-03,2025-06-27,6,21
+40491566,10.1093/bioadv/vbaf092,Bioinform Adv,SynDRep: a synergistic partner prediction tool based on knowledge graph for drug repurposi,2024-10-23,2025-06-04,2025-06-10,6,73
+40557420,10.1093/bioadv/vbaf128,Bioinform Adv,OReO: optimizing read order for practical compression.,2025-04-01,2025-06-02,2025-06-25,4,60
+40567341,10.1093/bioadv/vbaf130,Bioinform Adv,Predicting gene expression using millions of yeast promoters reveals cis-regulatory logic.,2025-04-25,2025-05-29,2025-06-26,2,24
+40655197,10.1093/bioadv/vbaf123,Bioinform Adv,Using pseudotime derivative on single-cell RNA sequencing data to identify genes undergoin,2024-12-18,2025-05-28,2025-07-14,5,26
+40510373,10.1093/bioadv/vbaf110,Bioinform Adv,Causeway: a pipeline for genome-wide effector gene screening with Mendelian Randomization ,2025-01-03,2025-05-09,2025-06-13,5,14
+40510374,10.1093/bioadv/vbaf091,Bioinform Adv,ReSort enhances reference-based cell type deconvolution for spatial transcriptomics throug,2024-09-24,2025-05-23,2025-06-13,7,30
+40584887,10.1093/bioadv/vbaf125,Bioinform Adv,MSCI: an open-source Python package for information content assessment of peptide fragment,2024-10-09,2025-05-22,2025-07-01,4,29
+40502443,10.1093/bioadv/vbaf121,Bioinform Adv,Predictive machine learning model for 30-day hospital readmissions in a tertiary healthcar,2024-09-11,2025-05-21,2025-06-12,3,31
+40438147,10.1093/bioadv/vbaf097,Bioinform Adv,xOmicsShiny: an R Shiny application for cross-omics data analysis and pathway mapping.,2024-11-12,2025-05-22,2025-05-29,7,28
+40642163,10.1093/bioadv/vbaf120,Bioinform Adv,RaptGen-UI: an integrated platform for exploring and analyzing the sequence landscape of H,2025-03-08,2025-05-19,2025-07-11,4,17
+40487930,10.1093/bioadv/vbaf124,Bioinform Adv,Phenotype driven data augmentation methods for transcriptomic data.,2025-01-29,2025-05-21,2025-06-09,3,45
+40463403,10.1093/bioadv/vbaf122,Bioinform Adv,jdispatcher-viewers: interactive visualizations of sequence similarity search results and ,2024-12-11,2025-05-21,2025-06-04,6,20
+40438146,10.1093/bioadv/vbaf089,Bioinform Adv,nf-core/marsseq: systematic preprocessing pipeline for MARS-seq experiments.,2024-10-14,2025-05-21,2025-05-29,4,27
+40502442,10.1093/bioadv/vbaf100,Bioinform Adv,Enrichment analysis for spatial and single-cell metabolomics accounting for molecular ambi,2024-12-11,2025-05-20,2025-06-12,4,18
+40989496,10.1093/bioadv/vbaf117,Bioinform Adv,MULAN: multimodal protein language model for sequence and structure encoding.,2025-03-31,2025-05-19,2025-09-24,6,38
+40546820,10.1093/bioadv/vbaf118,Bioinform Adv,EzSEA: an interactive web interface for enzyme sequence evolution analysis.,2025-01-31,2025-05-16,2025-06-24,3,33
+40546819,10.1093/bioadv/vbaf113,Bioinform Adv,TROPPO: tissue-specific reconstruction and phenotype prediction using omics data.,2024-11-18,2025-05-16,2025-06-24,5,27
+40463406,10.1093/bioadv/vbaf112,Bioinform Adv,DRMAAtic: dramatically improve your cluster potential.,2025-01-17,2025-05-14,2025-06-04,7,17
+40421422,10.1093/bioadv/vbaf099,Bioinform Adv,HIV multidrug class resistance prediction with a time sliding anchor approach.,2025-01-31,2025-04-25,2025-05-27,10,37
+40395501,10.1093/bioadv/vbaf085,Bioinform Adv,Benchmarking accelerated next-generation sequencing analysis pipelines.,2025-03-21,2025-04-08,2025-05-21,12,52
+40662059,10.1093/bioadv/vbaf111,Bioinform Adv,K2R: Tinted de Bruijn graphs implementation for efficient read extraction from sequencing ,2025-03-31,2025-05-13,2025-07-15,3,47
+40496492,10.1093/bioadv/vbaf116,Bioinform Adv,GAIN-BRCA: a graph-based AI-net framework for breast cancer subtype classification using m,2025-01-13,2025-05-13,2025-06-11,4,61
+40496493,10.1093/bioadv/vbaf109,Bioinform Adv,RNA knowledge-graph analysis through homogeneous embedding methods.,2025-02-13,2025-05-11,2025-06-11,8,31
+40487929,10.1093/bioadv/vbaf115,Bioinform Adv,BonoboFlow: viral genome assembly and haplotype reconstruction from nanopore reads.,2024-08-03,2025-05-11,2025-06-09,17,53
+40463405,10.1093/bioadv/vbaf114,Bioinform Adv,Quantifying the nuclear localization of fluorescently tagged proteins.,2025-03-20,2025-05-09,2025-06-04,3,54
+40365110,10.1093/bioadv/vbaf086,Bioinform Adv,iDDN: determining trans-omics network structure and rewiring with integrative differential,2024-11-24,2025-05-06,2025-05-14,9,39
+40510372,10.1093/bioadv/vbaf104,Bioinform Adv,Poplar: a phylogenomics pipeline.,2024-12-04,2025-05-02,2025-06-13,3,102
+40454229,10.1093/bioadv/vbaf108,Bioinform Adv,cfTools: an R/Bioconductor package for deconvolving cell-free DNA via methylation analysis,2025-01-25,2025-05-05,2025-06-02,6,19
+40406671,10.1093/bioadv/vbaf107,Bioinform Adv,iSEEtree: interactive explorer for hierarchical data.,2024-12-31,2025-05-02,2025-05-23,6,8
+40417654,10.1093/bioadv/vbaf105,Bioinform Adv,AnnSQL: a Python SQL-based package for fast large-scale single-cell genomics analysis usin,2024-12-11,2025-05-01,2025-05-26,2,18
+40546821,10.1093/bioadv/vbaf101,Bioinform Adv,VaxGO: an interactive web tool for systems vaccinology data analysis.,2024-12-19,2025-04-29,2025-06-24,11,23
+40417653,10.1093/bioadv/vbaf094,Bioinform Adv,GenePioneer: a comprehensive Python package for identification of essential genes and modu,2024-12-30,2025-04-26,2025-05-26,2,15
+40395502,10.1093/bioadv/vbaf103,Bioinform Adv,"Assessing accuracy and specificity of faecal source library for microbial source-tracking,",2024-12-30,2025-04-28,2025-05-21,5,15
+40395503,10.1093/bioadv/vbaf098,Bioinform Adv,"bamSliceR: a Bioconductor package for rapid, cross-cohort variant and allelic bias analysi",2024-11-27,2025-04-25,2025-05-21,10,29
+40487928,10.1093/bioadv/vbaf076,Bioinform Adv,Identifying core genes in keloid and investigating immune infiltration and pan-cancer asso,2024-10-19,2025-04-25,2025-06-09,2,39
+40406669,10.1093/bioadv/vbaf095,Bioinform Adv,Grape-Pi: graph-based neural networks for enhanced protein identification in proteomics pi,2024-09-17,2025-04-24,2025-05-23,12,38
+40351868,10.1093/bioadv/vbaf090,Bioinform Adv,PPIFold: a tool for analysis of protein-protein interaction from AlphaPullDown.,2025-01-10,2025-04-22,2025-05-12,4,9
+40303903,10.1093/bioadv/vbaf093,Bioinform Adv,AlphaMissenseR: an integrated framework for investigating missense mutations in human prot,2025-03-18,2025-04-21,2025-04-30,6,15
+40270926,10.1093/bioadv/vbaf068,Bioinform Adv,HORNET: tools to find genes with causal evidence and their regulatory networks using eQTLs,2024-11-12,2025-04-16,2025-04-24,7,70
+40260119,10.1093/bioadv/vbaf078,Bioinform Adv,"GeneSetPheno: a web application for the integration, summary, and visualization of gene an",2024-12-09,2025-04-15,2025-04-22,4,17
+40365111,10.1093/bioadv/vbaf087,Bioinform Adv,diel_models: a python package for systematic integration of day-night cycles into plant ge,2024-12-11,2025-04-14,2025-05-14,5,26
+40297775,10.1093/bioadv/vbaf084,Bioinform Adv,Space: reconciling multiple spatial domain identification algorithms via consensus cluster,2024-12-30,2025-04-08,2025-04-29,10,5
+40291016,10.1093/bioadv/vbaf088,Bioinform Adv,Rodin: a streamlined metabolomics data analysis and visualization tool.,2024-12-24,2025-04-09,2025-04-28,8,10
+40303904,10.1093/bioadv/vbaf081,Bioinform Adv,Construction of edit-distance graphs for large sets of short reads through minimizer-bucke,2024-08-19,2025-04-08,2025-04-30,2,28
+40297777,10.1093/bioadv/vbaf080,Bioinform Adv,Inferring differential protein binding from time-series chromatin accessibility data.,2025-01-14,2025-04-07,2025-04-29,2,25
+40248358,10.1093/bioadv/vbaf071,Bioinform Adv,Benchmarking of germline copy number variant callers from whole genome sequencing data for,2024-07-20,2025-04-08,2025-04-18,12,34
+40270928,10.1093/bioadv/vbaf083,Bioinform Adv,"""Neuropathological function estimations"": a user-friendly module for analyzing neural acti",2024-11-26,2025-04-07,2025-04-24,5,11
+40351869,10.1093/bioadv/vbaf066,Bioinform Adv,TRACKing tandem repeats: a customizable pipeline for identification and cross-species comp,2024-12-12,2025-04-07,2025-05-12,4,24
+40291015,10.1093/bioadv/vbaf075,Bioinform Adv,VirDiG: a de novo transcriptome assembler for coronavirus.,2024-10-18,2025-04-07,2025-04-28,3,29
+40417655,10.1093/bioadv/vbaf079,Bioinform Adv,Identification of universal grass genes and estimates of their monocot-/commelinid-/grass-,2025-01-21,2025-04-04,2025-05-26,1,47
+40330626,10.1093/bioadv/vbaf077,Bioinform Adv,rPIMS: a ShinyR package for the precision identification and modelling of livestock breeds,2024-10-22,2025-04-04,2025-05-07,4,41
+40406670,10.1093/bioadv/vbaf074,Bioinform Adv,Mars: simplifying bioinformatics workflows through a containerized approach to tool integr,2024-11-26,2025-04-02,2025-05-23,2,22
+40330627,10.1093/bioadv/vbaf069,Bioinform Adv,CellRomeR: an R package for clustering cell migration phenotypes from microscopy data.,2024-11-19,2025-04-02,2025-05-07,11,18
+40297776,10.1093/bioadv/vbaf073,Bioinform Adv,Enhanced metabolomic predictions using concept drift analysis: identification and correcti,2024-08-19,2025-04-03,2025-04-29,11,43
+40248357,10.1093/bioadv/vbaf072,Bioinform Adv,HuTAge: a comprehensive human tissue- and cell-specific ageing signature atlas.,2024-10-15,2025-04-01,2025-04-18,4,22
+40395504,10.1093/bioadv/vbaf070,Bioinform Adv,mirrorCheck: an R package facilitating informed use of DESeq2's lfcShrink() function for d,2024-11-28,2025-03-31,2025-05-21,6,31
+40196751,10.1093/bioadv/vbaf021,Bioinform Adv,Transfer learning improves performance in volumetric electron microscopy organelle segment,2024-09-09,2025-02-05,2025-04-08,12,33
+40385593,10.1093/bioadv/vbaf067,Bioinform Adv,cOmicsArt-a customizable Omics Analysis and reporting tool.,2024-12-20,2025-03-31,2025-05-19,12,14
+40365109,10.1093/bioadv/vbaf064,Bioinform Adv,Evaluation of search-enabled pretrained Large Language Models on retrieval tasks for the P,2024-11-21,2025-03-21,2025-05-14,2,18
+41064112,10.1093/bioadv/vbaf063,Bioinform Adv,A Kolmogorov metric embedding for live cell microscopy signaling patterns.,2024-09-22,2025-03-19,2025-10-09,8,40
+40270927,10.1093/bioadv/vbaf062,Bioinform Adv,TITINdb2-expanding annotation and structural information for protein variants in the giant,2024-10-02,2025-03-20,2025-04-24,5,10
+40385592,10.1093/bioadv/vbaf061,Bioinform Adv,ShinyTHOR app: Shiny-built tumor high-throughput omics-based roadmap.,2024-12-10,2025-03-18,2025-05-19,7,6
+40177264,10.1093/bioadv/vbaf039,Bioinform Adv,Adaptive adjustment of profile HMM significance thresholds improves functional and metabol,2024-12-09,2025-03-19,2025-04-03,6,72
+40170887,10.1093/bioadv/vbaf058,Bioinform Adv,peptidy: a light-weight Python library for peptide representation in machine learning.,2025-01-08,2025-03-19,2025-04-02,4,22
+40170886,10.1093/bioadv/vbae202,Bioinform Adv,AntiFold: improved structure-based antibody design using inverse folding.,2024-09-17,2025-03-19,2025-04-02,6,30
+40191548,10.1093/bioadv/vbaf059,Bioinform Adv,S2Map: a novel computational platform for identifying secretio-types through cell secretio,2024-10-18,2025-03-17,2025-04-07,6,43
+40191547,10.1093/bioadv/vbaf051,Bioinform Adv,Zepyros: a webserver to evaluate the shape complementarity of protein-protein interfaces.,2024-12-30,2025-03-06,2025-04-07,5,11
+40170888,10.1093/bioadv/vbaf060,Bioinform Adv,Aggregating residue-level protein language model embeddings with optimal transport.,2024-11-11,2025-03-17,2025-04-02,2,50
+40206332,10.1093/bioadv/vbaf055,Bioinform Adv,VICatMix: variational Bayesian clustering and variable selection for discrete biomedical d,2025-01-01,2025-03-13,2025-04-10,2,104
+40177266,10.1093/bioadv/vbaf057,Bioinform Adv,RNApysoforms: fast rendering interactive visualization of RNA isoform structure and expres,2024-12-11,2025-03-12,2025-04-03,5,26
+40144455,10.1093/bioadv/vbaf056,Bioinform Adv,Challenges in predicting PROTAC-mediated protein-protein interfaces with AlphaFold reveal ,2024-09-20,2025-03-12,2025-03-27,4,49
+40401046,10.1093/bioadv/vbaf054,Bioinform Adv,Enhancing gene set overrepresentation analysis with large language models.,2024-11-26,2025-03-10,2025-05-22,7,35
+40160476,10.1093/bioadv/vbaf052,Bioinform Adv,RegionScan: a comprehensive R package for region-level genome-wide association testing wit,2024-04-10,2025-03-07,2025-03-31,7,27
+40134580,10.1093/bioadv/vbaf053,Bioinform Adv,wQFM-TREE: highly accurate and scalable quartet-based species tree inference from gene tre,2024-10-28,2025-03-10,2025-03-26,9,46
+40125545,10.1093/bioadv/vbaf050,Bioinform Adv,Machine learning-based approach for identification of new resistance associated mutations ,2024-10-16,2025-03-06,2025-03-24,2,42
+40110563,10.1093/bioadv/vbaf049,Bioinform Adv,Isopeptor: a tool for detecting intramolecular isopeptide bonds in protein structures.,2025-01-07,2025-03-06,2025-03-20,5,10
+40110560,10.1093/bioadv/vbaf045,Bioinform Adv,Quantifying uncertainty in microbiome-based prediction using Gaussian processes with micro,2024-10-23,2025-03-06,2025-03-20,4,49
+40212885,10.1093/bioadv/vbaf048,Bioinform Adv,HuBMAPR: an R client for the HuBMAP data portal.,2024-10-09,2025-03-05,2025-04-11,5,23
+40191546,10.1093/bioadv/vbaf046,Bioinform Adv,DataSHIELD: mitigating disclosure risk in a multi-site federated analysis platform.,2024-11-15,2025-03-05,2025-04-07,34,57
+40110562,10.1093/bioadv/vbaf047,Bioinform Adv,LipidSigR: a R-based solution for integrated lipidomics data analysis and visualization.,2025-01-07,2025-03-05,2025-03-20,9,16
+40110561,10.1093/bioadv/vbaf043,Bioinform Adv,Drug target assessments: classifying target modulation and associated health effects using,2024-08-25,2025-03-04,2025-03-20,2,26
+40078573,10.1093/bioadv/vbaf013,Bioinform Adv,A unified hypothesis-free feature extraction framework for diverse epigenomic data.,2024-05-01,2025-03-05,2025-03-13,2,25
+40092526,10.1093/bioadv/vbaf018,Bioinform Adv,Assessing genome conservation on pangenome graphs with PanSel.,2024-09-26,2025-02-03,2025-03-17,1,19
+40365107,10.1093/bioadv/vbaf041,Bioinform Adv,A twin-tower model using MRI and gene for prediction on brain tumor patients' response to ,2024-10-02,2025-02-28,2025-05-14,2,21
+40092528,10.1093/bioadv/vbaf038,Bioinform Adv,Welly: a web-tool for visualizing growth curves from microplate data.,2024-11-12,2025-02-28,2025-03-17,3,5
+40160475,10.1093/bioadv/vbaf040,Bioinform Adv,Pandora: a tool to estimate dimensionality reduction stability of genotype data.,2025-02-24,2025-02-27,2025-03-31,3,26
+40083714,10.1093/bioadv/vbaf037,Bioinform Adv,PIPLOM: prediction of exogenous peptide loading on major histocompatibility complex class ,2024-10-28,2025-02-27,2025-03-14,12,19
+40365108,10.1093/bioadv/vbaf034,Bioinform Adv,Optimizing gene selection and module identification via ontology-based scoring and deep le,2024-08-07,2025-02-23,2025-05-14,3,35
+40061870,10.1093/bioadv/vbaf033,Bioinform Adv,scLTNN: an innovative tool for automatically visualizing single-cell trajectories.,2024-11-27,2025-02-24,2025-03-10,8,34
+40092529,10.1093/bioadv/vbaf002,Bioinform Adv,A new ensemble learning method stratified sampling blending optimizes conventional blendin,2024-09-21,2025-02-20,2025-03-17,8,44
+40065773,10.1093/bioadv/vbaf036,Bioinform Adv,BioModTool: from biomass composition data to structured biomass objective functions for ge,2024-11-12,2025-02-19,2025-03-11,4,25
+40061872,10.1093/bioadv/vbaf030,Bioinform Adv,A comprehensive bioinformatic evaluation of the NTRK family's potential as prognostic biom,2024-09-10,2025-02-15,2025-03-10,5,61
+40061871,10.1093/bioadv/vbaf035,Bioinform Adv,XeroGraph: enhancing data integrity in the presence of missing values with statistical and,2024-10-28,2025-02-19,2025-03-10,5,13
+40092527,10.1093/bioadv/vbaf028,Bioinform Adv,Masked language modeling pretraining dynamics for downstream peptide: T-cell receptor bind,2024-08-07,2025-02-12,2025-03-17,2,23
+40061873,10.1093/bioadv/vbaf031,Bioinform Adv,CoDNet: controlled diffusion network for structure-based drug design.,2024-10-11,2025-02-17,2025-03-10,9,37
+40201234,10.1093/bioadv/vbaf029,Bioinform Adv,BADGER: biologically-aware interpretable differential gene expression ranking model.,2024-07-03,2025-02-14,2025-04-09,6,24
+40201235,10.1093/bioadv/vbaf027,Bioinform Adv,Survival path model outperforms conventional static machine learning models in long-term d,2024-07-26,2025-02-13,2025-04-09,11,25
+40041114,10.1093/bioadv/vbaf032,Bioinform Adv,SpaFlow: a Nextflow pipeline for QC and clustering of MxIF datasets.,2024-10-31,2025-02-12,2025-03-05,11,12
+40041113,10.1093/bioadv/vbaf026,Bioinform Adv,easyEWAS: a flexible and user-friendly R package for epigenome-wide association study.,2024-09-27,2025-02-11,2025-03-05,4,18
+39990256,10.1093/bioadv/vbaf022,Bioinform Adv,CRIBAR: a fast and flexible sgRNA design tool for CRISPR imaging.,2024-09-15,2025-02-11,2025-02-24,4,10
+39990257,10.1093/bioadv/vbaf003,Bioinform Adv,PPIXpress and PPICompare webservers infer condition-specific and differential PPI networks,2024-09-27,2025-01-10,2025-02-24,3,21
+39981109,10.1093/bioadv/vbaf025,Bioinform Adv,Hypermut 3: identifying specific mutational patterns in a defined nucleotide context that ,2024-12-04,2025-02-05,2025-02-21,4,7
+39990255,10.1093/bioadv/vbaf023,Bioinform Adv,getENRICH: a tool for the gene and pathway enrichment analysis of non-model organisms.,2024-10-07,2025-02-05,2025-02-24,5,9
+39968377,10.1093/bioadv/vbaf015,Bioinform Adv,mapPat: tracking pathogens evolution in space and time.,2024-08-13,2025-02-05,2025-02-19,3,18
+40255969,10.1093/bioadv/vbaf017,Bioinform Adv,pastboon: an R package to simulate parameterized stochastic Boolean networks.,2024-09-25,2025-02-03,2025-04-21,3,15
+40041115,10.1093/bioadv/vbaf024,Bioinform Adv,FAIRification of the DMRichR pipeline: advancing epigenetic research on environmental and ,2024-11-12,2025-02-04,2025-03-05,3,31
+39927293,10.1093/bioadv/vbae204,Bioinform Adv,Queer voices in computational biology: the first ISCB LGBTQI+ Symposium.,2024-12-13,2024-12-18,2025-02-10,7,15
+40092525,10.1093/bioadv/vbaf014,Bioinform Adv,Leveraging LASSO-based methodologies for enhanced SNP analysis in plant genomes.,2024-03-30,2025-01-31,2025-03-17,6,16
+40041112,10.1093/bioadv/vbaf016,Bioinform Adv,Understanding ecological systems using knowledge graphs: an application to highly pathogen,2024-09-10,2025-01-31,2025-03-05,8,71
+39981108,10.1093/bioadv/vbaf019,Bioinform Adv,Boosting GPT models for genomics analysis: generating trusted genetic variant annotations ,2024-10-31,2025-01-31,2025-02-21,2,22
+39968379,10.1093/bioadv/vbaf020,Bioinform Adv,"Accurate, comprehensive database of group I introns and their homing endonucleases.",2024-12-04,2025-02-03,2025-02-19,3,34
+39981110,10.1093/bioadv/vbaf011,Bioinform Adv,"A bioinformatician, computer scientist, and geneticist lead bioinformatic tool development",2024-09-19,2025-01-22,2025-02-21,1,23
+39927290,10.1093/bioadv/vbaf010,Bioinform Adv,Sequali: efficient and comprehensive quality control of short- and long-read sequencing da,2024-10-09,2025-01-27,2025-02-10,1,22
+39968378,10.1093/bioadv/vbaf012,Bioinform Adv,Editome Disease Knowledgebase v2.0: an updated resource of editome-disease associations th,2024-11-13,2025-01-23,2025-02-19,13,50
+39959758,10.1093/bioadv/vbaf009,Bioinform Adv,OrthoBrowser: gene family analysis and visualization.,2024-09-17,2025-01-21,2025-02-17,2,8
+39968376,10.1093/bioadv/vbaf007,Bioinform Adv,AOP-networkFinder-a versatile tool for the reconstruction and visualization of Adverse Out,2024-06-28,2025-01-18,2025-02-19,7,11
+39867531,10.1093/bioadv/vbae209,Bioinform Adv,Imputation for Lipidomics and Metabolomics (ImpLiMet): a web-based application for optimiz,2024-08-14,2025-01-17,2025-01-27,7,14
+39990254,10.1093/bioadv/vbaf008,Bioinform Adv,Accurate prediction of nucleic acid binding proteins using protein language model.,2024-09-22,2025-01-15,2025-02-24,3,42
+39897948,10.1093/bioadv/vbaf004,Bioinform Adv,Sphae: an automated toolkit for predicting phage therapy candidates from sequencing data.,2024-11-04,2025-01-09,2025-02-03,18,75
+40099154,10.1093/bioadv/vbaf006,Bioinform Adv,locuszoomr: an R package for visualizing publication-ready regional gene locus plots.,2024-09-09,2025-01-14,2025-03-18,2,12
+39867532,10.1093/bioadv/vbaf005,Bioinform Adv,estiMAge: development of a DNA methylation clock to estimate the methylation age of single,2024-01-16,2025-01-14,2025-01-27,5,32
+39829713,10.1093/bioadv/vbaf001,Bioinform Adv,Integrative co-registration of elemental imaging and histopathology for enhanced spatial m,2024-08-16,2025-01-06,2025-01-20,20,49
+40463404,10.1093/bioadv/vbae198,Bioinform Adv,Energy metric prediction for double insertion mutants via the RoseNet deep learning framew,2024-04-08,2024-12-31,2025-06-04,4,34
+40260118,10.1093/bioadv/vbae206,Bioinform Adv,NetREm: Network Regression Embeddings reveal cell-type transcription factor coordination f,2024-06-05,2024-12-18,2025-04-22,5,188
+40196750,10.1093/bioadv/vbaf042,Bioinform Adv,Fast protein structure searching using structure graph embeddings.,2025-01-07,2025-03-03,2024-03-05,2,70
+39927292,10.1093/bioadv/vbae210,Bioinform Adv,VAREANT: a bioinformatics application for gene variant reduction and annotation.,2024-10-31,2024-12-30,2025-02-10,5,37
+39897947,10.1093/bioadv/vbae181,Bioinform Adv,Flexible fitting of AlphaFold2-predicted models to cryo-EM density maps using elastic netw,2024-04-02,2024-11-14,2025-02-03,3,41
+39897946,10.1093/bioadv/vbae199,Bioinform Adv,A comparative analysis of gene expression profiling by statistical and machine learning ap,2024-05-29,2024-12-16,2025-02-03,6,61
+39846081,10.1093/bioadv/vbae187,Bioinform Adv,Dissecting AlphaFold2's capabilities with limited sequence information.,2024-08-06,2024-11-21,2025-01-23,2,48
+39846080,10.1093/bioadv/vbae205,Bioinform Adv,Identification of promising dipeptidyl peptidase-4 and protein tyrosine phosphatase 1B inh,2024-05-20,2024-12-16,2025-01-23,9,91
+39801779,10.1093/bioadv/vbae182,Bioinform Adv,ICoN: integration using co-attention across biological networks.,2024-07-10,2024-11-14,2025-01-13,2,30
+39801778,10.1093/bioadv/vbae208,Bioinform Adv,QOMIC: quantum optimization for motif identification.,2024-04-17,2024-12-20,2025-01-13,4,40
+39776894,10.1093/bioadv/vbae207,Bioinform Adv,Genal: a Python toolkit for genetic risk scoring and Mendelian randomization.,2024-09-16,2024-12-19,2025-01-08,8,10
+39758831,10.1093/bioadv/vbae173,Bioinform Adv,LncLSTA: a versatile predictor unveiling subcellular localization of lncRNAs through long-,2024-06-27,2024-11-07,2025-01-06,5,30
+39758830,10.1093/bioadv/vbae196,Bioinform Adv,TraitTrainR: accelerating large-scale simulation under models of continuous trait evolutio,2024-06-21,2024-12-05,2025-01-06,6,70
+39758829,10.1093/bioadv/vbae184,Bioinform Adv,Predicting CRISPR-Cas9 off-target effects in human primary cells using bidirectional LSTM ,2024-07-26,2024-12-05,2025-01-06,4,50
+39758828,10.1093/bioadv/vbae172,Bioinform Adv,MitoMAMMAL: a genome scale model of mammalian mitochondria predicts cardiac and BAT metabo,2024-07-26,2024-11-03,2025-01-06,4,104
+39736966,10.1093/bioadv/vbae200,Bioinform Adv,Exploring the role of the Rab network in epithelial-to-mesenchymal transition.,2024-07-12,2024-12-12,2024-12-31,3,66
+39735577,10.1093/bioadv/vbae203,Bioinform Adv,Multitask knowledge-primed neural network for predicting missing metadata and host phenoty,2024-09-25,2024-12-11,2024-12-30,3,39
+39735576,10.1093/bioadv/vbae197,Bioinform Adv,MSA clustering enhances AF-Multimer's ability to predict conformational landscapes of prot,2024-08-27,2024-12-05,2024-12-30,2,34
+39735575,10.1093/bioadv/vbae192,Bioinform Adv,Protomix: a Python package for 1H-NMR metabolomics data preprocessing.,2024-06-12,2024-11-26,2024-12-30,3,30
+39735574,10.1093/bioadv/vbae201,Bioinform Adv,SurfR: Riding the wave of RNA-seq data with a comprehensive bioconductor package to identi,2024-09-04,2024-12-12,2024-12-30,3,36
+39735573,10.1093/bioadv/vbae195,Bioinform Adv,CCfrag: scanning folding potential of coiled-coil fragments with AlphaFold.,2024-06-13,2024-12-05,2024-12-30,1,26
+39735572,10.1093/bioadv/vbae183,Bioinform Adv,"SeqLengthPlot v2.0: an all-in-one, easy-to-use tool for visualizing and retrieving sequenc",2024-07-03,2024-11-18,2024-12-30,4,11
+42899262,10.1093/bioadv/vbag304,Bioinform Adv,dbcan-nf: a Nextflow pipeline for accurate CAZyme annotation in metagenomes.,2026-03-25,2026-09-27,2026-10-20,4,34
+42846490,10.1093/bioadv/vbag280,Bioinform Adv,Transcriptomic buffering detection: a computational approach to identifying essential gene,2026-07-19,2026-09-21,2026-10-08,6,11
+42899295,10.1093/bioadv/vbag295,Bioinform Adv,Decoding channel pore dynamics mechanism in Anopheles gambiae Orco homotetramer.,2026-09-07,2026-09-21,2026-10-20,7,42
+42891310,10.1093/bioadv/vbag297,Bioinform Adv,TSLC: differential abundance analysis method for identifying biologically relevant known m,2026-05-30,2026-10-01,2026-10-17,5,31
+42893276,10.1093/bioadv/vbag294,Bioinform Adv,PerSeqPIPE: Nextflow workflow for per-sequence analysis of small RNA-sequencing data.,2026-07-16,2026-09-28,2026-10-18,4,12
+42872168,10.1093/bioadv/vbag292,Bioinform Adv,BandQuant: a web application for western blot quantification.,2026-05-22,2026-09-28,2026-10-14,4,15
+42877294,10.1093/bioadv/vbag291,Bioinform Adv,Advancements in forecasting liver cytosol metabolic stability: a comprehensive update on m,2026-07-08,2026-09-15,2026-10-15,4,34
+42820214,10.1093/bioadv/vbag201,Bioinform Adv,NeighborFinder: an R package inferring local microbial network around a species of interes,2026-01-20,2026-07-13,2026-10-02,11,12
+42877384,10.1093/bioadv/vbag287,Bioinform Adv,DNA breathing and shape encode distinct mechanisms of transcription factor binding.,2025-12-18,2026-09-16,2026-10-15,9,50
+42866297,10.1093/bioadv/vbag282,Bioinform Adv,BLITSFR: scalable comparative genomics with self-contained interactive single file report.,2026-03-25,2026-09-14,2026-10-13,3,22
+42857739,10.1093/bioadv/vbag289,Bioinform Adv,RCSB PDB AI Help Desk: retrieval-augmented generation for protein structure deposition sup,2026-05-11,2026-09-14,2026-10-11,12,13
+42857749,10.1093/bioadv/vbag285,Bioinform Adv,"FerroEnrich: an interactive web platform for liver-focused ferroptosis index scoring, enri",2026-06-17,2026-09-17,2026-10-11,6,31
+42889876,10.1093/bioadv/vbag278,Bioinform Adv,OOPSIE (OOPS informatics extension).,2026-06-01,2026-08-18,2026-10-17,5,22
+42857753,10.1093/bioadv/vbag275,Bioinform Adv,Employing AlphaFold and TED to explore the structural impacts of stress-associated mutatio,2026-04-17,2026-09-04,2026-10-11,4,97
+42841153,10.1093/bioadv/vbag281,Bioinform Adv,"pycmplot: fast, low-memory multi-track circular and linear Manhattan plotting in Python.",2026-08-17,2026-09-16,2026-10-07,5,9
+42891377,10.1093/bioadv/vbag277,Bioinform Adv,User-driven development and evaluation of an agentic framework for analysis of large pathw,2026-04-20,2026-09-14,2026-10-17,34,50
+42877913,10.1093/bioadv/vbag273,Bioinform Adv,pykarambola: Minkowski tensor morphometry of 3D structures.,2026-06-19,2026-09-09,2026-10-15,2,19
+42825301,10.1093/bioadv/vbag274,Bioinform Adv,"TAPPR PCR assay design-targeted, automated, primer and probe retrieval for scalable molecu",2025-06-24,2026-09-03,2026-10-02,6,27
+42820141,10.1093/bioadv/vbag276,Bioinform Adv,RBApy: extending resource allocation modeling to eukaryotes in complex environments.,2026-06-03,2026-09-14,2026-10-02,6,20
+42856931,10.1093/bioadv/vbag268,Bioinform Adv,Central Dogma Transformer II: an AI microscope for understanding cellular regulatory mecha,2026-04-27,2026-09-07,2026-10-11,1,42
+42801126,10.1093/bioadv/vbag266,Bioinform Adv,ScGeo reveals non-canonical trajectories beyond RNA velocity in radiation-induced hematopo,2026-05-21,2026-09-03,2026-09-27,2,28
+42775294,10.1093/bioadv/vbag254,Bioinform Adv,ClinIAN: Clinically Informed Attention Network.,2026-03-24,2026-08-21,2026-09-23,15,50
+42799512,10.1093/bioadv/vbag267,Bioinform Adv,"A little longer, a lot better: simulation-guided exploration of extended-length single-end",2026-06-12,2026-09-05,2026-09-27,7,28
+42799494,10.1093/bioadv/vbag264,Bioinform Adv,Theoretical estimates on the expected number of mutations needed to reconstruct clonal lin,2026-06-24,2026-08-28,2026-09-27,2,34
+42788087,10.1093/bioadv/vbag261,Bioinform Adv,MosaicLev: modified Levenshtein distance for mobile element-aware genome comparison.,2026-06-01,2026-09-02,2026-09-25,2,26
+42893095,10.1093/bioadv/vbag260,Bioinform Adv,It's a wrap: deriving distinct discoveries with FDR control after a GWAS analysis.,2025-11-23,2026-08-01,2026-10-18,3,24
+42725323,10.1093/bioadv/vbag255,Bioinform Adv,Fedflow: cloud orchestration for federated learning with the FeatureCloud platform.,2026-05-19,2026-08-27,2026-09-11,6,20
+42818593,10.1093/bioadv/vbag258,Bioinform Adv,SHISMA: SHape-driven inference of significant cell type-specific subnetworks from tiMe ser,2026-02-06,2026-08-27,2026-10-01,4,49
+42775364,10.1093/bioadv/vbag262,Bioinform Adv,EnzymeSifter: a tool for discovery of industrial enzymes from metagenomes.,2026-06-24,2026-08-26,2026-09-23,2,19
+42763764,10.1093/bioadv/vbag257,Bioinform Adv,annoreport: an interactive tool for metagenome annotation.,2026-05-29,2026-08-24,2026-09-20,2,15
+42761407,10.1093/bioadv/vbag256,Bioinform Adv,MultiVirusConsensus: an accurate and efficient open-source pipeline for identification and,2026-04-21,2026-08-28,2026-09-19,1,16
+42730207,10.1093/bioadv/vbag252,Bioinform Adv,MeTime: an R package for reproducible longitudinal metabolomics data analysis.,2026-05-12,2026-08-26,2026-09-13,8,22
+42859679,10.1093/bioadv/vbag251,Bioinform Adv,Derivation of oligonucleotide barcodes that are absent from natural sequences.,2026-03-02,2026-08-19,2026-10-11,4,27
+42666872,10.1093/bioadv/vbaf228,Bioinform Adv,Deep active learning-based experimental design to uncover synergistic genetic interactions,2025-06-23,2025-09-15,2026-08-29,10,34
+42746156,10.1093/bioadv/vbag225,Bioinform Adv,A FAIR gold-standard benchmark for geographic entity recognition in cancer genomics litera,2026-02-26,2026-08-01,2026-09-16,5,47
+42707734,10.1093/bioadv/vbag250,Bioinform Adv,QPL-enabled HTSlib library: accelerating sequence file compression using Intel IAA.,2026-03-19,2026-08-06,2026-09-08,5,18
+42840747,10.1093/bioadv/vbag249,Bioinform Adv,GRIDGENE: Guided Region Identification based on Density of GENEs-a transcript density-base,2026-06-27,2026-08-06,2026-10-07,5,33
+42781244,10.1093/bioadv/vbag246,Bioinform Adv,Leveraging uncertainty estimates for drug response prediction in cancer cell lines.,2026-08-11,2026-08-19,2026-09-24,3,52
+42677333,10.1093/bioadv/vbag234,Bioinform Adv,survkl: an R package for transfer-learning-based integrated Cox models.,2026-02-24,2026-08-11,2026-09-01,6,18
+42819549,10.1093/bioadv/vbag244,Bioinform Adv,GlycoTraitR: an R package for characterizing structural heterogeneity in N-linked glycopro,2026-04-10,2026-08-03,2026-10-01,3,7
+42801199,10.1093/bioadv/vbag247,Bioinform Adv,ViTax-RAG: a retrieval-augmented language modeling tool for viral contig taxonomic classif,2026-04-08,2026-08-18,2026-09-27,5,16
+42750914,10.1093/bioadv/vbag248,Bioinform Adv,Pseudotime-conditioned diffusion models for imputing time-series single-cell data.,2026-05-05,2026-08-20,2026-09-17,5,47
+42719913,10.1093/bioadv/vbag240,Bioinform Adv,NeuraGraph: a visual workflow framework for reproducible biomedical text mining with LLM-a,2026-03-14,2026-08-11,2026-09-10,7,16
+42820119,10.1093/bioadv/vbag245,Bioinform Adv,BiDRA: Bayesian inference as a robust alternative to non-linear regression for dose-respon,2025-12-02,2026-07-28,2026-10-02,7,43
+42765024,10.1093/bioadv/vbag241,Bioinform Adv,AINR: attention-guided implicit neural representations for spatial domain identification i,2026-04-10,2026-08-06,2026-09-21,4,49
+42751396,10.1093/bioadv/vbag242,Bioinform Adv,metadeconfoundR: Covariate analysis of high-dimensional cross-sectional omics data.,2026-03-26,2026-07-28,2026-09-17,8,59
+42732332,10.1093/bioadv/vbag243,Bioinform Adv,ZSCAN-DDIE: an interpretable zero-shot learning method for the prediction of drug-drug int,2026-03-31,2026-08-17,2026-09-13,4,26
+42639415,10.1093/bioadv/vbag211,Bioinform Adv,pared: model selection using multi-objective optimization.,2026-06-08,2026-07-10,2026-08-25,3,20
+42708096,10.1093/bioadv/vbag238,Bioinform Adv,Inductive bias influences the spatial scale of biological features learned from images.,2026-04-28,2026-08-10,2026-09-08,6,51
+42707507,10.1093/bioadv/vbag235,Bioinform Adv,Interpretable prediction of nucleic acid-binding proteins using a protein language model.,2026-04-03,2026-08-01,2026-09-08,6,64
+42694419,10.1093/bioadv/vbag237,Bioinform Adv,DeepVIC: modular prediction and classification of bacterial virulence factors using protei,2026-02-02,2026-08-03,2026-09-04,5,78
+42801027,10.1093/bioadv/vbag230,Bioinform Adv,Spatially varying gene regulation network inference from spatial transcriptomics.,2026-04-11,2026-08-04,2026-09-27,5,58
+42719397,10.1093/bioadv/vbag236,Bioinform Adv,T-SMmOTE: tweaked synthetic majority minority oversampling technique for data scarcity iss,2026-06-20,2026-08-06,2026-09-10,2,28
+42751666,10.1093/bioadv/vbag233,Bioinform Adv,MiLaSol: modeling protein solubility by mixing up multiple protein language models.,2026-05-19,2026-08-11,2026-09-17,3,44
+42707501,10.1093/bioadv/vbag216,Bioinform Adv,MaizeGDB Phylostrata Tool: exploring evolutionary origins of maize proteins.,2026-01-23,2026-05-08,2026-09-08,6,39
+42761413,10.1093/bioadv/vbag231,Bioinform Adv,MAJA: multivariate Bayesian model for discovery of shared epigenetic pathways across human,2026-05-15,2026-08-03,2026-09-19,11,31
+42708087,10.1093/bioadv/vbag232,Bioinform Adv,CBIcall: a configuration-driven framework for variant calling in large sequencing cohorts.,2026-03-26,2026-08-11,2026-09-08,3,40
+42633441,10.1093/bioadv/vbag229,Bioinform Adv,"microbiONT: an AI-assisted, privacy-focused platform for local Nanopore 16S and 18S amplic",2026-03-11,2026-08-04,2026-08-23,3,14
+42807742,10.1093/bioadv/vbag228,Bioinform Adv,Towards improved particle reconstruction for single-molecule localization microscopy using,2026-01-26,2026-08-04,2026-09-29,5,30
+42719814,10.1093/bioadv/vbag223,Bioinform Adv,"Benchmarking antibody modeling tools across structure prediction, docking, and paratope-ep",2026-03-29,2026-07-28,2026-09-10,10,41
+42689266,10.1093/bioadv/vbag226,Bioinform Adv,TimeTraits: extracting functional traits from biological time-series in R.,2026-03-26,2026-07-26,2026-09-03,4,22
+42683178,10.1093/bioadv/vbag219,Bioinform Adv,Usage and impact of global biodata resources.,2025-12-22,2026-08-04,2026-09-02,4,27
+42683156,10.1093/bioadv/vbag220,Bioinform Adv,tidyexposomics: integrated exposure-omics analysis powered by tidy principles.,2026-01-21,2026-07-11,2026-09-02,4,15
+42657434,10.1093/bioadv/vbag222,Bioinform Adv,AmpliPhy improves gene trees by adding homologous sequences without affecting alignments.,2026-06-01,2026-07-28,2026-08-27,4,60
+42639024,10.1093/bioadv/vbag221,Bioinform Adv,LAFA: a framework for reproducible longitudinal assessment of protein function annotation ,2026-04-22,2026-08-02,2026-08-25,6,15
+42633207,10.1093/bioadv/vbag212,Bioinform Adv,seqme: a Python library for evaluating biological sequence design from generative models.,2025-12-24,2026-07-28,2026-08-23,7,27
+42730146,10.1093/bioadv/vbag215,Bioinform Adv,Evaluating transformer-based models for structural characterization of orphan proteins.,2026-06-09,2026-07-25,2026-09-13,4,29
+42667032,10.1093/bioadv/vbag218,Bioinform Adv,unsurv: clustering individualized survival curves.,2026-06-08,2026-08-02,2026-08-29,1,13
+42639440,10.1093/bioadv/vbag198,Bioinform Adv,SeizureBiomeDB: a unified database of gut microbiome alterations in pediatric and adult ep,2026-02-13,2026-07-13,2026-08-25,7,25
+42633195,10.1093/bioadv/vbag224,Bioinform Adv,Machine-learning-based analysis of host-depleted k-mer profiles for early detection and ab,2026-04-09,2026-08-01,2026-08-23,5,48
+42577783,10.1093/bioadv/vbag182,Bioinform Adv,"Bioinformatics in Español: expanding open, diverse, and collaborative science through SEH2",2025-11-09,2026-06-22,2026-08-11,19,54
+42781100,10.1093/bioadv/vbag214,Bioinform Adv,ICU mortality prediction via multimodal learning on MIMIC-IV clinical data.,2026-03-26,2026-07-27,2026-09-24,4,54
+42542664,10.1093/bioadv/vbag122,Bioinform Adv,Refining sequence-to-activity models by increasing model resolution.,2025-09-26,2026-04-26,2026-08-02,5,22
+42626744,10.1093/bioadv/vbag192,Bioinform Adv,DiDyNet: a robust framework for differential dynamic network inference from longitudinal m,2026-02-27,2026-06-30,2026-08-21,3,22
+42598360,10.1093/bioadv/vbag213,Bioinform Adv,MLHeatmap: an interactive application for transcriptomic marker-panel discovery.,2026-04-28,2026-07-27,2026-08-14,6,19
+42683100,10.1093/bioadv/vbag193,Bioinform Adv,A leakage-aware genomic prediction pipeline for meropenem resistance in Klebsiella pneumon,2026-04-03,2026-07-07,2026-09-02,1,47
+42609994,10.1093/bioadv/vbag210,Bioinform Adv,"visPedigree: a comprehensive R package for tidying, analyzing, and visualizing breeding pe",2026-05-08,2026-07-22,2026-08-18,7,22
+42592377,10.1093/bioadv/vbag209,Bioinform Adv,CIViC MCP: integrating large language models with the Clinical Interpretations of Variants,2026-02-11,2026-07-14,2026-08-13,15,11
+42534439,10.1093/bioadv/vbag159,Bioinform Adv,Pooling multimodal cancer data across unaligned embedding spaces maintains tumor of origin,2025-10-14,2026-05-05,2026-07-31,5,26
+42683442,10.1093/bioadv/vbag203,Bioinform Adv,shinyDeepGxP: a user-friendly R shiny app for predicting surface protein abundance from sc,2026-03-17,2026-07-07,2026-09-02,7,10
+42683061,10.1093/bioadv/vbag206,Bioinform Adv,"jsPCA: fast, scalable, and interpretable identification of spatial domains and variable ge",2026-02-09,2026-07-08,2026-09-02,4,41
+42667051,10.1093/bioadv/vbag208,Bioinform Adv,scGraphVerse: a modular workflow for single-cell gene network inference.,2026-04-10,2026-07-22,2026-08-29,4,28
+42559331,10.1093/bioadv/vbag207,Bioinform Adv,Calibrating tetranucleotide-frequency distances for metagenomic binning with right-skewed ,2026-03-03,2026-07-20,2026-08-06,5,51
+42639318,10.1093/bioadv/vbag205,Bioinform Adv,CNV-Finder: streamlining copy number variation discovery.,2025-11-13,2026-07-19,2026-08-25,33,45
+42615010,10.1093/bioadv/vbag204,Bioinform Adv,lncAPNet enables the deciphering of lncRNA-mRNA connections in patient transcriptomic data,2026-01-07,2026-07-13,2026-08-19,9,60
+42812688,10.1093/bioadv/vbag109,Bioinform Adv,DAMFCMI: capturing cross-view interactions via hybrid attention for circRNA-MiRNA interact,2025-08-29,2026-03-08,2026-09-30,6,70
+42695093,10.1093/bioadv/vbag200,Bioinform Adv,CHITRA: an interactive visualization tool for comparative genomic rearrangement analysis.,2026-01-30,2026-07-09,2026-09-04,6,16
+42755479,10.1093/bioadv/vbag195,Bioinform Adv,pLM-SAV: a Δ-embedding approach for predicting pathogenic single amino acid variants.,2026-02-20,2026-07-03,2026-09-18,5,31
+42662855,10.1093/bioadv/vbag199,Bioinform Adv,EHItk: a toolkit for accessing Earth Hologenome Initiative data resources.,2026-04-14,2026-07-10,2026-08-28,8,24
+42519112,10.1093/bioadv/vbag096,Bioinform Adv,Integrative multi-omics analysis identifies methylation-associated lncRNAs FAM83A-AS2 and ,2025-09-07,2026-03-24,2026-07-28,6,24
+42610005,10.1093/bioadv/vbag191,Bioinform Adv,NitroGene: privacy-preserving collaborative genomic analysis using AWS nitro enclaves.,2026-02-18,2026-06-15,2026-08-18,2,37
+42529613,10.1093/bioadv/vbag197,Bioinform Adv,Optimizing bioinformatic workflows to extract clinically usable gene expression data from ,2026-02-18,2026-07-08,2026-07-30,12,43
+42502481,10.1093/bioadv/vbag196,Bioinform Adv,Enhancing feature selection for ordinal outcomes using resampling-based sparse linear disc,2026-03-24,2026-07-09,2026-07-26,3,32
+42502480,10.1093/bioadv/vbag194,Bioinform Adv,TPdsm: a method based on TabPFN for prediction of deleterious synonymous mutations.,2026-02-02,2026-06-29,2026-07-26,5,29
+42583093,10.1093/bioadv/vbag164,Bioinform Adv,Exploring the molecular basis of Panax notoginseng mediated inhibition of cervical cancer ,2026-01-22,2026-05-21,2026-08-12,6,68
+42437291,10.1093/bioadv/vbag137,Bioinform Adv,Annotation of glycoside hydrolases in unassembled metagenomes using CAZyOGH.,2026-03-10,2026-04-30,2026-07-12,8,42
+42540506,10.1093/bioadv/vbag190,Bioinform Adv,Fold or flop: quality assessment of AlphaFold predictions on whole proteomes.,2026-06-07,2026-07-01,2026-08-02,2,30
+42459963,10.1093/bioadv/vbag189,Bioinform Adv,"CasPINS: an integrated web-based platform for CRISPR/TALEN gRNA design, primer generation,",2026-02-23,2026-06-25,2026-07-16,2,21
+42465132,10.1093/bioadv/vbag188,Bioinform Adv,scPD: a Python package for inferring continuous population dynamics from single-cell snaps,2026-03-04,2026-06-27,2026-07-17,3,15
+42524695,10.1093/bioadv/vbag185,Bioinform Adv,A latent factor framework to organize regulatory and metabolic programs inferred from scRN,2026-02-24,2026-06-10,2026-07-29,9,29
+42445596,10.1093/bioadv/vbag187,Bioinform Adv,TelomereHunter2: improved in silico telomere analysis software for precision oncology and ,2026-02-08,2026-06-25,2026-07-14,8,10
+42524702,10.1093/bioadv/vbag184,Bioinform Adv,Effective visualization of biomedical data using plot-misc.,2026-03-12,2026-06-22,2026-07-29,4,5
+42433499,10.1093/bioadv/vbag183,Bioinform Adv,"nVenn2: faster, simpler generalized quasi-proportional Venn diagrams.",2026-03-05,2026-06-23,2026-07-11,4,17
+42523759,10.1093/bioadv/vbag180,Bioinform Adv,Generation of peptide detectability datasets from single DIA experiment for prediction mod,2026-01-21,2026-06-21,2026-07-29,5,30
+42381925,10.1093/bioadv/vbag148,Bioinform Adv,Microbiome differential abundance methodologies to detect relevant taxa associated with ch,2025-11-11,2026-05-15,2026-07-01,9,52
+42437290,10.1093/bioadv/vbag181,Bioinform Adv,BioGraphX: bridging the sequence-structure gap via physicochemical graph encoding for inte,2026-03-15,2026-06-18,2026-07-12,2,59
+42381926,10.1093/bioadv/vbag176,Bioinform Adv,Region-aware bridge modeling enables interpretable mesoscale representation of spatial tra,2026-03-23,2026-06-15,2026-07-01,1,24
+42609984,10.1093/bioadv/vbag179,Bioinform Adv,CycleMix: Gaussian mixture modeling of the cell cycle.,2026-01-20,2026-05-28,2026-08-18,2,87
+42428666,10.1093/bioadv/vbag178,Bioinform Adv,Identifying novel Japanese heart failure variants via endothelial cis-regulatory element a,2026-01-02,2026-06-15,2026-07-10,6,41
+42327689,10.1093/bioadv/vbag151,Bioinform Adv,SCpubr: a user-friendly R-package for generating publication-ready visualizations of singl,2025-10-14,2026-05-19,2026-06-22,2,25
+42327687,10.1093/bioadv/vbag128,Bioinform Adv,Differentially Expressed Gene Annotator (DEGAn): automated annotation and analysis of DEGs,2025-11-17,2026-04-30,2026-06-22,2,14
+42405192,10.1093/bioadv/vbag169,Bioinform Adv,metaLoc: protein localisation prediction workflow.,2026-04-01,2026-06-04,2026-07-06,2,13
+42358514,10.1093/bioadv/vbag173,Bioinform Adv,pygenoscape: a Python package for spatial interpolation and visualization of genetic dista,2026-03-24,2026-06-12,2026-06-26,2,16
+42441095,10.1093/bioadv/vbag174,Bioinform Adv,wavess 1.2: presenting an HLA-aware within-host virus sequence simulation framework.,2026-02-19,2026-06-12,2026-07-13,2,14
+42370334,10.1093/bioadv/vbag175,Bioinform Adv,MOREshiny: a user-friendly application for the inference of phenotype-specific multi-omic ,2026-03-10,2026-06-15,2026-06-29,4,10
+42381924,10.1093/bioadv/vbag171,Bioinform Adv,maldipickr dereplicates microbial MALDI-TOF spectra to facilitate multiplexed isolation.,2025-11-19,2026-06-15,2026-07-01,4,23
+42370330,10.1093/bioadv/vbag172,Bioinform Adv,GWAIS-Web: a free and secure web service for ultra-fast and large-scale genome-wide associ,2026-02-16,2026-06-13,2026-06-29,3,15
+42381923,10.1093/bioadv/vbag170,Bioinform Adv,RAM-MSA: an anytime memory-bounded method for exact multiple sequence alignment using path,2026-03-02,2026-06-12,2026-07-01,2,27
+42370332,10.1093/bioadv/vbag168,Bioinform Adv,Interpretable prediction and generation of ASC-speck aptamers using multiscale deep biolog,2025-12-23,2026-06-09,2026-06-29,3,49
+42312149,10.1093/bioadv/vbag157,Bioinform Adv,Efficient lossless compression of nanopore sequencing signals.,2026-02-02,2026-05-29,2026-06-18,5,14
+42381922,10.1093/bioadv/vbag167,Bioinform Adv,Interpretable machine learning for low-sample multi-omics: a case study of ferret vaccine ,2026-02-23,2026-06-01,2026-07-01,5,18
+42381921,10.1093/bioadv/vbag166,Bioinform Adv,DeepTaxa: a hybrid CNN-BERT framework for 16S rRNA taxonomic classification.,2026-01-31,2026-06-10,2026-07-01,5,41
+42381920,10.1093/bioadv/vbag162,Bioinform Adv,Improving calls of differentially transcribed enhancers and their upstream regulators.,2026-01-20,2026-05-18,2026-07-01,4,42
+42370333,10.1093/bioadv/vbag163,Bioinform Adv,spammR: an R package designed for analysis and integration of spatial multi-omic measureme,2025-09-05,2026-06-08,2026-06-29,6,59
+42370329,10.1093/bioadv/vbag160,Bioinform Adv,Folding the unfoldable 2: using AlphaFold and ESMFold to explore spurious proteins.,2026-02-04,2026-05-14,2026-06-29,2,28
+42694612,10.1093/bioadv/vbag113,Bioinform Adv,How low can you go? Establishing detection limits for rare eukaryotes in Southern Ocean se,2026-02-18,2026-03-16,2026-09-04,4,44
+42327686,10.1093/bioadv/vbag158,Bioinform Adv,QproMS: a web application for label-free proteomic data analysis.,2025-09-23,2026-05-26,2026-06-22,6,36
+42317559,10.1093/bioadv/vbag156,Bioinform Adv,Multi-Omic Bicluster Association Analysis (MOBAA)-a tool for identifying population subgro,2025-09-22,2026-05-28,2026-06-19,2,17
+42312150,10.1093/bioadv/vbag150,Bioinform Adv,PopMAG: a Nextflow pipeline for population genetics analysis based on metagenome-assembled,2025-12-22,2026-05-14,2026-06-18,2,24
+42422472,10.1093/bioadv/vbag153,Bioinform Adv,stackPredAMR-a stacked random forest approach improves AMR phenotype prediction for multip,2025-11-10,2026-05-15,2026-07-09,15,34
+42327688,10.1093/bioadv/vbag155,Bioinform Adv,EZ-Pair graph: scalable unified-axis visualization method for summarizing large-scale pair,2026-02-27,2026-05-28,2026-06-22,3,18
+42483605,10.1093/bioadv/vbag154,Bioinform Adv,EvoSubster: a pipeline for evolutionary inference of single- and double-base substitution ,2026-02-06,2026-05-14,2026-07-22,2,11
+42405191,10.1093/bioadv/vbag152,Bioinform Adv,Fuscan: a robust DNA fusion caller for targeted sequencing data in cancer diagnostics.,2026-03-27,2026-05-21,2026-07-06,7,29
+42370331,10.1093/bioadv/vbag149,Bioinform Adv,vClassifier: a toolkit for high-resolution phylogenetic classification of prokaryotic viru,2025-10-21,2026-05-19,2026-06-29,3,56
+42291783,10.1093/bioadv/vbag147,Bioinform Adv,metaAPA: a tool for integration of PolyA site predictions from single-cell and spatial tra,2025-10-14,2026-04-23,2026-06-15,2,16
+42272854,10.1093/bioadv/vbag146,Bioinform Adv,Pylluminator: fast and scalable analysis of DNA methylation data in Python.,2026-03-19,2026-05-18,2026-06-11,5,22
+42344843,10.1093/bioadv/vbag144,Bioinform Adv,GDIv2: improving variant selection from human exomes.,2025-06-27,2026-05-14,2026-06-25,9,45
+42272855,10.1093/bioadv/vbag145,Bioinform Adv,TransPilot: mining key transcription factors by correlating binding sites with differentia,2026-03-21,2026-05-19,2026-06-11,8,46
+42180428,10.1093/bioadv/vbaf314,Bioinform Adv,SCOT+: a comprehensive software suite for single-cell alignment using optimal transport.,2025-07-16,2025-11-24,2026-05-25,7,37
+42254589,10.1093/bioadv/vbag143,Bioinform Adv,Identification of monotonically classifying pairs of genes for ordinal disease outcomes.,2025-12-22,2026-05-05,2026-06-08,7,26
+42222669,10.1093/bioadv/vbag140,Bioinform Adv,Transformer-based operon prediction using textual representations of gene pairs.,2025-10-07,2026-04-22,2026-06-01,2,26
+42222668,10.1093/bioadv/vbag141,Bioinform Adv,InterProScan 6: a modern large-scale protein function annotation pipeline.,2026-02-10,2026-05-07,2026-06-01,4,15
+42222667,10.1093/bioadv/vbag142,Bioinform Adv,Development and comparison of evaluation metrics for batch correction reveals performance ,2025-12-08,2026-05-12,2026-06-01,4,35
+42180429,10.1093/bioadv/vbag111,Bioinform Adv,AnnoMe: user-defined classification of HR-MS/MS spectra for natural product discovery.,2025-10-21,2026-04-12,2026-05-25,10,20
+42222671,10.1093/bioadv/vbag139,Bioinform Adv,LiraSearch-ultrafast ligand shape and electrostatic matching server.,2025-09-23,2026-05-07,2026-06-01,6,29
+42170026,10.1093/bioadv/vbag051,Bioinform Adv,CDCR-Rank: a computational model for predicting drug combination dose response using ranki,2025-09-13,2026-02-07,2026-05-22,5,21
+42344844,10.1093/bioadv/vbag091,Bioinform Adv,SMTrackR: an R/Bioconductor package for mapping protein binding at individual DNA molecule,2025-10-08,2026-03-15,2026-06-25,4,20
+42254591,10.1093/bioadv/vbag138,Bioinform Adv,eMZed 3: flexible and interactive development of scalable LC-MS/MS data analysis workflows,2026-01-14,2026-05-07,2026-06-08,5,28
+42729822,10.1093/bioadv/vbag115,Bioinform Adv,PanelAppRex aggregates disease gene panels and facilitates sophisticated search.,2025-10-23,2026-04-04,2026-09-13,7,10
+42254590,10.1093/bioadv/vbag133,Bioinform Adv,Trainable clustering framework for spatial transcriptomics.,2026-01-13,2026-04-30,2026-06-08,5,42
+42136752,10.1093/bioadv/vbag097,Bioinform Adv,20 Years of the ISCB Student Council Symposium: shaping computational biology and future l,2025-10-01,2026-03-02,2026-05-15,14,101
+42211343,10.1093/bioadv/vbag135,Bioinform Adv,CardioVar: a machine learning framework for pathogenicity prediction of cardiomyopathy gen,2025-12-02,2026-04-27,2026-05-29,10,24
+42254588,10.1093/bioadv/vbag131,Bioinform Adv,A fusion-based multiomics classification approach for enhanced gene discovery in non-small,2025-09-16,2026-04-19,2026-06-08,4,69
+42222670,10.1093/bioadv/vbag136,Bioinform Adv,Haplo2D6: a web-based tool for automated CYP2D6 haplotype and phenotype inference.,2025-11-04,2026-05-06,2026-06-01,5,15
+42254587,10.1093/bioadv/vbag134,Bioinform Adv,A dual approach to evaluate the performance of RNA-Seq data analysis pipelines with weak s,2025-12-18,2026-04-27,2026-06-08,10,20
+42109580,10.1093/bioadv/vbag090,Bioinform Adv,Computational design of class II MHC binding peptide with sequence-based evolution informa,2025-09-24,2026-03-20,2026-05-11,5,49
+42306034,10.1093/bioadv/vbag130,Bioinform Adv,Impact of sequencing read quality on whole-genome sequencing outcomes for foodborne pathog,2026-01-21,2026-04-12,2026-06-17,5,65
+42211342,10.1093/bioadv/vbag132,Bioinform Adv,U-Net-based reactive center loop-identifier for serpins.,2026-01-11,2026-04-27,2026-05-29,3,25
+42170025,10.1093/bioadv/vbag129,Bioinform Adv,PZLAST-MAG: full length protein sequence similarity search server of large-scale MAG prote,2025-11-29,2026-04-20,2026-05-22,4,23
+42180431,10.1093/bioadv/vbag126,Bioinform Adv,agtools: a software framework to manipulate assembly graphs.,2025-12-02,2026-04-22,2026-05-25,6,50
+42180427,10.1093/bioadv/vbag123,Bioinform Adv,Modeling strategies for in vivo transcription factor binding predictions.,2025-11-26,2026-04-24,2026-05-25,2,44
+42180430,10.1093/bioadv/vbag127,Bioinform Adv,The impact of biologically relevant negative samples on machine learning-based B-cell epit,2025-12-20,2026-04-26,2026-05-25,6,62
+42170024,10.1093/bioadv/vbag105,Bioinform Adv,Synonymous but not silent: functional codon bias reveals decoupled mitonuclear evolution i,2025-11-07,2026-03-27,2026-05-22,3,63
+42164080,10.1093/bioadv/vbag125,Bioinform Adv,EGGS: Empirical Genotype Generalizer for Samples.,2025-10-29,2026-04-25,2026-05-21,3,39
+42148047,10.1093/bioadv/vbag124,Bioinform Adv,FetchM: streamlining genome and metadata integration for bacterial comparative genomics.,2025-10-15,2026-04-27,2026-05-18,3,21
+42148048,10.1093/bioadv/vbag121,Bioinform Adv,New algorithms for unsupervised cell clustering from scRNA-seq data.,2025-11-14,2026-04-17,2026-05-18,12,36
+42109579,10.1093/bioadv/vbag098,Bioinform Adv,DoTools: a cross platform framework to streamline common single cell workflows.,2025-11-20,2026-03-26,2026-05-11,6,19
+42358515,10.1093/bioadv/vbag118,Bioinform Adv,From randomness to recognition: modeling the evolution of DNA sequence information during ,2026-02-12,2026-04-01,2026-06-26,6,47
+42317556,10.1093/bioadv/vbag120,Bioinform Adv,Kaminari: a frugal colored index for approximate k-mer queries.,2025-10-21,2026-04-17,2026-06-19,7,45
+42131061,10.1093/bioadv/vbag114,Bioinform Adv,Prediction of plant food allergens using protein embeddings.,2026-01-14,2026-04-12,2026-05-14,3,36
+42109578,10.1093/bioadv/vbag117,Bioinform Adv,NeuroStream: an interactive platform for exploratory visualization and harmonization of mu,2026-01-28,2026-04-20,2026-05-11,5,7
+42094796,10.1093/bioadv/vbag119,Bioinform Adv,Accurate prediction of candidate lncRNAs associated with DNA damage response based on gene,2025-09-23,2026-04-02,2026-05-07,2,51
+42064751,10.1093/bioadv/vbag016,Bioinform Adv,General-purpose topology-aware embedding of tumor phylogenetic trees with graph neural net,2025-08-04,2025-12-12,2026-05-01,2,36
+42038520,10.1093/bioadv/vbag070,Bioinform Adv,Leveraging training expertise to build capacity in computational personalised medicine.,2025-10-17,2026-02-18,2026-04-27,23,21
+42170023,10.1093/bioadv/vbag116,Bioinform Adv,VectorSage: enhancing PubMed article retrieval with advanced semantic search.,2025-11-12,2026-04-15,2026-05-22,5,33
+42088369,10.1093/bioadv/vbag110,Bioinform Adv,ULSL: Unified Latent and Similarity Learning for robust multi-omics cancer subtype identif,2025-12-22,2026-04-07,2026-05-06,9,48
+42079812,10.1093/bioadv/vbag034,Bioinform Adv,Multi-DDA: drug-disease association prediction using a hybrid graph convolutional network ,2025-09-17,2026-01-22,2026-05-04,3,41
+42079813,10.1093/bioadv/vbag112,Bioinform Adv,PARSEbp: pairwise agreement-based RNA scoring with emphasis on base pairings.,2025-12-02,2026-04-03,2026-05-04,2,38
+42038516,10.1093/bioadv/vbag100,Bioinform Adv,Dimensional cophenetic integrity: a method for evaluation of dimensionality reduction in M,2025-08-27,2026-03-21,2026-04-27,4,48
+42317558,10.1093/bioadv/vbag106,Bioinform Adv,CORTADO: hill climbing optimization for cell-type specific marker gene discovery and clust,2026-01-04,2026-03-30,2026-06-19,4,46
+42079811,10.1093/bioadv/vbag107,Bioinform Adv,An optimization framework for hierarchical clustering.,2026-02-13,2026-04-03,2026-05-04,2,18
+42038518,10.1093/bioadv/vbag104,Bioinform Adv,Quantifying stability via count splitting to guide model selection in RNA velocity analyse,2025-10-14,2026-03-30,2026-04-27,4,29
+42038517,10.1093/bioadv/vbag101,Bioinform Adv,Graph convolutional networks for inferring cell-cell communication from spatial transcript,2025-10-22,2026-03-23,2026-04-27,3,34
+42109581,10.1093/bioadv/vbag099,Bioinform Adv,"One health analysis of antimicrobial resistance in Escherichia coli from humans, animals, ",2025-11-05,2026-03-16,2026-05-11,1,56
+41982479,10.1093/bioadv/vbag094,Bioinform Adv,scGeno: a Hidden Markov Model approach to denoise chromosome-scale genotypes from single-c,2025-11-18,2026-03-14,2026-04-15,2,15
+41994225,10.1093/bioadv/vbag095,Bioinform Adv,MicroLive: an image processing toolkit for quantifying live-cell single-molecule microscop,2025-09-05,2026-03-20,2026-04-17,6,35
+42109582,10.1093/bioadv/vbag085,Bioinform Adv,Predicting progression of Alzheimer's disease using blood-based multi-omics data.,2025-12-12,2026-02-28,2026-05-11,6,35
+42094793,10.1093/bioadv/vbag092,Bioinform Adv,DoReMiTra: an R/Bioconductor data package for orchestrating the analysis of radiation tran,2026-01-07,2026-03-13,2026-05-07,3,28
+42004869,10.1093/bioadv/vbag093,Bioinform Adv,From pathways to prediction: a comparative machine learning framework for prostate cancer ,2026-01-27,2026-03-24,2026-04-20,4,28
+42094795,10.1093/bioadv/vbag087,Bioinform Adv,DeepBCTPred: deep learning-based prediction of bladder cancer tissues from endoscopic imag,2025-10-03,2026-03-13,2026-05-07,2,74
+41971195,10.1093/bioadv/vbag089,Bioinform Adv,m6AnetAnalyzer: an R toolkit for post-processing of m6A sites detected by m6Anet.,2025-10-17,2026-03-10,2026-04-13,7,11
+41890810,10.1093/bioadv/vbag047,Bioinform Adv,Sparse dimensionality reduction for analyzing single-cell-resolved interactions.,2025-04-15,2025-09-17,2026-03-27,5,25
+42170027,10.1093/bioadv/vbag077,Bioinform Adv,MPore: database-driven identification of active methyltransferases in prokaryotic genomes ,2026-01-05,2026-03-05,2026-05-22,6,18
+42164079,10.1093/bioadv/vbag088,Bioinform Adv,BLIT: an R package for seamless integration of command-line bioinformatics tool universe.,2025-10-14,2026-03-13,2026-05-21,6,12
+42004870,10.1093/bioadv/vbag086,Bioinform Adv,Machine learning improves SNP microarray performance in challenged samples.,2025-11-04,2026-03-06,2026-04-20,5,32
+41943803,10.1093/bioadv/vbag083,Bioinform Adv,scellop: a scalable redesign of cell population plots for single-cell data.,2025-10-31,2026-02-20,2026-04-07,6,25
+41923956,10.1093/bioadv/vbag084,Bioinform Adv,Bioinformatic analysis of metastasis-associated metabolic landscape reveals an oncogenic r,2025-12-09,2026-02-21,2026-04-02,3,58
+42094794,10.1093/bioadv/vbag081,Bioinform Adv,Benchmarking antigen-aware inverse folding methods for antibody design.,2025-08-14,2026-01-28,2026-05-07,9,20
+41943802,10.1093/bioadv/vbag079,Bioinform Adv,Deciphering cis-regulatory elements using REgulamentary.,2025-10-03,2026-03-06,2026-04-07,9,39
+41919010,10.1093/bioadv/vbag080,Bioinform Adv,PeakPrime: a peak-guided primer design pipeline for target enrichment in 3'-end RNA-seq.,2025-12-15,2026-03-06,2026-04-01,5,27
+41938592,10.1093/bioadv/vbag078,Bioinform Adv,RaPID2: a parallel scalable framework for identity-by-descent segment detection via parall,2025-08-01,2026-02-28,2026-04-06,4,36
+42038519,10.1093/bioadv/vbag082,Bioinform Adv,scTrimClust: a fast approach to robust scRNA-seq analysis using trimmed cell clusters.,2025-08-21,2026-03-08,2026-04-27,2,20
+41909608,10.1093/bioadv/vbag076,Bioinform Adv,Leveraging single-cell foundation models for accurate survival outcome prediction.,2025-10-14,2026-03-05,2026-03-30,4,55
+41890811,10.1093/bioadv/vbag075,Bioinform Adv,SIREN: suite for intelligent RNAi design and evaluation of nucleotide sequences.,2025-06-06,2026-03-07,2026-03-27,2,10
+41867660,10.1093/bioadv/vbag071,Bioinform Adv,"Panalyze: automated virus pangenome variation graph construction, analysis and annotation.",2025-08-21,2026-02-26,2026-03-23,3,53
+42312151,10.1093/bioadv/vbag073,Bioinform Adv,MiRInter-Trans: a transformer-based framework for microRNA interaction prediction.,2025-11-07,2026-02-27,2026-06-18,8,44
+41890809,10.1093/bioadv/vbag074,Bioinform Adv,OmniBio: an easy-to-use web app for kinetic growth parameter calculation from microplate r,2025-09-05,2026-02-23,2026-03-27,6,5
+41890807,10.1093/bioadv/vbag072,Bioinform Adv,memod-s: a standardised workflow to explore and analyse prokaryotic methylation patterns f,2025-10-14,2026-02-18,2026-03-27,10,22
+41938593,10.1093/bioadv/vbag037,Bioinform Adv,Vector semantics of multidomain protein architectures.,2025-07-02,2026-01-05,2026-04-06,4,59
+42136753,10.1093/bioadv/vbag067,Bioinform Adv,Love-thy-neighbor: neural networks for tracking and lineage tracing in budding yeast.,2025-02-18,2026-02-07,2026-05-15,12,55
+41841102,10.1093/bioadv/vbag068,Bioinform Adv,Classification of driver and passenger mutations in different cancer types using deep neur,2025-09-26,2026-02-13,2026-03-17,3,83
+41909609,10.1093/bioadv/vbag065,Bioinform Adv,THe Biom: a platform for visualization and exploration of cancer transcriptomic biomarkers,2025-10-09,2026-02-17,2026-03-30,7,32
+41890808,10.1093/bioadv/vbag066,Bioinform Adv,TCRLens: structure-aware equivariant graph learning for TCR-pMHC-I recognition and immunog,2025-10-27,2026-02-17,2026-03-27,4,45
+41878470,10.1093/bioadv/vbag054,Bioinform Adv,BarcodeBERT: transformers for biodiversity analyses.,2025-10-23,2025-12-22,2026-03-25,12,38
+41808773,10.1093/bioadv/vbag064,Bioinform Adv,Scaling the profile of life by function with SPIN.,2025-11-06,2026-02-17,2026-03-11,6,40
+41800384,10.1093/bioadv/vbag062,Bioinform Adv,"AxioSAFE: an accessible, semi-automatic filtering tool for the curation of genotyping data",2025-09-30,2026-02-09,2026-03-09,8,20
+42083646,10.1093/bioadv/vbag048,Bioinform Adv,Covariate balanced allocation of samples to batches to mitigate the impacts of technical v,2025-05-30,2026-01-16,2026-05-05,2,32
+41841101,10.1093/bioadv/vbag061,Bioinform Adv,SLE-diseaseome: a comprehensive meta-collection of systemic lupus erythematosus relevant f,2025-09-16,2026-02-09,2026-03-17,7,40
+41777590,10.1093/bioadv/vbag063,Bioinform Adv,AssiST: convolutional neural network for analysis of antibiotic susceptibility testing.,2025-10-16,2026-02-11,2026-03-04,4,6
+42261334,10.1093/bioadv/vbag035,Bioinform Adv,Structome-TM: complementing dataset assembly for structural phylogenetics by addressing si,2025-10-06,2025-12-30,2026-06-09,2,24
+41800387,10.1093/bioadv/vbag057,Bioinform Adv,OmniCorr: an R-package for visualizing putative host-microbiome interactions using multi-o,2025-02-14,2026-02-11,2026-03-09,10,30
+41800386,10.1093/bioadv/vbag056,Bioinform Adv,TAGINE: fast taxonomy-based feature engineering for microbiome analysis.,2025-09-06,2026-02-04,2026-03-09,5,27
+41782685,10.1093/bioadv/vbag060,Bioinform Adv,LinearCDSfold: a tool for co-optimizing secondary structure stability and codon usage in c,2025-12-06,2026-02-12,2026-03-05,4,9
+41782681,10.1093/bioadv/vbag059,Bioinform Adv,Stratified signaling network remodeling of kinase-transcription factors' interactions in P,2025-11-20,2026-02-09,2026-03-05,8,65
+41777591,10.1093/bioadv/vbag058,Bioinform Adv,HERMES: an open-source mining tool for open-access literature.,2025-09-29,2026-02-12,2026-03-04,6,10
+41909610,10.1093/bioadv/vbag023,Bioinform Adv,MotifPeeker: benchmarking epigenomic profiling methods using motifs.,2025-07-08,2026-01-04,2026-03-30,4,28
+41878469,10.1093/bioadv/vbag049,Bioinform Adv,parsomics: a data-driven framework for metagenomics data integration powered by a local re,2025-08-24,2026-01-31,2026-03-25,6,37
+41816007,10.1093/bioadv/vbag050,Bioinform Adv,Advancing understanding of long COVID pathophysiology through quantum walk-based network a,2025-09-07,2026-01-27,2026-03-12,7,85
+41800381,10.1093/bioadv/vbag053,Bioinform Adv,Protein abundance inference via expectation-maximization in fluorosequencing.,2025-09-01,2026-01-27,2026-03-09,6,24
+41782682,10.1093/bioadv/vbag052,Bioinform Adv,Multi-output learning for systematic missing value imputation in DNA methylation arrays.,2025-08-27,2026-02-04,2026-03-05,6,14
+41835303,10.1093/bioadv/vbag045,Bioinform Adv,A kernel density estimation-based approach for quantifying O-GlcNAcylation dysregulation i,2025-03-14,2025-11-26,2026-03-16,3,45
+41800385,10.1093/bioadv/vbag042,Bioinform Adv,MIRit: an integrative R framework for the identification of impaired miRNA-mRNA regulatory,2025-06-05,2026-02-02,2026-03-09,2,52
+41782684,10.1093/bioadv/vbag046,Bioinform Adv,"rMAP 2.0: a modular, reproducible, and scalable WDL-Cromwell-Docker workflow for genomic a",2025-10-03,2026-02-02,2026-03-05,3,22
+41757158,10.1093/bioadv/vbag044,Bioinform Adv,isoespy: an integrated long-read transcriptome workflow for isoform resolution and visuali,2025-08-17,2026-02-02,2026-02-27,2,19
+41768281,10.1093/bioadv/vbag043,Bioinform Adv,AmalgaMo: flexible DNA motif merging.,2025-09-10,2026-01-27,2026-03-02,2,20
+41757159,10.1093/bioadv/vbag041,Bioinform Adv,BCGLMs: Bayesian modeling for disease prediction using compositional microbiome features.,2025-09-05,2026-02-02,2026-02-27,3,23
+42083644,10.1093/bioadv/vbag039,Bioinform Adv,GeneSNAKE: a Python package for simulation of gene regulatory networks and perturbation-in,2025-10-15,2026-01-27,2026-05-05,6,45
+41736997,10.1093/bioadv/vbag040,Bioinform Adv,Fast phenotype simulation for genotype representation graphs.,2025-10-16,2026-01-28,2026-02-25,3,19
+41768280,10.1093/bioadv/vbag038,Bioinform Adv,A network-guided penalized regression with application to proteomics data.,2025-09-07,2026-01-27,2026-03-02,2,56
+42038521,10.1093/bioadv/vbag029,Bioinform Adv,MRDviz: an integrated platform for interactive visualization and joint simulation of minim,2025-09-17,2025-12-19,2026-04-27,9,22
+41716221,10.1093/bioadv/vbag033,Bioinform Adv,DeepCE: a deep learning framework for correlation-enhanced gene regulatory network inferen,2025-08-24,2026-01-08,2026-02-20,5,32
+41695262,10.1093/bioadv/vbag027,Bioinform Adv,GenomeDepot: data management system for microbial comparative genomics.,2025-09-03,2026-01-15,2026-02-16,2,14
+41675693,10.1093/bioadv/vbag026,Bioinform Adv,Age effect explorer: a Shiny application to browse and visualize tissue-specific age-relat,2025-09-05,2026-01-18,2026-02-12,5,29
+41835304,10.1093/bioadv/vbaf327,Bioinform Adv,gLeiden: accelerated community detection algorithms using directed and undirected graphs o,2025-05-14,2025-12-10,2026-03-16,4,20
+41816009,10.1093/bioadv/vbag032,Bioinform Adv,The power and limits of predicting inter-protein exon-exon interactions using protein 3D s,2025-10-08,2026-01-16,2026-03-12,7,59
+41816008,10.1093/bioadv/vbag024,Bioinform Adv,DeepFRAG: a method for cancer detection based on DNA fragmentomics and deep learning.,2025-03-04,2025-10-22,2026-03-12,2,34
+41800382,10.1093/bioadv/vbag030,Bioinform Adv,Benchmarking methods for genome annotation using nanopore direct RNA in a non-model crop p,2025-09-04,2026-01-15,2026-03-09,6,106
+41695263,10.1093/bioadv/vbag031,Bioinform Adv,InspectorORF: a tool for visualizing Ribo-Seq and additional genomic or transcriptomic dat,2025-09-08,2026-01-20,2026-02-16,5,14
+41668703,10.1093/bioadv/vbag001,Bioinform Adv,Cell type annotation using large language models (LLMs) and CytoAnalyst.,2025-08-15,2025-12-23,2026-02-11,6,40
+41640621,10.1093/bioadv/vbaf331,Bioinform Adv,Transcriptional and epigenetic regulation of Ca2+-signaling genes in hepatitis B-derived h,2025-05-23,2025-12-22,2026-02-05,4,79
+41657470,10.1093/bioadv/vbaf313,Bioinform Adv,CaRinDB: an integrated database of common cancer mutations and residue interaction network,2025-06-26,2025-10-24,2026-02-09,11,13
+41732669,10.1093/bioadv/vbag020,Bioinform Adv,HDAnalyzeR: streamlining data analysis for biomarker research.,2025-09-05,2026-01-05,2026-02-24,7,45
+41695259,10.1093/bioadv/vbag022,Bioinform Adv,pygenstrat: a Python package for EIGENSTRAT data processing.,2025-11-04,2026-01-08,2026-02-16,1,7
+41822384,10.1093/bioadv/vbag025,Bioinform Adv,GPTBioInsightor-leveraging large language models for transparent scRAN-seq cell type annot,2025-09-05,2026-01-18,2026-03-13,6,21
+41800383,10.1093/bioadv/vbag021,Bioinform Adv,Sigscores: summary scores for molecular signatures in R.,2025-09-05,2026-01-07,2026-03-09,2,10
+41736999,10.1093/bioadv/vbag015,Bioinform Adv,OMAnnotator: a novel approach to building an annotated consensus genome sequence.,2025-01-26,2025-12-08,2026-02-25,3,33
+41695266,10.1093/bioadv/vbag018,Bioinform Adv,PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology.,2025-09-05,2026-01-13,2026-02-16,3,10
+41668706,10.1093/bioadv/vbag014,Bioinform Adv,Sketchbook: logical model inference from Boolean network sketches.,2025-08-06,2026-01-07,2026-02-11,5,11
+41668702,10.1093/bioadv/vbag002,Bioinform Adv,XhetRel: a pipeline for X heterozygosity and relatedness analysis of sequencing data.,2025-06-21,2025-12-31,2026-02-11,3,26
+41710351,10.1093/bioadv/vbag017,Bioinform Adv,cAMRah: a scalable and portable workflow for harmonized antimicrobial resistance gene pred,2025-08-26,2025-12-12,2026-02-19,5,18
+41695258,10.1093/bioadv/vbag019,Bioinform Adv,SPRM: spatial process and relationship modeling for multiplexed images.,2025-10-23,2026-01-12,2026-02-16,5,9
+41675695,10.1093/bioadv/vbag013,Bioinform Adv,Functional annotation of novel heat stress-responsive genes in rice utilizing public trans,2025-09-30,2026-01-12,2026-02-12,2,57
+41668704,10.1093/bioadv/vbag012,Bioinform Adv,LipidLocator: an open source Shiny web application for spatial lipidomics.,2025-09-24,2026-01-07,2026-02-11,5,21
+41695264,10.1093/bioadv/vbag011,Bioinform Adv,Discovering paracrine regulators of cell type composition from spatial transcriptomics usi,2025-09-05,2025-12-31,2026-02-16,2,49
+41782683,10.1093/bioadv/vbag010,Bioinform Adv,Multi-view deep learning of highly multiplexed imaging data improves association of cell s,2025-11-17,2025-12-31,2026-03-05,6,84
+41757157,10.1093/bioadv/vbag008,Bioinform Adv,CanDrivR-CS: a cancer-specific machine learning framework for distinguishing recurrent and,2025-01-13,2025-12-31,2026-02-27,3,49
+41640622,10.1093/bioadv/vbag006,Bioinform Adv,FRAME: fast reference-based ancestry makeup estimation tool.,2025-10-01,2025-12-18,2026-02-05,4,44
+41768278,10.1093/bioadv/vbag005,Bioinform Adv,ChromoMapper: a new tool to quickly compare large genome assemblies.,2025-08-28,2025-12-31,2026-03-02,5,41
+41640624,10.1093/bioadv/vbag007,Bioinform Adv,VST-DAVis: an R Shiny application and web-browser for spatial transcriptomics data analysi,2025-09-22,2025-12-22,2026-02-05,2,24
+41675694,10.1093/bioadv/vbag004,Bioinform Adv,EC-Bench: a benchmark for enzyme commission number prediction.,2025-07-28,2025-12-20,2026-02-12,4,35
+41573169,10.1093/bioadv/vbaf325,Bioinform Adv,"The nutrition toolbox permits in silico generation, analysis, and optimization of personal",2025-08-12,2025-12-13,2026-01-23,6,10
+41542366,10.1093/bioadv/vbaf328,Bioinform Adv,CoV-UniBind: a unified antibody binding database for SARS-CoV-2.,2025-08-14,2025-12-22,2026-01-16,7,50
+41710352,10.1093/bioadv/vbaf330,Bioinform Adv,"zelll: a fast, framework-free, and flexible implementation of the cell lists algorithm for",2025-10-08,2025-12-20,2026-02-19,3,23
+41542365,10.1093/bioadv/vbaf332,Bioinform Adv,ggplotAgent: a self-debugging multi-modal agent for robust and reproducible scientific vis,2025-08-25,2025-12-29,2026-01-16,6,9
+41542363,10.1093/bioadv/vbaf326,Bioinform Adv,Pipeasm: a tool for automated large chromosome-scale genome assembly and evaluation.,2025-08-09,2025-12-20,2026-01-16,7,48
+42317557,10.1093/bioadv/vbaf254,Bioinform Adv,K-FluDB: a novel K-mer-based database for enhanced genomic surveillance of Influenza A vir,2025-03-04,2025-08-27,2026-06-19,3,27
+41938594,10.1093/bioadv/vbaf216,Bioinform Adv,Node2Vec-DGI-EL: a hierarchical graph representation learning model for ingredient-disease,2025-06-02,2025-09-02,2026-04-06,4,48
+41858380,10.1093/bioadv/vbaf315,Bioinform Adv,genCRC32: collision-free CRC32-based hashing of DNA sequences.,2025-06-26,2025-11-07,2026-03-20,8,26
+41822385,10.1093/bioadv/vbaf243,Bioinform Adv,optTMT: optimizing any experimental design to minimize false positives caused by TMT repor,2025-02-24,2025-09-29,2026-03-13,1,14
+41808772,10.1093/bioadv/vbaf317,Bioinform Adv,Removing array-specific batch effects in GWAS mega-analyses by applying a two-step imputat,2025-07-22,2025-11-27,2026-03-11,8,37
+41736998,10.1093/bioadv/vbaf321,Bioinform Adv,REDAC: RNA-seq expression data analysis chatbot.,2025-09-05,2025-12-10,2026-02-25,14,38
+41695265,10.1093/bioadv/vbaf219,Bioinform Adv,SNP-based prediction of schizophrenia using machine learning.,2025-03-15,2025-09-02,2026-02-16,5,73
+41695261,10.1093/bioadv/vbaf322,Bioinform Adv,IHIT-BED: an interpretable transformer approach using unbiased hematology analyzer impedan,2025-03-12,2025-12-03,2026-02-16,4,64
+41695257,10.1093/bioadv/vbaf324,Bioinform Adv,Machine learning can distinguish orphans that have resulted from sequence divergence beyon,2025-07-09,2025-12-11,2026-02-16,5,57
+41640623,10.1093/bioadv/vbaf270,Bioinform Adv,Shiny-Calorie: a context-aware application for indirect calorimetry data analysis and visu,2025-06-25,2025-10-14,2026-02-05,23,14
+41573168,10.1093/bioadv/vbaf329,Bioinform Adv,Puzzler: scalable one-command platinum-quality genome assembly from HiFi and Hi-C.,2025-08-14,2025-12-22,2026-01-23,2,32
+41550256,10.1093/bioadv/vbaf285,Bioinform Adv,Adding highly variable genes to spatially variable genes can improve cell type clustering ,2025-05-08,2025-09-27,2026-01-19,7,46
+41550255,10.1093/bioadv/vbaf218,Bioinform Adv,Rosace-AA: enhancing interpretation of deep mutational scanning data with amino acid subst,2025-04-26,2025-09-07,2026-01-19,7,24
+41542367,10.1093/bioadv/vbaf290,Bioinform Adv,FroM Superstring to Indexing: a space-efficient index for unconstrained k-mer sets using t,2025-09-26,2025-10-30,2026-01-16,3,53
+41542364,10.1093/bioadv/vbaf323,Bioinform Adv,Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline.,2025-10-08,2025-12-14,2026-01-16,3,41
+41523656,10.1093/bioadv/vbaf240,Bioinform Adv,SLiMs prediction method based on enhanced attention mechanism and feature fusion.,2025-05-23,2025-09-26,2026-01-12,2,45
+41523655,10.1093/bioadv/vbaf307,Bioinform Adv,Omics BioAnalytics: an RShiny application for multimodal biomarker panel discovery and ass,2025-08-01,2025-11-19,2026-01-12,5,11
+41523654,10.1093/bioadv/vbaf308,Bioinform Adv,Prompt-based bioinformatic pipeline generation for a multi-step metaviral workflow.,2025-10-27,2025-11-24,2026-01-12,8,27
+41523653,10.1093/bioadv/vbaf319,Bioinform Adv,Beyond synthetic lethality in large-scale metabolic and regulatory network models via gene,2025-09-01,2025-12-09,2026-01-12,7,39
+41523652,10.1093/bioadv/vbaf320,Bioinform Adv,Fluoro-forest: a random forest workflow for cell type annotation in high-dimensional immun,2025-06-06,2025-12-06,2026-01-12,4,12
+41510027,10.1093/bioadv/vbaf306,Bioinform Adv,DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction.,2025-07-31,2025-11-13,2026-01-09,5,44
+41510026,10.1093/bioadv/vbaf283,Bioinform Adv,mhn: a Python package for analyzing cancer progression with Mutual Hazard Networks.,2025-09-24,2025-09-29,2026-01-09,9,11
+41510025,10.1093/bioadv/vbaf305,Bioinform Adv,Integrative analysis and imputation of multiple data streams via deep Gaussian processes.,2025-06-27,2025-11-17,2026-01-09,5,64
+41510024,10.1093/bioadv/vbaf309,Bioinform Adv,A new LUCApedia database for data-driven research on early evolutionary history.,2025-08-26,2025-11-10,2026-01-09,5,83
+41510023,10.1093/bioadv/vbaf303,Bioinform Adv,AI-powered rapid detection of multidrug-resistant Klebsiella pneumoniae with informative p,2025-09-21,2025-11-17,2026-01-09,9,37
+41510022,10.1093/bioadv/vbaf304,Bioinform Adv,Colony: a framework for reproducible and easy-to-use data analysis pipelines for biomedica,2025-06-23,2025-10-31,2026-01-09,3,10
+41510021,10.1093/bioadv/vbaf318,Bioinform Adv,Computational identification of Azadirachta indica compounds targeting trypanothione reduc,2025-06-09,2025-12-03,2026-01-09,10,42
+41510020,10.1093/bioadv/vbaf316,Bioinform Adv,Data-based clustering in prediction of cervical cancer DNA methylation using pan-cancer ge,2025-07-14,2025-11-24,2026-01-09,2,24

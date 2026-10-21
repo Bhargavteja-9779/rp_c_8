@@ -1,0 +1,508 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34863649,10.1016/S2589-7500(21)00235-1,Lancet Digit Health,Automated interpretation of systolic and diastolic function on the echocardiogram: a multi,2021-04-20,2021-10-07,2021-12-06,19,0
+34794931,10.1016/S2589-7500(21)00254-5,Lancet Digit Health,Forging the tools for a computer-aided workflow in transplant pathology.,2021-10-08,2021-10-29,2021-11-20,2,0
+34794930,10.1016/S2589-7500(21)00211-9,Lancet Digit Health,"Deep learning-based classification of kidney transplant pathology: a retrospective, multic",2021-04-07,2021-08-23,2021-11-20,23,0
+34740555,10.1016/S2589-7500(21)00214-4,Lancet Digit Health,Evaluating the reliability of mobility metrics from aggregated mobile phone data as proxie,2021-05-23,2021-09-01,2021-11-07,7,24
+34823706,10.1016/S2589-7500(21)00203-X,Lancet Digit Health,Risk of acute respiratory infection and acute cardiovascular events following acute respir,2021-03-24,2021-08-07,2021-11-27,9,30
+34756569,10.1016/S2589-7500(21)00209-0,Lancet Digit Health,Dynamic prediction of renal survival among deeply phenotyped kidney transplant recipients ,2021-03-25,2021-08-17,2021-11-11,35,0
+34688602,10.1016/S2589-7500(21)00205-3,Lancet Digit Health,Deep-learning-based synthesis of post-contrast T1-weighted MRI for tumour response assessm,2021-04-28,2021-08-10,2021-10-25,28,0
+34688601,10.1016/S2589-7500(21)00219-3,Lancet Digit Health,Seeing more with less: virtual gadolinium-enhanced glioma imaging.,2021-08-26,2021-09-06,2021-10-25,2,0
+34686475,10.1016/S2589-7500(21)00232-6,Lancet Digit Health,Towards computationally efficient prediction of molecular signatures from routine histolog,2021-09-13,2021-10-01,2021-10-24,2,0
+34686474,10.1016/S2589-7500(21)00180-1,Lancet Digit Health,Development and validation of a weakly supervised deep learning framework to predict the s,2020-12-21,2021-08-05,2021-10-24,9,37
+34625398,10.1016/S2589-7500(21)00231-4,Lancet Digit Health,Are digital devices a new risk factor for myopia?,2021-07-21,2021-09-14,2021-10-10,2,0
+34598906,10.1016/S2589-7500(21)00145-X,Lancet Digit Health,Accelerating health information technology capabilities across England's National Health S,2021-06-23,2021-07-08,2021-10-03,3,0
+34711378,10.1016/S2589-7500(21)00146-1,Lancet Digit Health,X-ray dark-field chest imaging for detection and quantification of emphysema in patients w,2021-01-12,2021-07-09,2021-10-30,21,36
+34711377,10.1016/S2589-7500(21)00138-2,Lancet Digit Health,"Wearable device signals and home blood pressure data across age, sex, race, ethnicity, and",2020-11-22,2021-06-23,2021-10-30,5,0
+34711374,10.1016/S2589-7500(21)00230-2,Lancet Digit Health,X-ray dark field imaging: a tool for early diagnosis of emphysema in chronic obstructive p,2021-08-02,2021-09-09,2021-10-30,2,11
+34711373,10.1016/S2589-7500(21)00212-0,Lancet Digit Health,Another step (count) towards leveraging mobile health data for clinical prediction.,2021-07-13,2021-08-26,2021-10-30,2,0
+34580055,10.1016/S2589-7500(21)00139-4,Lancet Digit Health,A fully artificial pancreas versus a hybrid artificial pancreas for type 1 diabetes: a sin,2020-12-22,2021-06-23,2021-09-29,9,0
+34580054,10.1016/S2589-7500(21)00218-1,Lancet Digit Health,Fully closed-loop insulin delivery-are we nearly there yet?,2021-07-08,2021-09-07,2021-09-29,1,0
+34561202,10.1016/S2589-7500(21)00216-8,Lancet Digit Health,Evaluation of artificial intelligence on a reference standard based on subjective interpre,2021-06-24,2021-09-02,2021-09-26,3,0
+34538737,10.1016/S2589-7500(21)00143-6,Lancet Digit Health,Deep learning for automated bowel preparation assessment during colonoscopy: time to embra,2021-06-25,2021-07-06,2021-09-21,1,0
+34538736,10.1016/S2589-7500(21)00109-6,Lancet Digit Health,Multi-step validation of a deep learning-based system for the quantification of bowel prep,2020-12-01,2021-06-03,2021-09-21,25,0
+34456179,10.1016/S2589-7500(21)00174-6,Lancet Digit Health,The effect of population mobility on COVID-19 incidence in 314 Latin American cities: a lo,2021-04-30,2021-07-23,2021-08-31,9,26
+34556290,10.1016/S2589-7500(21)00178-3,Lancet Digit Health,Data journalism and the COVID-19 pandemic: opportunities and challenges.,2021-06-15,2021-08-02,2021-09-25,5,5
+34509423,10.1016/S2589-7500(21)00134-5,Lancet Digit Health,Clinically relevant deep learning for detection and quantification of geographic atrophy f,2020-12-13,2021-06-16,2021-09-13,10,0
+34509422,10.1016/S2589-7500(21)00204-1,Lancet Digit Health,Deep learning in geographic atrophy: the best is yet to come.,2021-07-19,2021-08-09,2021-09-13,1,0
+34481769,10.1016/S2589-7500(21)00129-1,Lancet Digit Health,Assessing procedural pain in infants: a feasibility study evaluating a point-of-care mobil,2021-01-26,2021-06-11,2021-09-06,3,0
+34481768,10.1016/S2589-7500(21)00137-0,Lancet Digit Health,Development and evaluation of a machine learning-based point-of-care screening tool for ge,2021-01-12,2021-06-23,2021-09-06,5,0
+34481766,10.1016/S2589-7500(21)00179-5,Lancet Digit Health,Screening for facial differences worldwide: equity and ethics.,2021-07-21,2021-08-02,2021-09-06,2,0
+34479825,10.1016/S2589-7500(21)00144-8,Lancet Digit Health,The association of community mobility with the time-varying reproduction number (R) of SAR,2021-04-30,2021-07-08,2021-09-05,5,26
+34452874,10.1016/S2589-7500(21)00130-8,Lancet Digit Health,Personalising add-on treatment with inhaled corticosteroids in patients with chronic obstr,2020-12-04,2021-06-16,2021-08-29,6,0
+34417147,10.1016/S2589-7500(21)00133-3,Lancet Digit Health,Development and validation of deep learning classifiers to detect Epstein-Barr virus and m,2021-03-26,2021-06-16,2021-08-22,35,39
+34446265,10.1016/S2589-7500(21)00116-3,Lancet Digit Health,Tuberculosis detection from chest x-rays for triaging in a high tuberculosis-burden settin,2020-09-29,2021-06-07,2021-08-28,9,0
+34446263,10.1016/S2589-7500(21)00142-4,Lancet Digit Health,Can AI technologies close the diagnostic gap in tuberculosis?,2021-06-21,2021-07-02,2021-08-28,2,10
+34384736,10.1016/S2589-7500(21)00175-8,Lancet Digit Health,"Predicted COVID-19 positive cases, hospitalisations, and deaths associated with the Delta ",2021-07-15,2021-07-29,2021-08-14,13,9
+34334334,10.1016/S2589-7500(21)00101-1,Lancet Digit Health,Discovery of Parkinson's disease states and disease progression modelling: a longitudinal ,2020-12-04,2021-05-13,2021-08-03,8,0
+34334333,10.1016/S2589-7500(21)00131-X,Lancet Digit Health,"Early detection of COVID-19 in the UK using self-reported symptoms: a large-scale, prospec",2021-01-22,2021-06-16,2021-08-03,19,30
+34332931,10.1016/S2589-7500(21)00104-7,Lancet Digit Health,The use of a next-generation sequencing-derived machine-learning risk-prediction model (On,2020-12-15,2021-05-25,2021-08-02,12,51
+34305035,10.1016/S2589-7500(21)00115-1,Lancet Digit Health,"Anosmia, ageusia, and other COVID-19-like symptoms in association with a positive SARS-CoV",2020-12-16,2021-06-04,2021-07-27,25,33
+34303644,10.1016/S2589-7500(21)00141-2,Lancet Digit Health,COVID-19 detection from audio: seven grains of salt.,2021-06-07,2021-07-06,2021-07-26,4,10
+34325854,10.1016/S2589-7500(21)00102-3,Lancet Digit Health,A two-transcript biomarker of host classifier genes for discrimination of bacterial from v,2021-03-07,2021-05-12,2021-07-31,15,0
+34325853,10.1016/S2589-7500(21)00086-8,Lancet Digit Health,Application of Comprehensive Artificial intelligence Retinal Expert (CARE) system: a natio,2020-11-17,2021-05-07,2021-07-31,36,0
+34325852,10.1016/S2589-7500(21)00117-5,Lancet Digit Health,Artificial intelligence and sexual health in the USA.,2021-04-12,2021-06-08,2021-07-31,3,10
+34325851,10.1016/S2589-7500(21)00136-9,Lancet Digit Health,Host gene signature shows promise to distinguish bacterial and viral infections.,2021-06-17,2021-06-22,2021-07-31,2,10
+34325850,10.1016/S2589-7500(21)00140-0,Lancet Digit Health,Real-world validation of artificial intelligence algorithms for ophthalmic imaging.,2021-06-28,2021-07-01,2021-07-31,2,0
+34238721,10.1016/S2589-7500(21)00105-9,Lancet Digit Health,Temporal trends and forecasting of COVID-19 hospitalisations and deaths in Scotland using ,2021-02-19,2021-05-25,2021-07-10,13,29
+34219054,10.1016/S2589-7500(21)00106-0,Lancet Digit Health,Effect of a comprehensive deep-learning model on the accuracy of chest x-ray interpretatio,2020-11-03,2021-05-12,2021-07-06,17,0
+34215564,10.1016/S2589-7500(21)00084-4,Lancet Digit Health,Assessing the utility of deep neural networks in predicting postoperative surgical complic,2020-10-01,2021-04-27,2021-07-04,9,0
+34167765,10.1016/S2589-7500(21)00082-0,Lancet Digit Health,"An integrated nomogram combining deep learning, Prostate Imaging-Reporting and Data System",2020-12-02,2021-04-27,2021-06-26,10,31
+34167764,10.1016/S2589-7500(21)00079-0,Lancet Digit Health,Association between change in cardiovascular risk scores and future cardiovascular disease,2021-02-22,2021-04-22,2021-06-26,14,31
+34167763,10.1016/S2589-7500(21)00083-2,Lancet Digit Health,Effectiveness of an mHealth system on access to eye health services in Kenya: a cluster-ra,2020-11-17,2021-04-27,2021-06-26,8,30
+34049834,10.1016/S2589-7500(21)00080-7,Lancet Digit Health,An external validation of the QCovid risk prediction algorithm for risk of mortality from ,2021-02-19,2021-04-22,2021-05-30,13,25
+34020933,10.1016/S2589-7500(21)00064-9,Lancet Digit Health,The hopes and hazards of using personal health technologies in the diagnosis and prognosis,2021-01-04,2021-04-01,2021-05-23,5,0
+34045003,10.1016/S2589-7500(21)00065-0,Lancet Digit Health,Radiographical assessment of tumour stroma and treatment outcomes using deep learning: a r,2020-12-15,2021-04-07,2021-05-29,16,0
+34045002,10.1016/S2589-7500(21)00077-7,Lancet Digit Health,"Changes in the incidence of invasive disease due to Streptococcus pneumoniae, Haemophilus ",2020-12-07,2021-04-14,2021-05-29,95,29
+34045001,10.1016/S2589-7500(21)00059-5,Lancet Digit Health,Associations between changes in population mobility in response to the COVID-19 pandemic a,2020-12-16,2021-03-24,2021-05-29,11,29
+34044999,10.1016/S2589-7500(21)00078-9,Lancet Digit Health,The challenges and opportunities of mental health data sharing in the UK.,2021-02-19,2021-04-16,2021-05-29,23,0
+34044998,10.1016/S2589-7500(21)00085-6,Lancet Digit Health,COVID-19 containment measures and incidence of invasive bacterial disease.,2021-04-28,2021-05-03,2021-05-29,2,10
+33933404,10.1016/S2589-7500(21)00076-5,Lancet Digit Health,Continual learning in medical devices: FDA's action plan and beyond.,2021-02-25,2021-04-09,2021-05-03,3,0
+33893070,10.1016/S2589-7500(21)00056-X,Lancet Digit Health,Deep learning to detect acute respiratory distress syndrome on chest radiographs: a retros,2020-11-09,2021-03-11,2021-04-25,19,28
+33890579,10.1016/S2589-7500(21)00055-8,Lancet Digit Health,Retinal photograph-based deep learning algorithms for myopia and a blockchain platform to ,2020-11-15,2021-03-09,2021-04-24,40,0
+33890578,10.1016/S2589-7500(21)00043-1,Lancet Digit Health,Deep-learning-based cardiovascular risk stratification using coronary artery calcium score,2020-10-28,2021-03-02,2021-04-24,24,0
+33890577,10.1016/S2589-7500(21)00054-6,Lancet Digit Health,Improving community health-care screenings with smartphone-based AI technologies.,2021-01-26,2021-03-08,2021-04-24,4,10
+33858816,10.1016/S2589-7500(21)00057-1,Lancet Digit Health,Who does the model learn from?,2021-03-10,2021-03-19,2021-04-17,3,10
+33858815,10.1016/S2589-7500(21)00040-6,Lancet Digit Health,Long-term mortality risk stratification of liver transplant recipients: real-time applicat,2020-07-21,2021-02-17,2021-04-17,13,0
+33836980,10.1016/S2589-7500(21)00062-5,Lancet Digit Health,Cardiology and big data: a call for papers.,2021-03-30,2021-03-30,2021-04-11,2,0
+33773969,10.1016/S2589-7500(21)00039-X,Lancet Digit Health,Prognostication of patients with COVID-19 using artificial intelligence based on chest x-r,2020-10-27,2021-02-17,2021-03-29,25,28
+33642239,10.1016/S2589-7500(21)00021-2,Lancet Digit Health,Covid-19 vaccine apps should deliver more to patients.,2020-12-17,2021-01-26,2021-03-02,3,13
+33766289,10.1016/S2589-7500(21)00041-8,Lancet Digit Health,Deep learning-based artificial intelligence model to assist thyroid nodule diagnosis and m,2020-09-27,2021-02-21,2021-03-27,26,0
+33766288,10.1016/S2589-7500(21)00022-4,Lancet Digit Health,Performance of intensive care unit severity scoring systems across different ethnicities i,2020-09-14,2021-01-29,2021-03-27,6,34
+33766287,10.1016/S2589-7500(21)00018-2,Lancet Digit Health,Dynamic prediction of psychological treatment outcomes: development and validation of a pr,2020-07-21,2021-01-22,2021-03-27,9,0
+33766286,10.1016/S2589-7500(21)00044-3,Lancet Digit Health,Ethnicity-based bias in clinical severity scores.,2021-02-22,2021-02-26,2021-03-27,2,0
+33766285,10.1016/S2589-7500(21)00042-X,Lancet Digit Health,Progress towards clinically informative data-driven decision support tools in psychotherap,2021-02-10,2021-02-24,2021-03-27,2,0
+33678589,10.1016/S2589-7500(20)30317-4,Lancet Digit Health,Health data poverty: an assailable barrier to equitable digital health care.,2020-09-23,2020-12-04,2021-03-09,5,0
+33640307,10.1016/S2589-7500(21)00025-X,Lancet Digit Health,Evaluating neonatal medical devices in Africa.,2020-12-02,2021-02-04,2021-03-01,3,0
+33640306,10.1016/S2589-7500(21)00001-7,Lancet Digit Health,Wireless skin sensors for physiological monitoring of infants in low-income and middle-inc,2020-06-17,2020-12-18,2021-03-01,7,0
+33612431,10.1016/S2589-7500(21)00024-8,Lancet Digit Health,Beyond the tip of the iceberg: direct and indirect effects of COVID-19.,2021-01-27,2021-02-01,2021-02-23,2,8
+33612430,10.1016/S2589-7500(21)00017-0,Lancet Digit Health,Indirect acute effects of the COVID-19 pandemic on physical and mental health in the UK: a,2020-12-19,2021-01-19,2021-02-23,21,73
+33610488,10.1016/S2589-7500(21)00038-8,Lancet Digit Health,WHO SMART guidelines: optimising country-level use of guideline recommendations in the dig,2021-01-19,2021-02-16,2021-02-22,13,0
+33574000,10.1016/S2589-7500(21)00006-6,Lancet Digit Health,A nomogram for use of non-invasive respiratory strategies in COVID-19.,2020-12-19,2020-12-29,2021-02-13,1,10
+33573999,10.1016/S2589-7500(20)30316-2,Lancet Digit Health,A simple nomogram for predicting failure of non-invasive respiratory strategies in adults ,2020-09-15,2020-12-09,2021-02-13,17,33
+33549514,10.1016/S2589-7500(21)00020-0,Lancet Digit Health,Predicting prostate cancer-specific mortality using SEER.,2020-12-21,2021-01-24,2021-02-08,2,0
+33549513,10.1016/S2589-7500(21)00019-4,Lancet Digit Health,Challenging racism in the use of health data.,2020-12-18,2021-01-27,2021-02-08,9,0
+33549512,10.1016/S2589-7500(20)30314-9,Lancet Digit Health,Application of a novel machine learning framework for predicting non-metastatic prostate c,2020-09-13,2020-12-10,2021-02-08,6,0
+33516653,10.1016/S2589-7500(21)00004-2,Lancet Digit Health,Disrupting the power balance between doctors and patients in the digital era.,2020-11-09,2021-01-06,2021-02-01,3,0
+33483278,10.1016/S2589-7500(21)00003-0,Lancet Digit Health,Face masks help control transmission of COVID-19.,2020-12-15,2020-12-18,2021-01-24,2,8
+33483277,10.1016/S2589-7500(20)30293-4,Lancet Digit Health,Mask-wearing and control of SARS-CoV-2 transmission in the USA: a cross-sectional study.,2020-08-28,2020-11-30,2021-01-24,13,31
+33509389,10.1016/S2589-7500(20)30288-0,Lancet Digit Health,Screening and identifying hepatobiliary diseases through deep learning using ocular images,2020-08-09,2020-11-13,2021-01-30,23,0
+33509388,10.1016/S2589-7500(20)30274-0,Lancet Digit Health,Rapid triage for COVID-19 using routine clinical data for patients attending hospital: dev,2020-09-24,2020-11-10,2021-01-30,10,28
+33509387,10.1016/S2589-7500(21)00002-9,Lancet Digit Health,Online health survey research during COVID-19.,2020-11-05,2020-12-17,2021-01-30,14,10
+33509386,10.1016/S2589-7500(20)30318-6,Lancet Digit Health,Application of unsupervised machine learning to identify and characterise hydroxychloroqui,2020-09-25,2020-12-07,2021-01-30,5,0
+33509385,10.1016/S2589-7500(20)30319-8,Lancet Digit Health,Deep learning-based detection of hepatobiliary disorders in ophthalmic imaging.,2020-11-24,2020-12-07,2021-01-30,2,0
+33509383,10.1016/S2589-7500(20)30287-9,Lancet Digit Health,Digital health during COVID-19: lessons from operationalising new models of care in ophtha,2020-07-31,2020-11-18,2021-01-30,5,0
+33342754,10.1016/S2589-7500(20)30294-6,Lancet Digit Health,Renin-angiotensin system inhibitors and COVID-19: overwhelming evidence against an associa,2020-11-23,2020-11-30,2020-12-22,1,10
+33342753,10.1016/S2589-7500(20)30289-2,Lancet Digit Health,"Renin-angiotensin system blockers and susceptibility to COVID-19: an international, open s",2020-08-31,2020-11-13,2020-12-22,33,54
+33735067,10.1016/S2589-7500(20)30291-0,Lancet Digit Health,Using cloud technology in health care during the COVID-19 pandemic.,2020-09-22,2020-11-26,2021-03-19,3,0
+33735066,10.1016/S2589-7500(20)30271-5,Lancet Digit Health,Referral for disease-related visual impairment using retinal photograph-based deep learnin,2020-06-24,2020-10-24,2021-03-19,27,0
+33735065,10.1016/S2589-7500(20)30267-3,Lancet Digit Health,Diagnosis and risk stratification in hypertrophic cardiomyopathy using machine learning wa,2020-06-21,2020-10-14,2021-03-19,25,0
+33735064,10.1016/S2589-7500(20)30286-7,Lancet Digit Health,AI-automated referral for patients with visual impairment.,2020-11-13,2020-11-19,2021-03-19,2,0
+33735063,10.1016/S2589-7500(20)30250-8,Lancet Digit Health,Predicting the risk of developing diabetic retinopathy using deep learning.,2020-07-07,2020-10-01,2021-03-19,16,0
+36528542,10.1016/S2589-7500(22)00229-1,Lancet Digit Health,Implementing automation in deep brain stimulation: has the time come?,2022-11-14,2022-11-15,2022-12-18,2,0
+36528541,10.1016/S2589-7500(22)00214-X,Lancet Digit Health,"Automated deep brain stimulation programming based on electrode location: a randomised, cr",2022-06-15,2022-11-01,2022-12-18,10,0
+36496303,10.1016/S2589-7500(22)00210-2,Lancet Digit Health,Interpretable deep learning model to predict the molecular classification of endometrial c,2022-06-22,2022-10-13,2022-12-11,24,0
+36460578,10.1016/S2589-7500(22)00187-X,Lancet Digit Health,Identifying and visualising multimorbidity and comorbidity patterns in patients in the Eng,2022-03-01,2022-09-19,2022-12-03,15,0
+36424338,10.1016/S2589-7500(22)00216-3,Lancet Digit Health,Enhancing systematic review with machine learning modelling for global health research.,2022-11-02,2022-11-04,2022-11-25,1,0
+36427950,10.1016/S2589-7500(22)00196-0,Lancet Digit Health,An automated bedside measure for monitoring neonatal cortical activity: a supervised deep ,2022-09-19,2022-10-06,2022-11-26,7,0
+36427949,10.1016/S2589-7500(22)00174-1,Lancet Digit Health,Development of a treatment selection algorithm for SGLT2 and DPP-4 inhibitor therapies in ,2022-03-29,2022-09-01,2022-11-26,14,0
+36427948,10.1016/S2589-7500(22)00197-2,Lancet Digit Health,Treating type 2 diabetes: moving towards precision medicine.,2022-09-28,2022-10-06,2022-11-26,2,0
+36335031,10.1016/S2589-7500(22)00194-7,Lancet Digit Health,Wearable devices-addressing bias and inequity.,2022-06-27,2022-10-06,2022-11-06,2,0
+36333179,10.1016/S2589-7500(22)00173-X,Lancet Digit Health,Forced vital capacity trajectories in patients with idiopathic pulmonary fibrosis: a secon,2022-01-10,2022-08-25,2022-11-05,21,30
+36270955,10.1016/S2589-7500(22)00188-1,Lancet Digit Health,Interpreting area under the receiver operating characteristic curve.,2022-07-12,2022-09-20,2022-10-22,3,0
+36307193,10.1016/S2589-7500(22)00170-4,Lancet Digit Health,Individualising intensive systolic blood pressure reduction in hypertension using computat,2021-08-08,2022-08-17,2022-10-29,4,33
+36307192,10.1016/S2589-7500(22)00168-6,Lancet Digit Health,Spatially aware graph neural networks and cross-level molecular profile prediction in colo,2021-10-20,2022-08-15,2022-10-29,5,0
+36307191,10.1016/S2589-7500(22)00189-3,Lancet Digit Health,Data solidarity: a blueprint for governing health futures.,2022-08-26,2022-09-20,2022-10-29,5,0
+36307190,10.1016/S2589-7500(22)00171-6,Lancet Digit Health,"Development and implementation of centralised, cloud-based, employee health contact tracin",2022-03-16,2022-08-21,2022-10-29,3,9
+36307189,10.1016/S2589-7500(22)00193-5,Lancet Digit Health,Artificial Intelligence in cancer pathology-hope or hype?,2022-09-16,2022-10-04,2022-10-29,1,0
+36192349,10.1016/S2589-7500(22)00169-8,Lancet Digit Health,A deep learning model for detection of Alzheimer's disease based on retinal photographs: a,2022-05-04,2022-08-19,2022-10-04,26,0
+36192348,10.1016/S2589-7500(22)00190-X,Lancet Digit Health,Artificial intelligence for detection of Alzheimer's disease: demonstration of real-world ,2022-09-04,2022-09-23,2022-10-04,2,0
+36154810,10.1016/S2589-7500(22)00156-X,Lancet Digit Health,Sensor-based surveillance for digitising real-time COVID-19 tracking in the USA (DETECT): ,2022-03-31,2022-08-02,2022-09-27,12,29
+36150781,10.1016/S2589-7500(22)00149-2,Lancet Digit Health,A machine-learning algorithm for diagnosis of multisystem inflammatory syndrome in childre,2022-01-06,2022-07-13,2022-09-24,24,21
+36150780,10.1016/S2589-7500(22)00172-8,Lancet Digit Health,Conditions required for the artificial-intelligence-based computer-aided detection of tube,2022-07-01,2022-08-23,2022-09-24,4,0
+36150779,10.1016/S2589-7500(22)00167-4,Lancet Digit Health,Real-time COVID-19 forecasting: challenges and opportunities of model performance and tran,2022-06-21,2022-08-11,2022-09-24,9,10
+36057526,10.1016/S2589-7500(22)00150-9,Lancet Digit Health,"Predictive performance and clinical application of COV50, a urinary proteomic biomarker in",2022-01-11,2022-07-19,2022-09-04,41,26
+36038496,10.1016/S2589-7500(22)00132-7,Lancet Digit Health,Constructing custom-made radiotranscriptomic signatures of vascular inflammation from rout,2022-01-02,2022-07-05,2022-08-30,42,26
+36028289,10.1016/S2589-7500(22)00129-7,Lancet Digit Health,Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-ce,2021-12-23,2022-06-24,2022-08-27,16,32
+35961858,10.1016/S2589-7500(22)00125-X,Lancet Digit Health,Menstrual irregularities and vaginal bleeding after COVID-19 vaccination reported to v-saf,2022-02-14,2022-06-17,2022-08-13,9,39
+35909059,10.1016/S2589-7500(22)00146-7,Lancet Digit Health,Risk stratification of patients with COVID-19 in the community.,2022-07-05,2022-07-11,2022-08-01,2,10
+35909058,10.1016/S2589-7500(22)00123-6,Lancet Digit Health,Remote COVID-19 Assessment in Primary Care (RECAP) risk prediction tool: derivation and re,2022-01-24,2022-06-15,2022-08-01,20,32
+35835712,10.1016/S2589-7500(22)00112-1,Lancet Digit Health,Development of a multiomics model for identification of predictive biomarkers for COVID-19,2021-11-25,2022-05-27,2022-07-15,29,36
+35868812,10.1016/S2589-7500(22)00093-0,Lancet Digit Health,Prediction of hospital-onset COVID-19 infections using dynamic networks of patient contact,2021-09-26,2022-04-25,2022-07-23,15,38
+35868811,10.1016/S2589-7500(22)00122-4,Lancet Digit Health,Data provenance and integrity of health-care systems data for clinical trials.,2022-02-23,2022-06-14,2022-07-23,10,10
+35811294,10.1016/S2589-7500(22)00127-3,Lancet Digit Health,"Early human judgment forecasts of human monkeypox, May 2022.",2022-06-02,2022-06-27,2022-07-11,13,9
+35803894,10.1016/S2589-7500(22)00095-4,Lancet Digit Health,Therapist-guided internet-based psychodynamic therapy versus cognitive behavioural therapy,2021-10-15,2022-05-04,2022-07-09,16,0
+35780037,10.1016/S2589-7500(22)00099-1,Lancet Digit Health,Exploring the clinical and genetic associations of adult weight trajectories using electro,2021-10-04,2022-05-06,2022-07-03,15,31
+35725824,10.1016/S2589-7500(22)00090-5,Lancet Digit Health,Deep learning with weak annotation from diagnosis reports for detection of multiple head d,2021-09-14,2022-04-13,2022-06-21,17,0
+35750400,10.1016/S2589-7500(22)00070-X,Lancet Digit Health,Combining the strengths of radiologists and AI for breast cancer screening: a retrospectiv,2021-09-28,2022-04-06,2022-06-25,6,31
+35750399,10.1016/S2589-7500(22)00100-5,Lancet Digit Health,Paradox of telemedicine: building or neglecting trust and equity.,2022-02-19,2022-05-06,2022-06-25,3,10
+35750398,10.1016/S2589-7500(22)00094-2,Lancet Digit Health,Artificial intelligence to complement rather than replace radiologists in breast screening,2022-04-25,2022-04-26,2022-06-25,2,0
+35690576,10.1016/S2589-7500(22)00091-7,Lancet Digit Health,COVID-19 trajectories among 57 million adults in England: a cohort study using electronic ,2021-11-11,2022-04-13,2022-06-12,23,26
+35599143,10.1016/S2589-7500(22)00067-X,Lancet Digit Health,"Clinical assessment as a part of an early warning score-a Danish cluster-randomised, multi",2021-11-04,2022-03-29,2022-05-23,16,0
+35595677,10.1016/S2589-7500(22)00061-9,Lancet Digit Health,Identifying adverse childhood experiences with electronic health records of linked mothers,2021-10-05,2022-03-15,2022-05-21,6,0
+35589549,10.1016/S2589-7500(22)00048-6,Lancet Digit Health,Identifying who has long COVID in the USA: a machine learning approach using N3C data.,2021-11-19,2022-03-08,2022-05-20,16,25
+35623798,10.1016/S2589-7500(22)00062-0,Lancet Digit Health,Developing and validating a machine-learning algorithm to predict opioid overdose in Medic,2021-06-17,2022-03-16,2022-05-28,15,29
+35623797,10.1016/S2589-7500(22)00041-3,Lancet Digit Health,Development and multimodal validation of a substance misuse algorithm for referral to trea,2021-09-10,2022-02-16,2022-05-28,11,30
+35623796,10.1016/S2589-7500(22)00097-8,Lancet Digit Health,Opportunities for opioid overdose prediction: building a population health approach.,2022-04-14,2022-05-04,2022-05-28,2,10
+35623795,10.1016/S2589-7500(22)00096-6,Lancet Digit Health,Natural language processing to identify substance misuse in the electronic health record.,2022-05-03,2022-05-10,2022-05-28,2,0
+35568691,10.1016/S2589-7500(22)00092-9,Lancet Digit Health,AI models in health care are not colour blind and we should not be either.,2022-04-08,2022-04-20,2022-05-15,3,0
+35568690,10.1016/S2589-7500(22)00063-2,Lancet Digit Health,AI recognition of patient race in medical imaging: a modelling study.,2021-12-08,2022-03-18,2022-05-15,23,39
+35562273,10.1016/S2589-7500(22)00045-0,Lancet Digit Health,"Predicting hospitalisation for heart failure and death in patients with, or at risk of, he",2021-12-07,2022-03-09,2022-05-14,12,38
+35466079,10.1016/S2589-7500(22)00049-8,Lancet Digit Health,Recurrent neural network models (CovRNN) for predicting outcomes of patients with COVID-19,2021-10-01,2022-03-07,2022-04-26,11,30
+35430151,10.1016/S2589-7500(22)00042-5,Lancet Digit Health,Cost-effectiveness of artificial intelligence for screening colonoscopy: a modelling study,2021-07-16,2022-03-01,2022-04-18,18,0
+35461691,10.1016/S2589-7500(22)00040-1,Lancet Digit Health,Predicting peritoneal recurrence and disease-free survival from CT images in gastric cance,2021-08-16,2022-02-10,2022-04-25,17,0
+35461690,10.1016/S2589-7500(22)00021-8,Lancet Digit Health,Validation of artificial intelligence prediction models for skin cancer diagnosis using de,2021-01-19,2022-01-26,2022-04-25,18,40
+35461689,10.1016/S2589-7500(22)00025-5,Lancet Digit Health,Validation of the myocardial-ischaemic-injury-index machine learning algorithm to guide th,2021-07-22,2022-02-01,2022-04-25,11,30
+35461686,10.1016/S2589-7500(22)00065-6,Lancet Digit Health,Predicting peritoneal recurrence by artificial intelligence.,2022-02-26,2022-03-23,2022-04-25,2,0
+35461685,10.1016/S2589-7500(22)00046-2,Lancet Digit Health,Moving forward with machine learning models in acute chest pain.,2022-02-24,2022-03-08,2022-04-25,2,0
+35396184,10.1016/S2589-7500(22)00004-8,Lancet Digit Health,Validation and algorithmic audit of a deep learning system for the detection of proximal f,2021-03-01,2022-01-12,2022-04-10,7,0
+35379593,10.1016/S2589-7500(22)00031-0,Lancet Digit Health,Effect of digital psychoeducation and peer support on the mental health of family carers s,2021-09-15,2022-02-04,2022-04-06,20,30
+35341713,10.1016/S2589-7500(22)00024-3,Lancet Digit Health,Mining whole-lung information by artificial intelligence for predicting EGFR genotype and ,2021-08-11,2022-01-28,2022-03-29,29,0
+35341712,10.1016/S2589-7500(21)00274-0,Lancet Digit Health,Identifying and predicting amyotrophic lateral sclerosis clinical subgroups: a population-,2021-04-15,2021-11-26,2022-03-29,17,30
+35337643,10.1016/S2589-7500(22)00022-X,Lancet Digit Health,Deep learning-enabled coronary CT angiography for plaque and stenosis quantification and c,2021-07-30,2022-01-25,2022-03-27,32,28
+35337642,10.1016/S2589-7500(22)00018-8,Lancet Digit Health,Implementation of corticosteroids in treatment of COVID-19 in the ISARIC WHO Clinical Char,2021-08-03,2022-01-13,2022-03-27,24,33
+35337640,10.1016/S2589-7500(22)00030-9,Lancet Digit Health,Building an evidence standards framework for artificial intelligence-enabled digital healt,2022-01-03,2022-02-04,2022-03-27,15,0
+35337639,10.1016/S2589-7500(22)00029-2,Lancet Digit Health,Explainability and artificial intelligence in medicine.,2021-11-26,2022-02-04,2022-03-27,1,0
+35337638,10.1016/S2589-7500(22)00032-2,Lancet Digit Health,"An interactive dashboard to track themes, development maturity, and global equity in clini",2021-12-14,2022-02-07,2022-03-27,12,10
+35279399,10.1016/S2589-7500(21)00272-7,Lancet Digit Health,Real-world evaluation of rapid and laboratory-free COVID-19 triage for emergency care: ext,2021-08-16,2021-11-24,2022-03-14,14,40
+35279398,10.1016/S2589-7500(22)00001-2,Lancet Digit Health,Triage in the time of COVID-19.,2021-12-08,2022-01-06,2022-03-14,2,10
+35272973,10.1016/S2589-7500(22)00027-9,Lancet Digit Health,Artificial intelligence deployment in diabetic retinopathy: the last step of the translati,2022-01-30,2022-02-03,2022-03-12,2,0
+35272972,10.1016/S2589-7500(22)00017-6,Lancet Digit Health,Real-time diabetic retinopathy screening by deep learning in a multisite national screenin,2021-07-07,2022-01-14,2022-03-12,17,0
+35272971,10.1016/S2589-7500(22)00020-6,Lancet Digit Health,Cambridge hybrid closed-loop algorithm in children and adolescents with type 1 diabetes: a,2021-07-23,2022-01-25,2022-03-12,24,0
+35216753,10.1016/S2589-7500(21)00270-3,Lancet Digit Health,Development and validation of an ensemble machine learning framework for detection of all-,2021-07-02,2021-11-23,2022-02-27,15,0
+35216752,10.1016/S2589-7500(21)00278-8,Lancet Digit Health,Deep learning-enabled pelvic ultrasound images for accurate diagnosis of ovarian cancer in,2021-01-19,2021-12-02,2022-02-27,88,0
+35216751,10.1016/S2589-7500(21)00275-2,Lancet Digit Health,Identifying health conditions associated with Alzheimer's disease up to 15 years before di,2021-06-02,2021-11-25,2022-02-27,10,0
+35216750,10.1016/S2589-7500(21)00271-5,Lancet Digit Health,Hybrid closed-loop insulin delivery versus sensor-augmented pump therapy in children aged ,2021-04-14,2021-11-23,2022-02-27,13,0
+35216748,10.1016/S2589-7500(22)00026-7,Lancet Digit Health,Detection of all-cause advanced hepatic fibrosis using an ensemble machine learning framew,2022-01-27,2022-02-03,2022-02-27,1,0
+35216747,10.1016/S2589-7500(21)00293-4,Lancet Digit Health,Health conditions linked to heightened risk of Alzheimer's disease.,2021-12-06,2021-12-14,2022-02-27,2,0
+35090679,10.1016/S2589-7500(21)00249-1,Lancet Digit Health,Neural network-based integration of polygenic and clinical information: development and va,2021-04-20,2021-10-08,2022-01-30,15,0
+35090677,10.1016/S2589-7500(21)00273-9,Lancet Digit Health,Limitations of the new ISO standard for health and wellness apps.,2021-08-26,2021-11-30,2022-01-30,9,0
+35090675,10.1016/S2589-7500(21)00269-7,Lancet Digit Health,A digital health registry with clinical decision support for improving quality of antenata,2021-03-30,2021-11-19,2022-01-30,13,30
+35090674,10.1016/S2589-7500(21)00253-3,Lancet Digit Health,Telemedical cardiac risk assessment by implantable cardiac monitors in patients after myoc,2021-08-05,2021-10-27,2022-01-30,40,0
+35034864,10.1016/S2589-7500(21)00277-6,Lancet Digit Health,Pregnancy and SARS-CoV-2: an opportunity to systematically study the complexity of materna,2021-11-01,2021-11-24,2022-01-18,3,10
+35034863,10.1016/S2589-7500(21)00250-8,Lancet Digit Health,The effect of maternal SARS-CoV-2 infection timing on birth outcomes: a retrospective mult,2021-04-08,2021-10-13,2022-01-18,7,32
+34998740,10.1016/S2589-7500(21)00256-9,Lancet Digit Health,Point-of-care screening for heart failure with reduced ejection fraction using artificial ,2021-08-12,2021-11-01,2022-01-10,21,34
+34998739,10.1016/S2589-7500(21)00281-8,Lancet Digit Health,"Towards an artificial intelligence-augmented, ECG-enabled physical exam.",2021-11-13,2021-12-01,2022-01-10,2,0
+34952679,10.1016/S2589-7500(21)00215-6,Lancet Digit Health,Development and validation of a radiopathomics model to predict pathological complete resp,2021-02-15,2021-09-01,2021-12-26,25,0
+34952676,10.1016/S2589-7500(21)00236-3,Lancet Digit Health,Differences in estimates for 10-year risk of cardiovascular disease in Black versus White ,2021-07-29,2021-10-07,2021-12-26,2,32
+34952675,10.1016/S2589-7500(21)00258-2,Lancet Digit Health,Revising the atherosclerotic cardiovascular disease calculator without race.,2021-10-29,2021-11-08,2021-12-26,4,0
+34952674,10.1016/S2589-7500(21)00228-4,Lancet Digit Health,Development and validation of an artificial neural network algorithm to predict mortality ,2020-12-15,2021-09-10,2021-12-26,12,0
+34863649,10.1016/S2589-7500(21)00235-1,Lancet Digit Health,Automated interpretation of systolic and diastolic function on the echocardiogram: a multi,2021-04-20,2021-10-07,2021-12-06,19,0
+34794931,10.1016/S2589-7500(21)00254-5,Lancet Digit Health,Forging the tools for a computer-aided workflow in transplant pathology.,2021-10-08,2021-10-29,2021-11-20,2,0
+34794930,10.1016/S2589-7500(21)00211-9,Lancet Digit Health,"Deep learning-based classification of kidney transplant pathology: a retrospective, multic",2021-04-07,2021-08-23,2021-11-20,23,0
+34740555,10.1016/S2589-7500(21)00214-4,Lancet Digit Health,Evaluating the reliability of mobility metrics from aggregated mobile phone data as proxie,2021-05-23,2021-09-01,2021-11-07,7,24
+38135556,10.1016/S2589-7500(23)00203-0,Lancet Digit Health,Deep learning for [18F]fluorodeoxyglucose-PET-CT classification in patients with lymphoma:,2023-06-04,2023-09-26,2023-12-23,17,33
+38071118,10.1016/S2589-7500(23)00218-2,Lancet Digit Health,Development and validation of open-source deep neural networks for comprehensive chest x-r,2022-11-29,2023-10-16,2023-12-10,16,0
+38065779,10.1016/S2589-7500(23)00230-3,Lancet Digit Health,Expanding electrocardiogram abilities for postoperative mortality prediction with deep lea,2023-10-30,2023-11-09,2023-12-09,2,0
+38065778,10.1016/S2589-7500(23)00220-0,Lancet Digit Health,Electrocardiographic deep learning for predicting post-procedural mortality: a model devel,2022-09-15,2023-10-18,2023-12-09,24,30
+37996339,10.1016/S2589-7500(23)00219-4,Lancet Digit Health,Operational greenhouse-gas emissions of deep learning in digital pathology: a modelling st,2023-05-26,2023-10-16,2023-11-24,9,48
+37977999,10.1016/S2589-7500(23)00222-4,Lancet Digit Health,The MAIDA initiative: establishing a framework for global medical-imaging data sharing.,2023-06-24,2023-10-23,2023-11-18,4,0
+37968170,10.1016/S2589-7500(23)00204-2,Lancet Digit Health,Evaluating the effect of a digital health intervention to enhance physical activity in peo,2023-06-29,2023-09-27,2023-11-16,32,0
+38000874,10.1016/S2589-7500(23)00199-1,Lancet Digit Health,A deep learning system for detection of early Barrett's neoplasia: a model development and,2023-06-21,2023-09-18,2023-11-25,32,0
+38000873,10.1016/S2589-7500(23)00179-6,Lancet Digit Health,Predicting seizure recurrence after an initial seizure-like episode from routine clinical ,2023-04-10,2023-08-31,2023-11-25,10,61
+38000871,10.1016/S2589-7500(23)00161-9,Lancet Digit Health,Drone delivery of automated external defibrillators compared with ambulance arrival in rea,2023-02-06,2023-08-10,2023-11-25,11,0
+38000870,10.1016/S2589-7500(23)00184-X,Lancet Digit Health,The digital-physical divide for pathology research.,2023-02-02,2023-09-13,2023-11-25,5,0
+38000869,10.1016/S2589-7500(23)00205-4,Lancet Digit Health,Predicting seizure recurrence from medical records using large language models.,2023-09-13,2023-09-28,2023-11-25,2,0
+38000868,10.1016/S2589-7500(23)00217-0,Lancet Digit Health,Automated external defibrillator drones and their role in emergency response.,2023-09-01,2023-10-16,2023-11-25,2,0
+37940490,10.1016/S2589-7500(23)00207-8,Lancet Digit Health,Charting a functional brain growth curve to track early neurodevelopment.,2023-10-02,2023-10-10,2023-11-09,2,0
+37940489,10.1016/S2589-7500(23)00198-X,Lancet Digit Health,Early qualitative and quantitative amplitude-integrated electroencephalogram and raw elect,2023-05-25,2023-09-18,2023-11-09,9,0
+37890904,10.1016/S2589-7500(23)00175-9,Lancet Digit Health,Risk factors for severe respiratory syncytial virus infection during the first year of lif,2023-03-30,2023-08-16,2023-10-28,18,0
+37890903,10.1016/S2589-7500(23)00151-6,Lancet Digit Health,Effect of telehealth-integrated antenatal care on pregnancy outcomes in Australia: an inte,2022-08-16,2023-07-26,2023-10-28,7,0
+37890902,10.1016/S2589-7500(23)00148-6,Lancet Digit Health,Development and validation of artificial intelligence-based prescreening of large-bowel bi,2022-11-10,2023-07-25,2023-10-28,23,0
+37890901,10.1016/S2589-7500(23)00149-8,Lancet Digit Health,A multi-platform approach to identify a blood-based host protein signature for distinguish,2022-10-28,2023-07-26,2023-10-28,40,0
+37890900,10.1016/S2589-7500(23)00200-5,Lancet Digit Health,Targeting respiratory syncytial virus vaccination using individual prediction.,2023-09-10,2023-09-19,2023-10-28,2,0
+37775472,10.1016/S2589-7500(23)00160-7,Lancet Digit Health,Validation of a real-time biliopancreatic endoscopic ultrasonography analytical device in ,2023-04-03,2023-08-09,2023-09-30,16,0
+37770336,10.1016/S2589-7500(23)00183-8,Lancet Digit Health,Stepping stones and challenges in the use of artificial intelligence in the diagnosis of e,2023-07-29,2023-09-13,2023-09-29,2,0
+37770335,10.1016/S2589-7500(23)00136-X,Lancet Digit Health,Detection and subtyping of hepatic echinococcosis from plain CT images with deep learning:,2022-10-05,2023-07-11,2023-09-29,19,0
+37640599,10.1016/S2589-7500(23)00147-4,Lancet Digit Health,Warning symptoms associated with imminent sudden cardiac arrest: a population-based case-c,2022-11-18,2023-07-18,2023-08-29,16,23
+39492289,10.1016/S2589-7500(23)00202-9,Lancet Digit Health,Using fine-tuned large language models to parse clinical notes in musculoskeletal pain dis,2023-04-10,2023-09-22,2024-11-04,4,0
+37775188,10.1016/S2589-7500(23)00130-9,Lancet Digit Health,Comparison of humans versus mobile phone-powered artificial intelligence for the diagnosis,2022-11-18,2023-07-06,2023-09-30,41,0
+37775187,10.1016/S2589-7500(23)00109-7,Lancet Digit Health,Internet-delivered cognitive behavioural therapy programme to reduce depressive symptoms i,2022-09-12,2023-05-25,2023-09-30,30,45
+37775185,10.1016/S2589-7500(23)00180-2,Lancet Digit Health,Diagnosis of suspicious pigmented lesions in specialist settings with artificial intellige,2023-08-29,2023-09-11,2023-09-30,2,0
+37775184,10.1016/S2589-7500(23)00162-0,Lancet Digit Health,Early intervention for depressive symptoms in multiple sclerosis.,2023-08-04,2023-08-11,2023-09-30,1,0
+37726187,10.1016/S2589-7500(23)00178-4,Lancet Digit Health,Expanding people-centred primary health care with digital adaptation kits for self-care in,2023-06-07,2023-08-30,2023-09-20,3,0
+37690911,10.1016/S2589-7500(23)00153-X,Lancet Digit Health,Artificial intelligence for breast cancer detection in screening mammography in Sweden: a ,2023-04-05,2023-07-28,2023-09-11,6,0
+37690910,10.1016/S2589-7500(23)00176-0,Lancet Digit Health,AI for mammography screening: enter evidence from prospective trials.,2023-08-10,2023-08-17,2023-09-11,2,0
+37652841,10.1016/S2589-7500(23)00135-8,Lancet Digit Health,Development and validation of an interpretable machine learning-based calculator for predi,2022-11-29,2023-07-11,2023-09-01,34,0
+37599148,10.1016/S2589-7500(23)00155-3,Lancet Digit Health,Important steps for artificial intelligence-based risk assessment of older adults.,2023-07-21,2023-08-01,2023-08-21,1,0
+37599147,10.1016/S2589-7500(23)00128-0,Lancet Digit Health,Illness severity assessment of older adults in critical illness using machine learning (EL,2022-09-29,2023-06-22,2023-08-21,15,34
+37567794,10.1016/S2589-7500(23)00154-1,Lancet Digit Health,Classification of pulmonary nodules in the era of precision medicine.,2023-06-29,2023-07-31,2023-08-12,1,0
+37567793,10.1016/S2589-7500(23)00125-5,Lancet Digit Health,"Accurate classification of pulmonary nodules by a combined model of clinical, imaging, and",2022-06-30,2023-06-16,2023-08-12,21,0
+37625894,10.1016/S2589-7500(23)00106-1,Lancet Digit Health,Pan-mediastinal neoplasm diagnosis via nationwide federated learning: a multicentre cohort,2022-10-15,2023-05-17,2023-08-26,92,0
+37543513,10.1016/S2589-7500(23)00127-9,Lancet Digit Health,Harnessing wearables and mobile phones to improve glycemic outcomes with automated insulin,2023-06-12,2023-06-22,2023-08-06,1,0
+37543512,10.1016/S2589-7500(23)00112-7,Lancet Digit Health,Integrating metabolic expenditure information from wearable fitness sensors into an AI-aug,2023-02-01,2023-06-06,2023-08-06,15,32
+37537122,10.1016/S2589-7500(23)00131-0,Lancet Digit Health,Vaccines for pregnant people: are we missing the forest for the trees?,2023-06-23,2023-07-07,2023-08-04,1,0
+37537121,10.1016/S2589-7500(23)00093-6,Lancet Digit Health,Effect of COVID-19 vaccination and booster on maternal-fetal outcomes: a retrospective coh,2022-08-14,2023-05-02,2023-08-04,7,36
+37516557,10.1016/S2589-7500(23)00108-5,Lancet Digit Health,Trends in invasive bacterial diseases during the first 2 years of the COVID-19 pandemic: a,2022-12-12,2023-05-25,2023-07-30,99,30
+37474439,10.1016/S2589-7500(23)00094-8,Lancet Digit Health,Prediction of metastatic pheochromocytoma and paraganglioma: a machine learning modelling ,2022-10-21,2023-05-03,2023-07-21,23,30
+37507196,10.1016/S2589-7500(23)00091-2,Lancet Digit Health,Ultrasound identification of hepatic echinococcosis using a deep convolutional neural netw,2022-09-03,2023-04-29,2023-07-29,41,0
+37422342,10.1016/S2589-7500(23)00107-3,Lancet Digit Health,Artificial intelligence-based model to classify cardiac functions from chest radiographs: ,2022-12-19,2023-05-23,2023-07-09,11,0
+37419844,10.1016/S2589-7500(23)00098-5,Lancet Digit Health,Individualising the recovery process through eHealth.,2023-05-10,2023-05-12,2023-07-08,2,0
+37419843,10.1016/S2589-7500(23)00084-5,Lancet Digit Health,Personalised electronic health programme for recovery after major abdominal surgery: a mul,2022-11-10,2023-04-12,2023-07-08,9,0
+37393162,10.1016/S2589-7500(23)00095-X,Lancet Digit Health,Multimodal recurrence scoring system for prediction of clear cell renal cell carcinoma out,2022-12-21,2023-05-03,2023-07-02,30,0
+37393161,10.1016/S2589-7500(23)00111-5,Lancet Digit Health,Multimodal prognostic models and recent therapeutic advances.,2023-05-26,2023-06-05,2023-07-02,2,0
+37295972,10.1016/S2589-7500(23)00097-3,Lancet Digit Health,Effect of epileptic activity on outcome for critically ill patients.,2023-05-09,2023-05-12,2023-06-10,2,0
+37295971,10.1016/S2589-7500(23)00088-2,Lancet Digit Health,Effects of epileptiform activity on discharge outcome in critically ill patients in the US,2022-10-13,2023-04-19,2023-06-10,12,25
+37391265,10.1016/S2589-7500(23)00051-1,Lancet Digit Health,Patient emergency health-care use before hospital admission for COVID-19 and long-term out,2022-08-12,2023-02-23,2023-07-01,23,29
+37391263,10.1016/S2589-7500(23)00090-0,Lancet Digit Health,Position statement on clinical evaluation of imaging AI.,2023-03-22,2023-04-27,2023-07-01,7,0
+37268451,10.1016/S2589-7500(23)00082-1,Lancet Digit Health,Predicting benefit from immune checkpoint inhibitors in patients with non-small-cell lung ,2022-09-16,2023-04-04,2023-06-03,49,30
+37268450,10.1016/S2589-7500(23)00086-9,Lancet Digit Health,Deep learning-based radiomics: pacing immunotherapy in lung cancer.,2023-03-27,2023-04-18,2023-06-03,2,0
+37211455,10.1016/S2589-7500(23)00067-5,Lancet Digit Health,"Development, multi-institutional external validation, and algorithmic audit of an artifici",2022-07-01,2023-03-22,2023-05-22,28,0
+37210230,10.1016/S2589-7500(23)00089-4,Lancet Digit Health,Will deep learning change outcomes in liver transplant?,2023-04-15,2023-04-21,2023-05-21,1,0
+37210229,10.1016/S2589-7500(23)00068-7,Lancet Digit Health,A deep learning framework for personalised dynamic diagnosis of graft fibrosis after liver,2022-07-14,2023-03-23,2023-05-21,15,0
+37202336,10.1016/S2589-7500(23)00056-0,Lancet Digit Health,Profiling post-COVID-19 condition across different variants of SARS-CoV-2: a prospective l,2022-06-25,2023-03-03,2023-05-19,21,29
+37236698,10.1016/S2589-7500(23)00053-5,Lancet Digit Health,Comprehensive genomic profiling and treatment patterns across ancestries in advanced prost,2022-07-29,2023-02-28,2023-05-27,16,0
+37236697,10.1016/S2589-7500(23)00065-1,Lancet Digit Health,Identifying subtypes of heart failure from three electronic health record sources with mac,2022-07-07,2023-03-16,2023-05-27,13,0
+37236696,10.1016/S2589-7500(23)00070-5,Lancet Digit Health,Clinical ground truth in machine learning for early sepsis diagnosis.,2022-11-10,2023-03-30,2023-05-27,3,0
+37236695,10.1016/S2589-7500(23)00069-9,Lancet Digit Health,Wearable devices: underrepresentation in the ageing society.,2022-12-16,2023-03-30,2023-05-27,7,0
+37236694,10.1016/S2589-7500(23)00085-7,Lancet Digit Health,Advancing heart failure research using machine learning.,2023-04-12,2023-04-17,2023-05-27,1,0
+37120418,10.1016/S2589-7500(23)00083-3,Lancet Digit Health,Ethics of large language models in medicine and medical research.,2023-02-06,2023-04-11,2023-04-30,6,0
+37088692,10.1016/S2589-7500(23)00050-X,Lancet Digit Health,Development and international validation of custom-engineered and code-free deep-learning ,2022-04-20,2023-02-14,2023-04-24,33,48
+37087370,10.1016/S2589-7500(23)00046-8,Lancet Digit Health,Screening for extranodal extension in HPV-associated oropharyngeal carcinoma: evaluation o,2022-10-12,2023-02-21,2023-04-23,21,54
+37061351,10.1016/S2589-7500(23)00043-2,Lancet Digit Health,Associations of physical frailty with health outcomes and brain structure in 483 033 middl,2022-08-29,2023-02-16,2023-04-16,11,31
+37061350,10.1016/S2589-7500(23)00066-3,Lancet Digit Health,Steps in the right direction for physical frailty research.,2023-03-07,2023-03-23,2023-04-16,2,0
+37100542,10.1016/S2589-7500(23)00027-4,Lancet Digit Health,Artificial intelligence for tumour tissue detection and histological regression grading in,2022-08-07,2023-02-02,2023-04-27,16,0
+37100541,10.1016/S2589-7500(23)00054-7,Lancet Digit Health,Automated machine learning as a partner in predictive modelling.,2022-12-04,2023-02-23,2023-04-27,2,0
+37100540,10.1016/S2589-7500(23)00044-4,Lancet Digit Health,Augmenting digital twins with federated learning in medicine.,2022-11-09,2023-02-20,2023-04-27,4,10
+37032200,10.1016/S2589-7500(23)00028-6,Lancet Digit Health,Health4Life eHealth intervention to modify multiple lifestyle risk behaviours among adoles,2022-10-06,2023-02-06,2023-04-10,26,0
+36966119,10.1016/S2589-7500(23)00047-X,Lancet Digit Health,AI for identification of systemic biomarkers from external eye photos: a promising field i,2023-02-13,2023-02-22,2023-03-26,1,0
+36966118,10.1016/S2589-7500(23)00022-5,Lancet Digit Health,A deep learning model for novel systemic biomarkers in photographs of the external eye: a ,2022-07-15,2023-01-31,2023-03-26,19,30
+36963911,10.1016/S2589-7500(23)00004-3,Lancet Digit Health,Leveraging electronic medical record-embedded standardised electroencephalogram reporting ,2022-06-30,2023-01-06,2023-03-25,10,29
+36963910,10.1016/S2589-7500(22)00253-9,Lancet Digit Health,Paediatric safety assessment of BNT162b2 vaccination in a multistate hospital-based electr,2022-09-20,2022-12-21,2023-03-25,10,0
+36963909,10.1016/S2589-7500(23)00001-8,Lancet Digit Health,Factors associated with enrolment into a national COVID-19 pulse oximetry remote monitorin,2022-06-28,2022-12-31,2023-03-25,11,28
+36963908,10.1016/S2589-7500(22)00255-2,Lancet Digit Health,Development and validation of a diagnostic aid for convulsive epilepsy in sub-Saharan Afri,2021-09-07,2022-12-20,2023-03-25,12,31
+36963907,10.1016/S2589-7500(23)00045-6,Lancet Digit Health,Machine learning COVID-19 detection from wearables.,2022-10-10,2023-02-21,2023-03-25,10,14
+36963906,10.1016/S2589-7500(23)00041-9,Lancet Digit Health,Can electronic medical records predict neonatal seizures?,2023-01-31,2023-02-13,2023-03-25,2,0
+36894409,10.1016/S2589-7500(23)00048-1,Lancet Digit Health,Using ChatGPT to write patient clinic letters.,2022-12-22,2023-02-22,2023-03-10,4,0
+36872190,10.1016/S2589-7500(23)00042-0,Lancet Digit Health,Could an electronic tool to assess asthma control with a 1-day timeframe be useful for cli,2023-02-10,2023-02-15,2023-03-06,2,0
+36872189,10.1016/S2589-7500(23)00020-1,Lancet Digit Health,Development and validation of an electronic daily control score for asthma (e-DASTHMA): a ,2022-08-05,2023-01-24,2023-03-06,74,0
+36828605,10.1016/S2589-7500(22)00231-X,Lancet Digit Health,Home telemonitoring versus hospital care in complicated pregnancies in the Netherlands: a ,2022-06-01,2022-11-14,2023-02-25,12,0
+36828602,10.1016/S2589-7500(23)00017-1,Lancet Digit Health,US COVID-19 clinical trial leadership gender disparities.,2022-10-28,2023-01-12,2023-02-25,4,10
+36828601,10.1016/S2589-7500(23)00018-3,Lancet Digit Health,Safe care from home for complicated pregnancies?,2023-01-10,2023-01-19,2023-02-25,2,0
+36754725,10.1016/S2589-7500(23)00019-5,Lancet Digit Health,Generating scholarly content with ChatGPT: ethical challenges for medical publishing.,2022-12-23,2023-01-19,2023-02-09,5,0
+36754724,10.1016/S2589-7500(23)00021-3,Lancet Digit Health,ChatGPT: the future of discharge summaries?,2022-12-29,2023-01-24,2023-02-09,2,0
+36707189,10.1016/S2589-7500(22)00232-1,Lancet Digit Health,Predicting severe chronic obstructive pulmonary disease exacerbations using quantitative C,2022-05-30,2022-11-11,2023-01-28,27,32
+36707186,10.1016/S2589-7500(22)00237-0,Lancet Digit Health,Are CT-based exacerbation prediction models ready for use in chronic obstructive pulmonary,2022-11-26,2022-12-07,2023-01-28,2,0
+36528542,10.1016/S2589-7500(22)00229-1,Lancet Digit Health,Implementing automation in deep brain stimulation: has the time come?,2022-11-14,2022-11-15,2022-12-18,2,0
+36528541,10.1016/S2589-7500(22)00214-X,Lancet Digit Health,"Automated deep brain stimulation programming based on electrode location: a randomised, cr",2022-06-15,2022-11-01,2022-12-18,10,0
+36496303,10.1016/S2589-7500(22)00210-2,Lancet Digit Health,Interpretable deep learning model to predict the molecular classification of endometrial c,2022-06-22,2022-10-13,2022-12-11,24,0
+36543475,10.1016/S2589-7500(22)00213-8,Lancet Digit Health,A non-invasive artificial intelligence approach for the prediction of human blastocyst plo,2022-01-28,2022-10-28,2022-12-22,17,35
+36460578,10.1016/S2589-7500(22)00187-X,Lancet Digit Health,Identifying and visualising multimorbidity and comorbidity patterns in patients in the Eng,2022-03-01,2022-09-19,2022-12-03,15,0
+36424338,10.1016/S2589-7500(22)00216-3,Lancet Digit Health,Enhancing systematic review with machine learning modelling for global health research.,2022-11-02,2022-11-04,2022-11-25,1,0
+39665944,10.1016/S2589-7500(24)00216-4,Lancet Digit Health,Using artificial intelligence technologies to improve skin cancer detection in primary car,2024-03-28,2024-09-21,2024-12-12,3,0
+39419729,10.1016/S2589-7500(24)00192-4,Lancet Digit Health,Effect of the i2TransHealth e-health intervention on psychological distress among transgen,2023-08-01,2024-08-14,2024-10-18,8,0
+39368871,10.1016/S2589-7500(24)00148-1,Lancet Digit Health,Emotional competence self-help app versus cognitive behavioural self-help app versus self-,2024-05-21,2024-07-03,2024-10-06,32,0
+39368870,10.1016/S2589-7500(24)00149-3,Lancet Digit Health,Emotional competence self-help mobile phone app versus cognitive behavioural self-help app,2024-05-21,2024-07-03,2024-10-06,32,0
+39455193,10.1016/S2589-7500(24)00173-0,Lancet Digit Health,Strategies for integrating artificial intelligence into mammography screening programmes: ,2023-12-11,2024-07-25,2024-10-26,9,0
+39455192,10.1016/S2589-7500(24)00172-9,Lancet Digit Health,Artificial intelligence-enabled electrocardiogram for mortality and cardiovascular risk es,2024-03-03,2024-07-25,2024-10-26,22,0
+39455191,10.1016/S2589-7500(24)00169-9,Lancet Digit Health,COVID-19 testing and reporting behaviours in England across different sociodemographic gro,2023-11-27,2024-07-16,2024-10-26,21,0
+39379267,10.1016/S2589-7500(24)00197-3,Lancet Digit Health,Combating medical misinformation and rebuilding trust in the USA.,2024-07-05,2024-09-06,2024-10-09,3,11
+39332855,10.1016/S2589-7500(24)00147-X,Lancet Digit Health,Symptom trajectories in infancy for the prediction of subsequent wheeze and asthma in the ,2024-05-06,2024-06-28,2024-09-28,18,0
+39332854,10.1016/S2589-7500(24)00153-5,Lancet Digit Health,Highly sensitive detection platform-based diagnosis of oesophageal squamous cell carcinoma,2023-10-10,2024-07-07,2024-09-28,24,0
+39332853,10.1016/S2589-7500(24)00152-3,Lancet Digit Health,"Impact of the COVID-19 pandemic on health-care use among patients with cancer in England, ",2023-09-04,2024-07-07,2024-09-28,9,0
+39332852,10.1016/S2589-7500(24)00150-X,Lancet Digit Health,Deep learning assessment of senescence-associated nuclear morphologies in mammary tissue f,2023-05-22,2024-07-04,2024-09-28,10,0
+39214763,10.1016/S2589-7500(24)00191-2,Lancet Digit Health,Diagnostic accuracy of a machine learning algorithm using point-of-care high-sensitivity c,2024-07-29,2024-08-13,2024-08-31,11,0
+39214761,10.1016/S2589-7500(24)00193-6,Lancet Digit Health,Digital technology and new care pathways will redefine the cardiovascular workforce.,2024-08-07,2024-08-19,2024-08-31,3,0
+39179310,10.1016/S2589-7500(24)00123-7,Lancet Digit Health,Evaluation of risk prediction models to select lung cancer screening participants in Europ,2023-08-09,2024-06-06,2024-08-24,18,36
+39179308,10.1016/S2589-7500(24)00171-7,Lancet Digit Health,Reporting standards to support cost-effectiveness evaluations of AI-driven health care.,2024-04-24,2024-07-21,2024-08-24,2,0
+39138096,10.1016/S2589-7500(24)00140-7,Lancet Digit Health,Physiological presentation and risk factors of long COVID in the UK using smartphones and ,2023-03-03,2024-06-10,2024-08-14,12,30
+39033067,10.1016/S2589-7500(24)00118-3,Lancet Digit Health,Computer-aided detection of tuberculosis from chest radiographs in a tuberculosis prevalen,2022-10-25,2024-06-03,2024-07-21,15,23
+39059889,10.1016/S2589-7500(24)00099-2,Lancet Digit Health,Human mobility patterns in Brazil to inform sampling sites for early pathogen detection an,2024-01-12,2024-05-10,2024-07-27,14,0
+39059888,10.1016/S2589-7500(24)00097-9,Lancet Digit Health,The diagnostic and triage accuracy of the GPT-3 artificial intelligence model: an observat,2023-04-13,2024-05-03,2024-07-27,7,0
+39059887,10.1016/S2589-7500(24)00096-7,Lancet Digit Health,Feasibility of wearable sensor signals and self-reported symptoms to prompt at-home testin,2023-05-03,2024-05-02,2024-07-27,18,30
+39059885,10.1016/S2589-7500(24)00144-4,Lancet Digit Health,Evaluation and communication of pandemic scenarios.,2024-01-09,2024-06-25,2024-07-27,13,0
+39059884,10.1016/S2589-7500(24)00112-2,Lancet Digit Health,"Migration background, skin colour, gender, and infectious disease presentation in clinical",2024-02-22,2024-05-14,2024-07-27,5,0
+39059883,10.1016/S2589-7500(24)00145-6,Lancet Digit Health,Remote illness detection faces a trust barrier.,2024-06-19,2024-06-26,2024-07-27,1,0
+38987116,10.1016/S2589-7500(24)00116-X,Lancet Digit Health,A prognostic and predictive computational pathology immune signature for ductal carcinoma ,2024-01-14,2024-05-23,2024-07-11,8,30
+38981834,10.1016/S2589-7500(24)00113-4,Lancet Digit Health,A deep learning-based model to estimate pulmonary function from chest x-rays: multi-instit,2023-04-21,2024-05-14,2024-07-10,14,0
+38926009,10.1016/S2589-7500(24)00115-8,Lancet Digit Health,The next generation of evidence synthesis for diagnostic accuracy studies in artificial in,2024-03-15,2024-05-21,2024-06-27,4,0
+38906616,10.1016/S2589-7500(24)00065-7,Lancet Digit Health,A prognostic model for use before elective surgery to estimate the risk of postoperative p,2022-07-27,2024-03-25,2024-06-22,2,38
+38906615,10.1016/S2589-7500(24)00094-3,Lancet Digit Health,Automated cooling tower detection through deep learning for Legionnaires' disease outbreak,2023-02-23,2024-05-01,2024-06-22,11,28
+38906614,10.1016/S2589-7500(24)00092-X,Lancet Digit Health,Simple meal announcements and pramlintide delivery versus carbohydrate counting in type 1 ,2023-07-14,2024-04-27,2024-06-22,14,0
+38906613,10.1016/S2589-7500(24)00088-8,Lancet Digit Health,External validation of the myocardial-ischaemic-injury-index machine learning algorithm fo,2024-01-08,2024-04-22,2024-06-22,18,0
+38906612,10.1016/S2589-7500(24)00087-6,Lancet Digit Health,Proteomic prediction of diverse incident diseases: a machine learning-guided biomarker dis,2023-03-31,2024-04-19,2024-06-22,7,0
+38906611,10.1016/S2589-7500(24)00070-0,Lancet Digit Health,The efficacy of automated feedback after internet-based depression screening (DISCOVER): a,2023-11-27,2024-04-03,2024-06-22,6,0
+38906607,10.1016/S2589-7500(24)00111-0,Lancet Digit Health,From text to treatment: the crucial role of validation for generative large language model,2024-02-20,2024-05-13,2024-06-22,7,0
+38906606,10.1016/S2589-7500(24)00086-4,Lancet Digit Health,Virtual pregnancies: predicting and preventing pregnancy complications with digital twins.,2024-03-26,2024-04-18,2024-06-22,2,0
+38906605,10.1016/S2589-7500(24)00117-1,Lancet Digit Health,Advancing non-ST-elevation myocardial infarction risk assessment with artificial intellige,2024-05-16,2024-05-30,2024-06-22,2,0
+38849291,10.1016/S2589-7500(24)00085-2,Lancet Digit Health,Deep learning models for thyroid nodules diagnosis of fine-needle aspiration biopsy: a ret,2023-03-24,2024-04-17,2024-06-08,17,0
+38816299,10.1016/S2589-7500(24)00090-6,Lancet Digit Health,Artificial intelligence in medicine and the pursuit of environmentally responsible science,2023-09-06,2024-04-25,2024-05-31,5,0
+38789142,10.1016/S2589-7500(24)00067-0,Lancet Digit Health,Effectiveness of proactive video therapy for problematic alcohol use on treatment initiati,2023-03-24,2024-03-26,2024-05-25,5,0
+38789141,10.1016/S2589-7500(24)00063-3,Lancet Digit Health,Prediction of diagnosis and diastolic filling pressure by AI-enhanced cardiac MRI: a model,2023-12-01,2024-03-14,2024-05-25,29,0
+38789140,10.1016/S2589-7500(24)00062-1,Lancet Digit Health,Multi-cancer risk stratification based on national health data: a retrospective modelling ,2022-10-14,2024-03-13,2024-05-25,9,0
+38789139,10.1016/S2589-7500(24)00050-5,Lancet Digit Health,Predicting type 1 diabetes in children using electronic health records in primary care in ,2023-03-06,2024-03-05,2024-05-25,7,0
+38789138,10.1016/S2589-7500(24)00068-2,Lancet Digit Health,Africa CDC spearheading the strengthening of health information exchange in Africa.,2024-01-04,2024-04-01,2024-05-25,8,0
+38789137,10.1016/S2589-7500(24)00093-1,Lancet Digit Health,Harnessing population-wide health data to predict cancer risk.,2024-04-29,2024-04-30,2024-05-25,2,0
+38789136,10.1016/S2589-7500(24)00072-4,Lancet Digit Health,Challenges of detecting childhood diabetes in primary care.,2024-03-19,2024-04-05,2024-05-25,3,0
+38664108,10.1016/S2589-7500(24)00060-8,Lancet Digit Health,The effect of using a large language model to respond to patient messages.,2024-01-04,2024-03-12,2024-04-26,17,10
+38670744,10.1016/S2589-7500(24)00028-1,Lancet Digit Health,Data challenges for international health emergencies: lessons learned from ten internation,2023-11-23,2024-02-05,2024-04-27,20,0
+38670743,10.1016/S2589-7500(24)00048-7,Lancet Digit Health,AI-assisted capsule endoscopy reading in suspected small bowel bleeding: a multicentre pro,2023-08-08,2024-03-04,2024-04-27,29,0
+38670742,10.1016/S2589-7500(24)00046-3,Lancet Digit Health,"Effectiveness of a universal, school-based, online programme for the prevention of anxiety",2022-08-03,2024-02-29,2024-04-27,20,0
+38670741,10.1016/S2589-7500(24)00044-X,Lancet Digit Health,Evaluation of a machine-learning model based on laboratory parameters for the prediction o,2023-03-08,2024-02-23,2024-04-27,13,0
+38670740,10.1016/S2589-7500(24)00021-9,Lancet Digit Health,Machine learning to understand risks for severe COVID-19 outcomes: a retrospective cohort ,2022-11-16,2024-01-30,2024-04-27,11,34
+38670737,10.1016/S2589-7500(24)00059-1,Lancet Digit Health,Measuring fairness preferences is important for artificial intelligence in health care.,2023-10-15,2024-03-08,2024-04-27,11,0
+38670736,10.1016/S2589-7500(24)00066-9,Lancet Digit Health,Advances in decision support for diagnosis and early management of acute leukaemia.,2024-03-17,2024-03-26,2024-04-27,3,0
+38519155,10.1016/S2589-7500(24)00025-6,Lancet Digit Health,Foresight-a generative pretrained transformer for modelling of patient timelines using ele,2023-01-18,2024-02-05,2024-03-23,12,27
+38519154,10.1016/S2589-7500(23)00268-6,Lancet Digit Health,A deep-learning model for intracranial aneurysm detection on CT angiography images in Chin,2023-02-07,2023-12-29,2024-03-23,34,0
+38519153,10.1016/S2589-7500(23)00265-0,Lancet Digit Health,Diagnosis and prognosis of abnormal cardiac scintigraphy uptake suggestive of cardiac amyl,2023-09-15,2023-12-11,2024-03-23,28,0
+38519152,10.1016/S2589-7500(23)00267-4,Lancet Digit Health,Machine learning-enabled maternal risk assessment for women with pre-eclampsia (the PIERS-,2023-07-25,2023-12-14,2024-03-23,15,36
+38519151,10.1016/S2589-7500(24)00022-0,Lancet Digit Health,Social determinants of health: the need for data science methods and capacity.,2023-07-10,2024-01-31,2024-03-23,10,10
+38519150,10.1016/S2589-7500(24)00045-1,Lancet Digit Health,Foresight-generative pretrained transformer for the prediction of patient timelines.,2024-02-27,2024-02-27,2024-03-23,2,0
+38519149,10.1016/S2589-7500(24)00024-4,Lancet Digit Health,Artificial intelligence-driven cardiac amyloidosis screening.,2024-01-12,2024-01-31,2024-03-23,2,0
+38443309,10.1016/S2589-7500(24)00002-5,Lancet Digit Health,Bihormonal fully closed-loop system for the treatment of type 1 diabetes: a real-world mul,2023-05-17,2024-01-05,2024-03-06,18,0
+38395540,10.1016/S2589-7500(23)00249-2,Lancet Digit Health,Automated cardiac arrest detection using a photoplethysmography wristband: algorithm devel,2023-08-25,2023-11-30,2024-02-24,14,0
+38395539,10.1016/S2589-7500(23)00252-2,Lancet Digit Health,Optimal strategies to improve uptake of and adherence to HIV prevention among young people,2023-05-23,2023-12-05,2024-02-24,14,32
+38395538,10.1016/S2589-7500(23)00243-1,Lancet Digit Health,Comparison of eight prehospital early warning scores in life-threatening acute respiratory,2023-06-02,2023-11-22,2024-02-24,10,0
+38395537,10.1016/S2589-7500(23)00242-X,Lancet Digit Health,A computer-aided polyp detection system in screening and surveillance colonoscopy: an inte,2023-06-15,2023-11-16,2024-02-24,15,0
+38395532,10.1016/S2589-7500(24)00020-7,Lancet Digit Health,Just in time: detecting cardiac arrest with smartwatch technology.,2023-12-18,2024-01-18,2024-02-24,2,8
+38395531,10.1016/S2589-7500(24)00023-2,Lancet Digit Health,Reducing HIV incidence among young people identifying as sexual and gender minorities.,2024-01-22,2024-01-31,2024-02-24,2,0
+38212232,10.1016/S2589-7500(23)00245-5,Lancet Digit Health,Artificial intelligence-based models enabling accurate diagnosis of ovarian cancer using l,2022-11-13,2023-11-22,2024-01-12,17,0
+38278619,10.1016/S2589-7500(23)00226-1,Lancet Digit Health,A scalable federated learning solution for secondary care using low-cost microcomputing: p,2023-01-04,2023-10-30,2024-01-27,11,0
+38278617,10.1016/S2589-7500(23)00266-2,Lancet Digit Health,Addressing machine learning challenges with microcomputing and federated learning.,2023-11-30,2023-12-13,2024-01-27,1,0
+38278613,10.1016/S2589-7500(23)00228-5,Lancet Digit Health,Using routine health-care data to search for unknown transfusion-transmitted disease: a na,2023-02-07,2023-11-08,2024-01-27,4,0
+38135556,10.1016/S2589-7500(23)00203-0,Lancet Digit Health,Deep learning for [18F]fluorodeoxyglucose-PET-CT classification in patients with lymphoma:,2023-06-04,2023-09-26,2023-12-23,17,33
+38123254,10.1016/S2589-7500(23)00208-X,Lancet Digit Health,"End-to-end prognostication in colorectal cancer by deep learning: a retrospective, multice",2023-04-05,2023-10-12,2023-12-21,19,0
+38123253,10.1016/S2589-7500(23)00246-7,Lancet Digit Health,Preventing harm from non-conscious bias in medical generative AI.,2023-11-17,2023-11-27,2023-12-21,1,0
+38123252,10.1016/S2589-7500(23)00225-X,Lancet Digit Health,Assessing the potential of GPT-4 to perpetuate racial and gender biases in health care: a ,2023-07-17,2023-10-26,2023-12-21,12,0
+38071118,10.1016/S2589-7500(23)00218-2,Lancet Digit Health,Development and validation of open-source deep neural networks for comprehensive chest x-r,2022-11-29,2023-10-16,2023-12-10,16,0
+38065779,10.1016/S2589-7500(23)00230-3,Lancet Digit Health,Expanding electrocardiogram abilities for postoperative mortality prediction with deep lea,2023-10-30,2023-11-09,2023-12-09,2,0
+38065778,10.1016/S2589-7500(23)00220-0,Lancet Digit Health,Electrocardiographic deep learning for predicting post-procedural mortality: a model devel,2022-09-15,2023-10-18,2023-12-09,24,30
+37996339,10.1016/S2589-7500(23)00219-4,Lancet Digit Health,Operational greenhouse-gas emissions of deep learning in digital pathology: a modelling st,2023-05-26,2023-10-16,2023-11-24,9,48
+37977999,10.1016/S2589-7500(23)00222-4,Lancet Digit Health,The MAIDA initiative: establishing a framework for global medical-imaging data sharing.,2023-06-24,2023-10-23,2023-11-18,4,0
+37968170,10.1016/S2589-7500(23)00204-2,Lancet Digit Health,Evaluating the effect of a digital health intervention to enhance physical activity in peo,2023-06-29,2023-09-27,2023-11-16,32,0
+41436327,10.1016/j.landig.2025.100939,Lancet Digit Health,Bringing tuberculosis genomics to the clinic: development and validation of a comprehensiv,2024-11-21,2025-10-10,2025-12-24,15,0
+41419365,10.1016/j.landig.2025.100926,Lancet Digit Health,Development and validation of a pre-trained language model for neonatal morbidities: a ret,2024-08-12,2025-09-16,2025-12-20,29,33
+41407582,10.1016/j.landig.2025.100935,Lancet Digit Health,App-based therapy for female patients with urinary incontinence in Germany (DINKS): a sing,2025-02-28,2025-10-01,2025-12-18,11,0
+41339157,10.1016/j.landig.2025.100927,Lancet Digit Health,Artificial intelligence imaging decision support for acute stroke treatment in England: a ,2024-11-21,2025-09-17,2025-12-04,21,0
+41330821,10.1016/j.landig.2025.100938,Lancet Digit Health,Evaluating the effect of visual data on multimodal artificial intelligence diagnostic perf,2024-06-14,2025-10-09,2025-12-03,4,0
+41309428,10.1016/j.landig.2025.100934,Lancet Digit Health,Performance of universal and stratified computer-aided detection thresholds for chest x-ra,2024-09-16,2025-09-25,2025-11-28,14,29
+41381302,10.1016/j.landig.2025.100921,Lancet Digit Health,Label-efficient computational tumour infiltrating lymphocyte assessment in breast cancer (,2024-07-31,2025-09-04,2025-12-12,21,0
+41381301,10.1016/j.landig.2025.100944,Lancet Digit Health,Artificial intelligence and tumour-infiltrating lymphocytes in breast cancer: bridging inn,2025-09-27,2025-11-04,2025-12-12,2,0
+41381300,10.1016/j.landig.2025.100915,Lancet Digit Health,Independent and openly reported head-to-head comparative validation studies of AI medical ,2025-03-15,2025-08-06,2025-12-12,9,0
+41372053,10.1016/j.landig.2025.100912,Lancet Digit Health,The impact of artificial intelligence-driven decision support on uncertain antimicrobial p,2024-10-01,2025-07-31,2025-12-11,6,0
+41290453,10.1016/j.landig.2025.100914,Lancet Digit Health,Automated retinal image analysis systems to triage for grading of diabetic retinopathy: a ,2024-08-16,2025-08-05,2025-11-26,17,0
+41276431,10.1016/j.landig.2025.100922,Lancet Digit Health,Physician input improves generative artificial intelligence models' diagnostic performance,2025-07-11,2025-09-05,2025-11-24,6,0
+41107202,10.1016/j.landig.2025.100905,Lancet Digit Health,Development and validation of a composite digital balance score for spinocerebellar ataxia,2024-12-13,2025-07-12,2025-10-18,14,0
+41238507,10.1016/j.landig.2025.100932,Lancet Digit Health,Reducing futile donation after circulatory death procurement with machine learning.,2025-09-09,2025-09-24,2025-11-15,2,0
+41238506,10.1016/j.landig.2025.100918,Lancet Digit Health,Development and validation of a machine-learning model to reduce futile procurements in do,2025-01-27,2025-08-18,2025-11-15,18,0
+41238505,10.1016/j.landig.2025.100928,Lancet Digit Health,"The Jevons Paradox in global health: efficiency, demand, and the AI dilemma.",2025-07-04,2025-09-17,2025-11-15,2,0
+41206261,10.1016/j.landig.2025.100906,Lancet Digit Health,"Digital cognitive behavioural self-management programme for fatigue, pain, and faecal inco",2024-10-21,2025-07-13,2025-11-09,20,0
+41206260,10.1016/j.landig.2025.100929,Lancet Digit Health,Lessons learned from the IBD-BOOST trial: an opportunity for the next generation of behavi,2025-07-29,2025-09-22,2025-11-09,2,0
+41107201,10.1016/j.landig.2025.100907,Lancet Digit Health,Extension of the GRACE score for non-ST-elevation acute coronary syndrome: a development a,2025-01-06,2025-07-14,2025-10-18,37,0
+41027822,10.1016/j.landig.2025.100895,Lancet Digit Health,Digital adherence technology interventions to reduce poor end-of-treatment outcomes and re,2024-05-13,2025-06-17,2025-10-01,23,0
+40998651,10.1016/j.landig.2025.100901,Lancet Digit Health,Causal deep learning for real-time detection of cardiac surgery-associated acute kidney in,2024-08-13,2025-06-23,2025-09-26,14,0
+40930926,10.1016/j.landig.2025.100896,Lancet Digit Health,Development and external validation of a clinical prediction model for new-onset atrial fi,2024-07-04,2025-06-18,2025-09-11,8,0
+40866282,10.1016/j.landig.2025.100910,Lancet Digit Health,How CHART (Chatbot Assessment Reporting Tool) can help to advance clinical artificial inte,2025-06-28,2025-07-28,2025-08-28,3,0
+40866283,10.1016/j.landig.2025.100888,Lancet Digit Health,Characterising non-household contact patterns relevant to respiratory transmission in the ,2024-04-26,2025-05-02,2025-08-28,4,61
+40858480,10.1016/j.landig.2025.100887,Lancet Digit Health,Re-engineering a machine learning phenotype to adapt to the changing COVID-19 landscape: a,2024-03-05,2025-05-01,2025-08-27,16,24
+40829965,10.1016/j.landig.2025.100891,Lancet Digit Health,Assessing genotype-phenotype correlations in colorectal cancer with deep learning: a multi,2024-04-24,2025-06-04,2025-08-20,22,32
+40816977,10.1016/j.landig.2025.100882,Lancet Digit Health,AI as an independent second reader in detection of clinically relevant breast cancers with,2023-12-10,2025-04-24,2025-08-16,12,0
+40707334,10.1016/j.landig.2025.100898,Lancet Digit Health,Artificial intelligence and clinical trials: a framework for effective adoption.,2025-06-16,2025-06-20,2025-07-25,4,0
+40752990,10.1016/j.landig.2025.100883,Lancet Digit Health,One shot at trust: building credible evidence for medical artificial intelligence.,2025-03-24,2025-04-24,2025-08-03,3,0
+40610361,10.1016/j.landig.2025.100886,Lancet Digit Health,Development of machine learning prediction models for systemic inflammatory response follo,2024-02-08,2025-05-01,2025-07-04,11,0
+40467357,10.1016/j.landig.2025.100885,Lancet Digit Health,External validation of a digital pathology-based multimodal artificial intelligence-derive,2024-01-10,2025-05-01,2025-06-05,41,0
+40414783,10.1016/j.landig.2025.100879,Lancet Digit Health,Overlooked and under-reported: the impact of cyberattacks on primary care in the UK Nation,2025-01-13,2025-04-22,2025-05-26,3,0
+40544083,10.1016/j.landig.2025.03.001,Lancet Digit Health,Artificial intelligence-assisted detection of nasopharyngeal carcinoma on endoscopic image,2024-06-08,2025-03-05,2025-06-22,32,0
+40523833,10.1016/j.landig.2025.100875,Lancet Digit Health,"Video in the clinic: advancing care for patients, professionals, and the planet.",2025-03-11,2025-04-03,2025-06-17,1,0
+40523832,10.1016/j.landig.2025.02.007,Lancet Digit Health,Online video versus face-to-face preoperative consultation for major abdominal surgery (VI,2024-04-30,2025-02-24,2025-06-17,17,0
+40461349,10.1016/j.landig.2025.03.005,Lancet Digit Health,Refined selection of individuals for preventive cardiovascular disease treatment with a tr,2024-10-24,2025-03-20,2025-06-04,12,30
+40345937,10.1016/j.landig.2025.03.002,Lancet Digit Health,"FaceAge, a deep learning system to estimate biological age from face photographs to improv",2023-11-20,2025-03-07,2025-05-10,22,0
+40382274,10.1016/j.landig.2025.02.002,Lancet Digit Health,AI-based volumetric six-tissue body composition quantification from CT cardiac attenuation,2024-07-29,2025-02-06,2025-05-18,23,30
+40374486,10.1016/j.landig.2025.02.006,Lancet Digit Health,Evaluation of mobile health technology combining telemonitoring and teleintervention versu,2024-06-08,2025-02-20,2025-05-16,31,0
+40312169,10.1016/j.landig.2025.02.008,Lancet Digit Health,Non-invasive biopsy diagnosis of diabetic kidney disease via deep learning applied to reti,2024-03-12,2025-02-26,2025-05-02,63,0
+40204579,10.1016/j.landig.2025.02.001,Lancet Digit Health,Utilising the Benefit Risk Assessment of Vaccines (BRAVE) toolkit to evaluate the benefits,2023-06-23,2025-02-05,2025-04-10,12,0
+40148010,10.1016/j.landig.2025.01.001,Lancet Digit Health,Electrocardiogram-based deep learning to predict left ventricular systolic dysfunction in ,2024-07-16,2025-01-02,2025-03-28,9,34
+40148009,10.1016/j.landig.2025.02.003,Lancet Digit Health,Snapshot artificial intelligence-determination of ejection fraction from a single frame st,2024-10-09,2025-02-06,2025-03-28,17,0
+40148007,10.1016/j.landig.2025.01.016,Lancet Digit Health,Potential effects of the social media age ban in Australia for children younger than 16 ye,2025-01-09,2025-01-30,2025-03-28,1,0
+39984419,10.1016/j.landig.2025.01.012,Lancet Digit Health,Governing synthetic data in medical research: the time is now.,2024-10-16,2025-01-16,2025-02-22,4,0
+40015765,10.1016/j.landig.2025.01.010,Lancet Digit Health,Utilising routinely collected clinical data through time series deep learning to improve i,2023-11-03,2025-01-14,2025-02-28,7,0
+40015764,10.1016/j.landig.2025.01.006,Lancet Digit Health,Proteomic organ-specific ageing signatures and 20-year risk of age-related diseases: the W,2024-04-13,2025-01-06,2025-02-28,11,0
+40015763,10.1016/j.landig.2024.12.003,Lancet Digit Health,Artificial intelligence-enhanced electrocardiography for the identification of a sex-relat,2024-02-24,2024-12-06,2025-02-28,14,0
+40015762,10.1016/j.landig.2025.01.002,Lancet Digit Health,Passive sensing at scale to transform understanding of poor mental health.,2024-05-20,2025-01-03,2025-02-28,7,10
+40015761,10.1016/j.landig.2025.01.015,Lancet Digit Health,Unmasking hidden risk: an AI approach to improve cardiovascular risk assessment in females,2025-01-17,2025-01-24,2025-02-28,3,0
+39904653,10.1016/j.landig.2025.01.004,Lancet Digit Health,AI for mammography: making double screen-reading history.,2024-12-18,2025-01-03,2025-02-05,2,0
+39904652,10.1016/S2589-7500(24)00267-X,Lancet Digit Health,Screening performance and characteristics of breast cancer detected in the Mammography Scr,2024-07-04,2024-11-25,2025-02-05,10,0
+39890245,10.1016/S2589-7500(24)00253-X,Lancet Digit Health,Prevalence and demographics of 331 rare diseases and associated COVID-19-related mortality,2023-05-16,2024-11-13,2025-02-01,22,0
+39890244,10.1016/S2589-7500(24)00250-4,Lancet Digit Health,Diagnoses supported by a computerised diagnostic decision support system versus convention,2024-01-02,2024-11-12,2025-02-01,22,0
+39890243,10.1016/S2589-7500(24)00254-1,Lancet Digit Health,Harnessing temporal patterns in administrative patient data to predict risk of emergency h,2023-03-09,2024-11-13,2025-02-01,4,0
+39890242,10.1016/S2589-7500(24)00249-8,Lancet Digit Health,Artificial intelligence-guided detection of under-recognised cardiomyopathies on point-of-,2024-06-28,2024-11-04,2025-02-01,11,38
+39890240,10.1016/j.landig.2025.01.005,Lancet Digit Health,AI for medical diagnosis: does a single negative trial mean it is ineffective?,2024-12-12,2025-01-06,2025-02-01,2,0
+39890239,10.1016/j.landig.2024.12.008,Lancet Digit Health,Prediction of emergency admissions: trade-offs between model simplicity and performance.,2024-12-08,2024-12-19,2025-02-01,2,0
+39890238,10.1016/j.landig.2024.12.006,Lancet Digit Health,Using artificial intelligence to switch from accident to sagacity in the serendipitous det,2024-12-03,2024-12-12,2025-02-01,1,0
+39722254,10.1016/j.landig.2024.12.002,Lancet Digit Health,Generative Pre-trained Transformer 4 (GPT-4) in clinical settings.,2024-11-30,2024-12-02,2024-12-26,2,0
+39722253,10.1016/S2589-7500(24)00245-0,Lancet Digit Health,Leveraging artificial intelligence for predicting spontaneous closure of perimembranous ve,2024-03-07,2024-10-25,2024-12-26,12,0
+39722252,10.1016/S2589-7500(24)00244-9,Lancet Digit Health,"Improving digital study designs: better metrics, systematic reporting, and an engineering ",2024-10-18,2024-10-23,2024-12-26,1,0
+39722251,10.1016/S2589-7500(24)00246-2,Lancet Digit Health,The potential of Generative Pre-trained Transformer 4 (GPT-4) to analyse medical notes in ,2024-05-09,2024-10-28,2024-12-26,40,18
+39722250,10.1016/S2589-7500(24)00219-X,Lancet Digit Health,Identification of key factors related to digital health observational study adherence and ,2023-06-07,2024-09-27,2024-12-26,6,33
+39722249,10.1016/S2589-7500(24)00266-8,Lancet Digit Health,Implementation of an automated deep learning-based quality assurance tool for vertebral bo,2024-11-04,2024-11-19,2024-12-26,1,0
+39722248,10.1016/S2589-7500(24)00243-7,Lancet Digit Health,A prospectively deployed deep learning-enabled automated quality assurance tool for oncolo,2023-10-06,2024-10-23,2024-12-26,13,0
+39665944,10.1016/S2589-7500(24)00216-4,Lancet Digit Health,Using artificial intelligence technologies to improve skin cancer detection in primary car,2024-03-28,2024-09-21,2024-12-12,3,0
+42888106,10.1016/j.landig.2026.101123,Lancet Digit Health,Keeping artificial intelligence agents within the clinical task.,2026-09-13,2026-09-30,2026-10-16,3,0
+42864233,10.1016/j.landig.2026.101090,Lancet Digit Health,Eye tracking: an underused diagnostic tool with wide clinical potential.,2026-05-20,2026-07-29,2026-10-13,14,0
+42763270,10.1016/j.landig.2026.101072,Lancet Digit Health,Patient-facing generative artificial intelligence: interpretive influence and system-level,2026-03-22,2026-07-01,2026-09-19,2,0
+42722598,10.1016/j.landig.2026.101040,Lancet Digit Health,Evaluating AI-assisted detection of fetal intracranial malformations in prenatal ultrasoun,2025-05-07,2026-05-20,2026-09-10,10,0
+42722597,10.1016/j.landig.2026.101113,Lancet Digit Health,"Regulating artificial intelligence in health care: a tech-enabled, people-centred future.",2026-08-20,2026-08-20,2026-09-10,2,0
+42686507,10.1016/j.landig.2026.101046,Lancet Digit Health,Effect of a computer-aided quality feedback system on colonoscopists' adenoma detection ra,2025-03-12,2026-06-01,2026-09-03,7,0
+42680677,10.1016/j.landig.2026.101092,Lancet Digit Health,Development and external validation of a contrastive learning foundation model for ECG-bas,2026-02-20,2026-07-30,2026-09-01,5,0
+42665469,10.1016/j.landig.2026.101031,Lancet Digit Health,Performance and label efficiency of traditional deep-learning models and a retina-specific,2025-01-09,2026-04-13,2026-08-28,29,0
+42660738,10.1016/j.landig.2026.101049,Lancet Digit Health,Multimodal artificial intelligence-based long-term mortality prediction after transcathete,2025-10-13,2026-06-02,2026-08-28,18,0
+42642264,10.1016/j.landig.2026.101039,Lancet Digit Health,Toward unified and comprehensive automated electroencephalogram interpretation: a multicen,2025-05-05,2026-05-14,2026-08-25,66,0
+42624704,10.1016/j.landig.2026.101045,Lancet Digit Health,Need for ethical use of artificial intelligence in humanitarian data collection to address,2025-03-14,2026-05-29,2026-08-20,7,0
+42624703,10.1016/j.landig.2026.101068,Lancet Digit Health,"Power, governance, and accountability in humanitarian artificial intelligence.",2026-06-22,2026-06-29,2026-08-20,2,0
+42665470,10.1016/j.landig.2026.101055,Lancet Digit Health,The consent gap in ambient clinical artificial intelligence: what patients are not being t,2026-05-06,2026-06-12,2026-08-28,1,0
+42665468,10.1016/j.landig.2026.101073,Lancet Digit Health,Autonomous agentic artificial intelligence systems in health care: friend or foe?,2026-06-23,2026-07-03,2026-08-28,8,0
+42624705,10.1016/j.landig.2026.101057,Lancet Digit Health,Building safer clinical agents: the case for residency-level benchmarks in medical artific,2025-06-18,2026-06-15,2026-08-20,4,0
+42575796,10.1016/j.landig.2026.101070,Lancet Digit Health,Data as a relation: development of a blockchain-based platform for Indigenous data soverei,2025-12-12,2026-06-29,2026-08-11,10,9
+42567756,10.1016/j.landig.2026.101048,Lancet Digit Health,Bixonimania and the epistemic fragility of artificial intelligence in medicine: lessons fr,2026-04-20,2026-06-01,2026-08-08,2,0
+42557164,10.1016/j.landig.2026.101079,Lancet Digit Health,Infodemic preparedness and the 90-70-90 cervical cancer targets.,2026-07-08,2026-07-08,2026-08-06,3,0
+42613284,10.1016/j.landig.2026.101036,Lancet Digit Health,Bioengineered acellular tissue engineered vessels versus autogenous fistulae for haemodial,2025-09-04,2026-04-28,2026-08-18,7,0
+42613283,10.1016/j.landig.2026.101063,Lancet Digit Health,The optimal vascular access for haemodialysis remains elusive.,2026-06-09,2026-06-23,2026-08-18,1,0
+42586929,10.1016/j.landig.2026.101085,Lancet Digit Health,Ethics oversight of health-related research should be contemporaneous in the age of artifi,2026-07-20,2026-07-21,2026-08-12,5,0
+42575795,10.1016/j.landig.2026.101032,Lancet Digit Health,Prediction of structural glaucoma progression from baseline fundus photographs using deep ,2024-11-07,2026-04-23,2026-08-11,19,0
+42575794,10.1016/j.landig.2026.101083,Lancet Digit Health,An automated speech measure for Huntington's disease: how can it take the field forward?,2026-06-22,2026-07-13,2026-08-11,2,0
+42538231,10.1016/j.landig.2026.101062,Lancet Digit Health,Reimagining regulatory strategy development: agentic AI as an enabler of market access.,2026-04-09,2026-06-22,2026-08-01,8,0
+42509079,10.1016/j.landig.2026.101021,Lancet Digit Health,Identifying subsets of patients with retroperitoneal sarcoma who benefit from radiotherapy,2025-06-11,2026-04-01,2026-07-28,8,0
+42493284,10.1016/j.landig.2026.101025,Lancet Digit Health,A deep learning model for speech-based prediction of clinical scores in people with Huntin,2025-09-26,2026-04-10,2026-07-24,12,0
+42392906,10.1016/j.landig.2026.101043,Lancet Digit Health,Deception in clinical large language models: an under-recognised safety risk.,2025-10-08,2026-05-29,2026-07-03,4,0
+42498610,10.1016/j.landig.2026.101069,Lancet Digit Health,Global health suffers when corporate AI sovereigns reign.,2026-06-25,2026-06-29,2026-07-25,2,0
+42509078,10.1016/j.landig.2026.101007,Lancet Digit Health,"MerMED-FM: Multimodal, Multi-Disease Medical Imaging Foundation Model.",2025-07-13,2026-03-08,2026-07-28,35,0
+42509077,10.1016/j.landig.2026.101013,Lancet Digit Health,Towards a unified foundation model for medical imaging.,2026-03-12,2026-03-22,2026-07-28,2,0
+42350256,10.1016/j.landig.2026.101024,Lancet Digit Health,Predicting the risk of serious muscle disorders in individuals eligible for statin treatme,2025-04-18,2026-04-10,2026-06-26,7,0
+42303563,10.1016/j.landig.2026.101030,Lancet Digit Health,Ensuring the clinical impact of medical artificial intelligence.,2024-12-18,2026-04-13,2026-06-17,4,0
+42243044,10.1016/j.landig.2026.101019,Lancet Digit Health,"Development, validation, and user-centric evaluation of an interpretable machine learning ",2025-02-24,2026-03-31,2026-06-05,18,0
+42203630,10.1016/j.landig.2025.100973,Lancet Digit Health,Artificial intelligence analysis of temporalis muscle thickness for monitoring sarcopenia ,2024-12-09,2025-12-12,2026-05-28,24,0
+42270468,10.1016/j.landig.2026.101014,Lancet Digit Health,Large language models as experimental systems in human psychopathology: a modelling study.,2025-05-05,2026-03-24,2026-06-11,8,0
+42209329,10.1016/j.landig.2026.101016,Lancet Digit Health,Sustainability of large-scale artificial intelligence models in health care.,2025-11-07,2026-03-25,2026-05-29,1,0
+42150962,10.1016/j.landig.2026.100991,Lancet Digit Health,"Effects of large language model-generated, patient-oriented discharge summaries on patient",2025-03-20,2026-02-03,2026-05-19,6,0
+42106222,10.1016/j.landig.2026.101002,Lancet Digit Health,Virtual reality-based cognitive remediation versus virtual reality control in people with ,2025-04-14,2026-02-17,2026-05-10,10,0
+42020211,10.1016/j.landig.2026.100989,Lancet Digit Health,Ischaemic stroke recurrence in patients with symptomatic intracranial atherosclerotic sten,2025-01-26,2026-01-27,2026-04-23,14,0
+42248714,10.1016/j.landig.2026.100986,Lancet Digit Health,Deep learning for H&E-based meningioma molecular classification and outcome prediction: a ,2025-01-21,2026-01-21,2026-06-06,24,0
+42103518,10.1016/j.landig.2026.100988,Lancet Digit Health,An online singing-based breathing and wellbeing programme (ENO Breathe) in people with lon,2025-01-03,2026-01-23,2026-05-09,18,0
+42036286,10.1016/j.landig.2026.100994,Lancet Digit Health,"Trust, not technology: governing access to health data as the decisive challenge for the U",2025-11-19,2026-02-04,2026-04-27,4,0
+42025543,10.1016/j.landig.2025.100968,Lancet Digit Health,Detection of young-onset type 2 diabetes using deep learning across primary and secondary ,2025-06-30,2025-12-08,2026-04-24,8,0
+41991373,10.1016/j.landig.2025.100976,Lancet Digit Health,Joint probability framework for the development and validation of a prognostic model for t,2024-09-30,2025-12-22,2026-04-17,16,0
+41864790,10.1016/j.landig.2026.100999,Lancet Digit Health,VisionOnc: a dynamic data visualiser for oncology.,2026-01-15,2026-02-11,2026-03-22,12,0
+42115063,10.1016/j.landig.2026.101012,Lancet Digit Health,Digitised histopathology slides now ready for artificial intelligence: predicting the mole,2026-03-10,2026-03-19,2026-05-12,2,0
+42115062,10.1016/j.landig.2025.100977,Lancet Digit Health,Molecular alterations prediction in gliomas via an interpretable deep learning model: a mu,2025-07-09,2025-12-23,2026-05-12,37,0
+42025544,10.1016/j.landig.2026.100983,Lancet Digit Health,Can large language models help young researchers develop new clinical research ideas?,2025-04-23,2026-01-17,2026-04-24,24,0
+41927432,10.1016/j.landig.2025.100965,Lancet Digit Health,Deep learning model for pathological invasiveness prediction using smartphone-based surgic,2024-10-21,2025-12-05,2026-04-03,36,0
+41896129,10.1016/j.landig.2026.100997,Lancet Digit Health,Artificial intelligence for post-treatment prediction in age-related macular degeneration.,2026-01-30,2026-02-05,2026-03-28,2,0
+41896128,10.1016/j.landig.2025.100972,Lancet Digit Health,"Effects of the COVID-19 pandemic on antibiotic use and resistance in French hospitals, 201",2024-11-27,2025-12-12,2026-03-28,13,0
+41896127,10.1016/j.landig.2025.100971,Lancet Digit Health,Development and validation of a deep learning model to predict visual and anatomical progn,2024-09-17,2025-12-12,2026-03-28,37,0
+41781282,10.1016/j.landig.2026.100987,Lancet Digit Health,AI-based BRAIx risk score for the intermediate-term prediction of breast cancer: a populat,2024-04-02,2026-01-22,2026-03-05,20,0
+41951493,10.1016/j.landig.2026.101004,Lancet Digit Health,Should AI have a seat in the selection committee for liver transplantation?,2026-02-11,2026-02-20,2026-04-09,2,0
+41951492,10.1016/j.landig.2025.100966,Lancet Digit Health,A multiagent large language model-based system to simulate the liver transplant selection ,2025-01-29,2025-12-05,2026-04-09,12,0
+41856874,10.1016/j.landig.2025.100962,Lancet Digit Health,A predictive atlas of disease onset from retinal fundus photographs: a modelling study usi,2024-02-16,2025-12-03,2026-03-20,19,0
+41813498,10.1016/j.landig.2025.100963,Lancet Digit Health,Identification of drug repurposing candidates for amyotrophic lateral sclerosis using elec,2023-12-15,2025-12-03,2026-03-12,10,0
+41792018,10.1016/j.landig.2025.100961,Lancet Digit Health,Artificial intelligence-based pathological model for pan-cancer lymph node metastasis dete,2025-07-01,2025-12-02,2026-03-07,34,0
+41720669,10.1016/j.landig.2025.100967,Lancet Digit Health,Agentic artificial intelligence in eye care: is clinical autonomy finally within reach?,2025-06-22,2025-12-05,2026-02-21,7,0
+41786547,10.1016/j.landig.2026.100979,Lancet Digit Health,The architectural gap in clinical artificial intelligence.,2025-12-19,2026-01-04,2026-03-06,1,0
+41735102,10.1016/j.landig.2025.100955,Lancet Digit Health,End-to-end integrative segmentation and radiomics prognostic models for risk stratificatio,2023-04-26,2025-11-21,2026-02-25,17,0
+41688234,10.1016/j.landig.2025.100952,Lancet Digit Health,The use of advanced machine learning to predict outcomes after atezolizumab plus bevacizum,2024-10-01,2025-11-20,2026-02-14,59,0
+41688233,10.1016/j.landig.2025.100954,Lancet Digit Health,When to and when not to use machine learning in risk prediction models.,2025-07-11,2025-11-20,2026-02-14,4,0
+41654404,10.1016/j.landig.2025.100956,Lancet Digit Health,"Smartwatch-derived versus self-reported outcomes of physiological recovery after COVID-19,",2024-12-13,2025-11-21,2026-02-08,7,35
+41521107,10.1016/j.landig.2025.100951,Lancet Digit Health,The global Dx AMR collaborative: an approach to strengthen the role of diagnostics in comb,2025-09-29,2025-11-19,2026-01-12,4,0
+41672646,10.1016/j.landig.2025.100949,Lancet Digit Health,Mapping the susceptibility of large language models to medical misinformation across clini,2025-06-22,2025-11-17,2026-02-12,11,0
+41672645,10.1016/j.landig.2025.100978,Lancet Digit Health,Large language models need immunisation to protect against misinformation.,2025-12-11,2025-12-24,2026-02-12,2,0
+41620321,10.1016/j.landig.2025.100945,Lancet Digit Health,AI-enabled forecasting of prehospital transfusion needs in patients with trauma: a multina,2025-06-18,2025-11-05,2026-02-01,12,0
+41577565,10.1016/j.landig.2025.100942,Lancet Digit Health,Associations between contralesional neuroplasticity and motor impairment through deep lear,2024-11-27,2025-10-27,2026-01-24,49,33
+41519681,10.1016/j.landig.2025.100946,Lancet Digit Health,Are we heading towards a cybersecurity crisis in health care and are actions needed?,2025-05-21,2025-11-05,2026-01-11,5,0

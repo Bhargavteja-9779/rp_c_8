@@ -1,0 +1,695 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34966928,10.1093/gigascience/giab087,Gigascience,Multi-dimensional leaf phenotypes reflect root system genotype in grafted grapevine over t,2021-05-08,2021-12-02,2021-12-31,14,90
+34966927,10.1093/gigascience/giab085,Gigascience,Myth-busting the provider-user relationship for digital sequence information.,2021-07-30,2021-12-01,2021-12-31,7,16
+34966926,10.1093/gigascience/giab082,Gigascience,Interpretable network propagation with application to expanding the repertoire of human pr,2021-03-30,2021-11-28,2021-12-31,11,73
+34966925,10.1093/gigascience/giab084,Gigascience,Quantitative monitoring of nucleotide sequence data from genetic resources in context of t,2021-05-01,2021-11-29,2021-12-31,11,39
+34927191,10.1093/gigascience/giab081,Gigascience,A high-quality genome and comparison of short- versus long-read transcriptome of the palae,2021-03-03,2021-11-22,2021-12-21,20,122
+34927190,10.1093/gigascience/giab086,Gigascience,On the relationship between research parasites and fairness in machine learning: challenge,2021-11-29,2021-12-01,2021-12-21,5,10
+34891161,10.1093/gigascience/giab080,Gigascience,Fusion transcripts and their genomic breakpoints in polyadenylated and ribosomal RNA-minus,2021-08-05,2021-11-16,2021-12-11,28,63
+34891160,10.1093/gigascience/giab079,Gigascience,A high-throughput multiplexing and selection strategy to complete bacterial genomes.,2021-06-14,2021-11-12,2021-12-11,8,58
+34890448,10.1093/gigascience/giab077,Gigascience,Linking big biomedical datasets to modular analysis with Portable Encapsulated Projects.,2020-11-02,2021-11-04,2021-12-11,4,31
+34865008,10.1093/gigascience/giab078,Gigascience,Highly accurate whole-genome imputation of SARS-CoV-2 from partial or low-quality sequence,2021-06-03,2021-11-12,2021-12-06,11,50
+34849868,10.1093/gigascience/giab075,Gigascience,De novo screening of disease-resistant genes from the chromosome-level genome of rare minn,2021-05-12,2021-10-25,2021-12-02,11,65
+34817058,10.1093/gigascience/giab074,Gigascience,CNVpytor: a tool for copy number variation detection and analysis from read depth and alle,2021-05-16,2021-10-22,2021-11-25,5,33
+34673930,10.1093/gigascience/giab070,Gigascience,Chromosome-level genome assemblies of Channa argusandChanna maculata and comparative analy,2021-06-06,2021-09-16,2021-10-22,11,58
+34673929,10.1093/gigascience/giab069,Gigascience,Studying mutation rate evolution in primates-the effects of computational pipelines and pa,2021-09-13,2021-09-13,2021-10-22,1,14
+34673928,10.1093/gigascience/giab072,Gigascience,Studying mutation rate evolution in primates-a need for systematic comparison of computati,2021-09-13,2021-10-04,2021-10-22,4,12
+34651173,10.1093/gigascience/giab061,Gigascience,Building the mega single-cell transcriptome ocular meta-atlas.,2021-04-13,2021-08-24,2021-10-16,4,69
+34651172,10.1093/gigascience/giab071,Gigascience,Population modeling with machine learning can enhance measures of mental health.,2021-03-10,2021-09-22,2021-10-16,6,117
+34605868,10.1093/gigascience/giab068,Gigascience,A scalable software solution for anonymizing high-dimensional biomedical data.,2020-09-30,2021-09-09,2021-10-05,4,61
+34599334,10.1093/gigascience/giab066,Gigascience,"A chromosome-level genome assembly for the eastern fence lizard (Sceloporus undulatus), a ",2020-06-06,2021-09-07,2021-10-03,20,109
+34585238,10.1093/gigascience/giab050,Gigascience,"SCIGA: Software for large-scale, single-cell immunoglobulin repertoire analysis.",2020-12-08,2021-06-28,2021-09-30,8,22
+34561697,10.1093/gigascience/giab063,Gigascience,Vulcan: Improved long-read mapping and structural variant calling via dual-mode alignment.,2021-06-02,2021-08-29,2021-09-26,5,46
+34555848,10.1093/gigascience/giab067,Gigascience,Association of female reproductive tract microbiota with egg production in layer chickens.,2021-05-04,2021-09-06,2021-09-24,20,81
+34553214,10.1093/gigascience/giab065,Gigascience,SimFFPE and FilterFFPE: improving structural variant calling in FFPE samples.,2021-04-20,2021-09-06,2021-09-24,3,24
+34553213,10.1093/gigascience/giab064,Gigascience,Bias-invariant RNA-sequencing metadata annotation.,2020-12-16,2021-09-01,2021-09-24,4,46
+34553212,10.1093/gigascience/giab062,Gigascience,Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates ,2021-03-03,2021-08-26,2021-09-24,8,46
+34528664,10.1093/gigascience/giab060,Gigascience,ISA API: An open platform for interoperable life science experimental metadata.,2020-11-13,2021-08-23,2021-09-17,21,84
+34508579,10.1093/gigascience/giab058,Gigascience,Scalable analysis of multi-modal biomedical data.,2020-12-18,2021-08-18,2021-09-12,4,63
+34508578,10.1093/gigascience/giab059,Gigascience,Desiderata for the development of next-generation electronic health record phenotype libra,2021-05-24,2021-08-18,2021-09-12,13,44
+34406415,10.1093/gigascience/giab054,Gigascience,RNAProt: an efficient and feature-rich RNA binding protein binding site predictor.,2021-04-02,2021-07-27,2021-08-19,4,42
+34405237,10.1093/gigascience/giab053,Gigascience,0s and 1s in marine molecular research: a regional HPC perspective.,2021-04-07,2021-07-20,2021-08-19,26,68
+34282453,10.1093/gigascience/giab048,Gigascience,Accelerated deciphering of the genetic architecture of agricultural economic traits in pig,2020-12-01,2021-06-15,2021-07-21,14,79
+34282452,10.1093/gigascience/giab052,Gigascience,ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel tempor,2020-12-21,2021-06-25,2021-07-21,11,61
+34282451,10.1093/gigascience/giab049,Gigascience,"M2aia-Interactive, fast, and memory-efficient analysis of 2D and 3D multi-modal mass spect",2021-02-01,2021-06-25,2021-07-21,7,57
+34195837,10.1093/gigascience/giab046,Gigascience,NPSV: A simulation-driven approach to genotyping structural variants in whole-genome seque,2020-12-21,2021-06-07,2021-07-02,6,62
+34184051,10.1093/gigascience/giab047,Gigascience,BIGwas: Single-command quality control and association testing for multi-cohort and bioban,2020-12-08,2021-06-09,2021-06-30,3,44
+34143875,10.1093/gigascience/giab043,Gigascience,"U-Limb: A multi-modal, multi-center database on arm motion control in healthy and post-str",2021-01-05,2021-05-14,2021-06-19,18,58
+34143874,10.1093/gigascience/giab045,Gigascience,StoatyDive: Evaluation and classification of peak profiles for sequencing data.,2020-07-23,2021-05-14,2021-06-19,2,25
+34137821,10.1093/gigascience/giab040,Gigascience,Multi-stage malaria parasite recognition by deep learning.,2021-01-18,2021-05-09,2021-06-18,4,28
+34080630,10.1093/gigascience/giab039,Gigascience,A large-scale metagenomic survey dataset of the post-weaning piglet gut lumen.,2020-11-24,2021-05-04,2021-06-04,10,22
+34076242,10.1093/gigascience/giab041,Gigascience,De novo genome assemblies of butterflies.,2020-02-18,2021-05-05,2021-06-03,3,45
+34076241,10.1093/gigascience/giab042,Gigascience,Mantis: flexible and consensus-driven genome annotation.,2020-11-04,2021-05-14,2021-06-03,5,77
+34061207,10.1093/gigascience/giab030,Gigascience,Driftage: a multi-agent system framework for concept drift detection.,2020-09-24,2021-03-30,2021-06-02,4,57
+34037232,10.1093/gigascience/giab037,Gigascience,The genome of the venomous snail Lautoconus ventricosus sheds light on the origin of conot,2021-02-04,2021-04-30,2021-05-27,6,127
+34018555,10.1093/gigascience/giab036,Gigascience,MesKit: a tool kit for dissecting cancer evolution of multi-region tumor biopsies through ,2021-01-08,2021-04-23,2021-05-22,9,78
+34018554,10.1093/gigascience/giab035,Gigascience,Two high-quality de novo genomes from single ethanol-preserved specimens of tiny metazoans,2020-12-12,2021-04-27,2021-05-22,9,58
+33983435,10.1093/gigascience/giab034,Gigascience,"A streamlined workflow for conversion, peer review, and publication of genomics metadata a",2021-01-22,2021-04-20,2021-05-14,8,80
+33966074,10.1093/gigascience/giab033,Gigascience,BiSulfite Bolt: A bisulfite sequencing analysis platform.,2020-10-06,2021-04-14,2021-05-10,5,30
+33963385,10.1093/gigascience/giab031,Gigascience,Label3DMaize: toolkit for 3D point cloud data annotation of maize shoots.,2020-11-14,2021-04-12,2021-05-09,6,57
+33960385,10.1093/gigascience/giab028,Gigascience,Internet of Samples (iSamples): Toward an interdisciplinary cyberinfrastructure for materi,2021-02-17,2021-03-28,2021-05-08,12,10
+33954794,10.1093/gigascience/giab032,Gigascience,Fluorescence microscopy datasets for training deep neural networks.,2020-06-17,2021-04-13,2021-05-07,6,33
+33954793,10.1093/gigascience/giab029,Gigascience,The germline mutational process in rhesus macaque and its implications for phylogenetic da,2020-09-17,2021-03-29,2021-05-07,11,74
+33891010,10.1093/gigascience/giab024,Gigascience,"Chromosome-level genome assembly of the hard-shelled mussel Mytilus coruscus, a widely dis",2020-09-23,2021-03-16,2021-04-24,9,70
+33880552,10.1093/gigascience/giab022,Gigascience,Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis g,2020-10-18,2021-03-09,2021-04-22,7,47
+33871007,10.1093/gigascience/giab027,Gigascience,"A chromosome-level reference genome of the hazelnut, Corylus heterophylla Fisch.",2020-10-28,2021-03-22,2021-04-20,8,66
+33871006,10.1093/gigascience/giab026,Gigascience,High-throughput microscopy reveals the impact of multifactorial environmental perturbation,2020-04-05,2021-03-15,2021-04-20,12,55
+33822938,10.1093/gigascience/giab023,Gigascience,Synonymous variants that disrupt messenger RNA structure are significantly constrained in ,2020-09-20,2021-03-10,2021-04-07,8,116
+33764469,10.1093/gigascience/giab021,Gigascience,Torix Rickettsia are widespread in arthropods and reflect a neglected symbiosis.,2020-08-15,2021-03-05,2021-03-26,11,96
+33764468,10.1093/gigascience/giab020,Gigascience,A chromosome-level genome assembly for the Pacific oyster Crassostrea gigas.,2020-10-19,2021-03-03,2021-03-26,8,87
+33764467,10.1093/gigascience/giab019,Gigascience,The new COST Action European Venom Network (EUVEN)-synergy and future perspectives of mode,2021-02-02,2021-02-28,2021-03-26,23,10
+33739402,10.1093/gigascience/giab016,Gigascience,A chromosome-level genome of the spider Trichonephila antipodiana reveals the genetic basi,2020-10-30,2021-02-18,2021-03-20,7,98
+33739401,10.1093/gigascience/giab018,Gigascience,Rapid development of cloud-native intelligent data pipelines for scientific data streams u,2020-09-14,2021-02-23,2021-03-20,10,33
+33734368,10.1093/gigascience/giab010,Gigascience,The GenTree Platform: growth traits and tree-level environmental data in 12 European fores,2020-06-25,2021-02-03,2021-03-19,119,36
+33718948,10.1093/gigascience/giab017,Gigascience,Chromosome-level genome assemblies of the malaria vectors Anopheles coluzzii and Anopheles,2020-09-28,2021-01-23,2021-03-16,10,97
+33712853,10.1093/gigascience/giab011,Gigascience,The case for using mapped exonic non-duplicate reads when reporting RNA-sequencing depth: ,2020-08-27,2021-02-07,2021-03-14,17,37
+33710328,10.1093/gigascience/giab014,Gigascience,Comparative analysis of 7 short-read sequencing platforms using the Korean Reference Genom,2020-03-12,2021-02-16,2021-03-13,11,34
+33710327,10.1093/gigascience/giab013,Gigascience,"Genome sequence and genetic diversity analysis of an under-domesticated orphan crop, white",2020-07-10,2021-02-10,2021-03-13,14,95
+33710326,10.1093/gigascience/giab015,Gigascience,A research parasite's perspective on establishing a baseline to avoid errors in secondary ,2021-01-27,2021-02-16,2021-03-13,1,10
+33677535,10.1093/gigascience/giab012,Gigascience,X-ray microtomography-based atlas of mouse cranial development.,2020-09-21,2021-02-02,2021-03-08,6,20
+33594436,10.1093/gigascience/giab007,Gigascience,HTSlib: C library for reading/writing high-throughput sequencing data.,2020-12-16,2021-01-28,2021-02-18,8,25
+33590863,10.1093/gigascience/giab002,Gigascience,The Gene Expression Deconvolution Interactive Tool (GEDIT): accurate cell type quantificat,2020-08-21,2021-01-07,2021-02-17,8,41
+33590862,10.1093/gigascience/giab003,Gigascience,long-read-tools.org: an interactive catalogue of analysis methods for long-read sequencing,2020-09-04,2021-01-13,2021-02-17,3,34
+33590861,10.1093/gigascience/giab008,Gigascience,Twelve years of SAMtools and BCFtools.,2020-12-16,2021-01-28,2021-02-17,11,30
+33543271,10.1093/gigascience/giab005,Gigascience,MB-GAN: Microbiome Simulation via Generative Adversarial Network.,2020-09-22,2021-01-14,2021-02-06,8,34
+33533410,10.1093/gigascience/giab006,Gigascience,"AXIOME3: Automation, eXtension, and Integration Of Microbial Ecology.",2020-08-21,2021-01-07,2021-02-04,3,13
+33527143,10.1093/gigascience/giab001,Gigascience,metaXplor: an interactive viral and microbial metagenomic data manager.,2020-07-15,2021-01-10,2021-02-03,8,49
+33511996,10.1093/gigascience/giaa163,Gigascience,"Transcriptome annotation in the cloud: complexity, best practices, and cost.",2020-07-02,2020-12-23,2021-01-30,3,52
+33511995,10.1093/gigascience/giaa158,Gigascience,ChiRA: an integrated framework for chimeric read analysis from RNA-RNA interactome and RNA,2020-08-20,2020-12-15,2021-01-30,5,48
+33511994,10.1093/gigascience/giab004,Gigascience,FASTQuick: rapid and comprehensive quality assessment of raw sequence reads.,2020-06-02,2021-01-14,2021-01-30,2,21
+33506265,10.1093/gigascience/giaa157,Gigascience,biotoolsSchema: a formalized schema for bioinformatics software description.,2020-07-08,2020-12-07,2021-01-29,10,76
+33506264,10.1093/gigascience/giaa164,Gigascience,A microbial gene catalog of anaerobic digestion from full-scale biogas plants.,2020-07-08,2020-12-18,2021-01-29,16,60
+33484242,10.1093/gigascience/giaa162,Gigascience,"Lilikoi V2.0: a deep learning-enabled, personalized pathway-based R package for diagnosis ",2020-07-16,2020-12-20,2021-01-24,6,42
+33463679,10.1093/gigascience/giaa161,Gigascience,Multiple origins of a frameshift insertion in a mitochondrial gene in birds and turtles.,2020-04-28,2020-12-18,2021-01-20,4,46
+33459341,10.1093/gigascience/giaa160,Gigascience,"A chromosome-level genome assembly of the oriental river prawn, Macrobrachium nipponense.",2020-09-08,2020-12-14,2021-01-19,16,60
+33438731,10.1093/gigascience/giaa154,Gigascience,BiG-SLiCE: A highly scalable tool maps the diversity of 1.2 million biosynthetic gene clus,2020-08-26,2020-11-29,2021-01-14,4,124
+33438730,10.1093/gigascience/giaa140,Gigascience,Streamlining data-intensive biology with workflow systems.,2020-08-16,2020-11-13,2021-01-14,8,139
+33438729,10.1093/gigascience/giaa159,Gigascience,Genome diversity in Ukraine.,2020-08-04,2020-12-15,2021-01-14,30,66
+33420779,10.1093/gigascience/giaa156,Gigascience,Identifying the effect of vancomycin on health care-associated methicillin-resistant Staph,2020-10-20,2020-12-03,2021-01-10,19,42
+33420778,10.1093/gigascience/giaa153,Gigascience,Significantly improving the quality of genome assemblies through curation.,2020-08-12,2020-11-30,2021-01-10,9,52
+33410471,10.1093/gigascience/giaa141,Gigascience,"PM4NGS, a project management framework for next-generation sequencing data analysis.",2020-05-06,2020-11-16,2021-01-08,4,64
+33410470,10.1093/gigascience/giaa148,Gigascience,Chromosome-level reference genome of the European wasp spider Argiope bruennichi: a resour,2020-05-21,2020-11-20,2021-01-08,10,96
+33406261,10.1093/gigascience/giaa142,Gigascience,A new duck genome reveals conserved and convergently evolved chromosome architectures of b,2020-08-26,2020-11-16,2021-01-07,16,126
+33404053,10.1093/gigascience/giaa152,Gigascience,Tool recommender system in Galaxy using deep learning.,2020-02-22,2020-11-26,2021-01-07,4,83
+38116826,10.1093/gigascience/giad105,Gigascience,Chromosome-level genome assembly of the Pacific geoduck Panopea generosa reveals major int,2022-10-18,2023-11-22,2023-12-20,6,73
+38116825,10.1093/gigascience/giad104,Gigascience,DrugSim2DR: systematic prediction of drug functional similarities in the context of specif,2023-07-27,2023-11-20,2023-12-20,9,44
+38096477,10.1093/gigascience/giad102,Gigascience,A high-quality pseudo-phased genome for Melaleuca quinquenervia shows allelic diversity of,2023-05-05,2023-11-14,2023-12-14,9,128
+38091511,10.1093/gigascience/giad106,Gigascience,DriverMP enables improved identification of cancer driver genes.,2023-07-19,2023-11-22,2023-12-13,6,160
+38091510,10.1093/gigascience/giad095,Gigascience,Deciphering the distinct transcriptomic and gene regulatory map in adult macaque basal gan,2023-05-06,2023-10-10,2023-12-13,17,90
+38091509,10.1093/gigascience/giad101,Gigascience,"AlcoR: alignment-free simulation, mapping, and visualization of low-complexity regions in ",2023-06-28,2023-11-07,2023-12-13,4,122
+38091508,10.1093/gigascience/giad108,Gigascience,MLcps: machine learning cumulative performance score for classification problems.,2023-07-06,2023-11-23,2023-12-13,9,35
+38000912,10.1093/gigascience/giad100,Gigascience,Evaluating long-read de novo assembly tools for eukaryotic genomes: insights and considera,2023-01-30,2023-10-31,2023-11-25,7,35
+38000911,10.1093/gigascience/giad098,Gigascience,Imputation method for single-cell RNA-seq data using neural topic model.,2023-04-30,2023-10-23,2023-11-25,4,58
+37983749,10.1093/gigascience/giad089,Gigascience,MetGENE: gene-centric metabolomics information retrieval tool.,2023-01-20,2023-10-01,2023-11-20,5,22
+37983748,10.1093/gigascience/giad096,Gigascience,Variability analysis of LC-MS experimental factors and their impact on machine learning.,2023-04-12,2023-10-11,2023-11-20,7,34
+37966428,10.1093/gigascience/giad094,Gigascience,Euler characteristic curves and profiles: a stable shape invariant for big data problems.,2023-08-11,2023-10-09,2023-11-15,2,37
+37941395,10.1093/gigascience/giad088,Gigascience,Ontology-driven analysis of marine metagenomics: what more can we learn from our data?,2023-03-01,2023-09-28,2023-11-09,4,136
+37919977,10.1093/gigascience/giad084,Gigascience,A community resource to mass explore the wheat grain proteome and its application to the l,2023-04-24,2023-09-19,2023-11-03,11,158
+37919976,10.1093/gigascience/giad087,Gigascience,epialleleR: an R/Bioconductor package for sensitive allele-specific methylation analysis i,2023-06-01,2023-09-26,2023-11-03,3,56
+37919975,10.1093/gigascience/giad093,Gigascience,Finding haplotypic signatures in proteins.,2023-04-13,2023-10-08,2023-11-03,9,48
+37889010,10.1093/gigascience/giad092,Gigascience,Developing best practices for genotyping-by-sequencing analysis in the construction of lin,2022-11-29,2023-10-06,2023-10-27,12,67
+37889009,10.1093/gigascience/giad091,Gigascience,Cellsnake: a user-friendly tool for single-cell RNA sequencing analysis.,2023-06-01,2023-10-05,2023-10-27,7,44
+37889008,10.1093/gigascience/giad082,Gigascience,SpheroScan: a user-friendly deep learning tool for spheroid image analysis.,2023-05-17,2023-09-14,2023-10-27,10,50
+37882605,10.1093/gigascience/giad090,Gigascience,The chromosome-level genome of Chinese praying mantis Tenodera sinensis (Mantodea: Mantida,2023-05-23,2023-10-04,2023-10-26,10,89
+37882604,10.1093/gigascience/giad083,Gigascience,Machine learning-based feature selection to search stable microbial biomarkers: applicatio,2023-06-21,2023-09-17,2023-10-26,3,55
+37850871,10.1093/gigascience/giad078,Gigascience,metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomi,2023-05-10,2023-09-11,2023-10-18,15,95
+37848619,10.1093/gigascience/giad074,Gigascience,simAIRR: simulation of adaptive immune repertoires with realistic receptor sequence sharin,2023-02-21,2023-08-29,2023-10-18,9,89
+37848617,10.1093/gigascience/giad081,Gigascience,Katdetectr: an R/bioconductor package utilizing unsupervised changepoint analysis for robu,2023-02-24,2023-09-12,2023-10-18,4,28
+37848616,10.1093/gigascience/giad080,Gigascience,GERONIMO: A tool for systematic retrieval of structural RNAs in a broad evolutionary conte,2023-06-08,2023-09-11,2023-10-18,3,44
+37787064,10.1093/gigascience/giad077,Gigascience,Construction and analysis of the chromosome-level haplotype-resolved genomes of two Crasso,2023-05-17,2023-08-30,2023-10-03,5,79
+37776368,10.1093/gigascience/giad071,Gigascience,Confound-leakage: confound removal in machine learning leads to leakage.,2023-01-06,2023-08-17,2023-10-01,7,45
+37776367,10.1093/gigascience/giad079,Gigascience,Chromosome-level reference genome of tetraploid Isoetes sinensis provides insights into ev,2023-05-04,2023-09-11,2023-10-01,13,100
+37776366,10.1093/gigascience/giad072,Gigascience,A chromosome-level assembly supports genome-wide investigation of the DMRT gene family in ,2023-01-19,2023-08-21,2023-10-01,9,75
+37776365,10.1093/gigascience/giad076,Gigascience,Allele-specific regulatory effects on the pig transcriptome.,2023-03-04,2023-08-30,2023-10-01,12,50
+37776364,10.1093/gigascience/giad075,Gigascience,Chromosome-level genome of the venomous snail Kalloconus canariensis: a valuable model for,2023-02-20,2023-08-30,2023-10-01,5,56
+37721410,10.1093/gigascience/giad073,Gigascience,Integrating deep mutational scanning and low-throughput mutagenesis data to predict the im,2023-02-14,2023-08-23,2023-09-18,4,138
+37712592,10.1093/gigascience/giad065,Gigascience,Suggesting disease associations for overlooked metabolites using literature from metabolic,2023-01-17,2023-07-28,2023-09-15,9,44
+37632754,10.1093/gigascience/giad064,Gigascience,Haplogenome assembly reveals structural variation in Eucalyptus interspecific hybrids.,2022-10-25,2023-07-27,2023-08-27,6,80
+37632753,10.1093/gigascience/giad068,Gigascience,The founding charter of the Omic Biodiversity Observation Network (Omic BON).,2023-06-29,2023-07-31,2023-08-27,34,11
+37624874,10.1093/gigascience/giad069,Gigascience,Container Profiler: Profiling resource utilization of containerized big data pipelines.,2023-02-24,2023-08-15,2023-08-25,8,42
+37602759,10.1093/gigascience/giad057,Gigascience,KGML-xDTD: a knowledge graph-based machine learning framework for drug treatment predictio,2023-01-31,2023-07-04,2023-08-21,4,94
+37589308,10.1093/gigascience/giad058,Gigascience,"Lessons learned to boost a bioinformatics knowledge base reusability, the Bgee experience.",2023-03-17,2023-07-07,2023-08-17,4,98
+37589307,10.1093/gigascience/giad063,Gigascience,Chromosome-level genome and recombination map of the male buffalo.,2022-11-23,2023-07-13,2023-08-17,15,86
+37589306,10.1093/gigascience/giad067,Gigascience,ARA: a flexible pipeline for automated exploration of NCBI SRA datasets.,2023-02-23,2023-08-01,2023-08-17,3,30
+37524540,10.1093/gigascience/giad061,Gigascience,Genome resequencing reveals independent domestication and breeding improvement of naked oa,2022-11-09,2023-07-06,2023-08-01,10,88
+37522759,10.1093/gigascience/giad055,Gigascience,Metaphor-A workflow for streamlined assembly and binning of metagenomes.,2023-03-20,2023-07-04,2023-07-31,8,57
+37522758,10.1093/gigascience/giad062,Gigascience,BigSeqKit: a parallel Big Data toolkit to process FASTA and FASTQ files at scale.,2023-03-07,2023-07-10,2023-07-31,2,29
+37503960,10.1093/gigascience/giad060,Gigascience,"Health record hiccups-5,526 real-world time series with change points labelled by crowdsou",2023-01-24,2023-07-07,2023-07-28,4,26
+37503959,10.1093/gigascience/giad047,Gigascience,Hetnet connectivity search provides rapid insights into how biomedical entities are relate,2023-01-07,2023-06-06,2023-07-28,12,63
+37498129,10.1093/gigascience/giad052,Gigascience,SODAR: managing multiomics study data and metadata.,2022-07-22,2023-06-27,2023-07-27,7,41
+37496156,10.1093/gigascience/giad045,Gigascience,Scientists without borders: lessons from Ukraine.,2023-05-05,2023-06-01,2023-07-27,23,32
+37494283,10.1093/gigascience/giad053,Gigascience,Genomic analyses provide insights into the evolution and salinity adaptation of halophyte ,2023-03-28,2023-06-29,2023-07-26,14,134
+37489753,10.1093/gigascience/giad054,Gigascience,MuLan-Methyl-multiple transformer-based language models for accurate DNA methylation predi,2023-02-19,2023-07-18,2023-07-25,3,62
+37489752,10.1093/gigascience/giad056,Gigascience,"Identification of sex chromosomes and primary sex ratio in the small hive beetle, a worldw",2023-02-08,2023-07-03,2023-07-25,11,76
+37489751,10.1093/gigascience/giad051,Gigascience,A new haplotype-resolved turkey genome to enable turkey genetics and genomics research.,2022-07-21,2023-06-27,2023-07-25,8,83
+37470496,10.1093/gigascience/giad050,Gigascience,"Genome assemblies of Vigna reflexo-pilosa (créole bean) and its progenitors, Vigna hirtell",2023-02-07,2023-06-26,2023-07-20,9,63
+37401720,10.1093/gigascience/giad049,Gigascience,Data management strategy for a collaborative research center.,2022-09-23,2023-06-11,2023-07-04,6,251
+37395631,10.1093/gigascience/giad046,Gigascience,Efficient real-time selective genome sequencing on resource-constrained devices.,2022-11-19,2023-06-02,2023-07-03,4,56
+37395630,10.1093/gigascience/giad044,Gigascience,Deep neural networks with knockoff features identify nonlinear causal relations and estima,2022-09-15,2023-05-29,2023-07-03,8,122
+37395629,10.1093/gigascience/giad048,Gigascience,Training Infrastructure as a Service.,2023-02-10,2023-06-08,2023-07-03,14,31
+37354463,10.1093/gigascience/giad042,Gigascience,"Identification of transcriptional regulatory variants in pig duodenum, liver, and muscle t",2022-11-03,2023-05-25,2023-06-24,10,85
+37326441,10.1093/gigascience/giad043,Gigascience,EraSOR: a software tool to eliminate inflation caused by sample overlap in polygenic score,2022-01-26,2023-05-25,2023-06-16,4,32
+37318234,10.1093/gigascience/giad041,Gigascience,ricu: R's interface to intensive care data.,2022-12-17,2023-05-18,2023-06-15,5,30
+37243520,10.1093/gigascience/giad039,Gigascience,Multiview child motor development dataset for AI-driven assessment of child development.,2022-08-08,2023-05-21,2023-05-27,18,30
+37226912,10.1093/gigascience/giad038,Gigascience,Developmental dynamics of chromatin accessibility during post-implantation development of ,2022-10-11,2023-05-04,2023-05-25,15,60
+37222749,10.1093/gigascience/giad036,Gigascience,CoVEffect: interactive system for mining the effects of SARS-CoV-2 mutations and variants ,2022-12-05,2023-04-27,2023-05-24,5,82
+37222748,10.1093/gigascience/giad035,Gigascience,FriendlyClearMap: an optimized toolkit for mouse brain mapping and analysis.,2022-06-20,2023-04-26,2023-05-24,9,75
+37216770,10.1093/gigascience/giad040,Gigascience,Correction: molecular mechanisms underlying hematophagia revealed by comparative analyses ,2012-12-12,2012-12-12,2023-05-23,0,0
+37216769,10.1093/gigascience/giad033,Gigascience,Genome assembly of 3 Amazonian Morpho butterfly species reveals Z-chromosome rearrangement,2022-10-25,2023-05-12,2023-05-23,7,72
+37171130,10.1093/gigascience/giad030,Gigascience,Strategies and techniques for quality control and semantic enrichment with multimodal data,2022-07-26,2023-04-19,2023-05-12,6,85
+37171129,10.1093/gigascience/giad034,Gigascience,Genome assembly of an Australian native grass species reveals a recent whole-genome duplic,2022-06-24,2023-04-24,2023-05-12,6,142
+37161965,10.1093/gigascience/giad032,Gigascience,T cell receptor repertoire sequencing reveals chemotherapy-driven clonal expansion in colo,2022-09-30,2023-04-25,2023-05-10,13,41
+37150537,10.1093/gigascience/giad031,Gigascience,A workflow reproducibility scale for automatic validation of biological interpretation res,2022-11-02,2023-04-28,2023-05-08,4,48
+37132522,10.1093/gigascience/giad029,Gigascience,On the benefits of self-taught learning for brain decoding.,2022-10-10,2023-04-14,2023-05-03,3,65
+37132521,10.1093/gigascience/giad026,Gigascience,TF-Prioritizer: a Java pipeline to prioritize condition-specific transcription factors.,2022-10-25,2023-04-05,2023-05-03,15,90
+37099385,10.1093/gigascience/giad028,Gigascience,An accessible infrastructure for artificial intelligence using a Docker-based JupyterLab i,2022-08-24,2023-04-11,2023-04-26,4,59
+37083939,10.1093/gigascience/giad024,Gigascience,The Regulatory Mendelian Mutation score for GRCh38.,2022-09-02,2023-03-21,2023-04-21,3,41
+37083938,10.1093/gigascience/giad025,Gigascience,DivBrowse-interactive visualization and exploratory data analysis of variant call matrices,2022-09-23,2023-03-23,2023-04-21,6,52
+37039117,10.1093/gigascience/giad023,Gigascience,Molecular mechanisms underlying hematophagia revealed by comparative analyses of leech gen,2022-08-04,2023-03-22,2023-04-12,19,66
+37039116,10.1093/gigascience/giad020,Gigascience,clevRvis: visualization techniques for clonal evolution.,2022-09-14,2023-03-08,2023-04-12,3,21
+37039115,10.1093/gigascience/giad021,Gigascience,Delineating regions of interest for mass spectrometry imaging by multimodally corroborated,2022-12-26,2023-03-13,2023-04-12,4,46
+37036103,10.1093/gigascience/giad022,Gigascience,The GEN-ERA toolbox: unified and reproducible workflows for research in microbial genomics,2022-10-24,2023-03-14,2023-04-11,16,89
+36994872,10.1093/gigascience/giad017,Gigascience,Contamination detection and microbiome exploration with GRIMER.,2022-10-31,2023-03-01,2023-03-31,2,94
+36892110,10.1093/gigascience/giad011,Gigascience,The curse and blessing of abundance-the evolution of drug interaction databases and their ,2022-09-07,2023-02-07,2023-03-10,3,86
+36879493,10.1093/gigascience/giad014,Gigascience,FAIR data station for lightweight metadata management and validation of omics studies.,2022-10-17,2023-02-21,2023-03-08,3,28
+36869695,10.1093/gigascience/giad007,Gigascience,High-throughput imaging of powdery mildew resistance of the winter wheat collection hosted,2022-07-21,2023-02-02,2023-03-05,5,27
+36852877,10.1093/gigascience/giad010,Gigascience,Contrast subgraphs allow comparing homogeneous and heterogeneous networks derived from omi,2022-08-03,2023-02-08,2023-03-01,6,57
+36852763,10.1093/gigascience/giad008,Gigascience,TAMPA: interpretable analysis and visualization of metagenomics-based taxon abundance prof,2022-05-09,2023-02-02,2023-03-01,4,38
+36810800,10.1093/gigascience/giad006,Gigascience,Workflow sharing with automated metadata validation and test execution to improve the reus,2022-07-12,2023-01-30,2023-02-23,4,39
+36807539,10.1093/gigascience/giad005,Gigascience,Genome assembly of Musa beccarii shows extensive chromosomal rearrangements and genome exp,2022-08-21,2023-01-27,2023-02-23,5,178
+36762707,10.1093/gigascience/giad002,Gigascience,Chromosome-level genome and the identification of sex chromosomes in Uloborus diversus.,2022-06-28,2023-01-03,2023-02-11,3,202
+36734171,10.1093/gigascience/giad003,Gigascience,Chromosome-level genome assembly of goose provides insight into the adaptation and growth ,2022-01-23,2023-01-09,2023-02-04,15,46
+36734170,10.1093/gigascience/giad001,Gigascience,Parvovirus dark matter in the cloaca of wild birds.,2022-09-28,2023-01-03,2023-02-04,11,65
+36705549,10.1093/gigascience/giac128,Gigascience,A molecular phenotypic map of malignant pleural mesothelioma.,2022-07-11,2022-12-22,2023-01-28,7,59
+36691728,10.1093/gigascience/giac126,Gigascience,scShapes: a statistical framework for identifying distribution shapes in single-cell RNA-s,2022-02-14,2022-12-15,2023-01-25,4,66
+36683362,10.1093/gigascience/giac127,Gigascience,Genomic view of the diversity and functional role of archaea and bacteria in the skeleton ,2022-08-05,2022-12-22,2023-01-24,7,112
+36649739,10.1093/gigascience/giac124,Gigascience,"Open and reusable annotated mass spectrometry dataset of a chemodiverse collection of 1,60",2022-05-18,2022-11-29,2023-01-18,11,57
+36644891,10.1093/gigascience/giac125,Gigascience,xAtlas: scalable small variant calling across heterogeneous next-generation sequencing exp,2021-08-16,2022-12-08,2023-01-17,14,35
+36576131,10.1093/gigascience/giac122,Gigascience,LMAS: evaluating metagenomic short de novo assembly methods through defined communities.,2022-05-04,2022-11-16,2022-12-29,6,54
+36576130,10.1093/gigascience/giac112,Gigascience,Near-chromosomal de novo assembly of Bengal tiger genome reveals genetic hallmarks of apex,2022-06-10,2022-10-20,2022-12-29,15,91
+36576129,10.1093/gigascience/giac119,Gigascience,Accurate and fast clade assignment via deep learning and frequency chaos game representati,2022-05-04,2022-11-14,2022-12-29,5,45
+36509548,10.1093/gigascience/giac121,Gigascience,High-throughput proteomics and in vitro functional characterization of the 26 medically mo,2022-08-04,2022-11-14,2022-12-13,9,92
+36480030,10.1093/gigascience/giac120,Gigascience,"A Chromosome-level assembly of the Japanese eel genome, insights into gene duplication and",2022-07-12,2022-11-15,2022-12-09,13,108
+36472574,10.1093/gigascience/giac099,Gigascience,annotate_my_genomes: an easy-to-use pipeline to improve genome annotation and uncover negl,2022-03-22,2022-09-28,2022-12-07,8,74
+36472573,10.1093/gigascience/giac111,Gigascience,Open-source benchmarking of IBD segment detection methods for biobank-scale cohorts.,2022-04-12,2022-09-28,2022-12-07,5,43
+36472572,10.1093/gigascience/giac123,Gigascience,The opportunities of research parasitism: A case study using the Barcode of Life Data Syst,2022-11-15,2022-11-17,2022-12-07,1,10
+36448847,10.1093/gigascience/giac118,Gigascience,3D-Beacons: decreasing the gap between protein sequences and structures through a federate,2022-08-11,2022-11-11,2022-12-01,32,43
+36374197,10.1093/gigascience/giac109,Gigascience,The whole-genome assembly of an endangered Salicaceae species: Chosenia arbutifolia (Pall.,2022-06-20,2022-10-14,2022-11-15,12,55
+36409836,10.1093/gigascience/giac105,Gigascience,Making Common Fund data more findable: catalyzing a data ecosystem.,2022-05-11,2022-10-10,2022-11-22,42,54
+36399061,10.1093/gigascience/giac103,Gigascience,Defining the characteristics of interferon-alpha-stimulated human genes: insight from expr,2022-02-28,2022-10-02,2022-11-19,4,102
+36399060,10.1093/gigascience/giac104,Gigascience,learnMSA: learning and aligning large protein families.,2022-06-07,2022-10-06,2022-11-19,2,49
+36399059,10.1093/gigascience/giac116,Gigascience,Improved microbial genomes and gene catalog of the chicken gut from metagenomic sequencing,2022-07-03,2022-10-30,2022-11-19,8,41
+36399058,10.1093/gigascience/giac110,Gigascience,What the Phage: a scalable workflow for the identification and analysis of phage sequences,2022-05-25,2022-10-17,2022-11-19,7,49
+36399057,10.1093/gigascience/giac117,Gigascience,Utilizing an artificial intelligence system to build the digital structural proteome of re,2022-07-05,2022-10-31,2022-11-19,6,57
+36377463,10.1093/gigascience/giac108,Gigascience,An in vitro whole-cell electrophysiology dataset of human cortical neurons.,2022-04-01,2022-10-14,2022-11-16,13,38
+36352542,10.1093/gigascience/giac098,Gigascience,High-quality genome assembles from key Hawaiian coral species.,2022-06-07,2022-09-22,2022-11-11,7,67
+36352541,10.1093/gigascience/giac102,Gigascience,Accurate gene consensus at low nanopore coverage.,2022-02-15,2022-10-05,2022-11-11,4,18
+36329619,10.1093/gigascience/giac101,Gigascience,Alignstein: Optimal transport for improved LC-MS retention time alignment.,2022-06-10,2022-09-30,2022-11-05,3,63
+36329618,10.1093/gigascience/giac114,Gigascience,Publishing data to support the fight against human vector-borne diseases.,2022-10-21,2022-10-24,2022-11-05,46,12
+36310248,10.1093/gigascience/giac106,Gigascience,The Capparis spinosa var. herbacea genome provides the first genomic instrument for a dive,2022-03-23,2022-10-13,2022-11-01,7,105
+36310247,10.1093/gigascience/giac100,Gigascience,Best genome sequencing strategies for annotation of complex immune gene families in wildli,2022-03-24,2022-09-29,2022-11-01,7,132
+36310246,10.1093/gigascience/giac113,Gigascience,The Global Atlas of Bamboo and Rattan (GABR) Phase II: new resources for sustainable devel,2022-09-22,2022-10-24,2022-11-01,11,9
+36305606,10.1093/gigascience/giac096,Gigascience,A dataset of ant colonies' motion trajectories in indoor and outdoor scenes to study clust,2022-03-17,2022-09-13,2022-10-29,5,51
+36283679,10.1093/gigascience/giac093,Gigascience,BrumiR: A toolkit for de novo discovery of microRNAs from sRNA-seq data.,2020-08-27,2022-09-15,2022-10-26,6,67
+36261217,10.1093/gigascience/giac092,Gigascience,A virtual library for behavioral performance in standard conditions-rodent spontaneous act,2022-05-10,2022-09-06,2022-10-20,3,146
+36251275,10.1093/gigascience/giac094,Gigascience,High temporal resolution Nanopore sequencing dataset of SARS-CoV-2 and host cell RNAs.,2022-03-03,2022-09-12,2022-10-18,10,45
+36251274,10.1093/gigascience/giac089,Gigascience,"CORAL: A framework for rigorous self-validated data modeling and integrative, reproducible",2021-10-25,2022-08-31,2022-10-18,3,24
+36251273,10.1093/gigascience/giac090,Gigascience,Chromosome-level genome assembly for the Aldabra giant tortoise enables insights into the ,2022-05-09,2022-09-12,2022-10-18,8,135
+36205401,10.1093/gigascience/giac088,Gigascience,"Karyon: a computational framework for the diagnosis of hybrids, aneuploids, and other nons",2021-05-22,2022-08-24,2022-10-08,5,84
+36200832,10.1093/gigascience/giac095,Gigascience,"Clonality, inbreeding, and hybridization in two extremotolerant black yeasts.",2022-04-08,2022-09-12,2022-10-07,6,85
+36173247,10.1093/gigascience/giac091,Gigascience,Discovery of druggable cancer-specific pathways with application in acute myeloid leukemia,2022-04-13,2022-09-06,2022-09-30,4,45
+36155782,10.1093/gigascience/giac087,Gigascience,SYNPRED: prediction of drug combination effects in cancer using different synergy metrics ,2021-12-18,2022-08-18,2022-09-27,4,89
+36130085,10.1093/gigascience/giac086,Gigascience,d-StructMAn: Containerized structural annotation on the scale from genetic variants to who,2022-02-11,2022-08-18,2022-09-22,5,47
+36106701,10.1093/gigascience/giac085,Gigascience,Identification of candidate sex-specific genomic regions in male and female Asian arowana ,2022-03-02,2022-08-10,2022-09-16,11,63
+36085557,10.1093/gigascience/giac081,Gigascience,The Pioneer Advantage: Filling the blank spots on the map of genome diversity in Europe.,2022-07-11,2022-07-26,2022-09-11,5,35
+36056732,10.1093/gigascience/giac084,Gigascience,Comparative maternal protein profiling of mouse biparental and uniparental embryos.,2022-04-22,2022-08-01,2022-09-04,12,92
+36017878,10.1093/gigascience/giac082,Gigascience,Statistical quantification of confounding bias in machine learning models.,2022-04-25,2022-07-28,2022-08-27,1,69
+36007182,10.1093/gigascience/giac083,Gigascience,A curated human cellular microRNAome based on 196 primary cell types.,2022-04-26,2022-07-29,2022-08-26,5,54
+35962776,10.1093/gigascience/giac074,Gigascience,"Quantifying research interests in 7,521 mammalian species with h-index: a case study.",2021-12-07,2022-06-27,2022-08-14,4,72
+35950840,10.1093/gigascience/giac076,Gigascience,DeePVP: Identification and classification of phage virion proteins using deep learning.,2022-02-08,2022-07-11,2022-08-12,4,38
+35950839,10.1093/gigascience/giac079,Gigascience,The complexity landscape of viral genomes.,2022-03-03,2022-07-26,2022-08-12,4,126
+35950838,10.1093/gigascience/giac077,Gigascience,A machine learning framework for discovery and enrichment of metagenomics metadata from op,2022-03-16,2022-07-12,2022-08-12,7,59
+35946989,10.1093/gigascience/giac075,Gigascience,Stardust: improving spatial transcriptomics data analysis through space-aware modularity o,2021-12-14,2022-06-30,2022-08-11,8,29
+35946988,10.1093/gigascience/giac068,Gigascience,Benchmarking ultra-high molecular weight DNA preservation methods for long-read and long-r,2021-09-06,2022-06-16,2022-08-11,22,33
+35946987,10.1093/gigascience/giac078,Gigascience,Evolution of complex genome architecture in gymnosperms.,2022-05-13,2022-07-15,2022-08-11,6,119
+35906888,10.1093/gigascience/giac072,Gigascience,Antibiotic resistance genes are differentially mobilized according to resistance mechanism,2022-04-13,2022-06-24,2022-07-31,3,98
+35906887,10.1093/gigascience/giac071,Gigascience,SurvBenchmark: comprehensive benchmarking study of survival analysis methods using both om,2022-02-18,2022-06-22,2022-07-31,5,58
+35902093,10.1093/gigascience/giac073,Gigascience,"Meta-Prism 2.0: Enabling algorithm and web server for ultra-fast, memory-efficient, and ac",2021-11-28,2022-06-27,2022-07-29,3,33
+35902092,10.1093/gigascience/giac066,Gigascience,Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis usi,2021-09-11,2022-06-15,2022-07-29,7,77
+35852420,10.1093/gigascience/giac064,Gigascience,Spacemake: processing and analysis of large-scale spatial transcriptomics data.,2021-11-11,2022-05-31,2022-07-20,4,45
+35852419,10.1093/gigascience/giac062,Gigascience,"A chromosome-level genome of the booklouse, Liposcelis brunnea, provides insight into lous",2022-03-29,2022-05-30,2022-07-20,5,81
+35852418,10.1093/gigascience/giac065,Gigascience,Toward global integration of biodiversity big data: a harmonized metabarcode data generati,2021-12-22,2022-06-02,2022-07-20,19,117
+35809049,10.1093/gigascience/giac070,Gigascience,"Chromosome-level assembly and annotation of the blue catfish Ictalurus furcatus, an aquacu",2022-04-24,2022-06-16,2022-07-10,5,136
+35809048,10.1093/gigascience/giac063,Gigascience,Chromosome-level genome assembly of Plazaster borealis sheds light on the morphogenesis of,2021-12-02,2022-05-31,2022-07-10,9,77
+35766383,10.1093/gigascience/giac069,Gigascience,"A Decade of GigaScience: Women in Science: Past, Present, and Future.",2022-06-16,2022-06-16,2022-06-30,3,10
+35764602,10.1093/gigascience/giac057,Gigascience,The Manchurian Walnut Genome: Insights into Juglone and Lipid Biosynthesis.,2021-10-30,2022-05-24,2022-06-29,18,124
+35764601,10.1093/gigascience/giac059,Gigascience,A chromosome-level genome assembly and intestinal transcriptome of Trypoxylus dichotomus (,2022-01-04,2022-05-27,2022-06-29,5,113
+35715875,10.1093/gigascience/giac054,Gigascience,Agricultural plant cataloging and establishment of a data framework from UAV-based crop im,2021-11-12,2022-05-16,2022-06-18,6,39
+35715874,10.1093/gigascience/giac051,Gigascience,ChemChaste: Simulating spatially inhomogeneous biochemical reaction-diffusion systems for ,2021-11-21,2022-05-30,2022-06-18,3,51
+35701377,10.1093/gigascience/giac052,Gigascience,"A novel ground truth multispectral image dataset with weight, anthocyanins, and Brix index",2022-02-10,2022-05-02,2022-06-15,6,34
+35701376,10.1093/gigascience/giac042,Gigascience,"A chromosome-level genome assembly of Artocarpus nanchuanensis (Moraceae), an extremely en",2021-05-24,2022-03-29,2022-06-15,12,63
+35701375,10.1093/gigascience/giac050,Gigascience,Genomes and demographic histories of the endangered Bretschneidera sinensis (Akaniaceae).,2021-11-14,2022-04-23,2022-06-15,12,81
+35701374,10.1093/gigascience/giac053,Gigascience,A Decade of GigaScience: GigaDB and the Open Data Movement.,2022-05-10,2022-05-11,2022-06-15,3,10
+35701373,10.1093/gigascience/giac058,Gigascience,A decade of GigaScience: What can be learned from half a million RRIDs in the scientific l,2022-05-09,2022-05-23,2022-06-15,1,10
+35701372,10.1093/gigascience/giac056,Gigascience,A Decade of GigaScience: The Challenges of Gigapixel Pathology Images.,2022-05-14,2022-05-23,2022-06-15,3,10
+35701371,10.1093/gigascience/giac055,Gigascience,A decade of GigaScience: A perspective on conservation genetics.,2022-05-14,2022-06-09,2022-06-15,1,10
+35701370,10.1093/gigascience/giac060,Gigascience,A decade of GigaScience: the importance of community organizations for open and FAIR effor,2022-05-19,2022-06-09,2022-06-15,1,9
+35640223,10.1093/gigascience/giac039,Gigascience,"Construction of a new chromosome-scale, long-read reference genome assembly for the Syrian",2021-07-05,2022-03-29,2022-06-01,14,37
+35639883,10.1093/gigascience/giac045,Gigascience,"Analysis of SARS-CoV-2 known and novel subgenomic mRNAs in cell culture, animal model, and",2021-05-11,2022-04-07,2022-06-01,21,46
+35639633,10.1093/gigascience/giac046,Gigascience,Profiling the baseline performance and limits of machine learning models for adaptive immu,2021-07-17,2022-04-08,2022-06-01,7,73
+35639632,10.1093/gigascience/giac049,Gigascience,Chromosome-level genome assembly of the black widow spider Latrodectus elegans illuminates,2021-11-04,2022-04-22,2022-06-01,7,78
+35640874,10.1093/gigascience/giac048,Gigascience,"Modern venomics-Current insights, novel methods, and future perspectives in biological and",2022-01-30,2022-04-12,2022-06-01,35,336
+35583674,10.1093/gigascience/giac041,Gigascience,The assembled and annotated genome of the masked palm civet (Paguma larvata).,2021-10-07,2022-03-29,2022-05-19,6,73
+35579554,10.1093/gigascience/giac044,Gigascience,Generation and application of pseudo-long reads for metagenome assembly.,2021-10-27,2022-04-03,2022-05-18,7,53
+35579553,10.1093/gigascience/giac037,Gigascience,NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmen,2021-10-28,2022-03-18,2022-05-18,37,66
+35579551,10.1093/gigascience/giac047,Gigascience,A decade of GigaScience: 10 years of the evolving genomic and biomedical standards landsca,2022-03-13,2022-04-12,2022-05-18,1,10
+35579550,10.1093/gigascience/giac038,Gigascience,HaploMaker: An improved algorithm for rapid haplotype assembly of genomic sequences.,2021-08-18,2022-03-24,2022-05-18,4,45
+35488861,10.1093/gigascience/giac027,Gigascience,A chromosome-level reference genome of Ensete glaucum gives insight into diversity and chr,2021-11-03,2022-02-22,2022-05-01,11,127
+35488860,10.1093/gigascience/giac033,Gigascience,scMAPA: Identification of cell-type-specific alternative polyadenylation in complex tissue,2021-08-06,2022-03-15,2022-05-01,10,35
+35488859,10.1093/gigascience/giac031,Gigascience,Monash DaCRA fPET-fMRI: A dataset for comparison of radiotracer administration for high te,2021-08-03,2022-03-06,2022-05-01,8,49
+35482491,10.1093/gigascience/giac034,Gigascience,Long-read and chromosome-scale assembly of the hexaploid wheat genome achieves high resolu,2021-09-27,2022-03-15,2022-04-29,19,64
+35482490,10.1093/gigascience/giac040,Gigascience,Message in a Bottle-Metabarcoding enables biodiversity comparisons across ecoregions.,2021-08-25,2022-03-29,2022-04-29,12,77
+35482489,10.1093/gigascience/giac035,Gigascience,"Lessons learned about the biology and genomics of Diaphorina citri infection with ""Candida",2021-10-01,2022-03-16,2022-04-29,9,82
+35426912,10.1093/gigascience/giac013,Gigascience,Benchmarking missing-values approaches for predictive models on health databases.,2021-06-22,2022-01-25,2022-04-16,5,49
+35426911,10.1093/gigascience/giac023,Gigascience,Standardized genome-wide function prediction enables comparative functional genomics: a ne,2021-09-02,2022-01-25,2022-04-16,10,108
+35383847,10.1093/gigascience/giac018,Gigascience,"A high-quality assembly reveals genomic characteristics, phylogenetic status, and causal g",2021-06-29,2022-02-09,2022-04-07,17,134
+35380661,10.1093/gigascience/giac030,Gigascience,Living in darkness: Exploring adaptation of Proteus anguinus in 3 dimensions by X-ray imag,2021-08-27,2022-02-27,2022-04-06,15,42
+35373834,10.1093/gigascience/giac009,Gigascience,Chromosome-level genome of the globe skimmer dragonfly (Pantala flavescens).,2021-09-23,2022-01-19,2022-04-05,9,59
+35365835,10.1093/gigascience/giac019,Gigascience,A high-quality assembled genome and its comparative analysis decode the adaptive molecular,2021-09-08,2022-02-09,2022-04-03,19,71
+35365834,10.1093/gigascience/giac007,Gigascience,GuideMaker: Software to design CRISPR-Cas guide RNA pools in non-model genomes.,2021-06-25,2022-01-13,2022-04-03,4,40
+35365833,10.1093/gigascience/giac026,Gigascience,"A high-quality, long-read genome assembly of the endangered ring-tailed lemur (Lemur catta",2021-10-18,2022-02-19,2022-04-03,9,41
+35365832,10.1093/gigascience/giac024,Gigascience,The rise of genomics in snake venom research: recent advances and future perspectives.,2021-12-14,2022-02-13,2022-04-03,14,146
+35348671,10.1093/gigascience/giac025,Gigascience,Chromosome-length genome assembly and linkage map of a critically endangered Australian bi,2021-10-18,2022-02-14,2022-03-30,14,73
+35333302,10.1093/gigascience/giac028,Gigascience,The haplotype-resolved chromosome pairs of a heterozygous diploid African cassava cultivar,2021-10-16,2022-02-22,2022-03-26,14,93
+35333301,10.1093/gigascience/giac020,Gigascience,Metabarcoding versus mapping unassembled shotgun reads for identification of prey consumed,2021-09-24,2022-02-09,2022-03-26,6,76
+35333300,10.1093/gigascience/giac022,Gigascience,"KOREF_S1: phased, parental trio-binned Korean reference genome using long reads and Hi-C s",2021-07-26,2022-02-13,2022-03-26,6,38
+35277961,10.1093/gigascience/giac021,Gigascience,"Chromosome-level genome assembly, annotation, and phylogenomics of the gooseneck barnacle ",2021-11-05,2022-02-11,2022-03-13,7,150
+35254426,10.1093/gigascience/giac008,Gigascience,A new mass spectral library for high-coverage and reproducible analysis of the Plasmodium ,2021-08-04,2022-01-28,2022-03-08,10,69
+35254425,10.1093/gigascience/giac016,Gigascience,X-ray microtomography imaging of craniofacial hard tissues in selected reptile species wit,2021-11-01,2022-01-28,2022-03-08,6,25
+35254424,10.1093/gigascience/giac015,Gigascience,The Nencki-Symfonia electroencephalography/event-related potential dataset: Multiple cogni,2021-09-29,2022-01-27,2022-03-08,5,54
+35217860,10.1093/gigascience/giac011,Gigascience,Genome size evolution in the diverse insect order Trichoptera.,2021-07-18,2022-01-21,2022-02-27,11,143
+35217859,10.1093/gigascience/giac006,Gigascience,Assessing species coverage and assembly quality of rapidly accumulating sequenced genomes.,2021-10-27,2022-01-13,2022-02-27,2,62
+35169842,10.1093/gigascience/giac003,Gigascience,Future-proofing and maximizing the utility of metadata: The PHA4GE SARS-CoV-2 contextual d,2021-08-12,2022-01-07,2022-02-17,33,73
+35166340,10.1093/gigascience/giac004,Gigascience,Maternal plasma lipids are involved in the pathogenesis of preterm birth.,2021-07-12,2022-01-12,2022-02-16,10,48
+35166339,10.1093/gigascience/giac012,Gigascience,Genome of the ramshorn snail Biomphalaria straminea-an obligate intermediate host of schis,2021-08-10,2022-01-25,2022-02-16,19,91
+35166338,10.1093/gigascience/giac005,Gigascience,Democratizing data-independent acquisition proteomics analysis on public cloud infrastruct,2021-07-27,2022-01-12,2022-02-16,6,65
+35166337,10.1093/gigascience/giac002,Gigascience,NETMAGE: A human disease phenotype map generator for the network-based visualization of ph,2021-07-26,2022-01-06,2022-02-16,9,28
+35166336,10.1093/gigascience/giac010,Gigascience,Fully resolved assembly of Cryptosporidium parvum.,2021-10-08,2022-01-20,2022-02-16,22,56
+35134928,10.1093/gigascience/giab093,Gigascience,Interpretable network-guided epistasis detection.,2021-02-04,2021-12-13,2022-02-09,4,54
+35134927,10.1093/gigascience/giab098,Gigascience,"A chromosome-level genome assembly and annotation of the desert horned lizard, Phrynosoma ",2021-02-05,2021-12-15,2022-02-09,7,80
+35134926,10.1093/gigascience/giab091,Gigascience,Qiber3D-an open-source software package for the quantitative analysis of networks from 3D ,2021-06-23,2021-12-07,2022-02-09,3,45
+35134925,10.1093/gigascience/giab096,Gigascience,An improved ovine reference genome assembly to facilitate in-depth functional annotation o,2021-08-17,2021-12-25,2022-02-09,11,51
+35084034,10.1093/gigascience/giab101,Gigascience,LED color gradient as a new screening tool for rapid phenotyping of plant responses to lig,2021-07-12,2021-12-15,2022-01-28,6,70
+35084033,10.1093/gigascience/giac001,Gigascience,Comparative analysis of common alignment tools for single-cell RNA sequencing.,2021-04-30,2021-12-27,2022-01-28,5,46
+35077540,10.1093/gigascience/giab088,Gigascience,Fungal and ciliate protozoa are the main rumen microbes associated with methane emissions ,2021-08-11,2021-11-30,2022-01-26,14,90
+35077539,10.1093/gigascience/giab100,Gigascience,DENTIST-using long reads for closing assembly gaps at high accuracy.,2021-09-21,2021-12-15,2022-01-26,4,33
+35077538,10.1093/gigascience/giab092,Gigascience,ExTaxsI: an exploration tool of biodiversity molecular data.,2021-07-30,2021-11-30,2022-01-26,9,72
+35022701,10.1093/gigascience/giab097,Gigascience,Improved chromosome-level genome assembly of the Glanville fritillary butterfly (Melitaea ,2020-11-02,2021-12-14,2022-01-14,33,74
+35022700,10.1093/gigascience/giab095,Gigascience,Citation needed? Wikipedia bibliometrics during the first wave of the COVID-19 pandemic.,2021-05-10,2021-12-10,2022-01-14,3,54
+35022699,10.1093/gigascience/giab094,Gigascience,Halvade somatic: Somatic variant calling with Apache Spark.,2021-09-01,2021-12-09,2022-01-14,8,35
+35022698,10.1093/gigascience/giab089,Gigascience,"Chromosome-level genome assembly of the shuttles hoppfish, Periophthalmus modestus.",2021-08-04,2021-12-05,2022-01-14,7,59
+37848618,10.1093/gigascience/giad086,Gigascience,Single-cell transcriptome analysis illuminating the characteristics of species-specific in,2023-01-10,2023-09-25,2023-10-18,7,59
+36994871,10.1093/gigascience/giad018,Gigascience,"The Australasian dingo archetype: de novo chromosome-length genome assembly, DNA methylome",2022-09-26,2023-02-28,2023-03-31,16,133
+36971293,10.1093/gigascience/giad019,Gigascience,Honey bee (Apis mellifera) wing images: a tool for identification and conservation.,2022-10-28,2023-03-06,2023-03-28,15,98
+36971292,10.1093/gigascience/giad015,Gigascience,Cell type-specific interpretation of noncoding variants using deep learning-based methods.,2022-05-01,2023-02-27,2023-03-28,9,31
+36971291,10.1093/gigascience/giad016,Gigascience,Resequencing of a Pekin duck breeding population provides insights into the genomic respon,2022-09-29,2023-02-27,2023-03-28,16,105
+36939008,10.1093/gigascience/giad009,Gigascience,ViReMa: a virus recombination mapper of next-generation sequencing data characterizes dive,2022-05-20,2023-02-03,2023-03-21,7,75
+36939007,10.1093/gigascience/giad013,Gigascience,Characterization and simulation of metagenomic nanopore sequencing data with Meta-NanoSim.,2022-10-06,2023-02-17,2023-03-21,6,36
+36939006,10.1093/gigascience/giad004,Gigascience,FAIR Island: real-world examples of place-based open science.,2022-11-10,2023-01-24,2023-03-21,10,10
+39704704,10.1093/gigascience/giae108,Gigascience,scGraph2Vec: a deep generative model for gene embedding augmented by graph neural network ,2024-06-03,2024-11-26,2024-12-20,2,107
+39704703,10.1093/gigascience/giae105,Gigascience,ssMutPA: single-sample mutation-based pathway analysis approach for cancer precision medic,2024-06-11,2024-11-26,2024-12-20,10,55
+39704702,10.1093/gigascience/giae104,Gigascience,PlasGO: enhancing GO-based function prediction for plasmid-encoded proteins based on genet,2024-07-04,2024-11-27,2024-12-20,7,64
+39704701,10.1093/gigascience/giae109,Gigascience,"Diaci v3.0: chromosome-level assembly, de novo transcriptome, and manual annotation of Dia",2022-12-29,2024-11-27,2024-12-20,61,147
+39704700,10.1093/gigascience/giae102,Gigascience,cfDNA UniFlow: a unified preprocessing pipeline for cell-free DNA data from liquid biopsie,2023-11-23,2024-11-21,2024-12-20,4,45
+39693632,10.1093/gigascience/giae100,Gigascience,A dataset profiling the multiomic landscape of the prefrontal cortex in amyotrophic latera,2024-06-21,2024-11-11,2024-12-18,19,45
+39693631,10.1093/gigascience/giae099,Gigascience,Near telomere-to-telomere genome assembly of Mongolian cattle: implications for population,2024-07-19,2024-11-10,2024-12-18,15,40
+39661724,10.1093/gigascience/giae096,Gigascience,The telomere-to-telomere (T2T) genome provides insights into the evolution of specialized ,2024-06-14,2024-11-04,2024-12-11,5,72
+39661723,10.1093/gigascience/giae094,Gigascience,DOME Registry: implementing community-wide recommendations for reporting supervised machin,2024-08-16,2024-10-27,2024-12-11,20,26
+39657158,10.1093/gigascience/giae093,Gigascience,Learning a generalized graph transformer for protein function prediction in dissimilar seq,2024-04-05,2024-10-25,2024-12-15,6,54
+39657104,10.1093/gigascience/giae092,Gigascience,Functional annotation of regulatory elements in rainbow trout uncovers roles of the epigen,2024-03-28,2024-10-24,2024-12-15,8,72
+39657103,10.1093/gigascience/giae095,Gigascience,Stratum corneum nanotexture feature detection using deep learning and spatial analysis: a ,2024-03-27,2024-11-03,2024-12-15,10,83
+39657102,10.1093/gigascience/giae097,Gigascience,Hiding in plain sight: a research parasite's perspective on new lessons in old data.,2024-10-29,2024-11-04,2024-12-15,1,10
+39607984,10.1093/gigascience/giae089,Gigascience,stMMR: accurate and robust spatial domain identification from spatially resolved transcrip,2024-05-08,2024-10-23,2024-11-28,10,87
+39607983,10.1093/gigascience/giae087,Gigascience,"""UDE DIATOMS in the Wild 2024"": a new image dataset of freshwater diatoms for training dee",2024-05-08,2024-10-14,2024-11-28,12,113
+39607982,10.1093/gigascience/giae091,Gigascience,The chromosome-level genome assembly of an endangered herb Bergenia scopulosa provides ins,2024-04-29,2024-10-24,2024-11-28,7,135
+39607981,10.1093/gigascience/giae090,Gigascience,demuxSNP: supervised demultiplexing single-cell RNA sequencing using cell hashing and SNPs,2024-05-28,2024-10-23,2024-11-28,5,47
+39589440,10.1093/gigascience/giae084,Gigascience,Construction and analysis of telomere-to-telomere genomes for 2 sweet oranges: Longhuihong,2024-06-06,2024-10-10,2024-11-26,9,74
+39589439,10.1093/gigascience/giae085,Gigascience,De novo assembly and characterization of a highly degenerated ZW sex chromosome in the fis,2024-01-15,2024-10-14,2024-11-26,19,122
+39589438,10.1093/gigascience/giae086,Gigascience,AltaiR: a C toolkit for alignment-free and temporal analysis of multi-FASTA data.,2023-12-18,2024-10-14,2024-11-26,3,102
+39517109,10.1093/gigascience/giae083,Gigascience,CAT Bridge: an efficient toolkit for gene-metabolite association mining from multiomics da,2024-04-08,2024-10-04,2024-11-13,11,60
+39484977,10.1093/gigascience/giae080,Gigascience,Protein-protein and protein-nucleic acid binding site prediction via interpretable hierarc,2024-07-02,2024-09-25,2024-11-04,3,70
+39460935,10.1093/gigascience/giae076,Gigascience,vEMstitch: an algorithm for fully automatic image stitching of volume electron microscopy.,2024-03-20,2024-09-19,2024-10-26,7,52
+39460934,10.1093/gigascience/giae073,Gigascience,Discovering genotype-phenotype relationships with machine learning and the Visual Physiolo,2024-02-15,2024-09-01,2024-10-26,5,137
+39452614,10.1093/gigascience/giae078,Gigascience,StereoSiTE: a framework to spatially and quantitatively profile the cellular neighborhood ,2023-10-31,2024-09-20,2024-10-25,18,47
+39452613,10.1093/gigascience/giae079,Gigascience,CoCoPyE: feature engineering for learning and prediction of genome quality indices.,2024-03-04,2024-09-23,2024-10-25,7,19
+39435574,10.1093/gigascience/giae081,Gigascience,"Genomic exploration of the endangered oriental stork, Ciconia boyciana, sheds light on mig",2023-11-08,2024-09-26,2024-10-22,18,116
+39435573,10.1093/gigascience/giae061,Gigascience,"DNA methylation analysis to differentiate reference, breed, and parent-of-origin effects i",2023-10-18,2024-07-25,2024-10-22,6,119
+39399973,10.1093/gigascience/giae071,Gigascience,MISIP: a data standard for the reuse and reproducibility of any stable isotope probing-der,2024-06-01,2024-08-27,2024-10-14,11,40
+39388605,10.1093/gigascience/giae062,Gigascience,Deepdefense: annotation of immune systems in prokaryotes using deep learning.,2023-10-04,2024-08-01,2024-10-10,3,42
+39388604,10.1093/gigascience/giae075,Gigascience,High-quality assembly of the T2T genome for Isodon rubescens f. lushanensis reveals genomi,2024-05-21,2024-09-04,2024-10-10,17,74
+39347649,10.1093/gigascience/giae065,Gigascience,V-pipe 3.0: a sustainable pipeline for within-sample viral genetic diversity estimation.,2023-10-31,2024-08-13,2024-09-30,19,76
+39331809,10.1093/gigascience/giae068,Gigascience,Harnessing population diversity: in search of tools of the trade.,2024-06-09,2024-08-20,2024-09-27,3,95
+39320317,10.1093/gigascience/giae074,Gigascience,PhageGE: an interactive web platform for exploratory analysis and visualization of bacteri,2024-02-04,2024-09-02,2024-09-25,14,52
+39320316,10.1093/gigascience/giae072,Gigascience,Chromosome-level genome assemblies of two littorinid marine snails indicate genetic basis ,2024-03-12,2024-08-29,2024-09-25,6,90
+39311763,10.1093/gigascience/giae064,Gigascience,Whole-genome sequencing of the invasive golden apple snail Pomacea canaliculata from Asia ,2023-10-06,2024-08-07,2024-09-23,15,99
+39311762,10.1093/gigascience/giae070,Gigascience,Genomic insights into endangerment and conservation of the garlic-fruit tree (Malania olei,2024-05-10,2024-08-22,2024-09-23,7,100
+39302238,10.1093/gigascience/giae058,Gigascience,An interconnected data infrastructure to support large-scale rare disease research.,2023-09-07,2024-07-21,2024-09-21,37,61
+39283687,10.1093/gigascience/giae067,Gigascience,Telomere-to-telomere gap-free genome assembly of the endangered Yangtze finless porpoise a,2023-11-23,2024-08-16,2024-09-17,15,86
+39283686,10.1093/gigascience/giae066,Gigascience,Celebrating 30 years of access to NASA Space Life Sciences data.,2024-07-23,2024-08-13,2024-09-17,7,10
+39250077,10.1093/gigascience/giae053,Gigascience,Disentangling river and swamp buffalo genetic diversity: initial insights from the 1000 Bu,2024-03-20,2024-07-12,2024-09-09,13,91
+39250076,10.1093/gigascience/giae054,Gigascience,Web of venom: exploration of big data resources in animal toxin research.,2024-05-14,2024-07-13,2024-09-09,21,170
+39190925,10.1093/gigascience/giae063,Gigascience,The genomes of 5 underutilized Papilionoideae crops provide insights into root nodulation ,2024-01-30,2024-08-01,2024-08-27,8,73
+39185700,10.1093/gigascience/giae057,Gigascience,Deep learning links localized digital pathology phenotypes with transcriptional subtype an,2023-10-20,2024-07-20,2024-08-26,8,69
+39172545,10.1093/gigascience/giae059,Gigascience,RNAVirHost: a machine learning-based method for predicting hosts of RNA viruses through vi,2024-03-07,2024-07-23,2024-08-22,3,70
+39172544,10.1093/gigascience/giae056,Gigascience,TooManyCellsInteractive: A visualization tool for dynamic exploration of single-cell data.,2023-12-13,2024-07-15,2024-08-22,4,50
+39172543,10.1093/gigascience/giae060,Gigascience,Design and implementation of a scalable high-performance computing (HPC) cluster for omics,2024-03-19,2024-07-23,2024-08-22,10,10
+39115959,10.1093/gigascience/giae051,Gigascience,Impact of reference design on estimating SARS-CoV-2 lineage abundances from wastewater seq,2023-06-12,2024-07-05,2024-08-08,6,52
+39115958,10.1093/gigascience/giae055,Gigascience,Efficient phylogenetic tree inference for massive taxonomic datasets: harnessing the power,2023-10-23,2024-07-11,2024-08-08,2,29
+39110623,10.1093/gigascience/giae041,Gigascience,Dual-Alpha: a large EEG study for dual-frequency SSVEP brain-computer interface.,2024-04-16,2024-06-20,2024-08-07,5,38
+39110622,10.1093/gigascience/giae052,Gigascience,The first high-altitude autotetraploid haplotype-resolved genome assembled (Rhododendron n,2023-12-19,2024-07-05,2024-08-07,8,133
+39110621,10.1093/gigascience/giae050,Gigascience,Current status of global conservation and characterisation of wild and cultivated Brassica,2023-12-04,2024-06-28,2024-08-07,4,122
+39102518,10.1093/gigascience/giae049,Gigascience,CAT: a computational anatomy toolbox for the analysis of structural MRI data.,2024-03-05,2024-06-27,2024-08-05,6,69
+39101784,10.1093/gigascience/giae048,Gigascience,A trade-off in evolution: the adaptive landscape of spiders without venom glands.,2023-09-13,2024-06-26,2024-08-05,10,94
+39101783,10.1093/gigascience/giae040,Gigascience,Deciphering cancer genomes with GenomeSpy: a grammar-based visualization toolkit.,2024-01-09,2024-06-19,2024-08-05,13,91
+39101782,10.1093/gigascience/giae047,Gigascience,MOBFinder: a tool for mobilization typing of plasmid metagenomic fragments based on a lang,2024-02-28,2024-06-24,2024-08-05,4,54
+39028588,10.1093/gigascience/giae042,Gigascience,spatiAlign: an unsupervised contrastive learning model for data integration of spatially r,2023-08-30,2024-06-21,2024-07-19,10,68
+39028587,10.1093/gigascience/giae046,Gigascience,GSC: efficient lossless compression of VCF files with fast query.,2024-03-04,2024-06-22,2024-07-19,8,35
+39028586,10.1093/gigascience/giae045,Gigascience,Innovative approach for high-throughput exploiting sex-specific markers in Japanese parrot,2023-12-06,2024-06-22,2024-07-19,10,106
+39028585,10.1093/gigascience/giae044,Gigascience,A ghost moth olfactory prototype of the lepidopteran sex communication.,2023-08-21,2024-06-22,2024-07-19,12,83
+39013635,10.1093/gigascience/giae037,Gigascience,Unveiling vertebrate development dynamics in frog Xenopus laevis using micro-CT imaging.,2023-11-30,2024-06-03,2024-07-17,10,68
+38995144,10.1093/gigascience/giae038,Gigascience,gNOMO2: a comprehensive and modular pipeline for integrated multi-omics analyses of microb,2024-01-29,2024-06-16,2024-07-12,2,64
+38995143,10.1093/gigascience/giae034,Gigascience,Exploring the cobia (Rachycentron canadum) genome: unveiling putative male heterogametic r,2023-10-30,2024-05-22,2024-07-12,16,100
+38991853,10.1093/gigascience/giae043,Gigascience,Gapless genome assembly and epigenetic profiles reveal gene regulation of whole-genome tri,2024-02-26,2024-06-22,2024-07-12,3,98
+38991852,10.1093/gigascience/giae039,Gigascience,Omada: robust clustering of transcriptomes through multiple testing.,2023-07-28,2024-06-17,2024-07-12,7,81
+38991851,10.1093/gigascience/giae033,Gigascience,"PEPhub: a database, web interface, and API for editing, sharing, and validating biological",2023-08-15,2024-05-21,2024-07-12,6,24
+38940768,10.1093/gigascience/giae036,Gigascience,Genome evolution and transcriptome plasticity is associated with adaptation to monocot and,2023-08-31,2024-05-25,2024-06-28,21,108
+38897734,10.1093/gigascience/giae035,Gigascience,A 3D printed plant model for accurate and reliable 3D plant phenotyping.,2024-01-25,2024-05-24,2024-06-20,10,66
+38896539,10.1093/gigascience/giae030,Gigascience,A qualitative assessment of using ChatGPT as large language model for scientific workflow ,2024-01-10,2024-05-13,2024-06-19,7,116
+38869151,10.1093/gigascience/giae032,Gigascience,"The genomes of Dahlia pinnata, Cosmos bipinnatus, and Bidens alba in tribe Coreopsideae pr",2023-12-24,2024-05-20,2024-06-13,9,96
+38869150,10.1093/gigascience/giae026,Gigascience,Generalized open-source workflows for atomistic molecular dynamics simulations of viral he,2023-06-20,2024-05-06,2024-06-13,2,78
+38869149,10.1093/gigascience/giae029,Gigascience,Exploring the role of polymorphic interspecies structural variants in reproductive isolati,2023-11-05,2024-05-14,2024-06-13,7,108
+38869148,10.1093/gigascience/giae028,Gigascience,LRTK: a platform agnostic toolkit for linked-read analysis of both human genome and metage,2023-09-14,2024-05-09,2024-06-13,10,65
+38837946,10.1093/gigascience/giae027,Gigascience,Genomic decoding of Theobroma grandiflorum (cupuassu) at chromosomal scale: evolutionary i,2023-12-23,2024-05-08,2024-06-05,14,135
+38837945,10.1093/gigascience/giae025,Gigascience,The telomere-to-telomere (T2T) genome of Peucedanum praeruptorum Dunn provides insights in,2023-09-19,2024-05-01,2024-06-05,16,101
+38837944,10.1093/gigascience/giae023,Gigascience,"Mechanisms of hepatic steatosis in chickens: integrated analysis of the host genome, molec",2023-05-14,2024-04-22,2024-06-05,15,102
+38837942,10.1093/gigascience/giae022,Gigascience,CheRRI-Accurate classification of the biological relevance of putative RNA-RNA interaction,2023-09-27,2024-04-22,2024-06-05,6,42
+38832467,10.1093/gigascience/giae020,Gigascience,Hecatomb: an integrated software platform for viral metagenomics.,2023-07-17,2024-04-08,2024-06-04,11,114
+38832466,10.1093/gigascience/giae024,Gigascience,"ntsm: an alignment-free, ultra-low-coverage, sequencing technology agnostic, intraspecies ",2023-11-01,2024-04-30,2024-06-04,4,40
+38832465,10.1093/gigascience/giae013,Gigascience,"RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, coexpression, regulatory, ep",2023-10-15,2024-03-12,2024-06-04,11,93
+38649301,10.1093/gigascience/giae017,Gigascience,Large-scale genomic survey with deep learning-based method reveals strain-level phage spec,2023-09-28,2024-03-24,2024-04-23,6,91
+38649300,10.1093/gigascience/giae018,Gigascience,IPEV: identification of prokaryotic and eukaryotic virus-derived sequences in virome using,2023-11-23,2024-03-25,2024-04-23,9,65
+38626724,10.1093/gigascience/giae019,Gigascience,Enhanced bovine genome annotation through integration of transcriptomics and epi-transcrip,2023-02-11,2024-03-27,2024-04-17,27,96
+38626723,10.1093/gigascience/giae014,Gigascience,"Korea4K: whole genome sequences of 4,157 Koreans with 107 phenotypes derived from extensiv",2023-04-24,2024-03-15,2024-04-17,30,55
+38626722,10.1093/gigascience/giae015,Gigascience,An effective strategy for assembling the sex-limited chromosome.,2023-07-31,2024-03-15,2024-04-17,8,36
+38608280,10.1093/gigascience/giae012,Gigascience,Proteome-wide association study and functional validation identify novel protein markers f,2023-10-23,2024-03-11,2024-04-12,20,62
+38608279,10.1093/gigascience/giae016,Gigascience,Streamlining remote nanopore data access with slow5curl.,2023-12-23,2024-03-18,2024-04-12,5,31
+38587470,10.1093/gigascience/giae009,Gigascience,On the variability of dynamic functional connectivity assessment methods.,2023-08-03,2024-02-15,2024-04-08,3,69
+38573186,10.1093/gigascience/giae011,Gigascience,Improved integration of single-cell transcriptome data demonstrates common and unique sign,2023-07-31,2024-03-06,2024-04-04,12,66
+38573185,10.1093/gigascience/giae010,Gigascience,Pangenome databases improve host removal and mycobacteria classification from clinical met,2023-09-18,2024-02-27,2024-04-04,2,61
+38488666,10.1093/gigascience/giae005,Gigascience,Data processing solutions to render metabolomics more quantitative: case studies in food a,2023-08-29,2024-02-02,2024-03-15,6,55
+38486346,10.1093/gigascience/giae006,Gigascience,A reference genome of Commelinales provides insights into the commelinids evolution and gl,2023-09-15,2024-02-08,2024-03-15,14,92
+38451475,10.1093/gigascience/giae008,Gigascience,Multi-omic dataset of patient-derived tumor organoids of neuroendocrine neoplasms.,2023-09-13,2024-02-12,2024-03-07,8,70
+38442146,10.1093/gigascience/giae007,Gigascience,Leveraging citizen science for monitoring urban forageable plants.,2023-09-01,2024-02-08,2024-03-05,21,10
+38442145,10.1093/gigascience/giae002,Gigascience,Habitat suitability maps for Australian flora and fauna under CMIP6 climate scenarios.,2023-07-04,2024-01-05,2024-03-05,4,77
+38373746,10.1093/gigascience/giad097,Gigascience,EAGS: efficient and adaptive Gaussian smoothing applied to high-resolved spatial transcrip,2023-06-01,2023-10-13,2024-02-20,8,46
+38373745,10.1093/gigascience/giae003,Gigascience,Deciphering spatial domains from spatially resolved transcriptomics with Siamese graph aut,2023-10-31,2024-01-10,2024-02-20,13,36
+38372702,10.1093/gigascience/giae004,Gigascience,Chromosome-level genome of the poultry shaft louse Menopon gallinae provides insight into ,2023-08-09,2024-01-16,2024-02-19,11,105
+38323677,10.1093/gigascience/giae001,Gigascience,The probability of edge existence due to node degree: a baseline for network-based predict,2023-01-05,2024-01-02,2024-02-07,6,35
+38280189,10.1093/gigascience/giad099,Gigascience,FAIR data retrieval for sensitive clinical research data in Galaxy.,2023-06-28,2023-11-01,2024-01-28,5,39
+38280188,10.1093/gigascience/giad120,Gigascience,MMV_Im2Im: an open-source microscopy machine vision toolbox for image-to-image transformat,2023-04-06,2023-12-28,2024-01-28,3,66
+38280187,10.1093/gigascience/giad119,Gigascience,Toward genome assemblies for all marine vertebrates: current landscape and challenges.,2023-09-14,2023-12-25,2024-01-28,5,10
+38241143,10.1093/gigascience/giad116,Gigascience,ToxCodAn-Genome: an automated pipeline for toxin-gene annotation in genome assembly of ven,2023-07-14,2023-12-18,2024-01-19,4,104
+38217407,10.1093/gigascience/giad109,Gigascience,Evaluation of Swin Transformer and knowledge transfer for denoising of super-resolution st,2023-02-17,2023-12-05,2024-01-13,7,58
+38217406,10.1093/gigascience/giad118,Gigascience,Early microbial intervention reshapes phenotypes of newborn Bos taurus through metabolic r,2023-04-12,2023-12-23,2024-01-13,18,57
+38217405,10.1093/gigascience/giad115,Gigascience,A multi-omics data analysis workflow packaged as a FAIR Digital Object.,2023-06-13,2023-12-10,2024-01-13,13,100
+38217404,10.1093/gigascience/giad114,Gigascience,Open Data governance at the Canadian Open Neuroscience Platform (CONP): From the Walled Ga,2023-07-17,2023-12-10,2024-01-13,7,32
+38206590,10.1093/gigascience/giad113,Gigascience,Computational reproducibility of Jupyter notebooks from biomedical publications.,2022-10-05,2023-12-08,2024-01-11,2,158
+38206589,10.1093/gigascience/giad112,Gigascience,A graph clustering algorithm for detection and genotyping of structural variants from long,2023-03-29,2023-12-08,2024-01-11,2,46
+38206588,10.1093/gigascience/giad110,Gigascience,The chromosome-scale genome of Magnolia sinica (Magnoliaceae) provides insights into the c,2023-03-06,2023-12-04,2024-01-11,8,143
+38206587,10.1093/gigascience/giad111,Gigascience,Machine Learning Made Easy (MLme): a comprehensive toolkit for machine learning-driven dat,2023-07-04,2023-12-08,2024-01-11,9,44
+38195165,10.1093/gigascience/giad117,Gigascience,Vulture: cloud-enabled scalable mining of microbial reads in public scRNA-seq data.,2023-05-09,2023-12-16,2024-01-10,6,45
+38171490,10.1093/gigascience/giad107,Gigascience,A high-quality chromosomal genome assembly of the sea cucumber Chiridota heheva and its hy,2023-02-19,2023-11-22,2024-01-04,4,79
+38165153,10.1093/gigascience/giad103,Gigascience,Evolutionary genomics of three agricultural pest moths reveals rapid evolution of host ada,2023-02-27,2023-11-15,2024-01-02,7,108
+41384802,10.1093/gigascience/giaf154,Gigascience,Challenges in structural variant calling in low-complexity regions.,2025-09-26,2025-12-11,2025-12-12,2,38
+41363756,10.1093/gigascience/giaf150,Gigascience,A sulfatide-centered ultra-high-resolution magnetic resonance MALDI imaging benchmark data,2025-08-19,2025-12-08,2025-12-09,4,45
+41358832,10.1093/gigascience/giaf149,Gigascience,Translating short-form Python exercises to other programming languages using diverse promp,2025-07-03,2025-12-03,2025-12-08,2,51
+41348968,10.1093/gigascience/giaf147,Gigascience,Endometrial whole-slide images dataset for detection of malignancy in endometrial biopsies,2024-06-11,2025-11-30,2025-12-05,13,14
+41342577,10.1093/gigascience/giaf121,Gigascience,Toward a standardized framework for pangenome graph evaluation: assessing crop plant pange,2025-03-04,2025-09-24,2025-12-04,5,64
+41317151,10.1093/gigascience/giaf144,Gigascience,Cervical whole-slide images dataset for multiclass classification.,2024-05-14,2025-11-27,2025-11-29,14,9
+41316989,10.1093/gigascience/giaf146,Gigascience,Segmentation-based quality control of structural MRI using the CAT12 toolbox.,2025-02-28,2025-11-28,2025-11-29,5,71
+41263491,10.1093/gigascience/giaf143,Gigascience,A high-quality chromosome-level genome assembly of the oligophagous fruit fly Bactrocera t,2025-04-29,2025-11-19,2025-11-20,6,128
+41247287,10.1093/gigascience/giaf142,Gigascience,"Chromosome-level assemblies of two hexaploid bamboos, Thyrsostachys oliveri and Thyrsostac",2025-06-16,2025-11-13,2025-11-17,10,92
+41206544,10.1093/gigascience/giaf140,Gigascience,NApy: efficient statistics in Python for large-scale heterogeneous data with enhanced supp,2025-06-23,2025-11-05,2025-11-09,5,35
+41206398,10.1093/gigascience/giaf122,Gigascience,Complete end-to-end learning from protein feature representation to protein interactome in,2025-01-09,2025-09-29,2025-11-09,4,57
+41188181,10.1093/gigascience/giaf125,Gigascience,Population-level allelic dispersion modeling by maelstRom yields genome-wide maps of allel,2025-03-11,2025-09-30,2025-11-05,7,81
+41170607,10.1093/gigascience/giaf113,Gigascience,Quantitative detection of DNA methylation from nanopore sequencing data without raw signal,2025-01-15,2025-09-09,2025-10-31,5,53
+41165721,10.1093/gigascience/giaf139,Gigascience,The effects of bioinformatics preprocessing on cell-free DNA fragment analysis.,2025-07-25,2025-10-29,2025-10-30,8,53
+41159548,10.1093/gigascience/giaf084,Gigascience,GTestimate: improving relative gene expression estimation in scRNA-seq using the Good-Turi,2024-09-03,2025-06-25,2025-10-29,4,34
+41147705,10.1093/gigascience/giaf138,Gigascience,TinkerHap-a novel read-based phasing algorithm with integrated multimethod support for enh,2025-05-19,2025-10-27,2025-10-28,5,15
+41134033,10.1093/gigascience/giaf136,Gigascience,EssSubgraph improves performance and generalizability of mammalian essential gene predicti,2025-07-23,2025-10-23,2025-10-24,6,46
+41133998,10.1093/gigascience/giaf135,Gigascience,Ultra-deep long-read metagenomics captures diverse taxonomic and biosynthetic potential of,2025-07-03,2025-10-22,2025-10-24,6,85
+41129326,10.1093/gigascience/giaf119,Gigascience,On the path to reference genomes for all biodiversity: laboratory protocols and lessons le,2025-05-01,2025-09-04,2025-10-23,18,42
+41129325,10.1093/gigascience/giaf124,Gigascience,GFFx: A Rust-based suite of utilities for ultra-fast genomic feature extraction.,2025-08-08,2025-09-30,2025-10-23,3,17
+41128428,10.1093/gigascience/giaf086,Gigascience,SurGen: 1020 H&E-stained whole-slide images with survival and genetic markers.,2024-12-24,2025-07-03,2025-10-23,5,94
+41124057,10.1093/gigascience/giaf130,Gigascience,"Improving the reliability, quality, and maintainability of bioinformatics pipelines with n",2025-03-21,2025-10-19,2025-10-22,2,31
+41124051,10.1093/gigascience/giaf134,Gigascience,Datagraphy: toward a systematic approach to dataset discovery.,2025-05-26,2025-10-21,2025-10-22,2,124
+41124022,10.1093/gigascience/giaf131,Gigascience,"MRanalysis: a comprehensive online platform for integrated, multimethod Mendelian randomiz",2025-03-06,2025-10-19,2025-10-22,9,50
+41124016,10.1093/gigascience/giaf127,Gigascience,CryoDataBot: a pipeline to curate cryoEM datasets for AI-driven structural biology.,2025-07-07,2025-10-14,2025-10-22,8,37
+41122975,10.1093/gigascience/giaf132,Gigascience,Genos: a human-centric genomic foundation model.,2025-10-11,2025-10-21,2025-10-22,62,33
+41114645,10.1093/gigascience/giaf126,Gigascience,Reproducible processing of TCGA regulatory networks.,2024-11-26,2025-10-10,2025-10-20,10,127
+41105015,10.1093/gigascience/giaf053,Gigascience,Cross-modal contrastive learning decodes developmental regulatory features through chromat,2024-08-22,2025-04-07,2025-10-17,4,99
+41105014,10.1093/gigascience/giaf123,Gigascience,PanGIA: A universal framework for identifying association between ncRNAs and diseases.,2025-05-28,2025-09-28,2025-10-17,6,62
+41100285,10.1093/gigascience/giaf120,Gigascience,ColoPola: A polarimetric imaging dataset for colorectal cancer detection.,2025-05-04,2025-09-22,2025-10-16,6,53
+41100284,10.1093/gigascience/giaf118,Gigascience,The enduring advantages of the SLOW5 file format for raw nanopore sequencing data.,2025-06-29,2025-09-22,2025-10-16,5,24
+41100176,10.1093/gigascience/giaf129,Gigascience,SeedGerm-VIG: an open and comprehensive pipeline to quantify seed vigor in wheat and other,2025-04-03,2025-10-14,2025-10-16,12,79
+41092455,10.1093/gigascience/giaf116,Gigascience,DUNE: a versatile neuroimaging encoder captures brain complexity across 3 major diseases: ,2025-02-24,2025-09-07,2025-10-15,7,71
+41070844,10.1093/gigascience/giaf115,Gigascience,Comparative genomics and multiomics analyses reveal the evolution and physiological basis ,2025-05-19,2025-09-11,2025-10-10,13,81
+41066207,10.1093/gigascience/giaf111,Gigascience,Unsupervised multiscale clustering of single-cell transcriptomes to identify hierarchical ,2025-01-15,2025-09-01,2025-10-09,4,80
+41041811,10.1093/gigascience/giaf112,Gigascience,The Great Genotyper: a graph-based method for population genotyping of small and structura,2024-07-10,2025-08-31,2025-10-03,4,72
+41041810,10.1093/gigascience/giaf108,Gigascience,Improving taxonomic inference from ancient environmental metagenomes by masking microbial-,2025-03-21,2025-08-26,2025-10-03,10,53
+41032019,10.1093/gigascience/giaf117,Gigascience,The complete genome assembly of Astragalus membranaceus: enabling more accurate genetic re,2025-04-05,2025-08-30,2025-10-01,5,78
+41032018,10.1093/gigascience/giaf114,Gigascience,MGMA-PPIS: Predicting the protein-protein interaction site with multiview graph embedding ,2025-06-05,2025-09-10,2025-10-01,4,41
+41026508,10.1093/gigascience/giaf107,Gigascience,Foundation model of electronic medical records for adaptive risk estimation.,2025-03-02,2025-08-26,2025-09-30,12,48
+41004266,10.1093/gigascience/giaf017,Gigascience,PathoGFAIR: a collection of FAIR and adaptable (meta)genomics workflows for (foodborne) pa,2024-07-05,2025-02-11,2025-09-26,5,99
+40990037,10.1093/gigascience/giaf110,Gigascience,AEnet: a practical tool to construct the splicing-associated phenotype atlas at a single c,2025-02-14,2025-08-28,2025-09-24,13,70
+40986362,10.1093/gigascience/giaf106,Gigascience,A high-quality reference genome for the Ural Owl (Strix uralensis) enables investigations ,2025-03-31,2025-08-21,2025-09-23,10,132
+40971594,10.1093/gigascience/giaf097,Gigascience,First chromosome-level genome assembly of the colonial chordate model Botryllus schlosseri,2025-02-19,2025-07-27,2025-09-19,10,125
+40971593,10.1093/gigascience/giaf105,Gigascience,Haplotype-resolved reference genomes of the sea turtle clade unveil ultra-syntenic genomes,2025-03-12,2025-08-17,2025-09-19,21,135
+40971592,10.1093/gigascience/giaf109,Gigascience,A retrieval-augmented knowledge mining method with deep thinking LLMs for biomedical resea,2025-06-17,2025-08-27,2025-09-19,5,37
+40971591,10.1093/gigascience/giaf104,Gigascience,CNSistent integration and feature extraction from somatic copy number profiles.,2024-12-24,2025-08-17,2025-09-19,2,38
+40910796,10.1093/gigascience/giaf102,Gigascience,The Earth Hologenome Initiative: Data Release 1.,2025-05-27,2025-08-13,2025-09-05,41,44
+40910795,10.1093/gigascience/giaf101,Gigascience,A framework to mine laser microdissection-based omics data and uncover regulators of pancr,2024-12-19,2025-08-11,2025-09-05,4,49
+40905373,10.1093/gigascience/giaf103,Gigascience,Finding easy regions for short-read variant calling from pangenome data.,2025-07-04,2025-08-15,2025-09-04,1,30
+40899917,10.1093/gigascience/giaf091,Gigascience,High-precision machine learning identifies a reproducible functional connectivity signatur,2024-10-09,2025-07-11,2025-09-03,8,111
+40899916,10.1093/gigascience/giaf098,Gigascience,Using synthetic RNA to benchmark poly(A) length inference from direct RNA sequencing.,2024-10-07,2025-08-01,2025-09-03,8,54
+40899150,10.1093/gigascience/giaf100,Gigascience,Nanopore- and AI-empowered microbial viability inference.,2024-09-11,2025-08-07,2025-09-03,19,67
+40891529,10.1093/gigascience/giaf096,Gigascience,Exploring the role of normalization and feature selection in microbiome disease classifica,2025-02-25,2025-07-28,2025-09-02,4,76
+40891528,10.1093/gigascience/giaf093,Gigascience,The Open Pediatric Cancer Project.,2025-02-28,2025-07-17,2025-09-02,49,81
+40884803,10.1093/gigascience/giaf099,Gigascience,A comprehensive water buffalo pangenome reveals extensive structural variation linked to p,2025-05-02,2025-08-03,2025-08-30,8,76
+40884802,10.1093/gigascience/giaf095,Gigascience,BVSim: A benchmarking variation simulator mimicking human variation spectrum.,2024-10-29,2025-07-20,2025-09-01,11,43
+40884801,10.1093/gigascience/giaf082,Gigascience,Group-specific discriminant analysis enhances detection of sex differences in brain functi,2024-08-15,2025-06-18,2025-09-01,6,107
+40880135,10.1093/gigascience/giaf090,Gigascience,SPEX: A modular end-to-end platform for high-plex tissue spatial omics analysis.,2025-01-17,2025-07-10,2025-09-01,23,56
+40880134,10.1093/gigascience/giaf087,Gigascience,A telomere-to-telomere genome assembly of koi carp (Cyprinus carpio) using long reads and ,2024-11-25,2025-07-04,2025-08-29,6,92
+40880133,10.1093/gigascience/giaf089,Gigascience,WaveSeekerNet: accurate prediction of influenza A virus subtypes and host source using att,2025-02-27,2025-07-08,2025-08-30,9,114
+40880132,10.1093/gigascience/giaf094,Gigascience,Comparing linear and nonlinear finite element models of vertebral strength across the thor,2025-04-23,2025-07-18,2025-08-29,3,64
+40874866,10.1093/gigascience/giaf083,Gigascience,DeepAnnotation: A novel interpretable deep learning-based genomic selection model that int,2025-01-03,2025-06-23,2025-08-30,6,120
+40844084,10.1093/gigascience/giaf092,Gigascience,HeteroMRI: Robust white matter abnormality classification across multi-scanner MRI data.,2024-07-09,2025-07-16,2025-08-26,9,90
+40825570,10.1093/gigascience/giaf079,Gigascience,A near-complete genome assembly of the bearded dragon Pogona vitticeps provides insights i,2024-09-28,2025-06-12,2025-08-19,24,100
+40825569,10.1093/gigascience/giaf085,Gigascience,A near telomere-to-telomere phased genome assembly and annotation for the Australian centr,2025-05-01,2025-07-01,2025-08-19,18,77
+40825568,10.1093/gigascience/giaf074,Gigascience,Telomere-to-telomere African wild rice (Oryza longistaminata) reference genome reveals seg,2024-10-28,2025-06-04,2025-08-19,23,57
+40796376,10.1093/gigascience/giaf080,Gigascience,SynProtX: a large-scale proteomics-based deep learning model for predicting synergistic an,2024-12-21,2025-06-16,2025-08-13,7,124
+40796375,10.1093/gigascience/giaf078,Gigascience,PeptideMiner-neuropeptide discovery across the animal kingdom.,2024-11-14,2025-06-09,2025-08-13,8,127
+40796374,10.1093/gigascience/giaf081,Gigascience,A holistic genome dataset of bacteria and archaea of mangrove sediments.,2024-06-17,2025-06-18,2025-08-13,21,66
+40748655,10.1093/gigascience/giaf075,Gigascience,"MetaboSERV-a platform for selecting, exchanging, and visualizing metabolomics data with co",2024-07-09,2025-06-05,2025-08-01,12,62
+40720841,10.1093/gigascience/giaf073,Gigascience,Telomere-to-telomere chromosome-scale genome assemblies of black and golden koi carp varia,2024-12-03,2025-06-03,2025-07-28,3,58
+40720840,10.1093/gigascience/giaf062,Gigascience,Reducing skin microbiome exposure impacts through swine farm biosecurity.,2024-08-26,2025-05-15,2025-07-28,10,132
+40665467,10.1093/gigascience/giaf077,Gigascience,Multiomics uncovers the epigenomic and transcriptomic response to viral and bacterial stim,2025-02-04,2025-06-08,2025-07-16,11,173
+40665466,10.1093/gigascience/giaf068,Gigascience,The telomere-to-telomere gap-free reference genome and taxonomic reassessment of Siniperca,2024-12-16,2025-05-22,2025-07-16,7,74
+40627366,10.1093/gigascience/giaf076,Gigascience,SeuratExtend: streamlining single-cell RNA-seq analysis through an integrated and intuitiv,2024-12-08,2025-06-05,2025-07-08,4,34
+40613436,10.1093/gigascience/giaf071,Gigascience,eNRSA: a faster and more powerful approach for nascent transcriptome analysis.,2025-01-21,2025-05-30,2025-07-04,7,62
+40601421,10.1093/gigascience/giaf058,Gigascience,A telomere-to-telomere gapless genome reveals SlPRR1 control of circadian rhythm and photo,2024-12-13,2025-04-23,2025-07-02,7,72
+40601420,10.1093/gigascience/giaf046,Gigascience,The genome of Hippophae salicifolia provides new insights into the sexual differentiation ,2024-09-28,2025-03-26,2025-07-02,7,109
+40569694,10.1093/gigascience/giaf072,Gigascience,"Integrating comparative genomics and risk classification by assessing virulence, antimicro",2024-10-19,2025-05-09,2025-06-26,8,93
+40552981,10.1093/gigascience/giaf069,Gigascience,CellBinDB: a large-scale multimodal annotated dataset for cell segmentation with benchmark,2024-12-12,2025-05-22,2025-06-24,13,61
+40552980,10.1093/gigascience/giaf063,Gigascience,PVGA: a precise viral genome assembler using an iterative alignment graph.,2025-01-05,2025-05-16,2025-06-24,4,35
+40549543,10.1093/gigascience/giaf055,Gigascience,CODARFE: Unlocking the prediction of continuous environmental variables based on microbiom,2024-12-06,2025-04-15,2025-06-24,5,68
+40549542,10.1093/gigascience/giaf070,Gigascience,Extraction of biological terms using large language models enhances the usability of metad,2025-03-05,2025-05-28,2025-06-24,8,34
+40531666,10.1093/gigascience/giaf059,Gigascience,The telomere-to-telomere gapless genome of grass carp provides insights for genetic improv,2025-03-25,2025-04-30,2025-06-18,8,52
+40526493,10.1093/gigascience/giaf061,Gigascience,PISAD: reference-free intraspecies sample anomalies detection tool based on k-mer counting,2024-11-13,2025-05-13,2025-06-17,3,45
+40526492,10.1093/gigascience/giaf064,Gigascience,"Identifying candidate genetic variants for egg number by analyzing over 1,000 fully sequen",2024-10-22,2025-05-16,2025-06-17,7,67
+40515555,10.1093/gigascience/giaf065,Gigascience,SpatialSNV: A novel method for identifying and analyzing spatially resolved SNVs in tumor ,2024-12-05,2025-05-18,2025-06-14,8,85
+40498535,10.1093/gigascience/giaf051,Gigascience,"The FIP 1.0 Data Set: Highly resolved annotated image time series of 4,000 wheat plots gro",2024-11-07,2025-04-07,2025-06-11,28,66
+40478730,10.1093/gigascience/giaf030,Gigascience,Chromosome-level reference genome for the medically important Arabian horned viper (Cerast,2024-07-05,2025-03-04,2025-06-06,15,114
+40478729,10.1093/gigascience/giaf054,Gigascience,Chromosome-level genome assembly and methylome profile yield insights for the conservation,2024-09-10,2025-04-10,2025-06-06,10,152
+40459424,10.1093/gigascience/giaf050,Gigascience,Health Data Nexus: an open data platform for AI research and education in medicine.,2024-09-06,2025-04-01,2025-06-03,12,30
+40451243,10.1093/gigascience/giaf049,Gigascience,Analysis-ready VCF at Biobank scale using Zarr.,2024-06-19,2025-04-02,2025-06-02,16,217
+40443099,10.1093/gigascience/giaf056,Gigascience,Chromosome-level genome assembly of Pinus massoniana provides insights into conifer adapti,2024-10-24,2025-04-18,2025-05-30,11,85
+40440093,10.1093/gigascience/giaf052,Gigascience,Lifting the curse from high-dimensional data: automated projection pursuit clustering for ,2024-10-10,2025-04-06,2025-05-29,18,67
+40440092,10.1093/gigascience/giaf041,Gigascience,Best-practice guidance for Earth BioGenome Project sample collection and processing: progr,2024-10-18,2025-03-13,2025-05-29,17,72
+40407124,10.1093/gigascience/giaf060,Gigascience,A Case for estradiol: younger brains in women with earlier menarche and later menopause.,2024-11-03,2025-05-04,2025-05-23,4,81
+40388309,10.1093/gigascience/giaf040,Gigascience,M6Allele: a toolkit for detection of allele-specific RNA N6-methyladenosine modifications.,2024-09-04,2025-03-07,2025-05-19,8,79
+40388308,10.1093/gigascience/giaf042,Gigascience,Deterministic succession patterns in the rumen and fecal microbiome associate with host me,2024-09-18,2025-03-14,2025-05-19,10,84
+40388307,10.1093/gigascience/giaf039,Gigascience,Multiomics analysis of umbilical cord hematopoietic stem cells from a multiethnic cohort o,2024-12-24,2025-03-07,2025-05-19,12,119
+40378137,10.1093/gigascience/giaf047,Gigascience,Chromosome-scale assemblies of three Ormosia species: repetitive sequences distribution an,2024-08-24,2025-03-27,2025-05-16,7,126
+40378136,10.1093/gigascience/giaf045,Gigascience,A large collection of bioinformatics question-query pairs over federated knowledge graphs:,2024-10-07,2025-03-25,2025-05-16,17,58
+40372724,10.1093/gigascience/giaf048,Gigascience,A near telomere-to-telomere genome assembly of the Jinhua pig: enabling more accurate gene,2024-10-21,2025-03-31,2025-05-15,14,75
+40372723,10.1093/gigascience/giaf037,Gigascience,HVSeeker: a deep-learning-based method for identification of host and viral DNA sequences.,2024-07-17,2025-03-06,2025-05-15,5,35
+40366868,10.1093/gigascience/giaf035,Gigascience,Spatial integration of multi-omics data from serial sections using the novel Multi-Omics I,2024-10-08,2025-03-05,2025-05-14,9,66
+40366867,10.1093/gigascience/giaf036,Gigascience,External validation of machine learning models-registered models and adaptive sample split,2024-06-21,2025-03-05,2025-05-14,8,58
+40366866,10.1093/gigascience/giaf001,Gigascience,"Telomere-to-telomere genome of common bean (Phaseolus vulgaris L., YP4).",2024-06-25,2024-12-27,2025-05-14,14,76
+40359998,10.1093/gigascience/giae101,Gigascience,New implementation of data standards for AI in oncology: Experience from the EuCanImage pr,2024-03-08,2024-11-12,2025-05-14,19,52
+40331344,10.1093/gigascience/giaf027,Gigascience,Image segmentation of treated and untreated tumor spheroids by fully convolutional network,2024-12-13,2025-02-27,2025-05-07,7,67
+40276955,10.1093/gigascience/giaf044,Gigascience,The haplotype-resolved T2T genome for Bauhinia × blakeana sheds light on the genetic basis,2024-11-27,2025-03-20,2025-04-25,13,105
+40272882,10.1093/gigascience/giaf028,Gigascience,RWRtoolkit: multi-omic network analysis using random walks on multiplex networks in any sp,2024-08-23,2025-03-02,2025-04-24,23,46
+40272881,10.1093/gigascience/giaf038,Gigascience,Overture: an open-source genomics data platform.,2024-11-29,2025-03-07,2025-04-24,38,49
+40272880,10.1093/gigascience/giaf029,Gigascience,Interspecific hybridization in Brassica species leads to changes in agronomic traits throu,2024-08-29,2025-03-03,2025-04-24,7,86
+40208796,10.1093/gigascience/giaf025,Gigascience,"GeneSetCart: assembling, augmenting, combining, visualizing, and analyzing gene sets.",2024-10-31,2025-02-25,2025-04-10,5,88
+40197822,10.1093/gigascience/giaf034,Gigascience,Network-based anomaly detection algorithm reveals proteins with major roles in human tissu,2024-08-29,2025-03-05,2025-04-08,4,51
+40184434,10.1093/gigascience/giaf026,Gigascience,Phased high-quality genome of the gymnosperm Himalayan Yew assists in paclitaxel pathway e,2024-07-19,2025-02-26,2025-04-04,24,85
+40184433,10.1093/gigascience/giaf032,Gigascience,VCF2Dis: an ultra-fast and efficient tool to calculate pairwise genetic distance and const,2024-09-13,2025-03-04,2025-04-04,11,40
+40184432,10.1093/gigascience/giaf033,Gigascience,Defining the limits of plant chemical space: challenges and estimations.,2025-01-10,2025-03-04,2025-04-04,10,49
+40167991,10.1093/gigascience/giaf024,Gigascience,Telomere-to-telomere genome assembly of Electrophorus electricus provides insights into th,2024-07-25,2025-02-18,2025-04-01,15,55
+40167990,10.1093/gigascience/giaf031,Gigascience,The molecular basis of octocoral calcification revealed by genome and skeletal proteome an,2024-12-02,2025-03-04,2025-04-01,8,53
+40139909,10.1093/gigascience/giaf022,Gigascience,High-fidelity wheat plant reconstruction using 3D Gaussian splatting and neural radiance f,2024-08-16,2025-02-17,2025-03-27,6,67
+40139908,10.1093/gigascience/giaf021,Gigascience,EnrichDO: a global weighted model for Disease Ontology enrichment analysis.,2024-10-03,2025-02-14,2025-03-27,7,58
+40139907,10.1093/gigascience/giaf023,Gigascience,"Observational, causal relationship and shared genetic basis between cholelithiasis and gas",2024-04-13,2025-02-17,2025-03-27,11,78
+40117180,10.1093/gigascience/giaf019,Gigascience,Genomic and transcriptomic analyses of Heteropoda venatoria reveal the expansion of P450 f,2024-07-31,2025-02-06,2025-03-21,4,109
+40117179,10.1093/gigascience/giaf016,Gigascience,How to select predictive models for decision-making or causal inference.,2024-06-24,2025-02-10,2025-03-21,2,83
+40117178,10.1093/gigascience/giaf020,Gigascience,Hi-GDT: A Hi-C-based 3D gene domain analysis tool for analyzing local chromatin contacts i,2024-09-25,2025-02-12,2025-03-21,2,86
+40117177,10.1093/gigascience/giaf018,Gigascience,Characteristics and filtering of low-frequency artificial short deletion variations based ,2024-07-29,2025-02-09,2025-03-21,10,47
+40117176,10.1093/gigascience/giaf015,Gigascience,Healthy microbiome-moving towards functional interpretation.,2024-07-29,2025-02-05,2025-03-21,5,45
+40094553,10.1093/gigascience/giaf013,Gigascience,NanoMnT: an STR analysis tool for Oxford Nanopore sequencing data driven by a comprehensiv,2024-08-23,2025-02-02,2025-03-17,4,57
+40080648,10.1093/gigascience/giaf014,Gigascience,Long-read metagenomic sequencing negates inferred loss of cytosine methylation in Myxospor,2024-05-07,2025-02-06,2025-03-14,7,98
+40072905,10.1093/gigascience/giaf010,Gigascience,Cerebellocerebral connectivity predicts body mass index: a new open-source Python-based fr,2024-09-09,2025-01-23,2025-03-12,6,156
+40072904,10.1093/gigascience/giaf005,Gigascience,A telomere-to-telomere phased genome of an octoploid strawberry reveals a receptor kinase ,2024-05-20,2025-01-09,2025-03-12,8,75
+40072903,10.1093/gigascience/giae098,Gigascience,An analysis of performance bottlenecks in MRI preprocessing.,2024-06-05,2024-11-08,2025-03-12,3,22
+40036691,10.1093/gigascience/giaf004,Gigascience,Benchmarking short-read metagenomics tools for removing host contamination.,2024-08-06,2025-01-09,2025-03-04,7,53
+40036690,10.1093/gigascience/giaf008,Gigascience,TransHLA: a Hybrid Transformer model for HLA-presented epitope detection.,2024-05-21,2025-01-20,2025-03-04,5,56
+40036429,10.1093/gigascience/giaf006,Gigascience,Multiomics analysis provides insights into musk secretion in muskrat and musk deer.,2024-06-06,2025-01-09,2025-03-04,19,126
+39982852,10.1093/gigascience/giaf009,Gigascience,The telomere-to-telomere genome of flowering cherry (Prunus campanulata) reveals genomic e,2024-09-03,2025-01-20,2025-02-21,7,102
+39970004,10.1093/gigascience/giaf011,Gigascience,A novel dataset for nuclei and tissue segmentation in melanoma with baseline nuclei segmen,2024-10-07,2025-01-24,2025-02-19,7,59
+39965774,10.1093/gigascience/giae124,Gigascience,Genomic evidence for hybridization and introgression between blue peafowl and endangered g,2024-07-18,2024-12-26,2025-02-19,18,160
+39960665,10.1093/gigascience/giaf007,Gigascience,xRead: a coverage-guided approach for scalable construction of read overlapping graph.,2024-05-29,2025-01-10,2025-02-17,3,61
+39960664,10.1093/gigascience/giaf012,Gigascience,Exploring the cellular and molecular basis of murine cardiac development through spatiotem,2024-08-25,2025-01-25,2025-02-17,14,63
+39960663,10.1093/gigascience/giaf002,Gigascience,Dimensionality reduction for visualizing spatially resolved profiling data using SpaSNE.,2024-05-03,2025-01-06,2025-02-17,7,67
+39947250,10.1093/gigascience/giaf003,Gigascience,Enhancing inbreeding estimation and global conservation insights through chromosome-level ,2024-05-23,2025-01-06,2025-02-14,20,93
+39937596,10.1093/gigascience/giae123,Gigascience,Unlocking the power of AI for phenotyping fruit morphology in Arabidopsis.,2024-10-21,2025-01-06,2025-02-12,5,70
+39937595,10.1093/gigascience/giae122,Gigascience,Guidance framework to apply best practices in ecological data analysis: lessons learned fr,2024-10-21,2024-12-19,2025-02-12,30,83
+39931028,10.1093/gigascience/giae121,Gigascience,High-quality phenotypic and genotypic dataset of barley genebank core collection to unlock,2024-09-26,2024-12-18,2025-02-11,19,44
+39931027,10.1093/gigascience/giae119,Gigascience,Opaque ontology: neuroimaging classification of ICD-10 diagnostic groups in the UK Biobank,2024-04-15,2024-12-15,2025-02-11,5,44
+39898450,10.1093/gigascience/giae120,Gigascience,Micromix: web infrastructure for visualizing and remixing microbial 'omics data.,2024-08-02,2024-12-18,2025-02-03,5,84
+39880407,10.1093/gigascience/giae117,Gigascience,Genomes reveal pervasive distant hybridization in nature among cyprinid fishes.,2024-06-02,2024-12-09,2025-01-30,15,96
+39877992,10.1093/gigascience/giae116,Gigascience,"A chromosome-level, haplotype-resolved genome assembly and annotation for the Eurasian min",2024-09-22,2024-12-06,2025-01-29,9,194
+39851174,10.1093/gigascience/giae118,Gigascience,A chromosome-scale genome assembly of the pioneer plant Stylosanthes angustifolia: insight,2024-07-19,2024-12-10,2025-01-24,10,84
+39804726,10.1093/gigascience/giae103,Gigascience,Unveiling patterns in spatial transcriptomics data: a novel approach utilizing graph atten,2024-02-07,2024-11-21,2025-01-13,7,107
+39804725,10.1093/gigascience/giae114,Gigascience,A high-quality assembly revealing the PMEL gene for the unique plumage phenotype in Lianch,2024-06-11,2024-12-05,2025-01-13,14,83
+39804724,10.1093/gigascience/giae106,Gigascience,Data reuse in agricultural genomics research: challenges and recommendations.,2024-06-17,2024-11-26,2025-01-13,12,127
+39798943,10.1093/gigascience/giae110,Gigascience,"Similar, but not the same: multiomics comparison of human valve interstitial cells and ost",2024-04-19,2024-11-28,2025-01-12,18,57
+39778707,10.1093/gigascience/giae112,Gigascience,Chromosome-level echidna genome illuminates evolution of multiple sex chromosome system in,2024-08-20,2024-12-03,2025-01-09,14,85
+39775842,10.1093/gigascience/giae107,Gigascience,Galaxy as a gateway to bioinformatics: Multi-Interface Galaxy Hands-on Training Suite (MIG,2024-08-13,2024-11-26,2025-01-08,14,107
+39775841,10.1093/gigascience/giae115,Gigascience,"Telomere-to-telomere genome and resequencing of 254 individuals reveal evolution, genomic ",2024-06-27,2024-12-05,2025-01-08,12,69
+39775840,10.1093/gigascience/giae111,Gigascience,An ecosystem for producing and sharing metadata within the web of FAIR Data.,2024-05-17,2024-11-27,2025-01-08,6,51
+39775839,10.1093/gigascience/giae113,Gigascience,Mutation impact on mRNA versus protein expression across human cancers.,2024-05-17,2024-12-05,2025-01-08,3,46
+39775838,10.1093/gigascience/giae082,Gigascience,Knowledge graph-based thought: a knowledge graph-enhanced LLM framework for pan-cancer que,2024-05-27,2024-10-02,2025-01-08,6,50
+42820749,10.1093/gigascience/giag095,Gigascience,Epitope Generation Gateway: A biological context-dependent approach to cancer vaccine deve,2026-01-23,2026-09-24,2026-10-01,11,100
+42752570,10.1093/gigascience/giag094,Gigascience,A molecularly anchored spatial transcriptomic framework for precise CA1-subiculum parcella,2026-05-12,2026-09-09,2026-09-17,13,53
+42742235,10.1093/gigascience/giag093,Gigascience,Country specific hybridization of honey bees from lineage M.,2026-04-03,2026-09-09,2026-09-15,13,84
+42735360,10.1093/gigascience/giag090,Gigascience,Reducing haystacks to needles-ViralClust: a Nextflow pipeline to cluster viral sequences.,2026-01-31,2026-09-03,2026-09-14,4,69
+42709403,10.1093/gigascience/giag092,Gigascience,"A chromosome-level, haplotype-resolved genome assembly for the barn owl, Tyto alba.",2026-03-24,2026-08-31,2026-09-08,14,69
+42705244,10.1093/gigascience/giag091,Gigascience,FPNuNet: a frequency-aware prompt-guided network for nuclear segmentation and classificati,2025-11-17,2026-09-04,2026-09-07,6,43
+42695975,10.1093/gigascience/giag089,Gigascience,Programmatic access to ICTV virus taxonomy through a public ontology API.,2026-06-29,2026-09-03,2026-09-04,8,64
+42627355,10.1093/gigascience/giag088,Gigascience,CamK-DB: A k-mer MinHash fingerprint database for reference-free genotyping of Camellia ac,2025-12-30,2026-08-19,2026-08-21,9,27
+42599684,10.1093/gigascience/giag086,Gigascience,xgt: a command-line interface for the Genome Taxonomy Database with cross-release taxonomi,2026-06-29,2026-08-12,2026-08-14,3,11
+42578953,10.1093/gigascience/giag084,Gigascience,Concordance of genetic determinants of acute coronary artery disease between European and ,2025-10-29,2026-08-06,2026-08-11,20,50
+42535958,10.1093/gigascience/giag083,Gigascience,PIMENTO: a primer inference toolkit to facilitate large-scale calling of amplicon sequence,2025-09-09,2026-07-24,2026-07-31,4,31
+42508035,10.1093/gigascience/giag080,Gigascience,MPLID (Membrane Protein-Lipid Interaction Database): A Large-Scale Experimental Resource o,2026-02-27,2026-07-09,2026-07-27,2,47
+42480065,10.1093/gigascience/giag081,Gigascience,Extending protein language models to a viral genomic scale using biologically induced spar,2025-10-17,2026-07-16,2026-07-21,8,40
+42429477,10.1093/gigascience/giag077,Gigascience,KG-Microbe: Building modular and scalable knowledge graphs for microbiome and microbial sc,2025-03-05,2026-07-02,2026-07-10,9,76
+42418844,10.1093/gigascience/giag079,Gigascience,Context-aware simulation enables systematic optimization of long-read mapping parameters.,2026-03-17,2026-07-06,2026-07-08,4,25
+42411836,10.1093/gigascience/giag078,Gigascience,"A comprehensive reference genome assembly dataset of birds inhabiting Denmark, Greenland, ",2025-09-23,2026-07-03,2026-07-07,93,26
+42348340,10.1093/gigascience/giag076,Gigascience,NanoporeDB: a structural resource of multimeric protein nanopores for single-molecule sens,2026-01-28,2026-06-23,2026-06-26,15,81
+42329787,10.1093/gigascience/giag071,Gigascience,Comparison of deep learning approaches for extreme low-SNR image restoration.,2025-10-12,2026-06-08,2026-06-22,6,38
+42329773,10.1093/gigascience/giag074,Gigascience,ScopeViewer: a browser-based solution for visualizing large biological images.,2025-09-23,2026-06-14,2026-06-22,15,25
+42319798,10.1093/gigascience/giag073,Gigascience,ChatMDV: reducing technical barriers in bioinformatics analysis using large language model,2025-10-23,2026-06-08,2026-06-19,11,37
+42287753,10.1093/gigascience/giag070,Gigascience,ClusterGraph: a new tool for visualisation and compression of multidimensional data.,2025-08-28,2026-06-07,2026-06-15,4,37
+42271568,10.1093/gigascience/giag069,Gigascience,"MultiMS2: A curated multi-modal, multi-energy spectral library for metabolomics.",2025-12-17,2026-06-05,2026-06-11,3,27
+42264156,10.1093/gigascience/giag072,Gigascience,A large dataset of brain imaging linked to health systems data: curation and access to a w,2025-10-21,2026-06-08,2026-06-10,21,23
+42264155,10.1093/gigascience/giag068,Gigascience,Improved discovery of de novo mutations using TrioDNM and VRFS.,2025-07-01,2026-06-05,2026-06-10,5,15
+42233233,10.1093/gigascience/giag067,Gigascience,CPSM: an R package for cancer patient survival risk model using transcriptomics and clinic,2025-10-09,2026-05-29,2026-06-03,4,56
+42216858,10.1093/gigascience/giag066,Gigascience,Integrated multi-omics profiling identifies genetic loci of African swine fever resistance,2026-01-30,2026-05-29,2026-05-31,9,153
+42214321,10.1093/gigascience/giag065,Gigascience,EEG-based dataset explicitly targets the transitions between sitting and standing for expl,2025-11-09,2026-05-27,2026-05-30,9,40
+42203208,10.1093/gigascience/giag063,Gigascience,Charting human organogenesis across the Carnegie stages from a whole-embryo perspective.,2026-05-14,2026-05-21,2026-05-28,5,10
+42172053,10.1093/gigascience/giag061,Gigascience,Breaking the cold chain: solutions for room temperature preservation of mosquitoes leading,2025-09-16,2026-05-20,2026-05-22,5,27
+42172047,10.1093/gigascience/giag062,Gigascience,PathoFact 2.0: an integrative pipeline for the prediction of antimicrobial resistance gene,2025-10-30,2026-05-20,2026-05-22,6,69
+42172041,10.1093/gigascience/giag064,Gigascience,4D single-cell spatial transcriptomics reveals dynamic morphogenetic gradients and regener,2025-10-28,2026-05-21,2026-05-22,37,92
+42172040,10.1093/gigascience/giag060,Gigascience,New causal discovery algorithm over censored variables identifies subtype-specific drivers,2025-04-28,2026-05-19,2026-05-22,2,68
+42166149,10.1093/gigascience/giag059,Gigascience,Cell type transcriptomic modules reveal shared molecular mechanisms in Alzheimer's and Par,2025-09-29,2026-05-19,2026-05-21,11,167
+42148814,10.1093/gigascience/giag057,Gigascience,Comparative evaluation of gene selection approaches in transcriptomics: bias correction an,2026-02-22,2026-05-15,2026-05-18,7,47
+42148810,10.1093/gigascience/giag058,Gigascience,Leveraging machine learning and network biology approaches to predict brain gene expressio,2025-10-29,2026-05-15,2026-05-18,6,33
+42126889,10.1093/gigascience/giag056,Gigascience,Accurate proteome-wide prediction of enzymes and catalytic sites using graph deep learning,2025-08-04,2026-05-10,2026-05-13,9,78
+42104964,10.1093/gigascience/giag055,Gigascience,Experimental and computational approaches for deep metabolome annotation with application ,2025-10-29,2026-05-08,2026-05-10,9,67
+42104960,10.1093/gigascience/giag045,Gigascience,Draft assemblies for 177 bird species enhance genus-level coverage.,2025-11-10,2026-04-14,2026-05-10,69,28
+42102720,10.1093/gigascience/giag048,Gigascience,FEDRANN: effective long-read overlap detection based on dimensionality reduction and appro,2025-08-22,2026-03-12,2026-05-09,15,45
+42096536,10.1093/gigascience/giag054,Gigascience,Synchrotron radiation micro-computed tomography of the small-spotted catshark embryonic de,2025-08-08,2026-04-17,2026-05-07,8,93
+42096511,10.1093/gigascience/giag053,Gigascience,Autoencoder/RandomForest-TabPFN for cross-cancer metabolomics: prostate and breast cancer ,2025-11-02,2026-05-03,2026-05-07,13,27
+42084898,10.1093/gigascience/giag029,Gigascience,SCSEQ: A web tool for analyzing single-cell RNA-seq data.,2025-12-31,2026-03-12,2026-05-05,4,38
+42053508,10.1093/gigascience/giag051,Gigascience,"METRIN-KG: A knowledge graph integrating plant metabolites, traits, and biotic interaction",2025-08-27,2026-04-16,2026-04-29,4,205
+42008150,10.1093/gigascience/giag049,Gigascience,Integrative single-cell transcriptomics and proteomics reveal an immunometabolic framework,2026-01-30,2026-04-17,2026-04-21,16,40
+41990112,10.1093/gigascience/giag047,Gigascience,GigaDB: a redesigned repository for data publishing and management.,2026-04-08,2026-04-15,2026-04-17,12,11
+41990109,10.1093/gigascience/giag046,Gigascience,Within-host diversity and phased variant analysis reveal structures and recombination of H,2026-01-28,2026-04-15,2026-04-17,10,47
+41980277,10.1093/gigascience/giag044,Gigascience,Learning inherent genetic patterns and trait associations with deep generative models for ,2025-08-27,2026-04-07,2026-04-14,6,70
+41967014,10.1093/gigascience/giag038,Gigascience,MIFE and MIFD: Minimum information for fermentation experiments and devices.,2025-06-18,2026-04-01,2026-04-12,17,77
+41964931,10.1093/gigascience/giag041,Gigascience,Community-curated Galaxy interfaces with the Galaxy Labs Engine.,2025-07-30,2026-04-03,2026-04-12,7,33
+41964930,10.1093/gigascience/giag039,Gigascience,GEfetch2R: fetching single-cell/bulk RNA-seq data from public repositories to R and benchm,2025-08-07,2026-04-02,2026-04-12,3,36
+41964929,10.1093/gigascience/giag040,Gigascience,HVRLocator: a computationally efficient tool for identifying hypervariable regions in larg,2025-08-27,2026-04-02,2026-04-12,7,48
+41947428,10.1093/gigascience/giag043,Gigascience,Comparative analysis of 163 ant genomes reveals recurrent horizontal gene transfer from ba,2026-02-06,2026-04-03,2026-04-08,15,119
+41947412,10.1093/gigascience/giag042,Gigascience,NEXT-scASV: a Nextflow pipeline for allele-specific variant calling from single-cell RNA-s,2025-09-15,2026-04-03,2026-04-08,8,36
+41934175,10.1093/gigascience/giag036,Gigascience,MicroFinder: conserved gene-set mapping and assembly ordering for manual curation of bird ,2025-06-04,2026-03-31,2026-04-04,4,64
+41934171,10.1093/gigascience/giag037,Gigascience,Cancer genome standards for long-read sequencing using cancer cell line mixtures.,2025-05-06,2026-04-01,2026-04-04,10,87
+41915012,10.1093/gigascience/giag032,Gigascience,scDenorm: a denormalization tool for integrating single-cell transcriptomics data.,2025-05-29,2026-03-20,2026-03-31,12,53
+41880523,10.1093/gigascience/giag035,Gigascience,Dissecting glioblastoma risk signatures in the tumor immune microenvironment based on mult,2026-02-03,2026-03-24,2026-03-25,8,105
+41874432,10.1093/gigascience/giag033,Gigascience,SMIntegration: A web tool for comprehensive spatial metabolomics and transcriptomics integ,2025-10-20,2026-03-22,2026-03-24,10,44
+41874414,10.1093/gigascience/giag031,Gigascience,Sex chromosome turnover and structural genome divergence shape meiotic outcomes in hybridi,2025-06-20,2026-03-18,2026-03-24,24,99
+41871361,10.1093/gigascience/giag030,Gigascience,MADRe: Strain-level metagenomic classification through assembly-driven database reduction.,2025-11-06,2026-03-16,2026-03-23,4,71
+41842855,10.1093/gigascience/giag028,Gigascience,Characterizing a species-rich and understudied tropical insect fauna using DNA barcoding.,2025-09-30,2026-03-15,2026-03-17,11,55
+41802198,10.1093/gigascience/giag027,Gigascience,Multiplatform comparisons and annotation of structural variants highlight the utility of t,2025-06-26,2026-03-05,2026-03-09,10,67
+41784530,10.1093/gigascience/giag025,Gigascience,ZNF331 modulates early embryonic transcription during zygotic genome activation in goat.,2025-09-24,2026-03-03,2026-03-05,8,66
+41784526,10.1093/gigascience/giag026,Gigascience,Patterns of aDNA damage through time and environments-lessons from herbarium specimens.,2025-10-24,2026-03-04,2026-03-05,12,69
+41773962,10.1093/gigascience/giag019,Gigascience,Toward total recall: Enhancing data FAIRness through AI-driven metadata standardization.,2025-06-09,2026-02-25,2026-03-03,3,24
+41773942,10.1093/gigascience/giag021,Gigascience,Interactive analysis of single-cell trajectories in 3D space with Cell Journey.,2025-08-12,2026-02-26,2026-03-03,2,80
+41770032,10.1093/gigascience/giag022,Gigascience,Chromosome-level genome assembly and transcriptomes of the leaf insect Cryptophyllium west,2025-09-24,2026-02-25,2026-03-02,16,132
+41770024,10.1093/gigascience/giag023,Gigascience,Stereo-cell deciphers the spatial and functional heterogeneity of polyploid hepatocytes.,2025-10-29,2026-02-27,2026-03-02,8,60
+41770016,10.1093/gigascience/giag024,Gigascience,HYMET: a hybrid metagenomic pipeline for accurate and efficient taxonomic classification.,2025-05-09,2026-02-28,2026-03-02,3,83
+41762157,10.1093/gigascience/giag020,Gigascience,"MIReVTD, a minimum information standard for reporting vector trait data.",2025-07-03,2026-02-26,2026-02-28,7,34
+41762156,10.1093/gigascience/giag018,Gigascience,ChronoRoot 2.0: an open AI-powered platform for 2D temporal plant phenotyping.,2025-07-10,2026-02-25,2026-02-28,20,23
+41738843,10.1093/gigascience/giag016,Gigascience,A comprehensive ruminant microbial catalog (CRMC) reveals convergent selection for key vit,2025-12-30,2026-02-15,2026-02-25,4,77
+41738836,10.1093/gigascience/giag017,Gigascience,Comparative analysis of eccDNA and circRNA tools shows increased accuracy of tool combinat,2025-12-19,2026-02-24,2026-02-25,4,56
+41677795,10.1093/gigascience/giag015,Gigascience,Enhanced semantic classification of microbiome sample origins using large language models ,2025-08-08,2026-02-11,2026-02-12,8,24
+41661124,10.1093/gigascience/giag012,Gigascience,An interpretable Graph-Regularized Optimal Transport Framework for Diagonal Single-Cell In,2025-06-12,2026-01-29,2026-02-09,7,44
+41649419,10.1093/gigascience/giag014,Gigascience,"Improved genome assembly of whale shark, the world's biggest fish: revealing intragenomic ",2025-10-10,2026-02-02,2026-02-06,3,87
+41632074,10.1093/gigascience/giag013,Gigascience,Single-nucleus multiple-organ chromatin accessibility landscape in the adult rat.,2025-08-14,2026-02-02,2026-02-03,8,63
+41609417,10.1093/gigascience/giag011,Gigascience,Expression-driven genetic dependency reveals targets for precision oncology.,2025-04-16,2026-01-26,2026-01-29,10,54
+41578956,10.1093/gigascience/giag010,Gigascience,ViralBindPredict: empowering viral protein-ligand binding sites through deep learning and ,2025-01-24,2026-01-22,2026-01-24,8,85
+41574934,10.1093/gigascience/giaf155,Gigascience,High-definition likelihood inference of genetic colocalization reveals protein biomarkers ,2025-05-23,2025-12-14,2026-01-23,6,38
+41563008,10.1093/gigascience/giag009,Gigascience,nf-core/proteinfamilies: a scalable pipeline for the generation of protein families.,2025-08-20,2026-01-19,2026-01-21,13,45
+41562940,10.1093/gigascience/giag008,Gigascience,MBGC2: Boosting compression via efficient encoding of approximate matches in genome collec,2025-07-21,2026-01-19,2026-01-21,1,65
+41556565,10.1093/gigascience/giag006,Gigascience,SpaceBF: spatial coexpression analysis using Bayesian fused approaches in spatial omics da,2025-07-01,2026-01-14,2026-01-20,2,232
+41556563,10.1093/gigascience/giag003,Gigascience,"A preregistered, open pipeline for early cerebral palsy risk assessment from infant videos",2024-11-11,2026-01-07,2026-01-20,5,53
+41556558,10.1093/gigascience/giag001,Gigascience,Beyond volume and toward coherence: a research parasite's perspective.,2025-12-22,2026-01-05,2026-01-20,1,10
+41553357,10.1093/gigascience/giaf156,Gigascience,Generalizable machine learning models for rapid antimicrobial resistance prediction in uns,2025-06-21,2025-12-15,2026-01-19,4,33
+41553355,10.1093/gigascience/giag005,Gigascience,Dynamont: A comprehensive cross-species comparison of ONT segmentation tools.,2025-08-19,2026-01-13,2026-01-19,7,27
+41553353,10.1093/gigascience/giag007,Gigascience,Federated knowledge retrieval elevates large language model performance on biomedical benc,2025-08-01,2026-01-15,2026-01-19,2,55
+41543303,10.1093/gigascience/giag002,Gigascience,Cord blood DNA methylation and cell-type composition are not significantly associated with,2025-06-04,2026-01-07,2026-01-16,8,58
+41489486,10.1093/gigascience/giaf163,Gigascience,deMEM: a novel divide-and-conquer framework based on de Bruijn graph for scalable multiple,2025-11-03,2025-12-30,2026-01-05,7,46
+41481123,10.1093/gigascience/giaf162,Gigascience,Genome Assembly of Three Shrub Mangroves in the Genus Acanthus Reveals Two Polyploidy Even,2025-06-26,2025-12-30,2026-01-02,12,94
+41467452,10.1093/gigascience/giaf161,Gigascience,Charting immune variation through genetics and single-cell genomics.,2025-12-10,2025-12-22,2025-12-30,1,8
+41453206,10.1093/gigascience/giaf159,Gigascience,An evaluation of computational methods for reconstruction of human viral DNA genomes.,2025-01-23,2025-12-17,2025-12-26,7,154
+41427890,10.1093/gigascience/giaf160,Gigascience,Haplotype-resolved chromosome-level genome assemblies of four Diamesa species reveal the g,2025-07-31,2025-12-18,2025-12-22,12,96
+41416705,10.1093/gigascience/giaf157,Gigascience,Open RGB imaging workflow for morphological and morphometric analysis of fruits using deep,2025-06-04,2025-12-16,2025-12-19,4,74
+41410494,10.1093/gigascience/giaf158,Gigascience,The genomes of 5 mantises provide insights into sex chromosome evolution and Mantodea phyl,2025-08-02,2025-12-16,2025-12-18,9,56
+41384800,10.1093/gigascience/giaf152,Gigascience,LinkML: an open data modeling framework.,2025-07-09,2025-12-09,2025-12-12,36,43
+41378979,10.1093/gigascience/giaf151,Gigascience,Improved reference assembly and core collection resequencing to facilitate exploration of ,2025-01-13,2025-12-09,2025-12-11,12,155
+41363728,10.1093/gigascience/giaf148,Gigascience,An integrative multiomics random forest framework for robust biomarker discovery.,2025-01-16,2025-12-01,2025-12-09,5,60
+41316987,10.1093/gigascience/giaf145,Gigascience,Giant chromosomes of a tiny plant-the complete telomere-to-telomere genome assembly of the,2025-06-27,2025-11-27,2025-11-29,3,64
+41231584,10.1093/gigascience/giaf141,Gigascience,pyRootHair: Machine learning accelerated software for high-throughput phenotyping of plant,2025-07-14,2025-11-12,2025-11-13,6,40
+41222189,10.1093/gigascience/giaf133,Gigascience,RNA-SeqEZPZ: a point-and-click pipeline for comprehensive transcriptomics analysis with in,2025-02-17,2025-10-15,2025-11-12,5,72

@@ -16,6 +16,10 @@ python run_all.py --mode full --variant min60_30
 python src/run_external.py
 python src/run_ablation.py
 python src/summarize_sensitivity.py
+python src/shape_diagnostics.py
+python src/post_hoc_analyses.py        # D6 (exploratory)
+python src/oracle_diagnostic.py        # D7 (exploratory)
+python src/revision_analyses.py        # D10 (exploratory)
 # 5. tables, schematic, manuscript
 python src/make_tables.py
 python src/make_protocol_figure.py

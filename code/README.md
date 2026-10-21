@@ -9,7 +9,7 @@ Code for the study "How well do a journal's past turnaround times predict the ne
 
 ## Full run (real data)
 Requires `data/processed/articles_clean.csv.gz` (build with `src/prepare_data.py` from `data/raw/crossref/`, which `src/collect_crossref.py` downloads from the Crossref REST API for the 802-journal frame in `data/raw/frame_eligible.json`).
-    python run_all.py --mode full      # confirmatory analysis, ~7 min on 4 cores -> ../results/
+    python run_all.py --mode full      # confirmatory analysis, ~7 min, effectively single-core -> ../results/
 See `run_pipeline.sh` for the complete sequence including sensitivity analyses, external validation (PubMed), tables and manuscript.
 
 ## Layout
@@ -18,6 +18,6 @@ See `run_pipeline.sh` for the complete sequence including sensitivity analyses, 
 - `configs/config.json` frozen protocol parameters; `tests/` unit tests; `archive_abandoned_direction/` scripts of abandoned work (kept for audit)
 
 ## Reproducibility notes
-- Seeds fixed (`seed` in config); two consecutive full runs produced byte-identical CSV/JSON outputs.
+- Seeds fixed (`seed` in config); two consecutive full runs produced byte-identical CSV/JSON/PNG outputs (except `run_info.json`, which holds wall-clock time).
 - Live API data change over time (late-deposited metadata); `results/data_manifest.json` records SHA-256 of the cleaned files used in the paper and the collection date.
 - Hardware: CPU only; Python 3.13.

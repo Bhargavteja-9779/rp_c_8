@@ -59,3 +59,6 @@ Hypotheses in `hypotheses.md`. Results are reported regardless of direction. Any
 
 ## 11. Compute and software
 Python 3.13, numpy 2.5.3, pandas 3.0.5, SciPy 1.18.1, statsmodels 0.15.0, LightGBM 4.7.0, 4 CPU cores; all code in `code/`; entry point `code/run_all.py` (`--mode quick|full`).
+
+## 12. Amendments to this document (added 2026-10-21; the frozen v1.0 text above is left unchanged)
+Where the frozen text and the implementation differ, the **implementation and `deviations.md` govern**: F0/F1/F2/F6 use Hazen (type-5) quantiles (D1); F2 pool and F4 prior use visibility-only eligibility (D2); H7 compares 12 vs 24 months (D8); E7 uses the F4 quantile as a feature (D9); drift null is a 200-permutation pooled null (D11b); bootstrap sizes 5,000/1,000/2,000 as in D11a; missing author/reference counts are median-imputed; post-hoc analyses D6, D7, D10 are exploratory. The statistical package `statsmodels` listed in §11 is not used.

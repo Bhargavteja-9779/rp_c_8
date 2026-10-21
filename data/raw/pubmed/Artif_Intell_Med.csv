@@ -1,0 +1,942 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+35115131,10.1016/j.artmed.2021.102233,Artif Intell Med,A multi-stage machine learning model for diagnosis of esophageal manometry.,2021-06-23,2021-12-18,2022-02-05,7,22
+35115127,10.1016/j.artmed.2021.102232,Artif Intell Med,A novel transfer learning model for traditional herbal medicine prescription generation fr,2021-02-19,2021-12-17,2022-02-05,7,0
+34998518,10.1016/j.artmed.2021.102229,Artif Intell Med,A dual-layer context-based architecture for the detection of anomalous instructions sent t,2021-04-15,2021-11-30,2022-01-10,4,0
+34998517,10.1016/j.artmed.2021.102228,Artif Intell Med,Gene selection for microarray data classification via multi-objective graph theoretic-base,2020-10-31,2021-11-27,2022-01-10,6,0
+34998516,10.1016/j.artmed.2021.102227,Artif Intell Med,Continuous action deep reinforcement learning for propofol dosing during general anesthesi,2021-04-22,2021-11-23,2022-01-10,5,0
+34998515,10.1016/j.artmed.2021.102224,Artif Intell Med,DI++: A deep learning system for patient condition identification in clinical notes.,2020-06-23,2021-11-11,2022-01-10,6,37
+34998514,10.1016/j.artmed.2021.102230,Artif Intell Med,"Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and ",2021-07-02,2021-11-30,2022-01-10,6,0
+34998512,10.1016/j.artmed.2021.102214,Artif Intell Med,Missing data imputation on biomedical data using deeply learned clustering and L2 regulari,2020-01-22,2021-11-08,2022-01-10,2,0
+34998511,10.1016/j.artmed.2021.102210,Artif Intell Med,Tetromino pattern based accurate EEG emotion classification model.,2021-03-12,2021-11-01,2022-01-10,4,0
+34998510,10.1016/j.artmed.2021.102209,Artif Intell Med,ADHD classification using auto-encoding neural network and binary hypothesis testing.,2021-01-30,2021-11-03,2022-01-10,7,0
+34998509,10.1016/j.artmed.2021.102202,Artif Intell Med,Revealing traces of depression through personal statements analysis in social media.,2020-04-22,2021-10-29,2022-01-10,4,0
+34823838,10.1016/j.artmed.2021.102201,Artif Intell Med,Seizure detection from multi-channel EEG using entropy-based dynamic graph embedding.,2021-04-13,2021-10-27,2021-11-27,2,0
+34823837,10.1016/j.artmed.2021.102212,Artif Intell Med,TEDAR: Temporal dynamic signal detection of adverse reactions.,2020-11-27,2021-11-06,2021-11-27,4,0
+34823836,10.1016/j.artmed.2021.102211,Artif Intell Med,Interpreting clinical latent representations using autoencoders and probabilistic models.,2021-04-05,2021-11-01,2021-11-27,4,0
+34823835,10.1016/j.artmed.2021.102213,Artif Intell Med,Automated tibiofemoral joint segmentation based on deeply supervised 2D-3D ensemble U-Net:,2021-06-23,2021-11-08,2021-11-27,2,0
+34823834,10.1016/j.artmed.2021.102200,Artif Intell Med,Cardio-ML: Detection of malicious clinical programmings aimed at cardiac implantable elect,2021-03-09,2021-10-22,2021-11-27,4,0
+34823833,10.1016/j.artmed.2021.102199,Artif Intell Med,Consensus clustering for case series identification and adverse event profiles in pharmaco,2020-05-29,2021-10-18,2021-11-27,3,0
+34763812,10.1016/j.artmed.2021.102177,Artif Intell Med,A keyphrase-based approach for interpretable ICD-10 code classification of Spanish medical,2020-09-21,2021-09-14,2021-11-13,4,0
+34763811,10.1016/j.artmed.2021.102196,Artif Intell Med,Fine-tuning deep learning model parameters for improved super-resolution of dynamic MRI wi,2021-04-23,2021-10-12,2021-11-13,6,0
+34763810,10.1016/j.artmed.2021.102195,Artif Intell Med,PSA-Net: Deep learning-based physician style-aware segmentation network for postoperative ,2021-02-15,2021-10-12,2021-11-13,12,0
+34763809,10.1016/j.artmed.2021.102194,Artif Intell Med,Multiple instance convolutional neural network with modality-based attention and contextua,2020-10-02,2021-10-07,2021-11-13,9,0
+34763808,10.1016/j.artmed.2021.102193,Artif Intell Med,A reinforcement learning approach for finding optimal policy of adaptive radiation therapy,2021-03-01,2021-10-05,2021-11-13,2,0
+34763807,10.1016/j.artmed.2021.102192,Artif Intell Med,DeepMI: Deep multi-lead ECG fusion for identifying myocardial infarction and its occurrenc,2021-03-11,2021-10-05,2021-11-13,7,0
+34763806,10.1016/j.artmed.2021.102191,Artif Intell Med,BCHisto-Net: Breast histopathological image classification by global and local feature agg,2021-03-19,2021-10-05,2021-11-13,3,0
+34763805,10.1016/j.artmed.2021.102190,Artif Intell Med,A healthy debate: Exploring the views of medical doctors on the ethics of artificial intel,2021-02-12,2021-09-29,2021-11-13,3,0
+34763804,10.1016/j.artmed.2021.102189,Artif Intell Med,Fusing 2D and 3D convolutional neural networks for the segmentation of aorta and coronary ,2021-02-01,2021-09-29,2021-11-13,2,0
+34763803,10.1016/j.artmed.2021.102181,Artif Intell Med,Convolutional squeeze-and-excitation network for ECG arrhythmia detection.,2020-11-25,2021-09-22,2021-11-13,9,0
+34763802,10.1016/j.artmed.2021.102180,Artif Intell Med,A novel deep learning model DDU-net using edge features to enhance brain tumor segmentatio,2020-12-24,2021-09-21,2021-11-13,3,0
+34763801,10.1016/j.artmed.2021.102179,Artif Intell Med,Real-time frequency-independent single-Lead and single-beat myocardial infarction detectio,2021-02-17,2021-09-21,2021-11-13,6,0
+34763800,10.1016/j.artmed.2021.102178,Artif Intell Med,Automatic image and text-based description for colorectal polyps using BASIC classificatio,2021-04-29,2021-09-21,2021-11-13,9,0
+34763799,10.1016/j.artmed.2021.102197,Artif Intell Med,An attention-based weakly supervised framework for spitzoid melanocytic lesion diagnosis i,2021-04-13,2021-10-12,2021-11-13,7,0
+34763798,10.1016/j.artmed.2021.102176,Artif Intell Med,Classification of diabetic retinopathy using unlabeled data and knowledge distillation.,2020-11-10,2021-09-13,2021-11-13,7,0
+34629154,10.1016/j.artmed.2021.102162,Artif Intell Med,Replication-based regularization approaches to diagnose Reinke's edema by using voice reco,2021-02-15,2021-08-31,2021-10-12,4,0
+34629151,10.1016/j.artmed.2021.102163,Artif Intell Med,Low back pain expert systems: Clinical resolution through probabilistic considerations and,2020-11-08,2021-08-31,2021-10-12,4,0
+34629150,10.1016/j.artmed.2021.102167,Artif Intell Med,Substituting clinical features using synthetic medical phrases: Medical text data augmenta,2021-04-15,2021-09-03,2021-10-12,6,0
+34629149,10.1016/j.artmed.2021.102161,Artif Intell Med,Finding reduced Raman spectroscopy fingerprint of skin samples for melanoma diagnosis thro,2021-03-10,2021-08-24,2021-10-12,7,0
+34629148,10.1016/j.artmed.2021.102160,Artif Intell Med,Understanding patient reviews with minimum supervision.,2020-09-29,2021-08-16,2021-10-12,2,0
+34629147,10.1016/j.artmed.2021.102151,Artif Intell Med,Optimizing the setting of medical interactive rehabilitation assistant platform to improve,2020-12-23,2021-08-16,2021-10-12,4,0
+34531016,10.1016/j.artmed.2021.102141,Artif Intell Med,Multi-pathology detection and lesion localization in WCE videos by using the instance segm,2021-01-05,2021-08-03,2021-09-18,6,0
+34531015,10.1016/j.artmed.2021.102156,Artif Intell Med,Hybrid COVID-19 segmentation and recognition framework (HMB-HCF) using deep learning and g,2021-02-15,2021-08-17,2021-09-18,3,146
+34531014,10.1016/j.artmed.2021.102155,Artif Intell Med,Tumor saliency estimation for breast ultrasound images via breast anatomy modeling.,2020-12-27,2021-08-16,2021-09-18,7,0
+34531013,10.1016/j.artmed.2021.102154,Artif Intell Med,EMONAS-Net: Efficient multiobjective neural architecture search using surrogate-assisted e,2020-08-27,2021-08-16,2021-09-18,2,0
+34531012,10.1016/j.artmed.2021.102153,Artif Intell Med,TP-DDI: Transformer-based pipeline for the extraction of Drug-Drug Interactions.,2021-01-11,2021-08-16,2021-09-18,2,0
+34531011,10.1016/j.artmed.2021.102152,Artif Intell Med,Optimization assisted Kalman filter for cancer chemotherapy dosage estimation.,2021-01-23,2021-08-16,2021-09-18,2,0
+34531009,10.1016/j.artmed.2021.102140,Artif Intell Med,Neural network-based left ventricle geometry prediction from CMR images with application i,2020-12-21,2021-08-03,2021-09-18,8,0
+34531008,10.1016/j.artmed.2021.102139,Artif Intell Med,Deep learning methods for screening patients' S-ICD implantation eligibility.,2021-03-09,2021-08-03,2021-09-18,6,0
+34531007,10.1016/j.artmed.2021.102138,Artif Intell Med,Aspect-based sentiment analysis with graph convolution over syntactic dependencies.,2020-12-16,2021-08-03,2021-09-18,3,0
+34531006,10.1016/j.artmed.2021.102137,Artif Intell Med,Deep Reinforcement Learning for Fractionated Radiotherapy in Non-Small Cell Lung Carcinoma,2020-09-08,2021-08-03,2021-09-18,8,0
+34531005,10.1016/j.artmed.2021.102136,Artif Intell Med,Resolution-based distillation for efficient histology image classification.,2021-01-11,2021-08-02,2021-09-18,5,72
+34531004,10.1016/j.artmed.2021.102130,Artif Intell Med,Practical fine-grained learning based anomaly classification for ECG image.,2020-09-30,2021-06-22,2021-09-18,11,0
+34412851,10.1016/j.artmed.2021.102098,Artif Intell Med,Enhancing evidence-based medicine with natural language argumentative analysis of clinical,2020-10-23,2021-05-05,2021-08-21,4,0
+34412850,10.1016/j.artmed.2021.102134,Artif Intell Med,Network differentiation: A computational method of pathogenesis diagnosis in traditional C,2020-11-30,2021-06-28,2021-08-21,9,0
+34412849,10.1016/j.artmed.2021.102133,Artif Intell Med,AIOSA: An approach to the automatic identification of obstructive sleep apnea events based,2021-03-22,2021-06-24,2021-08-21,5,0
+34412848,10.1016/j.artmed.2021.102132,Artif Intell Med,Circumpapillary OCT-focused hybrid learning for glaucoma grading using tailored prototypic,2021-01-19,2021-06-23,2021-08-21,6,0
+34412847,10.1016/j.artmed.2021.102131,Artif Intell Med,A framework to extract biomedical knowledge from gluten-related tweets: The case of dietar,2020-09-04,2021-06-22,2021-08-21,4,0
+34412846,10.1016/j.artmed.2021.102129,Artif Intell Med,Tracking leukocytes in intravital time lapse images using 3D cell association learning net,2020-03-30,2021-06-22,2021-08-21,2,0
+34412845,10.1016/j.artmed.2021.102128,Artif Intell Med,Multi-feature representation for burn depth classification via burn images.,2020-06-08,2021-06-22,2021-08-21,2,0
+34412844,10.1016/j.artmed.2021.102127,Artif Intell Med,Decision support for comorbid conditions via execution-time integration of clinical guidel,2020-08-08,2021-06-22,2021-08-21,3,0
+34412842,10.1016/j.artmed.2021.102119,Artif Intell Med,Health issue identification in social media based on multi-task hierarchical neural networ,2020-06-29,2021-05-21,2021-08-21,3,0
+34412841,10.1016/j.artmed.2021.102118,Artif Intell Med,The Physiological Deep Learner: First application of multitask deep learning to predict hy,2021-02-20,2021-05-21,2021-08-21,5,0
+34412840,10.1016/j.artmed.2021.102117,Artif Intell Med,A progressive deep wavelet cascade classification model for epilepsy detection.,2020-10-04,2021-05-21,2021-08-21,3,0
+34412839,10.1016/j.artmed.2021.102116,Artif Intell Med,Simultaneous segmentation and classification of the retinal arteries and veins from color ,2021-01-11,2021-05-21,2021-08-21,4,0
+34412838,10.1016/j.artmed.2021.102115,Artif Intell Med,MvKFN-MDA: Multi-view Kernel Fusion Network for miRNA-disease association prediction.,2020-06-20,2021-05-21,2021-08-21,6,0
+34412837,10.1016/j.artmed.2021.102114,Artif Intell Med,An explainable AI system for automated COVID-19 assessment and lesion categorization from ,2020-09-25,2021-05-12,2021-08-21,18,47
+34412836,10.1016/j.artmed.2021.102110,Artif Intell Med,Fully-channel regional attention network for disease-location recognition with tongue imag,2020-05-06,2021-05-11,2021-08-21,8,0
+34412835,10.1016/j.artmed.2021.102135,Artif Intell Med,A novel convolutional neural network for reconstructing surface electrocardiograms from in,2020-11-11,2021-07-11,2021-08-21,7,68
+34412834,10.1016/j.artmed.2021.102086,Artif Intell Med,Med7: A transferable clinical natural language processing model for electronic health reco,2020-08-18,2021-05-03,2021-08-21,4,0
+34127246,10.1016/j.artmed.2021.102085,Artif Intell Med,Application of substitution box of present cipher for automated detection of snoring sound,2020-11-26,2021-05-03,2021-06-16,4,0
+34127245,10.1016/j.artmed.2021.102082,Artif Intell Med,NIA-Network: Towards improving lung CT infection detection for COVID-19 diagnosis.,2020-06-20,2021-04-26,2021-06-16,8,54
+34127243,10.1016/j.artmed.2021.102064,Artif Intell Med,Cost-effectiveness analysis with unordered decisions.,2020-04-01,2021-03-25,2021-06-16,4,0
+34127242,10.1016/j.artmed.2021.102113,Artif Intell Med,A new approach for interpretability and reliability in clinical risk prediction: Acute cor,2020-07-20,2021-05-11,2021-06-16,6,0
+34127241,10.1016/j.artmed.2021.102112,Artif Intell Med,Improving clinical outcome predictions using convolution over medical entities with multim,2020-07-10,2021-05-11,2021-06-16,2,0
+34127239,10.1016/j.artmed.2021.102109,Artif Intell Med,Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networ,2020-06-16,2021-05-06,2021-06-16,7,0
+34127237,10.1016/j.artmed.2021.102099,Artif Intell Med,A predictive framework in healthcare: Case study on cardiac arrest prediction.,2020-06-25,2021-05-05,2021-06-16,2,0
+34127236,10.1016/j.artmed.2021.102097,Artif Intell Med,Simultaneous imputation and classification using Multigraph Geometric Matrix Completion (M,2020-11-16,2021-05-05,2021-06-16,7,0
+34127235,10.1016/j.artmed.2021.102096,Artif Intell Med,Evaluation of clustering and topic modeling methods over health-related tweets and emails.,2020-05-31,2021-05-05,2021-06-16,6,158
+34127234,10.1016/j.artmed.2021.102088,Artif Intell Med,Deep ensemble multitask classification of emergency medical call incidents combining multi,2020-11-09,2021-05-03,2021-06-16,7,0
+34127233,10.1016/j.artmed.2021.102087,Artif Intell Med,Prediction of weaning from mechanical ventilation using Convolutional Neural Networks.,2020-12-18,2021-05-03,2021-06-16,5,0
+34127232,10.1016/j.artmed.2021.102083,Artif Intell Med,Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotat,2020-10-07,2021-04-28,2021-06-16,18,0
+34127231,10.1016/j.artmed.2021.102084,Artif Intell Med,Interpreting deep learning models for epileptic seizure detection on EEG signals.,2020-12-19,2021-04-29,2021-06-16,7,0
+34020756,10.1016/j.artmed.2021.102077,Artif Intell Med,Fenchel duality of Cox partial likelihood with an application in survival kernel learning.,2020-05-19,2021-04-19,2021-05-23,5,45
+34020754,10.1016/j.artmed.2021.102078,Artif Intell Med,Transfer learning in medical image segmentation: New insights from analysis of the dynamic,2021-02-16,2021-04-20,2021-05-23,3,64
+34020753,10.1016/j.artmed.2021.102080,Artif Intell Med,Explaining heterogeneity of individual treatment causal effects by subgroup discovery: An ,2020-11-06,2021-04-20,2021-05-23,7,0
+34020752,10.1016/j.artmed.2021.102075,Artif Intell Med,Evaluating diagnostic content of AI-generated radiology reports of chest X-rays.,2020-02-25,2021-04-07,2021-05-23,4,0
+34020751,10.1016/j.artmed.2021.102073,Artif Intell Med,Uncertainty-aware temporal self-learning (UATS): Semi-supervised learning for segmentation,2020-10-30,2021-04-07,2021-05-23,7,0
+34020750,10.1016/j.artmed.2021.102072,Artif Intell Med,Coronary artery segmentation from intravascular optical coherence tomography using deep ca,2020-08-19,2021-04-07,2021-05-23,5,0
+34001325,10.1016/j.artmed.2021.102076,Artif Intell Med,A hybrid deep learning approach for gland segmentation in prostate histopathological image,2020-09-17,2021-04-10,2021-05-19,7,0
+34001324,10.1016/j.artmed.2021.102074,Artif Intell Med,A data science approach to drug safety: Semantic and visual mining of adverse drug events ,2020-06-22,2021-04-07,2021-05-19,1,0
+34001323,10.1016/j.artmed.2021.102065,Artif Intell Med,EAR-UNet: A deep learning-based approach for segmentation of tympanic membranes from otosc,2020-08-15,2021-04-05,2021-05-19,5,0
+34001322,10.1016/j.artmed.2021.102062,Artif Intell Med,"A reinforcement learning based algorithm for personalization of digital, just-in-time, ada",2020-07-31,2021-03-29,2021-05-19,4,0
+34001321,10.1016/j.artmed.2021.102061,Artif Intell Med,A machine learning perspective on the emotional content of Parkinsonian speech.,2020-03-06,2021-03-29,2021-05-19,5,0
+34001320,10.1016/j.artmed.2021.102063,Artif Intell Med,Automated emotion classification in the early stages of cortical processing: An MEG study.,2019-07-16,2021-03-29,2021-05-19,8,0
+34001319,10.1016/j.artmed.2021.102059,Artif Intell Med,CEFEs: A CNN Explainable Framework for ECG Signals.,2020-07-05,2021-03-23,2021-05-19,4,0
+34001317,10.1016/j.artmed.2021.102057,Artif Intell Med,A novel approach for computerized quantitative image analysis of proximal femur bone shape,2020-03-04,2021-03-22,2021-05-19,3,0
+34001316,10.1016/j.artmed.2021.102056,Artif Intell Med,Probabilistic domain-knowledge modeling of disorder pathogenesis for dynamics forecasting ,2020-06-30,2021-03-22,2021-05-19,4,80
+34001315,10.1016/j.artmed.2021.102055,Artif Intell Med,Ethical evaluation of artificial intelligence applications in radiotherapy using the Four ,2020-06-04,2021-03-22,2021-05-19,3,0
+34001314,10.1016/j.artmed.2021.102054,Artif Intell Med,Survival in the Intensive Care Unit: A prognosis model based on Bayesian classifiers.,2020-10-30,2021-03-17,2021-05-19,4,0
+33875164,10.1016/j.artmed.2021.102049,Artif Intell Med,R-HEFS: Rough set based heterogeneous ensemble feature selection method for medical data c,2020-06-04,2021-02-21,2021-04-21,2,0
+33875163,10.1016/j.artmed.2021.102052,Artif Intell Med,A novel method for clinical risk prediction with low-quality data.,2020-08-09,2021-03-09,2021-04-21,5,0
+33875162,10.1016/j.artmed.2021.102051,Artif Intell Med,Data imputation and compression for Parkinson's disease clinical questionnaires.,2019-09-13,2021-02-21,2021-04-21,4,0
+33875161,10.1016/j.artmed.2021.102050,Artif Intell Med,Video-based eye tracking performance for computer-assisted diagnostic support of diabetic ,2020-01-27,2021-02-21,2021-04-21,4,0
+33875160,10.1016/j.artmed.2021.102053,Artif Intell Med,NewsMeSH: A new classifier designed to annotate health news with MeSH headings.,2020-04-06,2021-03-11,2021-04-21,17,0
+33875159,10.1016/j.artmed.2021.102048,Artif Intell Med,A deep learning approach for mitosis detection: Application in tumor proliferation predict,2020-05-13,2021-02-28,2021-04-21,3,0
+33875157,10.1016/j.artmed.2021.102038,Artif Intell Med,STQS: Interpretable multi-modal Spatial-Temporal-seQuential model for automatic Sleep scor,2020-07-16,2021-02-16,2021-04-21,5,0
+33685593,10.1016/j.artmed.2021.102032,Artif Intell Med,Multimodal tensor-based method for integrative and continuous patient monitoring during po,2020-02-05,2021-02-08,2021-03-10,10,0
+33685592,10.1016/j.artmed.2021.102036,Artif Intell Med,DeepAISE - An interpretable and recurrent neural survival model for early prediction of se,2020-06-01,2021-02-09,2021-03-10,4,46
+33685591,10.1016/j.artmed.2021.102035,Artif Intell Med,A multi-scale convolutional neural network with context for joint segmentation of optic di,2020-07-04,2021-02-09,2021-03-10,6,0
+33685590,10.1016/j.artmed.2021.102034,Artif Intell Med,AIRBP: Accurate identification of RNA-binding proteins using machine learning techniques.,2020-04-11,2021-02-09,2021-03-10,4,0
+33685589,10.1016/j.artmed.2021.102033,Artif Intell Med,Improving sentiment analysis on clinical narratives by exploiting UMLS semantic types.,2020-03-03,2021-02-09,2021-03-10,4,0
+33685587,10.1016/j.artmed.2021.102024,Artif Intell Med,Improving prediction for medical institution with limited patient data: Leveraging hospita,2020-08-27,2021-01-18,2021-03-10,7,0
+33685586,10.1016/j.artmed.2021.102023,Artif Intell Med,Liver segmentation in abdominal CT images via auto-context neural network and self-supervi,2020-05-10,2021-01-18,2021-03-10,6,0
+33685584,10.1016/j.artmed.2021.102017,Artif Intell Med,Multiscale CNN with compound fusions for false positive reduction in lung nodule detection,2019-11-16,2020-07-21,2021-03-10,2,0
+33581833,10.1016/j.artmed.2021.102008,Artif Intell Med,BertMCN: Mapping colloquial phrases to standard medical concepts using BERT and highway ne,2019-11-21,2020-12-31,2021-02-15,2,0
+33581831,10.1016/j.artmed.2021.102019,Artif Intell Med,A method based on cardiopulmonary coupling analysis for sleep quality assessment with FPGA,2020-04-14,2021-01-10,2021-02-15,4,0
+33581830,10.1016/j.artmed.2021.102018,Artif Intell Med,A novel computational method for assigning weights of importance to symptoms of COVID-19 p,2020-09-07,2021-01-08,2021-02-15,5,28
+33581828,10.1016/j.artmed.2021.102021,Artif Intell Med,Modeling multivariate clinical event time-series with recurrent temporal mechanisms.,2020-01-22,2021-01-10,2021-02-15,2,150
+33581826,10.1016/j.artmed.2020.102006,Artif Intell Med,A deep-learning-based unsupervised model on esophageal manometry using variational autoenc,2020-06-12,2020-12-28,2021-02-15,7,25
+33581825,10.1016/j.artmed.2020.102005,Artif Intell Med,A new framework for classification of multi-category hand grasps using EMG signals.,2020-04-10,2020-12-23,2021-02-15,6,0
+33581824,10.1016/j.artmed.2020.102003,Artif Intell Med,Transatlantic transferability of a new reinforcement learning model for optimizing haemody,2020-02-14,2020-12-08,2021-02-15,9,0
+33581823,10.1016/j.artmed.2020.102002,Artif Intell Med,MitPlan: A planning approach to mitigating concurrently applied clinical practice guidelin,2020-01-22,2020-12-06,2021-02-15,4,0
+33461694,10.1016/j.artmed.2020.101988,Artif Intell Med,Training data enhancements for improving colonic polyp detection using deep convolutional ,2019-11-18,2020-11-03,2021-01-20,3,0
+33461693,10.1016/j.artmed.2020.102001,Artif Intell Med,DRNet: Segmentation and localization of optic disc and Fovea from diabetic retinopathy ima,2020-08-16,2020-12-06,2021-01-20,5,0
+33461692,10.1016/j.artmed.2020.101999,Artif Intell Med,EPTs-TL: A two-level approach for efficient event prediction in healthcare.,2018-10-20,2020-11-24,2021-01-20,1,0
+33461691,10.1016/j.artmed.2020.101998,Artif Intell Med,Interactive medical image segmentation via a point-based interaction.,2020-04-24,2020-11-23,2021-01-20,7,0
+33461690,10.1016/j.artmed.2020.101997,Artif Intell Med,Multichannel mixture models for time-series analysis and classification of engagement with,2020-04-13,2020-11-23,2021-01-20,5,0
+33461689,10.1016/j.artmed.2020.101996,Artif Intell Med,Individual tooth detection and identification from dental panoramic X-ray images via point,2020-04-13,2020-11-17,2021-01-20,7,0
+33461688,10.1016/j.artmed.2020.102004,Artif Intell Med,Estimating sparse functional connectivity networks via hyperparameter-free learning model.,2020-04-13,2020-12-15,2021-01-20,6,0
+33461687,10.1016/j.artmed.2020.101987,Artif Intell Med,Overly optimistic prediction results on imbalanced data: a case study of flaws and benefit,2020-01-15,2020-11-12,2021-01-20,12,0
+33461686,10.1016/j.artmed.2020.101986,Artif Intell Med,A Decision Tree-Initialised Neuro-fuzzy Approach for Clinical Decision Support.,2019-09-23,2020-11-03,2021-01-20,7,0
+33461685,10.1016/j.artmed.2020.101985,Artif Intell Med,EKNN: Ensemble classifier incorporating connectivity and density into kNN with application,2019-12-14,2020-11-02,2021-01-20,3,0
+33461684,10.1016/j.artmed.2020.101984,Artif Intell Med,Cartesian genetic programming for diagnosis of Parkinson disease through handwriting analy,2019-11-18,2020-11-03,2021-01-20,4,0
+33461683,10.1016/j.artmed.2020.101983,Artif Intell Med,Detection-based prioritisation: Framework of multi-laboratory characteristics for asymptom,2020-06-27,2020-11-03,2021-01-20,4,88
+33461682,10.1016/j.artmed.2020.101982,Artif Intell Med,"Using interpretability approaches to update ""black-box"" clinical prediction models: an ext",2020-01-20,2020-10-25,2021-01-20,7,0
+36990583,10.1016/j.artmed.2022.102476,Artif Intell Med,Uncertainty-guided mutual consistency learning for semi-supervised medical image segmentat,2021-12-20,2022-12-13,2023-03-30,5,0
+36990582,10.1016/j.artmed.2022.102437,Artif Intell Med,DECAF: An interpretable deep cascading framework for ICU mortality prediction.,2021-08-16,2022-10-28,2023-03-30,5,0
+36710068,10.1016/j.artmed.2022.102478,Artif Intell Med,A new approach to predicting mortality in dialysis patients using sociodemographic feature,2022-04-24,2022-12-20,2023-01-30,3,0
+36710064,10.1016/j.artmed.2022.102477,Artif Intell Med,An intelligent non-invasive system for automated diagnosis of anemia exploiting a novel da,2022-08-25,2022-12-19,2023-01-30,6,0
+36710063,10.1016/j.artmed.2022.102475,Artif Intell Med,DeepMNF: Deep Multimodal Neuroimaging Framework for Diagnosing Autism Spectrum Disorder.,2021-12-12,2022-12-13,2023-01-30,3,0
+36628797,10.1016/j.artmed.2022.102439,Artif Intell Med,An integrated LSTM-HeteroRGNN model for interpretable opioid overdose risk prediction.,2022-01-11,2022-10-28,2023-01-12,10,57
+36628795,10.1016/j.artmed.2022.102460,Artif Intell Med,Clipped DeepControl: Deep neural network two-dimensional pulse design with an amplitude co,2022-01-21,2022-11-18,2023-01-12,2,0
+36628794,10.1016/j.artmed.2022.102458,Artif Intell Med,A smarter perspective: Learning with and from AI-cases.,2021-10-29,2022-11-18,2023-01-12,5,0
+36628793,10.1016/j.artmed.2022.102457,Artif Intell Med,Style-transfer counterfactual explanations: An application to mortality prevention of ICU ,2022-01-31,2022-11-16,2023-01-12,4,0
+36628792,10.1016/j.artmed.2022.102455,Artif Intell Med,Graph-based association rule learning for context-based health monitoring to enable user-c,2022-04-18,2022-11-16,2023-01-12,3,0
+36628791,10.1016/j.artmed.2022.102456,Artif Intell Med,A PROMETHEE based outranking approach for the construction of Fangcang shelter hospital us,2022-05-20,2022-11-16,2023-01-12,3,0
+36628790,10.1016/j.artmed.2022.102453,Artif Intell Med,DeepGA for automatically estimating fetal gestational age through ultrasound imaging.,2021-11-16,2022-11-13,2023-01-12,12,0
+36628789,10.1016/j.artmed.2022.102452,Artif Intell Med,Using type-2 fuzzy ontology to improve semantic interoperability for healthcare and diagno,2022-02-05,2022-11-11,2023-01-12,3,0
+36628788,10.1016/j.artmed.2022.102451,Artif Intell Med,Open-set recognition of breast cancer treatments.,2022-01-14,2022-11-11,2023-01-12,3,28
+36628787,10.1016/j.artmed.2022.102473,Artif Intell Med,Process mining for healthcare decision analytics with micro-costing estimations.,2022-05-13,2022-12-07,2023-01-12,4,0
+36628786,10.1016/j.artmed.2022.102474,Artif Intell Med,A hand motion capture method based on infrared thermography for measuring fine motor skill,2021-11-19,2022-12-11,2023-01-12,2,0
+36628785,10.1016/j.artmed.2022.102471,Artif Intell Med,Why did AI get this one wrong? - Tree-based explanations of machine learning model predict,2022-01-26,2022-11-28,2023-01-12,6,0
+36628784,10.1016/j.artmed.2022.102462,Artif Intell Med,ReCasNet: Improving consistency within the two-stage mitosis detection framework.,2022-02-16,2022-11-23,2023-01-12,6,0
+36628783,10.1016/j.artmed.2022.102459,Artif Intell Med,Real-time detection of freezing of gait in Parkinson's disease using multi-head convolutio,2022-05-05,2022-11-18,2023-01-12,4,0
+36628782,10.1016/j.artmed.2022.102454,Artif Intell Med,A self-supervised algorithm to detect signs of social isolation in the elderly from daily ,2022-03-01,2022-11-15,2023-01-12,8,0
+36628781,10.1016/j.artmed.2022.102450,Artif Intell Med,Virtual Trials: Causally-validated treatment effects efficiently learned from an observati,2021-09-08,2022-11-11,2023-01-12,4,0
+36628780,10.1016/j.artmed.2022.102449,Artif Intell Med,An integrated ELECTRE method for selection of rehabilitation center with m-polar fuzzy N-s,2022-04-08,2022-11-09,2023-01-12,3,0
+36628779,10.1016/j.artmed.2022.102472,Artif Intell Med,Supporting physicians in the coordination of distributed execution of CIGs to treat comorb,2022-02-07,2022-11-30,2023-01-12,3,0
+36628778,10.1016/j.artmed.2022.102426,Artif Intell Med,ProDeM: A Process-Oriented Delphi Method for systematic asynchronous and consensual surgic,2022-05-14,2022-10-11,2023-01-12,8,0
+36462909,10.1016/j.artmed.2022.102392,Artif Intell Med,IDT: An incremental deep tree framework for biological image classification.,2022-01-13,2022-08-29,2022-12-04,4,0
+36462908,10.1016/j.artmed.2022.102430,Artif Intell Med,Medical resource allocation planning by integrating machine learning and optimization mode,2022-04-13,2022-10-19,2022-12-04,2,0
+36462907,10.1016/j.artmed.2022.102428,Artif Intell Med,A non-invasive machine learning mechanism for early disease recognition on Twitter: The ca,2021-10-09,2022-10-13,2022-12-04,4,0
+36462906,10.1016/j.artmed.2022.102427,Artif Intell Med,COVID-DSNet: A novel deep convolutional neural network for detection of coronavirus (SARS-,2022-05-11,2022-10-13,2022-12-04,2,100
+36462905,10.1016/j.artmed.2022.102422,Artif Intell Med,Fuzzy-SIRD model: Forecasting COVID-19 death tolls considering governments intervention.,2022-04-19,2022-10-03,2022-12-04,3,43
+36462904,10.1016/j.artmed.2022.102419,Artif Intell Med,Breast cancer detection and classification in mammogram using a three-stage deep learning ,2021-10-14,2022-10-02,2022-12-04,6,0
+36462903,10.1016/j.artmed.2022.102436,Artif Intell Med,Bolus Insulin calculation without meal information. A reinforcement learning approach.,2022-05-13,2022-10-28,2022-12-04,4,0
+36462902,10.1016/j.artmed.2022.102440,Artif Intell Med,CATNet: Cross-event attention-based time-aware network for medical event prediction.,2021-08-26,2022-10-28,2022-12-04,6,0
+36462901,10.1016/j.artmed.2022.102438,Artif Intell Med,Investigating the understandability of XAI methods for enhanced user experience: When Baye,2021-12-09,2022-10-28,2022-12-04,4,0
+36462900,10.1016/j.artmed.2022.102435,Artif Intell Med,Virtual disease landscape using mechanics-informed machine learning: Application to esopha,2022-04-20,2022-10-28,2022-12-04,9,0
+36462899,10.1016/j.artmed.2022.102434,Artif Intell Med,Mining context-aware resource profiles in the presence of multitasking.,2022-05-16,2022-10-23,2022-12-04,5,0
+36462898,10.1016/j.artmed.2022.102432,Artif Intell Med,An explainable deep learning-based algorithm with an attention mechanism for predicting th,2021-10-04,2022-10-19,2022-12-04,7,0
+36462897,10.1016/j.artmed.2022.102433,Artif Intell Med,MF-OMKT: Model fusion based on online mutual knowledge transfer for breast cancer histopat,2021-10-02,2022-10-19,2022-12-04,6,0
+36462895,10.1016/j.artmed.2022.102425,Artif Intell Med,Detecting 3D syndromic faces as outliers using unsupervised normalizing flow models.,2022-03-11,2022-10-09,2022-12-04,9,28
+36462894,10.1016/j.artmed.2022.102424,Artif Intell Med,SurvivalCNN: A deep learning-based method for gastric cancer survival prediction using rad,2021-09-10,2022-10-07,2022-12-04,8,0
+36462893,10.1016/j.artmed.2022.102421,Artif Intell Med,Adaptive and personalized user behavior modeling in complex event processing platforms for,2021-07-08,2022-10-02,2022-12-04,3,0
+36462892,10.1016/j.artmed.2022.102418,Artif Intell Med,Deep variational graph autoencoders for novel host-directed therapy options against COVID-,2021-08-21,2022-10-02,2022-12-04,5,50
+36462890,10.1016/j.artmed.2022.102393,Artif Intell Med,Semantic coherence markers: The contribution of perplexity metrics.,2021-11-14,2022-08-29,2022-12-04,5,0
+36328672,10.1016/j.artmed.2022.102409,Artif Intell Med,xPM: Enhancing exogenous data visibility.,2022-04-10,2022-09-22,2022-11-04,6,0
+36328671,10.1016/j.artmed.2022.102420,Artif Intell Med,CycleGAN for virtual stain transfer: Is seeing really believing?,2021-11-28,2022-10-02,2022-11-04,5,0
+36328670,10.1016/j.artmed.2022.102417,Artif Intell Med,Cardiac anomaly detection considering an additive noise and convolutional distortion model,2021-10-29,2022-10-02,2022-11-04,5,0
+36328669,10.1016/j.artmed.2022.102423,Artif Intell Med,A manifesto on explainability for artificial intelligence in medicine.,2022-03-02,2022-10-04,2022-11-04,7,0
+36328666,10.1016/j.artmed.2022.102405,Artif Intell Med,Evolutionary optimisation of antibiotic dosing regimens for bacteria with different levels,2021-12-09,2022-09-15,2022-11-04,4,0
+36207092,10.1016/j.artmed.2022.102364,Artif Intell Med,Multi-structure bone segmentation in pediatric MR images with combined regularization from,2021-11-17,2022-07-10,2022-10-08,4,0
+36207091,10.1016/j.artmed.2022.102390,Artif Intell Med,Mathematical modeling and AI based decision making for COVID-19 suspects backed by novel d,2021-09-14,2022-08-29,2022-10-08,2,43
+36207090,10.1016/j.artmed.2022.102386,Artif Intell Med,Domain generalization in deep learning based mass detection in mammography: A large-scale ,2022-01-26,2022-08-19,2022-10-08,6,0
+36207089,10.1016/j.artmed.2022.102384,Artif Intell Med,A deep learning pipeline for the automated segmentation of posterior limb of internal caps,2021-10-15,2022-08-19,2022-10-08,10,0
+36207088,10.1016/j.artmed.2022.102382,Artif Intell Med,CheXGAT: A disease correlation-aware network for thorax disease diagnosis from chest X-ray,2021-06-28,2022-08-19,2022-10-08,3,0
+36207086,10.1016/j.artmed.2022.102380,Artif Intell Med,Automatic depression score estimation with word embedding models.,2021-06-11,2022-08-18,2022-10-08,3,0
+36207085,10.1016/j.artmed.2022.102376,Artif Intell Med,Boosting lesion annotation via aggregating explicit relations in external medical knowledg,2021-08-30,2022-08-17,2022-10-08,3,0
+36207084,10.1016/j.artmed.2022.102374,Artif Intell Med,Deep multi-scale resemblance network for the sub-class differentiation of adrenal masses o,2020-06-04,2022-04-22,2022-10-08,6,0
+36207083,10.1016/j.artmed.2022.102373,Artif Intell Med,Predicting disease progress with imprecise lab test results.,2021-12-11,2022-07-28,2022-10-08,5,0
+36207082,10.1016/j.artmed.2022.102370,Artif Intell Med,An interpretable CNN-based CAD system for skin lesion diagnosis.,2021-11-08,2022-07-27,2022-10-08,4,0
+36207081,10.1016/j.artmed.2022.102368,Artif Intell Med,Evolutionary deep feature selection for compact representation of gigapixel images in digi,2021-09-26,2022-07-14,2022-10-08,10,0
+36207079,10.1016/j.artmed.2022.102406,Artif Intell Med,Septic shock prediction and knowledge discovery through temporal pattern mining.,2022-01-06,2022-09-15,2022-10-08,3,0
+36207077,10.1016/j.artmed.2022.102387,Artif Intell Med,A deep LSTM autoencoder-based framework for predictive maintenance of a proton radiotherap,2022-01-12,2022-08-24,2022-10-08,8,0
+36207075,10.1016/j.artmed.2022.102379,Artif Intell Med,Automatic diagnosis of arrhythmia with electrocardiogram using multiple instance learning:,2021-11-12,2022-08-18,2022-10-08,4,0
+36207074,10.1016/j.artmed.2022.102372,Artif Intell Med,Explainable multiple abnormality classification of chest CT volumes.,2021-11-23,2022-07-28,2022-10-08,2,0
+36207073,10.1016/j.artmed.2022.102366,Artif Intell Med,A self-training teacher-student model with an automatic label grader for abdominal skeleta,2021-07-01,2022-07-14,2022-10-08,8,0
+36207072,10.1016/j.artmed.2022.102394,Artif Intell Med,Defining factors in hospital admissions during COVID-19 using LSTM-FCA explainable model.,2021-12-02,2022-08-29,2022-10-08,3,35
+36207071,10.1016/j.artmed.2022.102341,Artif Intell Med,Global and local attentional feature alignment for domain adaptive nuclei detection in his,2021-09-16,2022-06-27,2022-10-08,6,0
+36100347,10.1016/j.artmed.2022.102359,Artif Intell Med,Graph neural network modelling as a potentially effective method for predicting and analyz,2021-12-14,2022-07-09,2022-09-14,2,0
+36100346,10.1016/j.artmed.2022.102349,Artif Intell Med,cACP-DeepGram: Classification of anticancer peptides via deep neural network and skip-gram,2021-11-10,2022-07-04,2022-09-14,5,0
+36100344,10.1016/j.artmed.2022.102347,Artif Intell Med,Cardiovascular disease detection from high utility rare rule mining.,2021-11-26,2022-06-30,2022-09-14,6,0
+36100343,10.1016/j.artmed.2022.102363,Artif Intell Med,An end-to-end tracking method for polyp detectors in colonoscopy videos.,2021-03-22,2022-07-11,2022-09-14,10,0
+36100342,10.1016/j.artmed.2022.102365,Artif Intell Med,Deep learning with multiresolution handcrafted features for brain MRI segmentation.,2021-11-28,2022-07-09,2022-09-14,4,0
+36100341,10.1016/j.artmed.2022.102350,Artif Intell Med,Research on identification of key brittleness factors in emergency medical resources suppo,2021-11-11,2022-07-04,2022-09-14,4,0
+36100340,10.1016/j.artmed.2022.102346,Artif Intell Med,Medical visual question answering based on question-type reasoning and semantic space cons,2021-10-18,2022-06-27,2022-09-14,7,0
+36100339,10.1016/j.artmed.2022.102344,Artif Intell Med,Attribute-aware interpretation learning for thyroid ultrasound diagnosis.,2021-10-29,2022-06-27,2022-09-14,9,0
+36100338,10.1016/j.artmed.2022.102345,Artif Intell Med,The interactive fuzzy linguistic term set and its application in multi-attribute decision ,2021-12-17,2022-06-27,2022-09-14,4,0
+36100337,10.1016/j.artmed.2022.102343,Artif Intell Med,Modelling and assessing one- and two-drug dose titrations.,2021-12-24,2022-06-27,2022-09-14,4,0
+35809972,10.1016/j.artmed.2022.102329,Artif Intell Med,Gated Tree-based Graph Attention Network (GTGAT) for medical knowledge graph reasoning.,2021-09-12,2022-05-29,2022-07-10,5,0
+35809969,10.1016/j.artmed.2022.102330,Artif Intell Med,Diffusion tensor estimation with transformer neural networks.,2021-12-05,2022-05-29,2022-07-10,2,66
+35809968,10.1016/j.artmed.2022.102342,Artif Intell Med,Electrocardiogram analysis of post-stroke elderly people using one-dimensional convolution,2021-09-27,2022-06-27,2022-07-10,2,0
+35809967,10.1016/j.artmed.2022.102328,Artif Intell Med,A meta-learning algorithm for respiratory flow prediction from FBG-based wearables in unre,2021-09-26,2022-05-25,2022-07-10,15,0
+35809966,10.1016/j.artmed.2022.102327,Artif Intell Med,Optimization of the organizational structure in hospitals to account for patients with mul,2021-10-01,2022-05-23,2022-07-10,2,0
+35809965,10.1016/j.artmed.2022.102326,Artif Intell Med,Assessing putative bias in prediction of anti-microbial resistance from real-world genotyp,2021-10-25,2022-05-23,2022-07-10,4,36
+35809964,10.1016/j.artmed.2022.102325,Artif Intell Med,All-cause mortality prediction in T2D patients with iTirps.,2021-05-07,2022-05-17,2022-07-10,6,0
+35659392,10.1016/j.artmed.2022.102313,Artif Intell Med,Machine learning and pre-medical education.,2021-10-29,2022-04-27,2022-06-07,1,23
+35659391,10.1016/j.artmed.2022.102323,Artif Intell Med,Hybrid learning method based on feature clustering and scoring for enhanced COVID-19 breat,2021-12-12,2022-05-12,2022-06-07,11,100
+35659389,10.1016/j.artmed.2022.102324,Artif Intell Med,Distributed application of guideline-based decision support through mobile devices: Implem,2021-07-13,2022-05-13,2022-06-07,7,0
+35659387,10.1016/j.artmed.2022.102309,Artif Intell Med,Construction of a confounder-free clinical MRI dataset in the Mass General Brigham system ,2021-08-20,2022-04-16,2022-06-07,3,56
+35659386,10.1016/j.artmed.2022.102299,Artif Intell Med,FSPBO-DQN: SeGAN based segmentation and Fractional Student Psychology Optimization enabled,2021-10-26,2022-04-04,2022-06-07,4,0
+35534149,10.1016/j.artmed.2022.102298,Artif Intell Med,Understanding what patients think about hospitals: A deep learning approach for detecting ,2021-08-22,2022-04-04,2022-05-10,4,0
+35534148,10.1016/j.artmed.2022.102311,Artif Intell Med,Multilabel classification of medical concepts for patient clinical profile identification.,2021-09-09,2022-04-22,2022-05-10,6,0
+35534147,10.1016/j.artmed.2022.102310,Artif Intell Med,Medical checkup data analysis method based on LiNGAM and its application to nonalcoholic f,2021-02-16,2022-04-17,2022-05-10,9,0
+35534146,10.1016/j.artmed.2022.102308,Artif Intell Med,Intelligent and strong robust CVS-LVAD control based on soft-actor-critic algorithm.,2021-08-22,2022-04-16,2022-05-10,7,0
+35534145,10.1016/j.artmed.2022.102307,Artif Intell Med,Assigning diagnosis codes using medication history.,2021-04-12,2022-04-16,2022-05-10,6,0
+35534144,10.1016/j.artmed.2022.102300,Artif Intell Med,"It's the data, stupid: Inflection point for Artificial Intelligence in Indian healthcare.",2021-12-06,2022-04-04,2022-05-10,8,0
+35534141,10.1016/j.artmed.2022.102283,Artif Intell Med,Early identification of ICU patients at risk of complications: Regularization based on rob,2021-07-27,2022-03-17,2022-05-10,4,0
+35534140,10.1016/j.artmed.2022.102281,Artif Intell Med,Radiology report generation for proximal femur fractures using deep classification and lan,2021-02-03,2022-03-15,2022-05-10,7,0
+35430046,10.1016/j.artmed.2022.102278,Artif Intell Med,Fermatean fuzzy ELECTRE multi-criteria group decision-making and most suitable biomedical ,2021-11-12,2022-03-06,2022-04-18,3,0
+35430045,10.1016/j.artmed.2022.102287,Artif Intell Med,CapillaryNet: An automated system to quantify skin capillary density and red blood cell ve,2021-08-25,2022-03-22,2022-04-18,5,0
+35430044,10.1016/j.artmed.2022.102285,Artif Intell Med,BreastScreening-AI: Evaluating medical intelligent agents for human-AI interactions.,2021-02-15,2022-03-21,2022-04-18,4,0
+35430043,10.1016/j.artmed.2022.102284,Artif Intell Med,Word-level text highlighting of medical texts for telehealth services.,2021-05-18,2022-03-18,2022-04-18,3,0
+35430042,10.1016/j.artmed.2022.102282,Artif Intell Med,Chinese clinical named entity recognition via multi-head self-attention based BiLSTM-CRF.,2020-07-10,2022-03-15,2022-04-18,5,0
+35430041,10.1016/j.artmed.2022.102280,Artif Intell Med,Fall risk assessment through a synergistic multi-source DNN learning model.,2021-08-17,2022-03-08,2022-04-18,5,0
+35430040,10.1016/j.artmed.2022.102279,Artif Intell Med,Automatic sleep stage classification: A light and efficient deep neural network model base,2021-04-10,2022-03-07,2022-04-18,4,0
+35430039,10.1016/j.artmed.2022.102288,Artif Intell Med,Artificial intelligence-inspired comprehensive framework for Covid-19 outbreak control.,2021-12-14,2022-03-22,2022-04-18,4,47
+35430038,10.1016/j.artmed.2022.102277,Artif Intell Med,A novel multi-objective medical feature selection compass method for binary classification,2021-09-06,2022-03-06,2022-04-18,4,0
+35430036,10.1016/j.artmed.2022.102274,Artif Intell Med,Exemplar Darknet19 feature generation technique for automated kidney stone detection with ,2021-07-19,2022-03-02,2022-04-18,6,0
+35430035,10.1016/j.artmed.2022.102264,Artif Intell Med,FlauBERT vs. CamemBERT: Understanding patient's answers by a French medical chatbot.,2021-06-10,2022-02-23,2022-04-18,7,0
+35430034,10.1016/j.artmed.2022.102263,Artif Intell Med,A novel methodology for head and neck carcinoma treatment stage detection by means of mode,2020-04-11,2022-02-23,2022-04-18,4,0
+35430033,10.1016/j.artmed.2022.102262,Artif Intell Med,A method for the early prediction of chronic diseases based on short sequential medical da,2020-09-09,2022-02-23,2022-04-18,6,0
+35346445,10.1016/j.artmed.2022.102259,Artif Intell Med,Lesion-attention pyramid network for diabetic retinopathy grading.,2021-03-05,2022-02-16,2022-03-30,6,0
+35346444,10.1016/j.artmed.2022.102275,Artif Intell Med,"Detection of bladder cancer with feature fusion, transfer learning and CapsNets.",2021-06-29,2022-03-02,2022-03-30,10,0
+35346443,10.1016/j.artmed.2022.102261,Artif Intell Med,Weak label based Bayesian U-Net for optic disc segmentation in fundus images.,2021-06-03,2022-02-20,2022-03-30,5,0
+35346442,10.1016/j.artmed.2022.102260,Artif Intell Med,A multi-modal fusion framework based on multi-task correlation learning for cancer prognos,2021-03-11,2022-02-16,2022-03-30,5,0
+35346441,10.1016/j.artmed.2022.102258,Artif Intell Med,Spatio-temporal mixture process estimation to detect dynamical changes in population.,2021-02-18,2022-02-16,2022-03-30,3,25
+35346440,10.1016/j.artmed.2022.102257,Artif Intell Med,Automatic pediatric congenital heart disease classification based on heart sound signal.,2021-06-21,2022-02-15,2022-03-30,10,0
+35346439,10.1016/j.artmed.2022.102253,Artif Intell Med,Improving vascular access creation among hemodialysis patients: An agent-based modeling an,2021-04-05,2022-01-29,2022-03-30,4,0
+35241261,10.1016/j.artmed.2022.102256,Artif Intell Med,A novel lifelong machine learning-based method to eliminate calibration drift in clinical ,2021-04-18,2022-02-09,2022-03-05,6,0
+35241260,10.1016/j.artmed.2022.102254,Artif Intell Med,ISSMF: Integrated semantic and spatial information of multi-level features for automatic s,2020-08-23,2022-02-05,2022-03-05,4,0
+35241259,10.1016/j.artmed.2022.102255,Artif Intell Med,Brain gray matter nuclei segmentation on quantitative susceptibility mapping using dual-br,2021-03-01,2022-02-05,2022-03-05,11,0
+35241258,10.1016/j.artmed.2022.102251,Artif Intell Med,Subtle anomaly detection: Application to brain MRI analysis of de novo Parkinsonian patien,2021-02-08,2022-01-29,2022-03-05,6,0
+35241257,10.1016/j.artmed.2022.102244,Artif Intell Med,Pathologic liver tumor detection using feature aligned multi-scale convolutional network.,2021-01-14,2022-01-03,2022-03-05,7,0
+35241256,10.1016/j.artmed.2021.102235,Artif Intell Med,A multi-scale keypoint estimation network with self-supervision for spinal curvature asses,2020-09-07,2021-12-29,2022-03-05,7,0
+35115131,10.1016/j.artmed.2021.102233,Artif Intell Med,A multi-stage machine learning model for diagnosis of esophageal manometry.,2021-06-23,2021-12-18,2022-02-05,7,22
+35115130,10.1016/j.artmed.2022.102236,Artif Intell Med,Enhancing dynamic ECG heartbeat classification with lightweight transformer model.,2021-06-22,2022-01-02,2022-02-05,6,0
+35115129,10.1016/j.artmed.2021.102234,Artif Intell Med,Predicting liver cancers using skewed epidemiological data.,2020-12-14,2021-12-21,2022-02-05,5,0
+35115128,10.1016/j.artmed.2022.102243,Artif Intell Med,ResAttenGAN: Simultaneous segmentation of multiple spinal structures on axial lumbar MRI i,2020-11-24,2022-01-03,2022-02-05,4,0
+35115127,10.1016/j.artmed.2021.102232,Artif Intell Med,A novel transfer learning model for traditional herbal medicine prescription generation fr,2021-02-19,2021-12-17,2022-02-05,7,0
+35115126,10.1016/j.artmed.2021.102231,Artif Intell Med,RMS-UNet: Residual multi-scale UNet for liver and lesion segmentation.,2020-07-17,2021-12-17,2022-02-05,3,0
+34998518,10.1016/j.artmed.2021.102229,Artif Intell Med,A dual-layer context-based architecture for the detection of anomalous instructions sent t,2021-04-15,2021-11-30,2022-01-10,4,0
+34998517,10.1016/j.artmed.2021.102228,Artif Intell Med,Gene selection for microarray data classification via multi-objective graph theoretic-base,2020-10-31,2021-11-27,2022-01-10,6,0
+34998516,10.1016/j.artmed.2021.102227,Artif Intell Med,Continuous action deep reinforcement learning for propofol dosing during general anesthesi,2021-04-22,2021-11-23,2022-01-10,5,0
+34998515,10.1016/j.artmed.2021.102224,Artif Intell Med,DI++: A deep learning system for patient condition identification in clinical notes.,2020-06-23,2021-11-11,2022-01-10,6,37
+34998514,10.1016/j.artmed.2021.102230,Artif Intell Med,"Training radiomics-based CNNs for clinical outcome prediction: Challenges, strategies and ",2021-07-02,2021-11-30,2022-01-10,6,0
+34998512,10.1016/j.artmed.2021.102214,Artif Intell Med,Missing data imputation on biomedical data using deeply learned clustering and L2 regulari,2020-01-22,2021-11-08,2022-01-10,2,0
+34998511,10.1016/j.artmed.2021.102210,Artif Intell Med,Tetromino pattern based accurate EEG emotion classification model.,2021-03-12,2021-11-01,2022-01-10,4,0
+34998510,10.1016/j.artmed.2021.102209,Artif Intell Med,ADHD classification using auto-encoding neural network and binary hypothesis testing.,2021-01-30,2021-11-03,2022-01-10,7,0
+34998509,10.1016/j.artmed.2021.102202,Artif Intell Med,Revealing traces of depression through personal statements analysis in social media.,2020-04-22,2021-10-29,2022-01-10,4,0
+38325931,10.1016/j.artmed.2023.102753,Artif Intell Med,Diseases diagnosis based on artificial intelligence and ensemble classification.,2023-07-03,2023-12-22,2024-02-08,2,0
+38325930,10.1016/j.artmed.2023.102752,Artif Intell Med,A computational tumor growth model experience based on molecular dynamics point of view us,2023-05-28,2023-12-22,2024-02-08,2,0
+38325922,10.1016/j.artmed.2023.102750,Artif Intell Med,A novel method leveraging time series data to improve subphenotyping and application in cr,2023-03-06,2023-12-14,2024-02-08,8,54
+38325921,10.1016/j.artmed.2023.102749,Artif Intell Med,Advanced decision support system for individuals with diabetes on multiple daily injection,2023-03-27,2023-12-10,2024-02-08,4,0
+38325919,10.1016/j.artmed.2023.102747,Artif Intell Med,Contrastive image adaptation for acquisition shift reduction in medical imaging.,2022-10-17,2023-12-10,2024-02-08,7,0
+38184363,10.1016/j.artmed.2023.102700,Artif Intell Med,Optimisation-based modelling for explainable lead discovery in malaria.,2023-03-21,2023-10-29,2024-01-07,7,0
+38184361,10.1016/j.artmed.2023.102737,Artif Intell Med,STERN: Attention-driven Spatial Transformer Network for abnormality detection in chest X-r,2022-11-21,2023-11-28,2024-01-07,5,0
+38184360,10.1016/j.artmed.2023.102736,Artif Intell Med,BGRL: Basal Ganglia inspired Reinforcement Learning based framework for deep brain stimula,2022-10-09,2023-11-28,2024-01-07,2,0
+38184359,10.1016/j.artmed.2023.102735,Artif Intell Med,FIT-graph: A multi-grained evolutionary graph based framework for disease diagnosis.,2022-09-07,2023-11-28,2024-01-07,9,0
+38184358,10.1016/j.artmed.2023.102734,Artif Intell Med,Predicting sequenced dental treatment plans from electronic dental records using deep lear,2022-07-18,2023-11-28,2024-01-07,6,0
+38184357,10.1016/j.artmed.2023.102726,Artif Intell Med,Value function assessment to different RL algorithms for heparin treatment policy of patie,2023-05-09,2023-11-24,2024-01-07,16,0
+38184356,10.1016/j.artmed.2023.102723,Artif Intell Med,Multiple mask and boundary scoring R-CNN with cGAN data augmentation for bladder tumor seg,2023-02-10,2023-11-22,2024-01-07,9,0
+38184355,10.1016/j.artmed.2023.102719,Artif Intell Med,Predicting stroke outcome: A case for multimodal deep learning methods with tabular and CT,2023-01-10,2023-11-14,2024-01-07,3,0
+38184354,10.1016/j.artmed.2023.102741,Artif Intell Med,MS-CPFI: A model-agnostic Counterfactual Perturbation Feature Importance algorithm for int,2023-05-31,2023-11-28,2024-01-07,5,0
+38184353,10.1016/j.artmed.2023.102746,Artif Intell Med,Multi-organ spatiotemporal information aware model for sepsis mortality prediction.,2023-05-08,2023-12-05,2024-01-07,7,0
+38184352,10.1016/j.artmed.2023.102745,Artif Intell Med,Evaluation of deep learning-based depression detection using medical claims data.,2023-05-14,2023-12-01,2024-01-07,5,0
+38184351,10.1016/j.artmed.2023.102744,Artif Intell Med,Non-invasive fractional flow reserve derived from reduced-order coronary model and machine,2022-10-05,2023-11-29,2024-01-07,16,0
+38184350,10.1016/j.artmed.2023.102743,Artif Intell Med,Bayesian Network structure learning algorithm for highly missing and non imputable data: A,2023-07-25,2023-11-28,2024-01-07,5,0
+38184349,10.1016/j.artmed.2023.102742,Artif Intell Med,Guideline-informed reinforcement learning for mechanical ventilation in critical care.,2023-06-07,2023-11-28,2024-01-07,6,0
+38184348,10.1016/j.artmed.2023.102725,Artif Intell Med,"Robot assisted Fetoscopic Laser Coagulation: Improvements in navigation, re-location and c",2022-06-21,2023-11-24,2024-01-07,6,0
+38184347,10.1016/j.artmed.2023.102724,Artif Intell Med,Human vs machine towards neonatal pain assessment: A comprehensive analysis of the facial ,2023-04-19,2023-11-23,2024-01-07,10,0
+38184346,10.1016/j.artmed.2023.102718,Artif Intell Med,A few-shot disease diagnosis decision making model based on meta-learning for general prac,2023-05-05,2023-11-12,2024-01-07,9,0
+38184345,10.1016/j.artmed.2023.102716,Artif Intell Med,Depression detection for twitter users using sentiment analysis in English and Arabic twee,2023-01-13,2023-11-08,2024-01-07,3,0
+38184344,10.1016/j.artmed.2023.102740,Artif Intell Med,A weighted distance-based dynamic ensemble regression framework for gastric cancer surviva,2022-12-26,2023-11-28,2024-01-07,3,0
+38044249,10.1016/j.artmed.2023.102739,Artif Intell Med,Diagnosis knowledge constrained network based on first-order logic for syndrome differenti,2022-12-21,2023-11-28,2023-12-04,5,0
+38042612,10.1016/j.artmed.2023.102694,Artif Intell Med,Source-free domain adaptive segmentation with class-balanced complementary self-training.,2022-09-04,2023-10-29,2023-12-03,6,0
+38042610,10.1016/j.artmed.2023.102689,Artif Intell Med,A monitoring framework for health care processes using Generalized Additive Models and Aut,2023-05-12,2023-10-13,2023-12-03,6,0
+38042606,10.1016/j.artmed.2023.102688,Artif Intell Med,Custom machine learning algorithm for large-scale disease screening - taking heart disease,2023-03-20,2023-10-13,2023-12-03,5,0
+38042605,10.1016/j.artmed.2023.102722,Artif Intell Med,Vulnerability of pangolin SARS-CoV-2 lineage assignment to adversarial attack.,2022-06-23,2023-11-14,2023-12-03,4,0
+38042604,10.1016/j.artmed.2023.102720,Artif Intell Med,GCLR: A self-supervised representation learning pretext task for glomerular filtration bar,2022-12-11,2023-11-14,2023-12-03,10,0
+38042603,10.1016/j.artmed.2023.102717,Artif Intell Med,Text-to-movie authoring of anatomy lessons.,2022-04-12,2023-11-12,2023-12-03,5,0
+38042602,10.1016/j.artmed.2023.102715,Artif Intell Med,VAP risk index: Early prediction and hospital phenotyping of ventilator-associated pneumon,2022-08-12,2023-11-05,2023-12-03,4,0
+38042601,10.1016/j.artmed.2023.102714,Artif Intell Med,Radiology report generation with medical knowledge and multilevel image-report alignment: ,2022-10-31,2023-11-01,2023-12-03,4,0
+38042600,10.1016/j.artmed.2023.102713,Artif Intell Med,Application of multi-armed bandits to dose-finding clinical designs.,2022-06-07,2023-10-30,2023-12-03,1,0
+38042598,10.1016/j.artmed.2023.102699,Artif Intell Med,SDA-Net: Self-distillation driven deformable attentive aggregation network for thyroid nod,2023-03-10,2023-10-29,2023-12-03,8,0
+38042597,10.1016/j.artmed.2023.102696,Artif Intell Med,GRU-D-Weibull: A novel real-time individualized endpoint prediction.,2023-01-17,2023-10-29,2023-12-03,5,0
+38042596,10.1016/j.artmed.2023.102697,Artif Intell Med,A human-interpretable machine learning pipeline based on ultrasound to support leiomyosarc,2023-02-05,2023-10-29,2023-12-03,15,0
+38042595,10.1016/j.artmed.2023.102695,Artif Intell Med,Multimodal fine-tuning of clinical language models for predicting COVID-19 outcomes.,2022-12-20,2023-10-29,2023-12-03,4,0
+38042594,10.1016/j.artmed.2023.102721,Artif Intell Med,Multi-task learning framework to predict the status of central venous catheter based on ra,2023-01-29,2023-11-14,2023-12-03,5,0
+37925217,10.1016/j.artmed.2023.102665,Artif Intell Med,Multitask joint learning with graph autoencoders for predicting potential MiRNA-drug assoc,2023-01-11,2023-09-14,2023-11-05,6,0
+37925216,10.1016/j.artmed.2023.102685,Artif Intell Med,Enhanced SpO2 estimation using explainable machine learning and neck photoplethysmography.,2022-12-25,2023-10-11,2023-11-05,5,0
+37925215,10.1016/j.artmed.2023.102687,Artif Intell Med,Uncovering hidden therapeutic indications through drug repurposing with graph neural netwo,2023-03-08,2023-10-13,2023-11-05,5,0
+37925214,10.1016/j.artmed.2023.102686,Artif Intell Med,Annotation protocol and crowdsourcing multiple instance learning classification of skin hi,2023-04-19,2023-10-13,2023-11-05,9,0
+37925213,10.1016/j.artmed.2023.102684,Artif Intell Med,Medical concept embedding of real-valued electronic health records with application to inf,2022-09-12,2023-10-06,2023-11-05,10,0
+37925212,10.1016/j.artmed.2023.102683,Artif Intell Med,Reconstruction of central arterial pressure waveform based on CBi-SAN network from radial ,2022-06-12,2023-10-06,2023-11-05,7,0
+37925211,10.1016/j.artmed.2023.102682,Artif Intell Med,Negation and speculation processing: A study on cue-scope labelling and assertion classifi,2022-06-10,2023-10-06,2023-11-05,3,0
+37925210,10.1016/j.artmed.2023.102681,Artif Intell Med,Extending the boundaries of cancer therapeutic complexity with literature text mining.,2023-02-22,2023-10-03,2023-11-05,14,0
+37925209,10.1016/j.artmed.2023.102679,Artif Intell Med,Facial wrinkle segmentation using weighted deep supervision and semi-automatic labeling.,2023-01-15,2023-10-03,2023-11-05,4,0
+37925208,10.1016/j.artmed.2023.102680,Artif Intell Med,Automated atrial fibrillation and ventricular fibrillation recognition using a multi-angle,2023-01-19,2023-10-03,2023-11-05,6,0
+37925207,10.1016/j.artmed.2023.102677,Artif Intell Med,Food4healthKG: Knowledge graphs for food recommendations based on gut microbiota and menta,2022-08-02,2023-10-03,2023-11-05,5,0
+37925205,10.1016/j.artmed.2023.102675,Artif Intell Med,Predicting kidney transplant survival using multiple feature representations for HLAs.,2022-02-07,2023-10-02,2023-11-05,7,34
+37925204,10.1016/j.artmed.2023.102678,Artif Intell Med,Diagnosis of Alzheimer's disease by joining dual attention CNN and MLP based on structural,2022-11-16,2023-10-03,2023-11-05,6,0
+37925203,10.1016/j.artmed.2023.102663,Artif Intell Med,Graph neural networks in EEG spike detection.,2022-10-12,2023-09-14,2023-11-05,6,0
+37783553,10.1016/j.artmed.2023.102636,Artif Intell Med,Deep grading for MRI-based differential diagnosis of Alzheimer's disease and Frontotempora,2022-11-25,2023-08-11,2023-10-03,5,43
+37783552,10.1016/j.artmed.2023.102664,Artif Intell Med,Ultra-fast ultrasound blood flow velocimetry for carotid artery with deep learning.,2022-12-19,2023-09-14,2023-10-03,6,0
+37783551,10.1016/j.artmed.2023.102662,Artif Intell Med,Automated ICD coding using extreme multi-label long text transformer-based models.,2023-01-02,2023-09-04,2023-10-03,5,0
+37783550,10.1016/j.artmed.2023.102660,Artif Intell Med,Enhancing length of stay prediction by learning similarity-aware representations for hospi,2022-05-26,2023-09-04,2023-10-03,7,0
+37783549,10.1016/j.artmed.2023.102661,Artif Intell Med,Automated tabulation of clinical trial results: A joint entity and relation extraction app,2022-07-01,2023-09-04,2023-10-03,2,0
+37783548,10.1016/j.artmed.2023.102657,Artif Intell Med,Walking path images from real-time location data predict degree of cognitive impairment.,2022-08-16,2023-09-01,2023-10-03,4,0
+37783547,10.1016/j.artmed.2023.102654,Artif Intell Med,Real-world prediction of preclinical Alzheimer's disease with a deep generative model.,2023-01-22,2023-08-29,2023-10-03,9,0
+37783546,10.1016/j.artmed.2023.102646,Artif Intell Med,Automated estimation of mitral annular plane systolic excursion by artificial intelligence,2022-09-28,2023-08-28,2023-10-03,9,0
+37783544,10.1016/j.artmed.2023.102640,Artif Intell Med,DDI-GCN: Drug-drug interaction prediction via explainable graph convolutional networks.,2022-06-27,2023-08-20,2023-10-03,8,0
+37783543,10.1016/j.artmed.2023.102638,Artif Intell Med,A holistic AI-based approach for pharmacovigilance optimization from patients behavior on ,2021-12-22,2023-08-14,2023-10-03,3,0
+37783542,10.1016/j.artmed.2023.102667,Artif Intell Med,Asymmetric cross-modal attention network with multimodal augmented mixup for medical visua,2023-03-20,2023-09-14,2023-10-03,6,0
+37783541,10.1016/j.artmed.2023.102659,Artif Intell Med,An interpretable deep learning model for time-series electronic health records: Case study,2022-01-24,2023-09-04,2023-10-03,4,0
+37783540,10.1016/j.artmed.2023.102658,Artif Intell Med,Fair and equitable AI in biomedical research and healthcare: Social science perspectives.,2022-05-27,2023-09-01,2023-10-03,26,0
+37783539,10.1016/j.artmed.2023.102644,Artif Intell Med,Few-shot transfer learning for personalized atrial fibrillation detection using patient-ba,2022-09-08,2023-08-28,2023-10-03,6,0
+37783538,10.1016/j.artmed.2023.102643,Artif Intell Med,Automated precision localization of peripherally inserted central catheter tip through mod,2022-01-07,2023-08-28,2023-10-03,5,0
+37783536,10.1016/j.artmed.2023.102641,Artif Intell Med,Automatic breach detection during spine pedicle drilling based on vibroacoustic sensing.,2023-03-20,2023-08-23,2023-10-03,11,0
+37783535,10.1016/j.artmed.2023.102635,Artif Intell Med,Case scenario generators for trauma surgery simulation utilizing autoregressive language m,2022-08-19,2023-08-11,2023-10-03,3,0
+37783534,10.1016/j.artmed.2023.102666,Artif Intell Med,Empowering elderly care with intelligent IoT-Driven smart toilets for home-based infectiou,2023-01-20,2023-09-14,2023-10-03,3,0
+37783533,10.1016/j.artmed.2023.102633,Artif Intell Med,Improving chest X-ray report generation by leveraging warm starting.,2022-04-11,2023-08-11,2023-10-03,3,0
+37673590,10.1016/j.artmed.2023.102569,Artif Intell Med,Development of a Bispectral index score prediction model based on an interpretable deep le,2022-02-23,2023-04-27,2023-09-07,7,0
+37673587,10.1016/j.artmed.2023.102630,Artif Intell Med,Insight into ADHD diagnosis with deep learning on Actimetry: Quantitative interpretation o,2023-01-23,2023-07-20,2023-09-07,6,0
+37673586,10.1016/j.artmed.2023.102628,Artif Intell Med,Malignant Mesothelioma subtyping via sampling driven multiple instance prediction on tissu,2023-01-26,2023-07-14,2023-09-07,13,0
+37673585,10.1016/j.artmed.2023.102627,Artif Intell Med,Novel fuzzy deep learning approach for automated detection of useful COVID-19 tweets.,2022-09-26,2023-07-13,2023-09-07,3,0
+37673584,10.1016/j.artmed.2023.102626,Artif Intell Med,Applying dual models on optimized LSTM with U-net segmentation for breast cancer diagnosis,2022-10-14,2023-07-09,2023-09-07,2,0
+37673583,10.1016/j.artmed.2023.102624,Artif Intell Med,ADscreen: A speech processing-based screening system for automatic identification of patie,2022-10-09,2023-07-08,2023-09-07,3,175
+37673581,10.1016/j.artmed.2023.102619,Artif Intell Med,Non-invasive localization of the ventricular excitation origin without patient-specific ge,2022-09-12,2023-06-24,2023-09-07,7,0
+37673578,10.1016/j.artmed.2023.102610,Artif Intell Med,Artificial Intelligence framework with traditional computer vision and deep learning appro,2022-09-22,2023-06-06,2023-09-07,7,0
+37673577,10.1016/j.artmed.2023.102609,Artif Intell Med,MLNAN: Multi-level noise-aware network for low-dose CT imaging implemented with constraine,2022-09-05,2023-06-06,2023-09-07,11,0
+37673575,10.1016/j.artmed.2023.102606,Artif Intell Med,Self-supervised out-of-distribution detection in wireless capsule endoscopy images.,2022-08-22,2023-06-05,2023-09-07,4,0
+37673574,10.1016/j.artmed.2023.102605,Artif Intell Med,A feature selection framework for anxiety disorder analysis using a novel multiview harris,2022-07-13,2023-06-05,2023-09-07,2,0
+37673573,10.1016/j.artmed.2023.102604,Artif Intell Med,Do Japanese word-embedded representations obtained in the academic corpus retain the medic,2021-10-11,2023-06-05,2023-09-07,6,0
+37673572,10.1016/j.artmed.2023.102590,Artif Intell Med,A contrast set mining based approach for cancer subtype analysis.,2022-12-10,2023-05-30,2023-09-07,3,0
+37673570,10.1016/j.artmed.2023.102584,Artif Intell Med,A general text mining method to extract echocardiography measurement results from echocard,2022-01-03,2023-05-16,2023-09-07,3,0
+37673569,10.1016/j.artmed.2023.102637,Artif Intell Med,Two-stage contextual transformer-based convolutional neural network for airway extraction ,2023-01-08,2023-08-11,2023-09-07,11,0
+37673568,10.1016/j.artmed.2023.102639,Artif Intell Med,Osteoporosis prediction in lumbar spine X-ray images using the multi-scale weighted fusion,2022-06-18,2023-08-15,2023-09-07,15,0
+37673567,10.1016/j.artmed.2023.102629,Artif Intell Med,Learnable DoG convolutional filters for microcalcification detection.,2022-07-13,2023-07-17,2023-09-07,4,0
+37673566,10.1016/j.artmed.2023.102625,Artif Intell Med,Transformers for extracting breast cancer information from Spanish clinical narratives.,2022-12-20,2023-07-08,2023-09-07,7,0
+37673565,10.1016/j.artmed.2023.102622,Artif Intell Med,Cause of Death estimation from Verbal Autopsies: Is the Open Response redundant or synergi,2022-09-19,2023-07-01,2023-09-07,5,0
+37673564,10.1016/j.artmed.2023.102621,Artif Intell Med,An idiosyncratic MIMBO-NBRF based automated system for child birth mode prediction.,2023-01-27,2023-07-01,2023-09-07,2,0
+37673563,10.1016/j.artmed.2023.102620,Artif Intell Med,Personalized event prediction for Electronic Health Records.,2022-05-11,2023-04-24,2023-09-07,2,67
+37673562,10.1016/j.artmed.2023.102618,Artif Intell Med,Monkeypox diagnosis using ensemble classification.,2022-12-26,2023-06-24,2023-09-07,2,0
+37673560,10.1016/j.artmed.2023.102613,Artif Intell Med,CEHMR: Curriculum learning enhanced hierarchical multi-label classification for medication,2022-10-31,2023-06-06,2023-09-07,5,0
+37673559,10.1016/j.artmed.2023.102612,Artif Intell Med,A diagnostic room for lower limb amputee based on virtual reality and an intelligent space,2022-05-05,2023-06-06,2023-09-07,7,0
+37673557,10.1016/j.artmed.2023.102583,Artif Intell Med,Domain randomization using synthetic electrocardiograms for training neural networks.,2022-07-27,2023-05-15,2023-09-07,4,0
+37673556,10.1016/j.artmed.2023.102576,Artif Intell Med,Frequent temporal patterns of physiological and biological biomarkers and their evolution ,2021-10-11,2023-05-09,2023-09-07,3,48
+37673555,10.1016/j.artmed.2023.102634,Artif Intell Med,Adaptive Bayesian learning for making risk-aware decisions: A case of trauma survival pred,2022-08-11,2023-08-11,2023-09-07,2,0
+37673554,10.1016/j.artmed.2023.102545,Artif Intell Med,Evaluation of interpretability for deep learning algorithms in EEG emotion recognition: A ,2022-06-09,2023-04-03,2023-09-07,5,0
+37316102,10.1016/j.artmed.2023.102574,Artif Intell Med,A robust protein language model for SARS-CoV-2 protein-protein interaction network predict,2022-08-24,2023-04-27,2023-06-15,1,54
+37316100,10.1016/j.artmed.2023.102586,Artif Intell Med,FooDis: A food-disease relation mining pipeline.,2022-04-11,2023-05-16,2023-06-15,3,0
+37316098,10.1016/j.artmed.2023.102575,Artif Intell Med,Prediction meets time series with gaps: User clusters with specific usage behavior pattern,2023-01-13,2023-04-27,2023-06-15,6,0
+37316096,10.1016/j.artmed.2023.102573,Artif Intell Med,A unified framework of medical information annotation and extraction for Chinese clinical ,2022-03-31,2023-04-27,2023-06-15,6,0
+37316095,10.1016/j.artmed.2023.102571,Artif Intell Med,A genetic programming-based convolutional deep learning algorithm for identifying COVID-19,2022-09-15,2023-04-27,2023-06-15,1,63
+37316094,10.1016/j.artmed.2023.102570,Artif Intell Med,Self-Attention LSTM-FCN model for arrhythmia classification and uncertainty assessment.,2022-09-20,2023-04-27,2023-06-15,5,0
+37316093,10.1016/j.artmed.2023.102555,Artif Intell Med,Impact of loss functions on the performance of a deep neural network designed to restore l,2021-01-26,2023-04-14,2023-06-15,5,68
+37295903,10.1016/j.artmed.2023.102568,Artif Intell Med,Detection of ERBB2 and CEN17 signals in fluorescent in situ hybridization and dual in situ,2022-11-29,2023-04-27,2023-06-10,5,0
+37295902,10.1016/j.artmed.2023.102572,Artif Intell Med,A new lung cancer detection method based on the chest CT images using Federated Learning a,2022-02-17,2023-04-27,2023-06-10,6,0
+37295901,10.1016/j.artmed.2023.102558,Artif Intell Med,Probabilistic double hierarchy linguistic Maclaurin symmetric mean-MultiCriteria Border Ap,2022-07-14,2023-04-18,2023-06-10,5,0
+37295899,10.1016/j.artmed.2023.102556,Artif Intell Med,Progressive growing of Generative Adversarial Networks for improving data augmentation and,2022-10-12,2023-04-14,2023-06-10,2,0
+37295898,10.1016/j.artmed.2023.102554,Artif Intell Med,Differential diagnosis of secondary hypertension based on deep learning.,2022-06-28,2023-04-11,2023-06-10,12,0
+37295897,10.1016/j.artmed.2023.102553,Artif Intell Med,Multistep Automated Data Labelling Procedure (MADLaP) for thyroid nodules on ultrasound: A,2022-05-11,2023-04-11,2023-06-10,4,0
+37210157,10.1016/j.artmed.2023.102551,Artif Intell Med,Term dependency extraction using rule-based Bayesian Network for medical image retrieval.,2021-02-01,2023-04-11,2023-05-21,3,0
+37210156,10.1016/j.artmed.2023.102550,Artif Intell Med,Using graph rewriting to operationalize medical knowledge for the revision of concurrently,2022-05-19,2023-04-05,2023-05-21,5,0
+37210154,10.1016/j.artmed.2023.102559,Artif Intell Med,Automatic semantic segmentation of the lumbar spine: Clinical applicability in a multi-par,2022-11-08,2023-04-18,2023-05-21,5,61
+37210153,10.1016/j.artmed.2023.102552,Artif Intell Med,Identifying stroke-related quantified evidence from electronic health records in real-worl,2021-08-18,2023-04-11,2023-05-21,7,0
+37210152,10.1016/j.artmed.2023.102548,Artif Intell Med,Deep cross-modal feature learning applied to predict acutely decompensated heart failure u,2022-07-21,2023-04-04,2023-05-21,9,49
+37210151,10.1016/j.artmed.2023.102543,Artif Intell Med,A unique color-coded visualization system with multimodal information fusion and deep lear,2022-09-06,2023-04-02,2023-05-21,3,59
+37210150,10.1016/j.artmed.2023.102526,Artif Intell Med,RIMD: A novel method for clinical prediction.,2021-10-08,2023-03-13,2023-05-21,4,0
+37100514,10.1016/j.artmed.2023.102512,Artif Intell Med,Monitoring hybrid process specifications with conflict management: An automata-theoretic a,2022-05-31,2023-01-31,2023-04-27,5,0
+37100513,10.1016/j.artmed.2023.102546,Artif Intell Med,A new method for estimating the probability of causal relationships from observational dat,2022-10-06,2023-04-04,2023-04-27,6,21
+37100512,10.1016/j.artmed.2023.102544,Artif Intell Med,CoSumNet: A video summarization-based framework for COVID-19 monitoring in crowded scenes.,2022-10-29,2023-04-02,2023-04-27,2,50
+37100511,10.1016/j.artmed.2023.102542,Artif Intell Med,Classification of focal and non-focal EEG signals using optimal geometrical features deriv,2022-06-02,2023-04-02,2023-04-27,3,0
+37100510,10.1016/j.artmed.2023.102541,Artif Intell Med,Aggregated micropatch-based deep learning neural network for ultrasonic diagnosis of cirrh,2022-10-14,2023-03-27,2023-04-27,2,0
+37100509,10.1016/j.artmed.2023.102539,Artif Intell Med,BiTNet: Hybrid deep convolutional model for ultrasound image analysis of human biliary tra,2022-01-23,2023-03-27,2023-04-27,10,0
+37100508,10.1016/j.artmed.2023.102540,Artif Intell Med,Quantifying the impact of data characteristics on the transferability of sleep stage scori,2022-06-20,2023-03-27,2023-04-27,2,0
+37100505,10.1016/j.artmed.2023.102535,Artif Intell Med,Knowledge graph assisted end-to-end medical dialog generation.,2022-04-07,2023-03-21,2023-04-27,4,0
+37100504,10.1016/j.artmed.2023.102525,Artif Intell Med,Prediction of acute hypertensive episodes in critically ill patients.,2022-02-22,2023-03-06,2023-04-27,3,0
+37100503,10.1016/j.artmed.2023.102524,Artif Intell Med,Has machine learning over-promised in healthcare?: A critical analysis and a proposal for ,2022-07-18,2023-02-28,2023-04-27,4,0
+37100502,10.1016/j.artmed.2023.102523,Artif Intell Med,Enriching representation learning using 53 million patient notes through human phenotype o,2022-07-01,2023-02-23,2023-04-27,9,73
+37100500,10.1016/j.artmed.2023.102492,Artif Intell Med,A novel discrete learning-based intelligent methodology for breast cancer classification p,2022-05-12,2023-01-13,2023-04-27,2,0
+36990592,10.1016/j.artmed.2023.102509,Artif Intell Med,Sentiments prediction and thematic analysis for diabetes mobile apps using Embedded Deep N,2022-03-14,2023-02-06,2023-03-30,2,0
+36990591,10.1016/j.artmed.2023.102514,Artif Intell Med,Supporting patients and clinicians during the breast cancer care path with AI: The Arianna,2022-06-17,2023-02-17,2023-03-30,9,0
+36990589,10.1016/j.artmed.2023.102511,Artif Intell Med,Midwifery learning and forecasting: Predicting content demand with user-generated logs.,2021-11-25,2023-02-14,2023-03-30,4,82
+36990588,10.1016/j.artmed.2023.102510,Artif Intell Med,Detecting mild cognitive impairment and dementia in older adults using naturalistic drivin,2022-09-09,2023-02-09,2023-03-30,12,0
+36990587,10.1016/j.artmed.2023.102522,Artif Intell Med,Explainable domain transfer of distant supervised cancer subtyping model via imaging-based,2022-08-31,2023-02-23,2023-03-30,8,0
+36990586,10.1016/j.artmed.2023.102506,Artif Intell Med,"Rams, hounds and white boxes: Investigating human-AI collaboration protocols in medical di",2022-06-10,2023-02-04,2023-03-30,10,0
+36990585,10.1016/j.artmed.2023.102508,Artif Intell Med,Dimensionality reduction and ensemble of LSTMs for antimicrobial resistance prediction.,2022-02-08,2023-02-04,2023-03-30,6,0
+36990584,10.1016/j.artmed.2023.102507,Artif Intell Med,Clinical-GAN: Trajectory Forecasting of Clinical Events using Transformer and Generative A,2021-08-24,2023-02-04,2023-03-30,5,0
+36990583,10.1016/j.artmed.2022.102476,Artif Intell Med,Uncertainty-guided mutual consistency learning for semi-supervised medical image segmentat,2021-12-20,2022-12-13,2023-03-30,5,0
+36990582,10.1016/j.artmed.2022.102437,Artif Intell Med,DECAF: An interpretable deep cascading framework for ICU mortality prediction.,2021-08-16,2022-10-28,2023-03-30,5,0
+36868692,10.1016/j.artmed.2023.102493,Artif Intell Med,Structural causal model with expert augmented knowledge to estimate the effect of oxygen t,2022-08-02,2023-01-17,2023-03-04,6,84
+36868691,10.1016/j.artmed.2023.102505,Artif Intell Med,WeakMeSH: Leveraging provenance information for weakly supervised classification of biomed,2022-01-31,2023-01-27,2023-03-04,3,0
+36868690,10.1016/j.artmed.2023.102498,Artif Intell Med,Informing clinical assessment by contextualizing post-hoc explanations of risk prediction ,2021-12-15,2023-01-18,2023-03-04,11,0
+36868688,10.1016/j.artmed.2023.102494,Artif Intell Med,XAIRE: An ensemble-based methodology for determining the relative importance of variables ,2022-07-21,2023-01-18,2023-03-04,10,0
+36868686,10.1016/j.artmed.2023.102491,Artif Intell Med,Automatic knowledge graph population with model-complete text comprehension for pre-clinic,2021-03-15,2023-01-11,2023-03-04,6,0
+36868683,10.1016/j.artmed.2022.102486,Artif Intell Med,The voice of COVID-19: Breath and cough recording classification with temporal decision tr,2022-05-06,2022-12-28,2023-03-04,4,95
+36710068,10.1016/j.artmed.2022.102478,Artif Intell Med,A new approach to predicting mortality in dialysis patients using sociodemographic feature,2022-04-24,2022-12-20,2023-01-30,3,0
+36710067,10.1016/j.artmed.2023.102489,Artif Intell Med,A novel temporal generative adversarial network for electrocardiography anomaly detection.,2022-06-05,2023-01-09,2023-01-30,7,0
+36710066,10.1016/j.artmed.2023.102488,Artif Intell Med,Augmenting DSM-5 diagnostic criteria with self-attention-based BiLSTM models for psychiatr,2022-01-06,2023-01-09,2023-01-30,6,0
+36710065,10.1016/j.artmed.2023.102497,Artif Intell Med,Least squares support vector regression for complex censored data.,2022-06-13,2023-01-18,2023-01-30,5,0
+36710064,10.1016/j.artmed.2022.102477,Artif Intell Med,An intelligent non-invasive system for automated diagnosis of anemia exploiting a novel da,2022-08-25,2022-12-19,2023-01-30,6,0
+36710063,10.1016/j.artmed.2022.102475,Artif Intell Med,DeepMNF: Deep Multimodal Neuroimaging Framework for Diagnosing Autism Spectrum Disorder.,2021-12-12,2022-12-13,2023-01-30,3,0
+36628797,10.1016/j.artmed.2022.102439,Artif Intell Med,An integrated LSTM-HeteroRGNN model for interpretable opioid overdose risk prediction.,2022-01-11,2022-10-28,2023-01-12,10,57
+36628795,10.1016/j.artmed.2022.102460,Artif Intell Med,Clipped DeepControl: Deep neural network two-dimensional pulse design with an amplitude co,2022-01-21,2022-11-18,2023-01-12,2,0
+36628794,10.1016/j.artmed.2022.102458,Artif Intell Med,A smarter perspective: Learning with and from AI-cases.,2021-10-29,2022-11-18,2023-01-12,5,0
+36628793,10.1016/j.artmed.2022.102457,Artif Intell Med,Style-transfer counterfactual explanations: An application to mortality prevention of ICU ,2022-01-31,2022-11-16,2023-01-12,4,0
+36628792,10.1016/j.artmed.2022.102455,Artif Intell Med,Graph-based association rule learning for context-based health monitoring to enable user-c,2022-04-18,2022-11-16,2023-01-12,3,0
+36628791,10.1016/j.artmed.2022.102456,Artif Intell Med,A PROMETHEE based outranking approach for the construction of Fangcang shelter hospital us,2022-05-20,2022-11-16,2023-01-12,3,0
+36628790,10.1016/j.artmed.2022.102453,Artif Intell Med,DeepGA for automatically estimating fetal gestational age through ultrasound imaging.,2021-11-16,2022-11-13,2023-01-12,12,0
+36628789,10.1016/j.artmed.2022.102452,Artif Intell Med,Using type-2 fuzzy ontology to improve semantic interoperability for healthcare and diagno,2022-02-05,2022-11-11,2023-01-12,3,0
+36628788,10.1016/j.artmed.2022.102451,Artif Intell Med,Open-set recognition of breast cancer treatments.,2022-01-14,2022-11-11,2023-01-12,3,28
+36628787,10.1016/j.artmed.2022.102473,Artif Intell Med,Process mining for healthcare decision analytics with micro-costing estimations.,2022-05-13,2022-12-07,2023-01-12,4,0
+36628786,10.1016/j.artmed.2022.102474,Artif Intell Med,A hand motion capture method based on infrared thermography for measuring fine motor skill,2021-11-19,2022-12-11,2023-01-12,2,0
+36628785,10.1016/j.artmed.2022.102471,Artif Intell Med,Why did AI get this one wrong? - Tree-based explanations of machine learning model predict,2022-01-26,2022-11-28,2023-01-12,6,0
+36628784,10.1016/j.artmed.2022.102462,Artif Intell Med,ReCasNet: Improving consistency within the two-stage mitosis detection framework.,2022-02-16,2022-11-23,2023-01-12,6,0
+36628783,10.1016/j.artmed.2022.102459,Artif Intell Med,Real-time detection of freezing of gait in Parkinson's disease using multi-head convolutio,2022-05-05,2022-11-18,2023-01-12,4,0
+36628782,10.1016/j.artmed.2022.102454,Artif Intell Med,A self-supervised algorithm to detect signs of social isolation in the elderly from daily ,2022-03-01,2022-11-15,2023-01-12,8,0
+36628781,10.1016/j.artmed.2022.102450,Artif Intell Med,Virtual Trials: Causally-validated treatment effects efficiently learned from an observati,2021-09-08,2022-11-11,2023-01-12,4,0
+36628780,10.1016/j.artmed.2022.102449,Artif Intell Med,An integrated ELECTRE method for selection of rehabilitation center with m-polar fuzzy N-s,2022-04-08,2022-11-09,2023-01-12,3,0
+36628779,10.1016/j.artmed.2022.102472,Artif Intell Med,Supporting physicians in the coordination of distributed execution of CIGs to treat comorb,2022-02-07,2022-11-30,2023-01-12,3,0
+36628778,10.1016/j.artmed.2022.102426,Artif Intell Med,ProDeM: A Process-Oriented Delphi Method for systematic asynchronous and consensual surgic,2022-05-14,2022-10-11,2023-01-12,8,0
+39798181,10.1016/j.artmed.2024.103060,Artif Intell Med,CircWaveDL: Modeling of optical coherence tomography images based on a new supervised tens,2024-07-10,2024-12-21,2025-01-12,5,0
+39778344,10.1016/j.artmed.2024.103062,Artif Intell Med,Training and validating a treatment recommender with partial verification evidence.,2024-02-10,2024-12-21,2025-01-09,14,0
+39742614,10.1016/j.artmed.2024.103058,Artif Intell Med,Design and use of a Denoising Convolutional Autoencoder for reconstructing electrocardiogr,2024-06-04,2024-12-15,2025-01-02,4,0
+39732050,10.1016/j.artmed.2024.103059,Artif Intell Med,Computer model for gait assessments in Parkinson's patients using a fuzzy inference model ,2023-11-11,2024-12-19,2024-12-29,3,0
+39721356,10.1016/j.artmed.2024.103055,Artif Intell Med,Concordance-based Predictive Uncertainty (CPU)-Index: Proof-of-concept with application to,2024-08-09,2024-12-09,2024-12-26,11,39
+39708677,10.1016/j.artmed.2024.103051,Artif Intell Med,Prediction of radiological decision errors from longitudinal analysis of gaze and image fe,2024-05-29,2024-12-05,2024-12-22,5,0
+39705769,10.1016/j.artmed.2024.103056,Artif Intell Med,"TransformerLSR: Attentive joint model of longitudinal data, survival, and recurrent events",2024-04-03,2024-12-09,2024-12-21,3,48
+39701017,10.1016/j.artmed.2024.103050,Artif Intell Med,Glaucoma detection: Binocular approach and clinical data in machine learning.,2024-04-05,2024-12-05,2024-12-20,4,0
+39701016,10.1016/j.artmed.2024.103053,Artif Intell Med,Disentangled global and local features of multi-source data variational autoencoder: An in,2024-01-26,2024-12-05,2024-12-20,9,0
+39689443,10.1016/j.artmed.2024.103054,Artif Intell Med,ItpCtrl-AI: End-to-end interpretable and controllable artificial intelligence by modeling ,2024-05-12,2024-12-05,2024-12-18,9,68
+39673961,10.1016/j.artmed.2024.103042,Artif Intell Med,Rough hypervolume-driven feature selection with groupwise intelligent sampling for detecti,2023-12-01,2024-11-23,2024-12-15,5,0
+39673960,10.1016/j.artmed.2024.103049,Artif Intell Med,Intrinsic-dimension analysis for guiding dimensionality reduction and data fusion in multi,2023-10-24,2024-12-04,2024-12-15,11,0
+39667117,10.1016/j.artmed.2024.103041,Artif Intell Med,LCDL: Classification of ICD codes based on disease label co-occurrence dependency and Long,2023-11-22,2024-11-23,2024-12-13,6,0
+39637573,10.1016/j.artmed.2024.103030,Artif Intell Med,Automatic classification of HEp-2 specimens by explainable deep learning and Jensen-Shanno,2023-11-22,2024-11-18,2024-12-06,6,0
+39612522,10.1016/j.artmed.2024.103011,Artif Intell Med,Anatomical prior-based vertebral landmark detection for spinal disorder diagnosis.,2023-12-27,2024-11-02,2024-11-29,8,0
+39608043,10.1016/j.artmed.2024.103029,Artif Intell Med,EDDINet: Enhancing drug-drug interaction prediction via information flow and consensus con,2023-08-18,2024-11-18,2024-11-28,5,0
+39608042,10.1016/j.artmed.2024.103031,Artif Intell Med,A Multi-task learning U-Net model for end-to-end HEp-2 cell image analysis.,2024-01-30,2024-11-18,2024-11-28,4,0
+39608041,10.1016/j.artmed.2024.103025,Artif Intell Med,Artificial intelligence-powered image analysis: A paradigm shift in infectious disease det,2024-03-24,2024-11-15,2024-11-28,2,0
+39591879,10.1016/j.artmed.2024.103024,Artif Intell Med,Minimal data poisoning attack in federated learning for medical image classification: An a,2023-12-26,2024-11-15,2024-11-27,4,0
+39591878,10.1016/j.artmed.2024.103032,Artif Intell Med,Electronic Health Records-based identification of newly diagnosed Crohn's Disease cases.,2023-10-25,2024-09-10,2024-11-27,14,46
+39580897,10.1016/j.artmed.2024.103027,Artif Intell Med,Generating synthetic clinical text with local large language models to identify misdiagnos,2024-04-05,2024-11-15,2024-11-25,5,0
+39579418,10.1016/j.artmed.2024.103028,Artif Intell Med,GAPPA: Enhancing prognosis prediction in primary aldosteronism post-adrenalectomy using gr,2024-05-22,2024-11-15,2024-11-24,6,0
+39579417,10.1016/j.artmed.2024.103023,Artif Intell Med,DMHGNN: Double multi-view heterogeneous graph neural network framework for drug-target int,2023-12-03,2024-11-15,2024-11-24,7,0
+39579416,10.1016/j.artmed.2024.103026,Artif Intell Med,Interpretable machine learning for time-to-event prediction in medicine and healthcare.,2024-03-27,2024-11-15,2024-11-24,5,0
+39556977,10.1016/j.artmed.2024.103010,Artif Intell Med,Domain generalization for enhanced predictions of hospital readmission on unseen domains a,2023-10-20,2024-11-02,2024-11-19,11,26
+39551004,10.1016/j.artmed.2024.103013,Artif Intell Med,Acoustical features as knee health biomarkers: A critical analysis.,2024-05-23,2024-11-02,2024-11-18,6,0
+39547075,10.1016/j.artmed.2024.103012,Artif Intell Med,"LSSF-Net: Lightweight segmentation with self-awareness, spatial attention, and focal modul",2024-02-22,2024-11-02,2024-11-16,6,0
+39541861,10.1016/j.artmed.2024.103007,Artif Intell Med,Exploring the effectiveness of instruction tuning in biomedical language processing.,2024-04-02,2024-10-23,2024-11-15,6,29
+39504622,10.1016/j.artmed.2024.103006,Artif Intell Med,Fully automatic deep convolutional approaches for the screening of neurodegeneratives dise,2023-10-09,2024-10-23,2024-11-07,8,0
+39500238,10.1016/j.artmed.2024.103009,Artif Intell Med,Developing healthcare language model embedding spaces.,2024-03-28,2024-10-23,2024-11-06,5,0
+39490063,10.1016/j.artmed.2024.103001,Artif Intell Med,OphGLM: An ophthalmology large language-and-vision assistant.,2024-03-19,2024-10-16,2024-11-04,11,0
+39476477,10.1016/j.artmed.2024.103005,Artif Intell Med,"Individualised recovery trajectories of patients with impeded mobility, using distance bet",2024-04-18,2024-10-16,2024-10-31,3,0
+39471774,10.1016/j.artmed.2024.103002,Artif Intell Med,Efficiency at scale: Investigating the performance of diminutive language models in clinic,2024-03-28,2024-10-16,2024-10-30,7,0
+39471773,10.1016/j.artmed.2024.103003,Artif Intell Med,From pre-training to fine-tuning: An in-depth analysis of Large Language Models in the bio,2024-03-30,2024-10-16,2024-10-30,4,0
+39454500,10.1016/j.artmed.2024.103004,Artif Intell Med,Advancing health coaching: A comparative study of large language model and health coaches.,2024-04-02,2024-10-16,2024-10-26,11,0
+39442245,10.1016/j.artmed.2024.102998,Artif Intell Med,Enhancing Autism Spectrum Disorder identification in multi-site MRI imaging: A multi-head ,2024-01-11,2024-10-04,2024-10-24,5,0
+39442244,10.1016/j.artmed.2024.102995,Artif Intell Med,Rapid estimation of left ventricular contractility with a physics-informed neural network ,2024-01-13,2024-09-29,2024-10-24,7,84
+39406075,10.1016/j.artmed.2024.102996,Artif Intell Med,EEG spatial inter-channel connectivity analysis: A GCN-based dual stream approach to disti,2024-04-16,2024-09-30,2024-10-16,5,0
+39406074,10.1016/j.artmed.2024.102994,Artif Intell Med,Deep Reinforcement Learning for personalized diagnostic decision pathways using Electronic,2024-03-26,2024-09-26,2024-10-16,3,0
+39383708,10.1016/j.artmed.2024.102985,Artif Intell Med,Explanatory argument extraction of correct answers in resident medical exams.,2023-06-27,2024-09-18,2024-10-10,5,0
+39383706,10.1016/j.artmed.2024.102991,Artif Intell Med,Machine learning for anxiety and depression profiling and risk assessment in the aftermath,2024-01-02,2024-09-26,2024-10-10,11,0
+39383705,10.1016/j.artmed.2024.102988,Artif Intell Med,Model development for bespoke large language models for digital triage assistance in menta,2024-03-28,2024-09-18,2024-10-10,6,0
+39369635,10.1016/j.artmed.2024.102990,Artif Intell Med,MMF-NNs: Multi-modal Multi-granularity Fusion Neural Networks for brain networks and its a,2023-10-19,2024-09-26,2024-10-07,7,0
+39369634,10.1016/j.artmed.2024.102993,Artif Intell Med,Joint self-supervised and supervised contrastive learning for multimodal MRI data: Towards,2024-03-10,2024-09-26,2024-10-07,8,90
+39369633,10.1016/j.artmed.2024.102992,Artif Intell Med,Abnormal recognition-assisted and onset-offset aware network for pathological wearable ECG,2024-03-06,2024-09-26,2024-10-07,13,0
+39357280,10.1016/j.artmed.2024.102987,Artif Intell Med,A self-supervised deep Riemannian representation to classify parkinsonian fixational patte,2023-12-11,2024-09-18,2024-10-03,3,0
+39341010,10.1016/j.artmed.2024.102989,Artif Intell Med,Enhancing systematic reviews: An in-depth analysis on the impact of active learning parame,2023-10-17,2024-09-22,2024-09-29,5,0
+39321746,10.1016/j.artmed.2024.102983,Artif Intell Med,SSR-DTA: Substructure-aware multi-layer graph neural networks for drug-target binding affi,2023-09-12,2024-09-13,2024-09-26,5,0
+39306906,10.1016/j.artmed.2024.102981,Artif Intell Med,RECOMED: A comprehensive pharmaceutical recommendation system.,2023-10-04,2024-09-10,2024-09-23,8,0
+39298922,10.1016/j.artmed.2024.102984,Artif Intell Med,Dynamic functional connections analysis with spectral learning for brain disorder detectio,2023-12-01,2024-09-13,2024-09-20,6,0
+39277983,10.1016/j.artmed.2024.102982,Artif Intell Med,Integrating federated learning for improved counterfactual explanations in clinical decisi,2023-10-31,2024-09-01,2024-09-16,11,0
+39265507,10.1016/j.artmed.2024.102971,Artif Intell Med,MAPRS: An intelligent approach for post-prescription review based on multi-label learning.,2024-01-03,2024-08-28,2024-09-13,7,0
+39241561,10.1016/j.artmed.2024.102965,Artif Intell Med,CMCN: Chinese medical concept normalization using continual learning and knowledge-enhance,2022-11-14,2024-08-19,2024-09-07,7,0
+39232270,10.1016/j.artmed.2024.102972,Artif Intell Med,SG-Fusion: A swin-transformer and graph convolution-based multi-modal deep neural network ,2023-10-12,2024-08-29,2024-09-05,6,0
+39222579,10.1016/j.artmed.2024.102953,Artif Intell Med,COPDVD: Automated classification of chronic obstructive pulmonary disease on a new collect,2024-01-24,2024-08-13,2024-09-03,6,0
+39208711,10.1016/j.artmed.2024.102947,Artif Intell Med,Learning using privileged information with logistic regression on acute respiratory distre,2022-11-28,2024-08-13,2024-08-31,5,0
+39208710,10.1016/j.artmed.2024.102967,Artif Intell Med,Enhanced ICD-10 code assignment of clinical texts: A summarization-based approach.,2023-11-07,2024-08-19,2024-08-31,8,0
+39198042,10.1016/j.artmed.2024.102946,Artif Intell Med,Special issue on Human-Centered Artificial Intelligence for One Health.,2024-07-29,2024-08-13,2024-08-31,5,0
+39197375,10.1016/j.artmed.2024.102970,Artif Intell Med,From zero to hero: Harnessing transformers for biomedical named entity recognition in zero,2023-05-27,2024-08-23,2024-08-31,5,0
+39182468,10.1016/j.artmed.2024.102969,Artif Intell Med,Robust blind color deconvolution and blood detection on histological images using Bayesian,2023-10-30,2024-07-08,2024-08-26,3,0
+39180924,10.1016/j.artmed.2024.102962,Artif Intell Med,Multiomics and eXplainable artificial intelligence for decision support in insulin resista,2024-02-27,2024-08-16,2024-08-26,10,0
+39180923,10.1016/j.artmed.2024.102961,Artif Intell Med,FA-Net: A hierarchical feature fusion and interactive attention-based network for dose pre,2023-09-30,2024-08-16,2024-08-26,5,0
+39178622,10.1016/j.artmed.2024.102945,Artif Intell Med,Walking representation and simulation based on multi-source image fusion and multi-agent r,2024-01-30,2024-08-12,2024-08-24,6,0
+39173422,10.1016/j.artmed.2024.102948,Artif Intell Med,Enhancing metagenomic classification with compression-based features.,2023-01-26,2024-08-13,2024-08-23,2,0
+39173421,10.1016/j.artmed.2024.102951,Artif Intell Med,ACP-ESM: A novel framework for classification of anticancer peptides using protein-oriente,2023-11-23,2024-08-13,2024-08-23,2,0
+39137589,10.1016/j.artmed.2024.102937,Artif Intell Med,Bayesian network analysis of risk classification strategies in the regulation of cellular ,2024-03-20,2024-07-26,2024-08-14,5,0
+39121544,10.1016/j.artmed.2024.102938,Artif Intell Med,MedExpQA: Multilingual benchmarking of Large Language Models for Medical Question Answerin,2024-04-01,2024-07-26,2024-08-10,3,0
+39094228,10.1016/j.artmed.2024.102931,Artif Intell Med,CHNet: A multi-task global-local Collaborative Hybrid Network for KRAS mutation status pre,2023-09-25,2024-07-03,2024-08-03,5,0
+39094227,10.1016/j.artmed.2024.102933,Artif Intell Med,A Human-AI interaction paradigm and its application to rhinocytology.,2023-12-14,2024-07-19,2024-08-03,6,0
+39079202,10.1016/j.artmed.2024.102936,Artif Intell Med,Tackling heterogeneity in medical federated learning via aligning vision transformers.,2023-11-27,2024-07-22,2024-07-31,5,0
+39047631,10.1016/j.artmed.2024.102930,Artif Intell Med,Probing perfection: The relentless art of meddling for pulmonary airway segmentation from ,2023-10-15,2024-07-03,2024-07-26,9,0
+39004005,10.1016/j.artmed.2024.102932,Artif Intell Med,Prediction of Freezing of Gait in Parkinson's disease based on multi-channel time-series n,2024-01-02,2024-07-04,2024-07-15,8,0
+38996696,10.1016/j.artmed.2024.102929,Artif Intell Med,Can physician judgment enhance model trustworthiness? A case study on predicting pathologi,2023-12-14,2024-07-02,2024-07-13,10,0
+38991399,10.1016/j.artmed.2024.102921,Artif Intell Med,Towards a comprehensive bedside swallow screening protocol using cross-domain transformati,2024-01-24,2024-06-20,2024-07-12,5,0
+38991398,10.1016/j.artmed.2024.102927,Artif Intell Med,Enhancing stroke risk and prognostic timeframe assessment with deep learning and a broad r,2024-01-22,2024-06-25,2024-07-12,7,0
+38972092,10.1016/j.artmed.2024.102920,Artif Intell Med,End-to-end offline reinforcement learning for glycemia control.,2023-10-13,2024-06-20,2024-07-08,4,0
+38970987,10.1016/j.artmed.2024.102923,Artif Intell Med,Vision-based estimation of fatigue and engagement in cognitive training sessions.,2023-10-13,2024-06-21,2024-07-07,6,49
+38968921,10.1016/j.artmed.2024.102925,Artif Intell Med,Leveraging VQ-VAE tokenization for autoregressive modeling of medical time series.,2023-08-07,2024-06-25,2024-07-06,3,0
+38964194,10.1016/j.artmed.2024.102924,Artif Intell Med,Reshaping free-text radiology notes into structured reports with generative question answe,2024-04-01,2024-06-25,2024-07-05,8,0
+38964193,10.1016/j.artmed.2024.102926,Artif Intell Med,Efficient pyramid channel attention network for pathological myopia recognition with pretr,2024-01-08,2024-06-25,2024-07-05,6,0
+38941908,10.1016/j.artmed.2024.102919,Artif Intell Med,SSM-Net: Semi-supervised multi-task network for joint lesion segmentation and classificati,2023-11-14,2024-06-19,2024-06-29,9,0
+38936309,10.1016/j.artmed.2024.102915,Artif Intell Med,A joint entity Relation Extraction method for document level Traditional Chinese Medicine ,2022-09-05,2024-06-17,2024-06-28,6,0
+38924864,10.1016/j.artmed.2024.102922,Artif Intell Med,ConvLSNet: A lightweight architecture based on ConvLSTM model for the classification of pu,2023-08-27,2024-06-21,2024-06-27,4,0
+38924863,10.1016/j.artmed.2024.102918,Artif Intell Med,A new methodology for determining the central pressure waveform from peripheral measuremen,2023-09-25,2024-06-17,2024-06-27,3,0
+38917599,10.1016/j.artmed.2024.102917,Artif Intell Med,AMFP-net: Adaptive multi-scale feature pyramid network for diagnosis of pneumoconiosis fro,2023-06-08,2024-06-17,2024-06-26,3,0
+38909432,10.1016/j.artmed.2024.102916,Artif Intell Med,EHR coding with hybrid attention and features propagation on disease knowledge graph.,2023-05-01,2024-06-17,2024-06-24,6,0
+38908257,10.1016/j.artmed.2024.102903,Artif Intell Med,TEE4EHR: Transformer event encoder for better representation learning in electronic health,2023-11-21,2024-06-03,2024-06-23,3,0
+38908256,10.1016/j.artmed.2024.102905,Artif Intell Med,M-ClustEHR: A multimodal clustering approach for electronic health records.,2023-12-22,2024-06-03,2024-06-23,4,0
+38843692,10.1016/j.artmed.2024.102899,Artif Intell Med,Consensus modeling: Safer transfer learning for small health systems.,2021-04-15,2024-05-21,2024-06-07,6,0
+38843691,10.1016/j.artmed.2024.102898,Artif Intell Med,Neural topic models with survival supervision: Jointly predicting time-to-event outcomes a,2021-04-22,2024-05-21,2024-06-07,5,48
+38810471,10.1016/j.artmed.2024.102897,Artif Intell Med,Investigating the discrimination ability of 3D convolutional neural networks applied to al,2023-06-02,2024-05-15,2024-05-30,6,0
+38781870,10.1016/j.artmed.2024.102888,Artif Intell Med,Real-time coronary artery segmentation in CAG images: A semi-supervised deep learning stra,2023-09-28,2024-04-30,2024-05-24,7,0
+38749310,10.1016/j.artmed.2024.102886,Artif Intell Med,Enhanced differential evolution algorithm for feature selection in tuberculous pleural eff,2023-06-07,2024-04-27,2024-05-16,8,0
+38749309,10.1016/j.artmed.2024.102885,Artif Intell Med,TSOANet: Time-Sensitive Orthogonal Attention Network for medical event prediction.,2023-07-30,2024-04-26,2024-05-16,5,0
+38728811,10.1016/j.artmed.2024.102889,Artif Intell Med,Oversampling effect in pretraining for bidirectional encoder representations from transfor,2022-09-14,2024-05-04,2024-05-11,7,0
+38723434,10.1016/j.artmed.2024.102867,Artif Intell Med,Identifying pediatric heart murmurs and distinguishing innocent from pathologic using deep,2023-06-26,2024-04-03,2024-05-10,10,0
+38701636,10.1016/j.artmed.2024.102872,Artif Intell Med,Improving multiple sclerosis lesion segmentation across clinical sites: A federated learni,2023-08-26,2024-04-15,2024-05-04,16,0
+38685169,10.1016/j.artmed.2024.102871,Artif Intell Med,Improving diagnosis and outcome prediction of gastric cancer via multimodal learning using,2023-04-25,2024-04-15,2024-04-30,11,0
+38663270,10.1016/j.artmed.2024.102870,Artif Intell Med,MICIL: Multiple-Instance Class-Incremental Learning for skin cancer whole slide images.,2023-10-04,2024-04-08,2024-04-26,3,0
+38643592,10.1016/j.artmed.2024.102873,Artif Intell Med,"The AI ethics of digital COVID-19 diagnosis and their legal, medical, technological, and o",2023-05-30,2024-04-15,2024-04-22,6,0
+38640703,10.1016/j.artmed.2024.102865,Artif Intell Med,Automated detection of myocardial infarction based on an improved state refinement module ,2023-04-06,2024-03-30,2024-04-20,2,0
+38640702,10.1016/j.artmed.2024.102864,Artif Intell Med,Learning the cellular activity representation based on gene regulatory networks for predic,2023-01-20,2024-03-30,2024-04-20,6,0
+38658132,10.1016/j.artmed.2024.102848,Artif Intell Med,Medical knowledge graph completion via fusion of entity description and type information.,2023-04-11,2024-03-19,2024-04-25,6,0
+38658131,10.1016/j.artmed.2024.102847,Artif Intell Med,Building large-scale registries from unstructured clinical notes using a low-resource natu,2023-03-13,2024-03-19,2024-04-25,9,0
+38658130,10.1016/j.artmed.2024.102841,Artif Intell Med,An innovative artificial intelligence-based method to compress complex models into explain,2023-10-17,2024-03-11,2024-04-25,19,0
+38658129,10.1016/j.artmed.2024.102840,Artif Intell Med,Stable feature selection utilizing Graph Convolutional Neural Network and Layer-wise Relev,2023-06-15,2024-03-10,2024-04-25,3,0
+38593682,10.1016/j.artmed.2024.102863,Artif Intell Med,Learnable weight initialization for volumetric medical image segmentation.,2023-08-31,2024-03-30,2024-04-10,5,0
+38579438,10.1016/j.artmed.2024.102826,Artif Intell Med,Monitoring multistage healthcare processes using state space models and a machine learning,2023-09-06,2024-02-23,2024-04-06,4,0
+38579437,10.1016/j.artmed.2024.102862,Artif Intell Med,Two-step interpretable modeling of ICU-AIs.,2023-10-02,2024-03-25,2024-04-06,4,0
+38564879,10.1016/j.artmed.2024.102828,Artif Intell Med,Cellular data extraction from multiplexed brain imaging data using self-supervised Dual-lo,2023-03-20,2024-02-26,2024-04-03,6,43
+38555850,10.1016/j.artmed.2024.102861,Artif Intell Med,Challenges and strategies for wide-scale artificial intelligence (AI) deployment in health,2023-09-28,2024-03-25,2024-04-01,1,0
+38555849,10.1016/j.artmed.2024.102850,Artif Intell Med,Pathways to democratized healthcare: Envisioning human-centered AI-as-a-service for custom,2023-10-21,2024-03-19,2024-04-01,6,0
+38552379,10.1016/j.artmed.2024.102860,Artif Intell Med,iAFPs-Mv-BiTCN: Predicting antifungal peptides using self-attention transformer embedding ,2023-10-27,2024-03-25,2024-03-30,4,0
+38547777,10.1016/j.artmed.2024.102846,Artif Intell Med,Hierarchical medical image report adversarial generation with hybrid discriminator.,2021-07-31,2024-03-19,2024-03-29,7,0
+38553169,10.1016/j.artmed.2024.102805,Artif Intell Med,GCNGAT: Drug-disease association prediction based on graph convolution neural network and ,2023-03-31,2024-02-08,2024-03-30,4,0
+38553167,10.1016/j.artmed.2024.102829,Artif Intell Med,HR-BGCN : Predicting readmission for heart failure from electronic health records.,2023-01-02,2024-03-01,2024-03-30,6,0
+38553166,10.1016/j.artmed.2024.102827,Artif Intell Med,RM-GPT: Enhance the comprehensive generative ability of molecular GPT model via LocalRNN a,2023-06-30,2024-02-26,2024-03-30,3,0
+38553165,10.1016/j.artmed.2024.102825,Artif Intell Med,Automated peripancreatic vessel segmentation and labeling based on iterative trunk growth ,2023-05-05,2024-02-23,2024-03-30,6,0
+38553163,10.1016/j.artmed.2024.102823,Artif Intell Med,A label information fused medical image report generation framework.,2022-10-15,2024-02-21,2024-03-30,6,0
+38553162,10.1016/j.artmed.2024.102822,Artif Intell Med,Automatic quantitative stroke severity assessment based on Chinese clinical named entity r,2023-06-22,2024-02-21,2024-03-30,10,0
+38553161,10.1016/j.artmed.2024.102821,Artif Intell Med,Analyzing entropy features in time-series data for pattern recognition in neurological con,2023-06-02,2024-02-21,2024-03-30,6,0
+38553160,10.1016/j.artmed.2024.102820,Artif Intell Med,Predicting drug activity against cancer through genomic profiles and SMILES.,2022-12-05,2024-02-21,2024-03-30,4,0
+38553159,10.1016/j.artmed.2024.102819,Artif Intell Med,Never tell me the odds: Investigating pro-hoc explanations in medical decision making.,2023-07-24,2024-02-21,2024-03-30,6,0
+38553158,10.1016/j.artmed.2024.102818,Artif Intell Med,ECG-based cardiac arrhythmias detection through ensemble learning and fusion of deep spati,2023-04-08,2024-02-20,2024-03-30,5,0
+38553157,10.1016/j.artmed.2024.102817,Artif Intell Med,Predicting time-to-intubation after critical care admission using machine learning and cur,2023-06-02,2024-02-20,2024-03-30,4,0
+38553155,10.1016/j.artmed.2024.102813,Artif Intell Med,Online biomedical named entities recognition by data and knowledge-driven model.,2023-03-31,2024-02-12,2024-03-30,5,0
+38553154,10.1016/j.artmed.2024.102811,Artif Intell Med,Clinical knowledge-guided deep reinforcement learning for sepsis antibiotic dosing recomme,2023-06-06,2024-02-11,2024-03-30,7,0
+38553153,10.1016/j.artmed.2024.102844,Artif Intell Med,Leveraging code-free deep learning for pill recognition in clinical settings: A multicente,2023-06-16,2024-03-11,2024-03-30,5,0
+38553152,10.1016/j.artmed.2024.102843,Artif Intell Med,Multicentric development and validation of a multi-scale and multi-task deep learning mode,2023-05-30,2024-03-11,2024-03-30,16,0
+38553151,10.1016/j.artmed.2024.102837,Artif Intell Med,PGKD-Net: Prior-guided and Knowledge Diffusive Network for Choroid Segmentation.,2023-04-27,2024-03-03,2024-03-30,12,0
+38553149,10.1016/j.artmed.2024.102810,Artif Intell Med,Patient-specific game-based transfer method for Parkinson's disease severity prediction.,2023-02-15,2024-02-11,2024-03-30,4,0
+38553148,10.1016/j.artmed.2024.102808,Artif Intell Med,A bimodal feature fusion convolutional neural network for detecting obstructive sleep apne,2022-09-20,2024-02-08,2024-03-30,7,0
+38553147,10.1016/j.artmed.2024.102842,Artif Intell Med,GravityNet for end-to-end small lesion detection.,2023-10-27,2024-03-11,2024-03-30,3,0
+38553146,10.1016/j.artmed.2024.102800,Artif Intell Med,CSCA U-Net: A channel and space compound attention CNN for medical image segmentation.,2023-06-19,2024-02-03,2024-03-30,5,0
+38462295,10.1016/j.artmed.2024.102809,Artif Intell Med,Improving deep-learning electrocardiogram classification with an effective coloring method,2023-07-22,2024-02-08,2024-03-11,4,0
+38462294,10.1016/j.artmed.2024.102806,Artif Intell Med,Teleconsultation dynamic scheduling with a deep reinforcement learning approach.,2023-04-21,2024-02-08,2024-03-11,2,0
+38462293,10.1016/j.artmed.2024.102803,Artif Intell Med,DISCOVER: 2-D multiview summarization of Optical Coherence Tomography Angiography for auto,2023-08-24,2024-02-03,2024-03-11,15,0
+38462292,10.1016/j.artmed.2024.102802,Artif Intell Med,Temporal self-attention for risk prediction from electronic health records using non-stati,2022-11-03,2024-02-03,2024-03-11,4,0
+38462291,10.1016/j.artmed.2024.102799,Artif Intell Med,A novel intelligent model for visualized inference of medical diagnosis: A case of TCM.,2023-09-27,2024-02-03,2024-03-11,4,0
+38462290,10.1016/j.artmed.2024.102801,Artif Intell Med,Triplet-branch network with contrastive prior-knowledge embedding for disease grading.,2023-06-22,2024-02-03,2024-03-11,12,0
+38462289,10.1016/j.artmed.2024.102798,Artif Intell Med,NPB-REC: A non-parametric Bayesian deep-learning approach for undersampled MRI reconstruct,2023-05-31,2024-02-03,2024-03-11,2,0
+38462288,10.1016/j.artmed.2024.102788,Artif Intell Med,Scalable Swin Transformer network for brain tumor segmentation from incomplete MRI modalit,2023-06-12,2024-01-25,2024-03-11,5,0
+38462287,10.1016/j.artmed.2024.102787,Artif Intell Med,Modelling-based joint embedding of histology and genomics using canonical correlation anal,2023-01-24,2024-01-24,2024-03-11,3,0
+38462286,10.1016/j.artmed.2024.102786,Artif Intell Med,Subspace corrected relevance learning with application in neuroimaging.,2023-07-10,2024-01-21,2024-03-11,14,0
+38462285,10.1016/j.artmed.2024.102785,Artif Intell Med,Development and validation of a deep interpretable network for continuous acute kidney inj,2022-09-19,2024-01-21,2024-03-11,12,0
+38462284,10.1016/j.artmed.2024.102784,Artif Intell Med,Multilevel Bayesian network to model child morbidity using Gibbs sampling.,2023-07-04,2024-01-20,2024-03-11,2,0
+38462283,10.1016/j.artmed.2024.102782,Artif Intell Med,An interpretable dual attention network for diabetic retinopathy grading: IDANet.,2023-07-05,2024-01-15,2024-03-11,5,0
+38462280,10.1016/j.artmed.2024.102778,Artif Intell Med,SSLDTI: A novel method for drug-target interaction prediction based on self-supervised lea,2023-05-02,2024-01-14,2024-03-11,5,0
+38462279,10.1016/j.artmed.2024.102777,Artif Intell Med,Integrated block-wise neural network with auto-learning search framework for finger gestur,2023-04-30,2024-01-14,2024-03-11,5,0
+38462278,10.1016/j.artmed.2024.102774,Artif Intell Med,Multi input-Multi output 3D CNN for dementia severity assessment with incomplete multimoda,2022-09-05,2024-01-14,2024-03-11,5,0
+38462276,10.1016/j.artmed.2024.102807,Artif Intell Med,Healthcare facilities management: A novel data-driven model for predictive maintenance of ,2023-06-02,2024-02-08,2024-03-11,9,0
+38462275,10.1016/j.artmed.2024.102804,Artif Intell Med,Prognostic prediction of sepsis patient using transformer with skip connected token for ta,2022-12-21,2024-02-08,2024-03-11,6,0
+38462274,10.1016/j.artmed.2024.102773,Artif Intell Med,A clinical consensus-compliant deep learning approach to quantitatively evaluate human in ,2022-08-22,2024-01-14,2024-03-11,9,0
+38462273,10.1016/j.artmed.2024.102772,Artif Intell Med,A clinically actionable and explainable real-time risk assessment framework for stroke-ass,2022-08-02,2024-01-14,2024-03-11,9,0
+38462272,10.1016/j.artmed.2024.102770,Artif Intell Med,Assessment and treatment of visuospatial neglect using active learning with Gaussian proce,2023-06-26,2024-01-14,2024-03-11,6,0
+38462271,10.1016/j.artmed.2024.102769,Artif Intell Med,AI in medical diagnosis: AI prediction & human judgment.,2023-06-20,2024-01-14,2024-03-11,2,0
+38462270,10.1016/j.artmed.2024.102812,Artif Intell Med,Detecting mental and physical disorders using multi-task learning equipped with knowledge ,2023-03-03,2024-02-12,2024-03-11,7,0
+38462269,10.1016/j.artmed.2023.102755,Artif Intell Med,Finding neural correlates of depersonalisation/derealisation disorder via explainable CNN-,2023-03-23,2023-12-29,2024-03-11,3,0
+38325935,10.1016/j.artmed.2023.102748,Artif Intell Med,Efficient symptom inquiring and diagnosis via adaptive alignment of reinforcement learning,2022-11-04,2023-12-10,2024-02-08,2,0
+38325934,10.1016/j.artmed.2023.102758,Artif Intell Med,A new word embedding model integrated with medical knowledge for deep learning-based senti,2023-07-07,2023-12-29,2024-02-08,3,0
+38325933,10.1016/j.artmed.2023.102756,Artif Intell Med,Overlapping cytoplasms segmentation via constrained multi-shape evolution for cervical can,2023-06-13,2023-12-29,2024-02-08,6,0
+38325932,10.1016/j.artmed.2023.102754,Artif Intell Med,Combining general and personal models for epilepsy detection with hyperdimensional computi,2023-07-21,2023-12-24,2024-02-08,5,0
+38325931,10.1016/j.artmed.2023.102753,Artif Intell Med,Diseases diagnosis based on artificial intelligence and ensemble classification.,2023-07-03,2023-12-22,2024-02-08,2,0
+38325930,10.1016/j.artmed.2023.102752,Artif Intell Med,A computational tumor growth model experience based on molecular dynamics point of view us,2023-05-28,2023-12-22,2024-02-08,2,0
+38325929,10.1016/j.artmed.2023.102751,Artif Intell Med,Evaluating the clinical utility of artificial intelligence assistance and its explanation ,2023-04-14,2023-12-21,2024-02-08,4,0
+38325928,10.1016/j.artmed.2024.102771,Artif Intell Med,MSEF-Net: Multi-scale edge fusion network for lumbosacral plexus segmentation with MR imag,2022-12-24,2024-01-14,2024-02-08,6,0
+38325927,10.1016/j.artmed.2024.102783,Artif Intell Med,Prediction on nature of cancer by fuzzy graphoidal covering number using artificial neural,2023-05-30,2024-01-16,2024-02-08,2,0
+38325926,10.1016/j.artmed.2024.102781,Artif Intell Med,The Concordance Index decomposition: A measure for a deeper understanding of survival pred,2023-05-31,2024-01-15,2024-02-08,4,0
+38325925,10.1016/j.artmed.2024.102776,Artif Intell Med,A deep convolutional neural network for the automatic segmentation of glioblastoma brain t,2023-03-10,2024-01-14,2024-02-08,5,0
+38325924,10.1016/j.artmed.2024.102775,Artif Intell Med,HoRDA: Learning higher-order structure information for predicting RNA-disease associations,2022-11-14,2024-01-14,2024-02-08,4,0
+38325923,10.1016/j.artmed.2024.102767,Artif Intell Med,Stacked deep learning approach for efficient SARS-CoV-2 detection in blood samples.,2023-04-28,2024-01-05,2024-02-08,4,0
+38325922,10.1016/j.artmed.2023.102750,Artif Intell Med,A novel method leveraging time series data to improve subphenotyping and application in cr,2023-03-06,2023-12-14,2024-02-08,8,54
+38325921,10.1016/j.artmed.2023.102749,Artif Intell Med,Advanced decision support system for individuals with diabetes on multiple daily injection,2023-03-27,2023-12-10,2024-02-08,4,0
+38325920,10.1016/j.artmed.2023.102757,Artif Intell Med,Semi-supervised image segmentation using a residual-driven mean teacher and an exponential,2023-06-28,2023-12-29,2024-02-08,7,0
+38325919,10.1016/j.artmed.2023.102747,Artif Intell Med,Contrastive image adaptation for acquisition shift reduction in medical imaging.,2022-10-17,2023-12-10,2024-02-08,7,0
+38184363,10.1016/j.artmed.2023.102700,Artif Intell Med,Optimisation-based modelling for explainable lead discovery in malaria.,2023-03-21,2023-10-29,2024-01-07,7,0
+38184361,10.1016/j.artmed.2023.102737,Artif Intell Med,STERN: Attention-driven Spatial Transformer Network for abnormality detection in chest X-r,2022-11-21,2023-11-28,2024-01-07,5,0
+38184360,10.1016/j.artmed.2023.102736,Artif Intell Med,BGRL: Basal Ganglia inspired Reinforcement Learning based framework for deep brain stimula,2022-10-09,2023-11-28,2024-01-07,2,0
+38184359,10.1016/j.artmed.2023.102735,Artif Intell Med,FIT-graph: A multi-grained evolutionary graph based framework for disease diagnosis.,2022-09-07,2023-11-28,2024-01-07,9,0
+38184358,10.1016/j.artmed.2023.102734,Artif Intell Med,Predicting sequenced dental treatment plans from electronic dental records using deep lear,2022-07-18,2023-11-28,2024-01-07,6,0
+38184357,10.1016/j.artmed.2023.102726,Artif Intell Med,Value function assessment to different RL algorithms for heparin treatment policy of patie,2023-05-09,2023-11-24,2024-01-07,16,0
+38184356,10.1016/j.artmed.2023.102723,Artif Intell Med,Multiple mask and boundary scoring R-CNN with cGAN data augmentation for bladder tumor seg,2023-02-10,2023-11-22,2024-01-07,9,0
+38184355,10.1016/j.artmed.2023.102719,Artif Intell Med,Predicting stroke outcome: A case for multimodal deep learning methods with tabular and CT,2023-01-10,2023-11-14,2024-01-07,3,0
+38184354,10.1016/j.artmed.2023.102741,Artif Intell Med,MS-CPFI: A model-agnostic Counterfactual Perturbation Feature Importance algorithm for int,2023-05-31,2023-11-28,2024-01-07,5,0
+38184353,10.1016/j.artmed.2023.102746,Artif Intell Med,Multi-organ spatiotemporal information aware model for sepsis mortality prediction.,2023-05-08,2023-12-05,2024-01-07,7,0
+38184352,10.1016/j.artmed.2023.102745,Artif Intell Med,Evaluation of deep learning-based depression detection using medical claims data.,2023-05-14,2023-12-01,2024-01-07,5,0
+38184351,10.1016/j.artmed.2023.102744,Artif Intell Med,Non-invasive fractional flow reserve derived from reduced-order coronary model and machine,2022-10-05,2023-11-29,2024-01-07,16,0
+38184350,10.1016/j.artmed.2023.102743,Artif Intell Med,Bayesian Network structure learning algorithm for highly missing and non imputable data: A,2023-07-25,2023-11-28,2024-01-07,5,0
+38184349,10.1016/j.artmed.2023.102742,Artif Intell Med,Guideline-informed reinforcement learning for mechanical ventilation in critical care.,2023-06-07,2023-11-28,2024-01-07,6,0
+38184348,10.1016/j.artmed.2023.102725,Artif Intell Med,"Robot assisted Fetoscopic Laser Coagulation: Improvements in navigation, re-location and c",2022-06-21,2023-11-24,2024-01-07,6,0
+38184347,10.1016/j.artmed.2023.102724,Artif Intell Med,Human vs machine towards neonatal pain assessment: A comprehensive analysis of the facial ,2023-04-19,2023-11-23,2024-01-07,10,0
+38184346,10.1016/j.artmed.2023.102718,Artif Intell Med,A few-shot disease diagnosis decision making model based on meta-learning for general prac,2023-05-05,2023-11-12,2024-01-07,9,0
+38184345,10.1016/j.artmed.2023.102716,Artif Intell Med,Depression detection for twitter users using sentiment analysis in English and Arabic twee,2023-01-13,2023-11-08,2024-01-07,3,0
+38184344,10.1016/j.artmed.2023.102740,Artif Intell Med,A weighted distance-based dynamic ensemble regression framework for gastric cancer surviva,2022-12-26,2023-11-28,2024-01-07,3,0
+38044249,10.1016/j.artmed.2023.102739,Artif Intell Med,Diagnosis knowledge constrained network based on first-order logic for syndrome differenti,2022-12-21,2023-11-28,2023-12-04,5,0
+41506063,10.1016/j.artmed.2025.103345,Artif Intell Med,B2E-CDG: Conditional diffusion-based for label-free OCT angiography artifact removal and r,2025-06-03,2025-12-27,2026-01-09,5,0
+41506062,10.1016/j.artmed.2025.103346,Artif Intell Med,Learning Health Systems provide a glide path to safe landing for AI in health.,2025-07-26,2025-12-28,2026-01-09,14,0
+41506061,10.1016/j.artmed.2025.103347,Artif Intell Med,Smiling difficulties in Alzheimer's disease linked to reduced nucleus accumbens and pallid,2025-01-05,2025-12-29,2026-01-09,5,0
+41494363,10.1016/j.artmed.2025.103348,Artif Intell Med,Tackling data scarcity: Synthetic tumour and mask generation to improve image segmentation,2025-08-01,2025-12-29,2026-01-07,9,0
+41478228,10.1016/j.artmed.2025.103336,Artif Intell Med,Seamless monitoring of stress levels leveraging a foundational model for time sequences.,2024-11-15,2025-12-13,2026-01-02,3,0
+41478227,10.1016/j.artmed.2025.103335,Artif Intell Med,UniStain: A unified and organ-aware virtual H&E staining framework for label-free autofluo,2025-06-16,2025-12-12,2026-01-02,8,0
+41475079,10.1016/j.artmed.2025.103338,Artif Intell Med,Multi-scale feature enhancement in multi-task learning for medical image analysis.,2025-07-05,2025-12-17,2026-01-01,6,0
+41435806,10.1016/j.artmed.2025.103337,Artif Intell Med,Clinical decision support system for detecting right ventricular dysfunction in acute pulm,2025-01-07,2025-12-13,2025-12-24,9,0
+41421129,10.1016/j.artmed.2025.103334,Artif Intell Med,Intelligent sentiment analysis with Arabic patient feedback on healthcare services in King,2024-08-17,2025-12-12,2025-12-21,5,0
+41385850,10.1016/j.artmed.2025.103333,Artif Intell Med,Regret theory-based clinical efficacy evaluation method with three-way decision.,2025-01-12,2025-12-08,2025-12-13,4,0
+41380307,10.1016/j.artmed.2025.103331,Artif Intell Med,TransFair: Transferring fairness from ocular disease classification to progression predict,2024-12-02,2025-11-29,2025-12-12,7,0
+41349237,10.1016/j.artmed.2025.103324,Artif Intell Med,ProtoRadNet: Prototypical patches of Convolutional Features for Radiology Image Classifica,2025-08-13,2025-11-27,2025-12-06,3,0
+41349236,10.1016/j.artmed.2025.103319,Artif Intell Med,Development and validation of deep continual learning model to sequentially learn multiple,2025-01-07,2025-11-25,2025-12-06,7,0
+41344072,10.1016/j.artmed.2025.103322,Artif Intell Med,QENNA: A quantum-enhanced neural network for early Alzheimer's detection using magnetic re,2025-07-17,2025-11-27,2025-12-05,9,0
+41338038,10.1016/j.artmed.2025.103314,Artif Intell Med,Data Augmentation for Few-Shot Biomedical NER Using ChatGPT.,2023-11-04,2025-11-24,2025-12-04,8,0
+41330258,10.1016/j.artmed.2025.103323,Artif Intell Med,Geometric deep learning for local growth prediction on abdominal aortic aneurysm surfaces.,2025-06-23,2025-11-27,2025-12-03,8,0
+41330257,10.1016/j.artmed.2025.103318,Artif Intell Med,Deep learning for autism detection using clinical notes: A comparison of transfer learning,2024-09-23,2025-11-24,2025-12-03,5,45
+41330256,10.1016/j.artmed.2025.103309,Artif Intell Med,SurgflowNet: Leveraging unannotated video for consistent endoscopic pituitary surgery work,2025-07-15,2025-11-13,2025-12-03,8,0
+41319399,10.1016/j.artmed.2025.103311,Artif Intell Med,MedSumGraph: enhancing GraphRAG for medical QA with summarization and optimized prompts.,2025-07-08,2025-11-21,2025-12-01,3,0
+41319398,10.1016/j.artmed.2025.103313,Artif Intell Med,Context-aware heterogeneous graph neural network for multi-level description and invasiven,2024-07-04,2025-11-24,2025-12-01,9,0
+41297151,10.1016/j.artmed.2025.103317,Artif Intell Med,A labeled ophthalmic ultrasound dataset with medical report generation based on cross-moda,2024-10-31,2025-11-24,2025-11-27,5,0
+41265341,10.1016/j.artmed.2025.103301,Artif Intell Med,A deep representation learning algorithm on drug-target interaction to screen novel drug c,2024-10-14,2025-11-02,2025-11-21,5,0
+41265340,10.1016/j.artmed.2025.103307,Artif Intell Med,CA-OCL and CHAN: A novel diagnostic framework for rheumatoid arthritis integrating contrad,2025-06-18,2025-11-12,2025-11-21,3,0
+41260195,10.1016/j.artmed.2025.103306,Artif Intell Med,Weakly-supervised ultrasound image segmentation with elliptical shape prior constraint.,2024-12-25,2025-11-12,2025-11-20,7,0
+41260194,10.1016/j.artmed.2025.103299,Artif Intell Med,Deformable phrase level attention: A flexible approach for improving AI based medical codi,2024-04-14,2025-11-02,2025-11-20,5,0
+41252887,10.1016/j.artmed.2025.103304,Artif Intell Med,Enhancing transformer-based architectures with geometric deep learning for colonoscopic po,2024-10-28,2025-11-11,2025-11-19,3,0
+41241976,10.1016/j.artmed.2025.103305,Artif Intell Med,Detecting depression through speech and text from casual talks with fully automated virtua,2024-11-12,2025-11-12,2025-11-16,6,0
+41237464,10.1016/j.artmed.2025.103288,Artif Intell Med,Frequency-based boundary-guided attention network for domain generalizable polyp segmentat,2025-01-07,2025-10-21,2025-11-14,2,0
+41207085,10.1016/j.artmed.2025.103298,Artif Intell Med,Hierarchical classification for differential diagnosis of fever of unknown origin: A multi,2023-10-23,2025-11-02,2025-11-10,6,0
+41197439,10.1016/j.artmed.2025.103289,Artif Intell Med,Multi-annotation agreement and prediction consistency networks: Improving semi-supervised ,2024-11-29,2025-10-23,2025-11-07,11,0
+41197438,10.1016/j.artmed.2025.103297,Artif Intell Med,LkaM-PTM: Predicting PTM sites through multimodal protein features from capturing cross-fi,2025-01-16,2025-10-31,2025-11-07,2,0
+41175548,10.1016/j.artmed.2025.103282,Artif Intell Med,Investigation of synonym expansion and self-alignment pretraining for enhancing Human Phen,2024-09-21,2025-10-15,2025-11-02,5,0
+41172576,10.1016/j.artmed.2025.103285,Artif Intell Med,SpineCLUE: Automatic vertebrae identification using contrastive learning and uncertainty e,2024-08-18,2025-10-21,2025-11-01,8,0
+41166823,10.1016/j.artmed.2025.103287,Artif Intell Med,Multi-modal medical image synthesis via dual-branch wavelet encoding and deformable featur,2025-05-28,2025-10-21,2025-10-31,7,0
+41151346,10.1016/j.artmed.2025.103286,Artif Intell Med,An explainable three dimensional framework to uncover learning patterns: A unified look in,2024-11-30,2025-10-21,2025-10-29,11,0
+41151345,10.1016/j.artmed.2025.103283,Artif Intell Med,Automation or augmentation? The impact of artificial intelligence's technological characte,2025-06-18,2025-10-16,2025-10-29,2,0
+41125015,10.1016/j.artmed.2025.103284,Artif Intell Med,EEG super-resolution with Laplacian Regularized Coupled Matrix Decomposition: A case study,2025-06-22,2025-10-16,2025-10-23,4,0
+41061579,10.1016/j.artmed.2025.103280,Artif Intell Med,SCLResNet and DSAF: A self-supervised contrastive learning and deep self-attention fusion-,2024-11-18,2025-09-28,2025-10-09,12,0
+41061578,10.1016/j.artmed.2025.103278,Artif Intell Med,Mixture-attention Siamese transformer for video polyp segmentation.,2024-09-30,2025-09-27,2025-10-09,8,0
+41046788,10.1016/j.artmed.2025.103279,Artif Intell Med,TSFNet: A Temporal-Spectral Fusion Network for advanced speech emotion recognition in medi,2024-07-05,2025-09-28,2025-10-06,6,0
+41027107,10.1016/j.artmed.2025.103277,Artif Intell Med,BPINet: Synchronous blood pressure estimation and user authentication based on ECG and PPG,2025-01-24,2025-09-15,2025-10-01,6,0
+41005039,10.1016/j.artmed.2025.103271,Artif Intell Med,H-SynEx: Using synthetic images and ultra-high resolution ex vivo MRI for hypothalamus sub,2024-07-01,2025-09-11,2025-09-27,9,0
+40997587,10.1016/j.artmed.2025.103275,Artif Intell Med,A novel memory interaction neural network for multi-label drug-drug interaction prediction,2025-01-09,2025-09-15,2025-09-26,6,0
+40992030,10.1016/j.artmed.2025.103266,Artif Intell Med,Improving prototypical parts abstraction for case-based reasoning explanations designed fo,2024-09-19,2025-09-08,2025-09-25,8,0
+40987066,10.1016/j.artmed.2025.103267,Artif Intell Med,High-quality triage and diagnosis of gynecological diseases via artificial intelligence.,2024-02-21,2025-09-08,2025-09-24,8,0
+40975956,10.1016/j.artmed.2025.103272,Artif Intell Med,AI-driven dynamic grouping for adaptive clinical trials: Rethinking randomization in preci,2025-05-28,2025-09-15,2025-09-22,1,0
+40974874,10.1016/j.artmed.2025.103269,Artif Intell Med,Mining multi-electrode and multi-wave electroencephalogram based time-interval temporal pa,2024-11-03,2025-09-11,2025-09-21,2,0
+40974873,10.1016/j.artmed.2025.103273,Artif Intell Med,Decoding the cortical responses to mechanical wrist perturbations: A two-step shared struc,2024-11-21,2025-09-15,2025-09-21,4,0
+40972407,10.1016/j.artmed.2025.103236,Artif Intell Med,Pathway information on methylation analysis using deep neural network (PROMINENT): An inte,2024-08-22,2025-08-11,2025-09-20,5,51
+40972406,10.1016/j.artmed.2025.103276,Artif Intell Med,The interpretable deep learning framework and validation for seizure detection in pediatri,2024-11-06,2025-09-15,2025-09-20,6,0
+40946684,10.1016/j.artmed.2025.103264,Artif Intell Med,An end-to-end solution for out-of-hospital emergency medical dispatch triage based on mult,2024-11-20,2025-09-03,2025-09-15,5,0
+40915278,10.1016/j.artmed.2025.103253,Artif Intell Med,MMSupcon: An image fusion-based multi-modal supervised contrastive method for brain tumor ,2025-03-01,2025-08-21,2025-09-08,7,0
+40912142,10.1016/j.artmed.2025.103254,Artif Intell Med,LoRA-PT: Low-rank adapting UNETR for hippocampus segmentation using principal tensor singu,2024-07-18,2025-08-29,2025-09-06,4,0
+40896874,10.1016/j.artmed.2025.103245,Artif Intell Med,Privacy-preserving federated transfer learning for enhanced liver lesion segmentation in P,2025-04-25,2025-08-13,2025-09-02,5,0
+40886659,10.1016/j.artmed.2025.103247,Artif Intell Med,TIPs: Tooth instance and pulp segmentation based on hierarchical extraction and fusion of ,2024-09-29,2025-08-17,2025-09-01,7,0
+40876380,10.1016/j.artmed.2025.103246,Artif Intell Med,EvidenceMap: Learning evidence analysis to unleash the power of small language models for ,2025-04-28,2025-08-13,2025-08-29,4,0
+40858060,10.1016/j.artmed.2025.103239,Artif Intell Med,Multiplex aggregation combining sample reweight composite network for pathology image segm,2025-03-28,2025-08-11,2025-08-27,9,0
+40850235,10.1016/j.artmed.2025.103252,Artif Intell Med,Unprepared and overwhelmed: A case for clinician-focused AI education.,2025-06-03,2025-08-21,2025-08-25,6,0
+40845541,10.1016/j.artmed.2025.103241,Artif Intell Med,BIGPN: Biologically informed graph propagational network for plasma proteomic profiling of,2025-05-03,2025-08-11,2025-08-23,6,0
+40839959,10.1016/j.artmed.2025.103240,Artif Intell Med,Difficulty-aware coupled contour regression network with IoU loss for efficient IVUS delin,2025-04-30,2025-08-11,2025-08-21,6,0
+40834546,10.1016/j.artmed.2025.103228,Artif Intell Med,Improving wearable-based seizure prediction by feature fusion using an explainable growing,2025-03-11,2025-07-15,2025-08-21,8,0
+40819606,10.1016/j.artmed.2025.103238,Artif Intell Med,CCLDA: prediction of lncRNA-disease associations based on Convolutional Block Attention Mo,2024-09-27,2025-08-11,2025-08-18,5,0
+40763409,10.1016/j.artmed.2025.103229,Artif Intell Med,IHE-Net:Hidden feature discrepancy fusion and triple consistency training for semi-supervi,2024-11-06,2025-07-22,2025-08-06,6,0
+40720922,10.1016/j.artmed.2025.103225,Artif Intell Med,KGDB-DDI:Knowledge graph-based drug background data fusion model for drug-drug interaction,2024-11-11,2025-07-14,2025-07-28,4,0
+40706109,10.1016/j.artmed.2025.103224,Artif Intell Med,AMOTS: Partially supervised framework for abdominal multi-organ and tumor segmentation via,2024-09-25,2025-07-09,2025-07-24,3,0
+40706107,10.1016/j.artmed.2025.103204,Artif Intell Med,LLM-based approaches for automated vocabulary mapping between SIGTAP and OMOP CDM concepts,2024-04-02,2025-06-29,2025-07-24,3,0
+40700865,10.1016/j.artmed.2025.103226,Artif Intell Med,Ontology-based student testing through clinical guidelines: An AI approach.,2024-11-14,2025-07-15,2025-07-24,6,0
+40700864,10.1016/j.artmed.2025.103223,Artif Intell Med,Identifying signatures of image phenotypes to track treatment response in liver disease.,2025-04-10,2025-07-09,2025-07-24,9,0
+40690805,10.1016/j.artmed.2025.103203,Artif Intell Med,A generalized LLMs framework to support public health financing through probabilistic pred,2024-04-02,2025-06-29,2025-07-21,5,0
+40684613,10.1016/j.artmed.2025.103217,Artif Intell Med,Adapting language models for mental health analysis on social media.,2024-07-12,2025-07-03,2025-07-21,4,0
+40680485,10.1016/j.artmed.2025.103216,Artif Intell Med,Toward fair medical advice: Addressing and mitigating bias in large language model-based h,2025-03-23,2025-07-03,2025-07-19,6,0
+40674899,10.1016/j.artmed.2025.103188,Artif Intell Med,HMEA: A hierarchical medical knowledge graph entity alignment model fusing multi-aspect in,2024-05-08,2025-06-01,2025-07-18,5,0
+40674898,10.1016/j.artmed.2025.103218,Artif Intell Med,AI-based mining of biomedical literature: Applications for drug repurposing for the treatm,2024-12-11,2025-07-07,2025-07-18,6,72
+40617062,10.1016/j.artmed.2025.103202,Artif Intell Med,DDintensity: Addressing imbalanced drug-drug interaction risk levels using pre-trained dee,2024-02-06,2025-06-26,2025-07-06,11,0
+40617061,10.1016/j.artmed.2025.103191,Artif Intell Med,Uncovering the genetic basis of glioblastoma heterogeneity through multimodal analysis of ,2024-10-15,2025-06-03,2025-07-06,4,0
+40614372,10.1016/j.artmed.2025.103195,Artif Intell Med,ContraDTI: Improved drug-target interaction prediction via multi-view contrastive learning,2024-09-14,2025-06-10,2025-07-05,3,0
+40602231,10.1016/j.artmed.2025.103165,Artif Intell Med,Zero- and few-shot Named Entity Recognition and Text Expansion in medication prescriptions,2024-01-30,2025-05-10,2025-07-03,5,0
+40602230,10.1016/j.artmed.2025.103196,Artif Intell Med,GraphCF: Drug-target interaction prediction via multi-feature fusion with contrastive grap,2024-09-16,2025-06-10,2025-07-03,2,0
+40592053,10.1016/j.artmed.2025.103200,Artif Intell Med,Discovering multiple antibiotic resistance phenotypes using diverse top-k subgroup list di,2024-11-21,2025-06-12,2025-07-02,5,0
+40587926,10.1016/j.artmed.2025.103184,Artif Intell Med,A prior knowledge-supervised fusion network predicts survival after radiotherapy in patien,2024-06-14,2025-05-28,2025-07-01,7,0
+40582254,10.1016/j.artmed.2025.103199,Artif Intell Med,Online continuous learning of users suicidal risk on social media.,2024-06-16,2025-06-10,2025-07-01,7,0
+40577946,10.1016/j.artmed.2025.103197,Artif Intell Med,RobustEMD: Domain robust matching for cross-domain few-shot medical image segmentation.,2024-10-01,2025-06-10,2025-06-28,6,0
+40577945,10.1016/j.artmed.2025.103194,Artif Intell Med,Your turn: At home turning angle estimation for Parkinson's disease severity assessment.,2024-08-31,2025-06-04,2025-06-28,6,100
+40555075,10.1016/j.artmed.2025.103189,Artif Intell Med,An anxiety screening framework integrating multimodal data and graph node correlation.,2024-06-23,2025-06-01,2025-06-25,6,0
+40554318,10.1016/j.artmed.2025.103192,Artif Intell Med,Toward responsible artificial intelligence in medicine: Reflections from the Australian ep,2023-04-27,2025-06-03,2025-06-24,8,0
+40544699,10.1016/j.artmed.2025.103185,Artif Intell Med,Predicting drug-drug interactions: A deep learning approach with GCN-based collaborative f,2023-11-16,2025-05-29,2025-06-23,5,0
+40544698,10.1016/j.artmed.2025.103183,Artif Intell Med,Interactive prototype learning and self-learning for few-shot medical image segmentation.,2024-07-16,2025-05-26,2025-06-23,7,0
+40540756,10.1016/j.artmed.2025.103198,Artif Intell Med,VAE-GANMDA: A microbe-drug association prediction model integrating variational autoencode,2024-04-12,2025-06-10,2025-06-20,6,0
+40513289,10.1016/j.artmed.2025.103178,Artif Intell Med,Probabilistic emotion and sentiment modelling of patient-reported experiences.,2024-01-09,2025-05-23,2025-06-14,4,0
+40505180,10.1016/j.artmed.2025.103179,Artif Intell Med,Label-independent framework for objective evaluation of cosmetic outcome in breast cancer.,2024-04-16,2025-05-23,2025-06-13,7,0
+40482437,10.1016/j.artmed.2025.103190,Artif Intell Med,Lesion boundary detection for skin lesion segmentation based on boundary sensing and CNN-t,2024-07-04,2025-06-02,2025-06-08,6,0
+40472749,10.1016/j.artmed.2025.103148,Artif Intell Med,"Creating, anonymizing and evaluating the first medical language model pre-trained on Dutch",2024-04-02,2025-04-24,2025-06-06,2,0
+40472748,10.1016/j.artmed.2025.103186,Artif Intell Med,Combining structural equation modeling analysis with machine learning for early malignancy,2025-04-18,2025-05-29,2025-06-06,5,0
+40460597,10.1016/j.artmed.2025.103162,Artif Intell Med,ECG synthesis for cardiac arrhythmias: Integrating self-supervised learning and generative,2024-05-14,2025-05-08,2025-06-04,3,0
+40450966,10.1016/j.artmed.2025.103167,Artif Intell Med,Enhancing colorectal polyp segmentation with TCFMA-Net: A transformer-based cross feature ,2024-10-08,2025-05-21,2025-06-02,4,0
+40450965,10.1016/j.artmed.2025.103166,Artif Intell Med,Quantitative computed tomography imaging classification of cement dust-exposed patients-ba,2024-07-16,2025-05-21,2025-06-02,6,0
+40449145,10.1016/j.artmed.2025.103164,Artif Intell Med,A cell-interacting and multi-correcting method for automatic circulating tumor cells detec,2024-04-16,2025-05-10,2025-06-01,31,0
+40449144,10.1016/j.artmed.2025.103180,Artif Intell Med,Integrated analysis of differential intra-chromosomal community interactions: A study of b,2024-10-02,2025-05-23,2025-06-01,6,90
+40449143,10.1016/j.artmed.2025.103149,Artif Intell Med,Large scale gene set ranking for survival-related gene sets.,2023-11-08,2025-05-01,2025-06-01,6,0
+40449142,10.1016/j.artmed.2025.103138,Artif Intell Med,An AI system for continuous knee osteoarthritis severity grading: An anomaly detection ins,2024-06-18,2025-04-21,2025-06-01,3,0
+40446591,10.1016/j.artmed.2025.103154,Artif Intell Med,Symbolic and hybrid AI for brain tissue segmentation using spatial model checking.,2024-10-04,2025-05-01,2025-05-31,3,0
+40446590,10.1016/j.artmed.2025.103168,Artif Intell Med,Mitigating patient harm risks: A proposal of requirements for AI in healthcare.,2024-07-19,2025-05-22,2025-05-31,7,0
+40446589,10.1016/j.artmed.2025.103177,Artif Intell Med,PhenoLinker: Phenotype-gene link prediction and explanation using heterogeneous graph neur,2023-11-30,2025-05-23,2025-05-31,7,0
+40446588,10.1016/j.artmed.2025.103163,Artif Intell Med,ICD code mapping model based on clinical text tree structure.,2024-04-27,2025-05-08,2025-05-31,2,0
+40412270,10.1016/j.artmed.2025.103150,Artif Intell Med,Causal inference model for accurate medical diagnosis in Coronary Artery Bypass Graft oper,2024-02-25,2025-05-01,2025-05-25,6,0
+40381580,10.1016/j.artmed.2025.103147,Artif Intell Med,Speech translation for multilingual medical education leveraged by large language models.,2024-04-01,2025-04-24,2025-05-18,11,0
+40349664,10.1016/j.artmed.2025.103151,Artif Intell Med,Surgery scheduling based on large language models.,2024-07-27,2025-05-01,2025-05-12,7,0
+40347843,10.1016/j.artmed.2025.103153,Artif Intell Med,Deep learning for early detection of chronic kidney disease stages in diabetes patients: A,2024-11-06,2025-05-01,2025-05-11,13,0
+40344999,10.1016/j.artmed.2025.103136,Artif Intell Med,CATI: A medical context-enhanced framework for diagnosis code assignment in the UK Biobank,2024-02-07,2025-04-15,2025-05-10,12,0
+40334525,10.1016/j.artmed.2025.103152,Artif Intell Med,Multi-modal signal integration for enhanced sleep stage classification: Leveraging EOG and,2023-11-14,2025-05-01,2025-05-07,3,0
+40311152,10.1016/j.artmed.2025.103139,Artif Intell Med,An informed machine learning based environmental risk score for hypertension in European a,2024-09-23,2025-04-21,2025-05-01,7,0
+40305919,10.1016/j.artmed.2025.103140,Artif Intell Med,Developing novel dynamic prediction methods for survival time to analyze short-term and lo,2024-10-13,2025-04-22,2025-05-01,8,0
+40300340,10.1016/j.artmed.2025.103128,Artif Intell Med,Generalized aggregation index based collaborative fusion for medical diagnosis.,2023-11-07,2025-04-06,2025-04-30,5,0
+40300339,10.1016/j.artmed.2025.103135,Artif Intell Med,Reconstruction-based approach for chest X-ray image segmentation and enhanced multi-label ,2024-08-28,2025-04-13,2025-04-30,6,0
+40286587,10.1016/j.artmed.2025.103134,Artif Intell Med,Healing with hierarchy: Hierarchical attention empowered graph neural networks for predict,2024-06-04,2025-04-12,2025-04-27,4,0
+40279876,10.1016/j.artmed.2025.103133,Artif Intell Med,Human visual perception-inspired medical image segmentation network with multi-feature com,2024-12-15,2025-04-10,2025-04-26,4,0
+40279875,10.1016/j.artmed.2025.103131,Artif Intell Med,Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation a,2024-09-12,2025-04-09,2025-04-26,7,0
+40253926,10.1016/j.artmed.2025.103130,Artif Intell Med,Exploring trade-offs in equitable stroke risk prediction with parity-constrained and race-,2024-04-28,2025-04-09,2025-04-21,5,51
+40250132,10.1016/j.artmed.2025.103125,Artif Intell Med,Fuzzy-DDI: A robust fuzzy logic query model for complex drug-drug interaction prediction.,2024-05-17,2025-03-29,2025-04-19,4,0
+40174354,10.1016/j.artmed.2025.103111,Artif Intell Med,Advances in kidney biopsy lesion assessment through dense instance segmentation.,2024-05-21,2025-03-14,2025-04-03,7,0
+40174353,10.1016/j.artmed.2025.103113,Artif Intell Med,Weakly supervised nuclei segmentation based on pseudo label correction and uncertainty den,2024-07-26,2025-03-14,2025-04-03,8,0
+40168944,10.1016/j.artmed.2025.103112,Artif Intell Med,Utilizing semantically enhanced self-supervised graph convolution and multi-head attention,2024-05-16,2025-03-14,2025-04-02,7,0
+40168943,10.1016/j.artmed.2025.103115,Artif Intell Med,IdenBAT: Disentangled representation learning for identity-preserved brain age transformat,2024-07-01,2025-03-18,2025-04-02,4,0
+40107119,10.1016/j.artmed.2025.103110,Artif Intell Med,Histopathology image classification based on semantic correlation clustering domain adapta,2024-06-23,2025-03-14,2025-03-20,6,0
+40086407,10.1016/j.artmed.2025.103108,Artif Intell Med,Comparing neural language models for medical concept representation and patient trajectory,2023-06-01,2025-03-09,2025-03-15,7,0
+40073713,10.1016/j.artmed.2025.103093,Artif Intell Med,Deep learning based estimation of heart surface potentials.,2024-05-22,2025-02-19,2025-03-13,9,0
+40068484,10.1016/j.artmed.2025.103098,Artif Intell Med,Enhancing diagnosis prediction with adaptive disease representation learning.,2024-05-30,2025-02-23,2025-03-12,4,0
+40056540,10.1016/j.artmed.2025.103101,Artif Intell Med,DRExplainer: Quantifiable interpretability in drug response prediction with directed graph,2024-07-14,2025-02-23,2025-03-09,7,0
+40049058,10.1016/j.artmed.2025.103097,Artif Intell Med,Rethinking mitosis detection: Towards diverse data and feature representation for better d,2024-05-15,2025-02-21,2025-03-07,11,0
+40037056,10.1016/j.artmed.2025.103099,Artif Intell Med,TDMFS: Tucker decomposition multimodal fusion model for pan-cancer survival prediction.,2024-01-22,2025-02-23,2025-03-05,11,0
+40022809,10.1016/j.artmed.2025.103100,Artif Intell Med,Sum of similarity-regularized squared correlations for enhancing SSVEP detection.,2024-06-18,2025-02-23,2025-03-03,2,0
+40015211,10.1016/j.artmed.2025.103091,Artif Intell Med,A multi-stage multi-modal learning algorithm with adaptive multimodal fusion for improving,2023-12-06,2025-02-14,2025-02-28,3,0
+40015210,10.1016/j.artmed.2025.103092,Artif Intell Med,SDMentor: A virtual reality-based intelligent tutoring system for surgical decision making,2023-10-19,2025-02-18,2025-02-28,4,0
+39999658,10.1016/j.artmed.2025.103096,Artif Intell Med,Joint segmentation of retinal layers and fluid lesions in optical coherence tomography wit,2024-05-30,2025-02-19,2025-02-26,7,0
+39987777,10.1016/j.artmed.2025.103087,Artif Intell Med,Improving unified information extraction in Chinese mental health domain with instruction-,2024-07-06,2025-02-11,2025-02-24,7,0
+39985835,10.1016/j.artmed.2025.103090,Artif Intell Med,Hyperbolic multivariate feature learning in higher-order heterogeneous networks for drug-d,2023-11-22,2025-02-14,2025-02-22,4,0
+39983372,10.1016/j.artmed.2025.103079,Artif Intell Med,BDFormer: Boundary-aware dual-decoder transformer for skin lesion segmentation.,2024-06-21,2025-02-05,2025-02-22,3,0
+39978047,10.1016/j.artmed.2025.103078,Artif Intell Med,Empowering large language models for automated clinical assessment with generation-augment,2024-04-04,2025-02-03,2025-02-21,4,0
+39970842,10.1016/j.artmed.2025.103077,Artif Intell Med,Finger-aware Artificial Neural Network for predicting arthritis in Patients with hand pain,2024-09-05,2025-01-30,2025-02-20,8,0
+39956766,10.1016/j.artmed.2025.103067,Artif Intell Med,Hybrid approach for drug-target interaction predictions in ischemic stroke models.,2024-05-20,2025-01-15,2025-02-17,10,0
+39933197,10.1016/j.artmed.2025.103080,Artif Intell Med,Development of decision support tools by model order reduction for active endovascular nav,2024-05-27,2025-02-06,2025-02-11,8,0
+39919469,10.1016/j.artmed.2025.103075,Artif Intell Med,Practical X-ray gastric cancer diagnostic support using refined stochastic data augmentati,2023-10-02,2025-01-27,2025-02-08,6,0
+39914162,10.1016/j.artmed.2025.103076,Artif Intell Med,"Leveraging deep-learning and unconventional data for real-time surveillance, forecasting, ",2024-08-09,2025-01-30,2025-02-07,9,0
+39837135,10.1016/j.artmed.2024.103063,Artif Intell Med,A generalizable normative deep autoencoder for brain morphological anomaly detection: appl,2024-07-17,2024-12-30,2025-01-22,11,76
+39809042,10.1016/j.artmed.2024.103065,Artif Intell Med,ECGEFNet: A two-branch deep learning model for calculating left ventricular ejection fract,2024-01-30,2024-12-30,2025-01-15,8,0
+39798181,10.1016/j.artmed.2024.103060,Artif Intell Med,CircWaveDL: Modeling of optical coherence tomography images based on a new supervised tens,2024-07-10,2024-12-21,2025-01-12,5,0
+39778345,10.1016/j.artmed.2024.103064,Artif Intell Med,Neural Architecture Search for biomedical image classification: A comparative study across,2024-07-11,2024-12-30,2025-01-09,4,0
+39778344,10.1016/j.artmed.2024.103062,Artif Intell Med,Training and validating a treatment recommender with partial verification evidence.,2024-02-10,2024-12-21,2025-01-09,14,0
+39742614,10.1016/j.artmed.2024.103058,Artif Intell Med,Design and use of a Denoising Convolutional Autoencoder for reconstructing electrocardiogr,2024-06-04,2024-12-15,2025-01-02,4,0
+39732050,10.1016/j.artmed.2024.103059,Artif Intell Med,Computer model for gait assessments in Parkinson's patients using a fuzzy inference model ,2023-11-11,2024-12-19,2024-12-29,3,0
+39721356,10.1016/j.artmed.2024.103055,Artif Intell Med,Concordance-based Predictive Uncertainty (CPU)-Index: Proof-of-concept with application to,2024-08-09,2024-12-09,2024-12-26,11,39
+39708677,10.1016/j.artmed.2024.103051,Artif Intell Med,Prediction of radiological decision errors from longitudinal analysis of gaze and image fe,2024-05-29,2024-12-05,2024-12-22,5,0
+39705769,10.1016/j.artmed.2024.103056,Artif Intell Med,"TransformerLSR: Attentive joint model of longitudinal data, survival, and recurrent events",2024-04-03,2024-12-09,2024-12-21,3,48
+39701017,10.1016/j.artmed.2024.103050,Artif Intell Med,Glaucoma detection: Binocular approach and clinical data in machine learning.,2024-04-05,2024-12-05,2024-12-20,4,0
+39701016,10.1016/j.artmed.2024.103053,Artif Intell Med,Disentangled global and local features of multi-source data variational autoencoder: An in,2024-01-26,2024-12-05,2024-12-20,9,0
+39689443,10.1016/j.artmed.2024.103054,Artif Intell Med,ItpCtrl-AI: End-to-end interpretable and controllable artificial intelligence by modeling ,2024-05-12,2024-12-05,2024-12-18,9,68
+39673961,10.1016/j.artmed.2024.103042,Artif Intell Med,Rough hypervolume-driven feature selection with groupwise intelligent sampling for detecti,2023-12-01,2024-11-23,2024-12-15,5,0
+39673960,10.1016/j.artmed.2024.103049,Artif Intell Med,Intrinsic-dimension analysis for guiding dimensionality reduction and data fusion in multi,2023-10-24,2024-12-04,2024-12-15,11,0
+39667117,10.1016/j.artmed.2024.103041,Artif Intell Med,LCDL: Classification of ICD codes based on disease label co-occurrence dependency and Long,2023-11-22,2024-11-23,2024-12-13,6,0
+39637573,10.1016/j.artmed.2024.103030,Artif Intell Med,Automatic classification of HEp-2 specimens by explainable deep learning and Jensen-Shanno,2023-11-22,2024-11-18,2024-12-06,6,0
+39612522,10.1016/j.artmed.2024.103011,Artif Intell Med,Anatomical prior-based vertebral landmark detection for spinal disorder diagnosis.,2023-12-27,2024-11-02,2024-11-29,8,0
+39608043,10.1016/j.artmed.2024.103029,Artif Intell Med,EDDINet: Enhancing drug-drug interaction prediction via information flow and consensus con,2023-08-18,2024-11-18,2024-11-28,5,0
+39608042,10.1016/j.artmed.2024.103031,Artif Intell Med,A Multi-task learning U-Net model for end-to-end HEp-2 cell image analysis.,2024-01-30,2024-11-18,2024-11-28,4,0
+39608041,10.1016/j.artmed.2024.103025,Artif Intell Med,Artificial intelligence-powered image analysis: A paradigm shift in infectious disease det,2024-03-24,2024-11-15,2024-11-28,2,0
+39591879,10.1016/j.artmed.2024.103024,Artif Intell Med,Minimal data poisoning attack in federated learning for medical image classification: An a,2023-12-26,2024-11-15,2024-11-27,4,0
+39591878,10.1016/j.artmed.2024.103032,Artif Intell Med,Electronic Health Records-based identification of newly diagnosed Crohn's Disease cases.,2023-10-25,2024-09-10,2024-11-27,14,46
+39580897,10.1016/j.artmed.2024.103027,Artif Intell Med,Generating synthetic clinical text with local large language models to identify misdiagnos,2024-04-05,2024-11-15,2024-11-25,5,0
+39579418,10.1016/j.artmed.2024.103028,Artif Intell Med,GAPPA: Enhancing prognosis prediction in primary aldosteronism post-adrenalectomy using gr,2024-05-22,2024-11-15,2024-11-24,6,0
+39579417,10.1016/j.artmed.2024.103023,Artif Intell Med,DMHGNN: Double multi-view heterogeneous graph neural network framework for drug-target int,2023-12-03,2024-11-15,2024-11-24,7,0
+39579416,10.1016/j.artmed.2024.103026,Artif Intell Med,Interpretable machine learning for time-to-event prediction in medicine and healthcare.,2024-03-27,2024-11-15,2024-11-24,5,0
+42790286,10.1016/j.artmed.2026.103532,Artif Intell Med,Training-free OCT denoising via anatomically guided latent manipulation of a pretrained ge,2026-04-12,2026-09-07,2026-09-25,2,0
+42771952,10.1016/j.artmed.2026.103536,Artif Intell Med,Semi-supervised motion and anatomy dual aware fusion network for lung 4D CT ventilation im,2025-09-02,2026-09-11,2026-09-22,13,0
+42771951,10.1016/j.artmed.2026.103539,Artif Intell Med,Imitation learning-embedded deep reinforcement learning controller designed for MRI-guided,2025-08-18,2026-09-14,2026-09-22,7,0
+42763980,10.1016/j.artmed.2026.103537,Artif Intell Med,Comprehensive deep representation-based Wasserstein domain discriminator for cross-subject,2024-11-20,2026-09-11,2026-09-20,3,0
+42763979,10.1016/j.artmed.2026.103540,Artif Intell Med,"CReaTe-LM: A large language model for stepwise, heuristic clinical reasoning instruction.",2025-10-12,2026-09-15,2026-09-20,7,0
+42763978,10.1016/j.artmed.2026.103534,Artif Intell Med,Learning age-conditioned brain atlases via free-prototype modeling for brain age predictio,2026-04-14,2026-09-10,2026-09-20,6,0
+42762659,10.1016/j.artmed.2026.103538,Artif Intell Med,BenSParX: A robust explainable machine learning framework for Parkinson's disease detectio,2025-05-17,2026-09-14,2026-09-19,5,0
+42759213,10.1016/j.artmed.2026.103533,Artif Intell Med,Adaptation of Segment Anything Model enhanced by contrastive-manifold-regularised SSL and ,2026-01-22,2026-06-06,2026-09-18,8,0
+42735617,10.1016/j.artmed.2026.103521,Artif Intell Med,FairEnc: A Fair vision-language model with fair vision and text encoders for glaucoma dete,2026-05-06,2026-08-28,2026-09-15,3,0
+42735616,10.1016/j.artmed.2026.103531,Artif Intell Med,DMNet-E: Enhanced dual-segmentation multi-decoder network strategy for advancing IVOCT pla,2026-05-31,2026-09-04,2026-09-15,9,0
+42721586,10.1016/j.artmed.2026.103518,Artif Intell Med,Counterfactuals and uncertainty-based explainable paradigm for the automated detection and,2026-01-20,2026-08-25,2026-09-10,13,0
+42721585,10.1016/j.artmed.2026.103519,Artif Intell Med,MCKG-SL: Knowledge graph-based multi-feature cross-aggregation synthetic lethality predict,2025-07-03,2026-08-26,2026-09-10,5,0
+42721584,10.1016/j.artmed.2026.103516,Artif Intell Med,Too agreeable to be accurate? Sycophancy and diagnostic instability of large language mode,2026-05-06,2026-08-17,2026-09-10,8,0
+42715650,10.1016/j.artmed.2026.103520,Artif Intell Med,AI-based mid-term effectiveness prediction of bracing treatments for adolescent idiopathic,2026-02-22,2026-08-26,2026-09-09,14,0
+42685512,10.1016/j.artmed.2026.103508,Artif Intell Med,Hybrid probabilistic forecasting of under-five malaria admissions in Ghana: A Gaussian pro,2025-10-18,2026-08-12,2026-09-03,3,0
+42673898,10.1016/j.artmed.2026.103515,Artif Intell Med,A perspective on foundation models in intensive care medicine.,2026-03-08,2026-08-16,2026-08-31,6,0
+42659784,10.1016/j.artmed.2026.103507,Artif Intell Med,Comparative evaluation of training strategies using partially labelled datasets for segmen,2025-09-10,2026-08-12,2026-08-28,6,0
+42632344,10.1016/j.artmed.2026.103512,Artif Intell Med,Segmentation-synthesis co-training for semi-supervised domain generalizable medical image ,2026-03-23,2026-08-12,2026-08-22,7,0
+42632343,10.1016/j.artmed.2026.103505,Artif Intell Med,Predicting gene compensation in disease with graph embedding techniques.,2025-09-26,2026-08-10,2026-08-22,5,0
+42628175,10.1016/j.artmed.2026.103511,Artif Intell Med,DiffCAS: Inference-time CT-free diffusion model for physics-aware multi-slice attenuation ,2026-02-05,2026-08-12,2026-08-21,9,0
+42628174,10.1016/j.artmed.2026.103509,Artif Intell Med,CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation f,2025-12-10,2026-08-12,2026-08-21,5,0
+42628173,10.1016/j.artmed.2026.103510,Artif Intell Med,PregBase: A comprehensive knowledge base for clinically relevant knowledge representation ,2026-02-01,2026-08-12,2026-08-21,6,0
+42623975,10.1016/j.artmed.2026.103513,Artif Intell Med,"Preserving privacy, enabling collaboration: Decentralized learning framework for multi-cla",2026-04-04,2026-08-12,2026-08-20,5,0
+42612343,10.1016/j.artmed.2026.103502,Artif Intell Med,A novel algorithm integrating multimodal information for improving OSA-related sleep stagi,2025-05-29,2026-08-05,2026-08-18,6,0
+42612342,10.1016/j.artmed.2026.103504,Artif Intell Med,Bridging the gap between performance and interpretability: An explainable disentangled mul,2026-04-15,2026-08-09,2026-08-18,7,0
+42594747,10.1016/j.artmed.2026.103503,Artif Intell Med,Unpaired multi-modal multi-label learning for detecting endometriosis signs.,2026-01-04,2026-08-05,2026-08-13,10,0
+42551144,10.1016/j.artmed.2026.103497,Artif Intell Med,Deep Cross-Branch Multi-Modal Fusion Network for early Alzheimer's diagnosis.,2026-03-01,2026-07-21,2026-08-09,13,0
+42546602,10.1016/j.artmed.2026.103499,Artif Intell Med,From heatmaps to language: Explainable skin cancer diagnosis using CNN-VLM integration wit,2026-05-03,2026-07-21,2026-08-04,5,0
+42526280,10.1016/j.artmed.2026.103500,Artif Intell Med,A deep learning-based framework for the malignancy analysis of thyroid lesions in contrast,2026-04-14,2026-07-21,2026-07-30,9,0
+42520374,10.1016/j.artmed.2026.103498,Artif Intell Med,Quantification of the tumor microenvironment and prognostic analysis in colorectal cancer ,2026-03-13,2026-07-21,2026-07-29,11,0
+42501455,10.1016/j.artmed.2026.103496,Artif Intell Med,PRESTIGE: Prevalence estimation for interactive guesstimates.,2025-03-07,2026-07-17,2026-07-25,3,0
+42492160,10.1016/j.artmed.2026.103488,Artif Intell Med,Rehabilitation movement simulation via joint angle-based generative AI.,2026-04-09,2026-07-16,2026-07-24,8,0
+42480154,10.1016/j.artmed.2026.103487,Artif Intell Med,Prior-guided multi-expert consensus fusion for multi-center thyroid nodule classification.,2026-04-01,2026-07-15,2026-07-21,4,0
+42470810,10.1016/j.artmed.2026.103486,Artif Intell Med,ORBIT: Oncogenic Representation Learning via Bi-Prototype Contrastive Learning in Hyperbol,2026-03-13,2026-07-10,2026-07-19,2,0
+42887145,10.1016/j.artmed.2026.103558,Artif Intell Med,Map2VidSeg Revisited: A controlled-upgrade study of classifier-derived prompts for medical,2026-04-21,2026-10-06,2026-10-16,4,0
+42874282,10.1016/j.artmed.2026.103543,Artif Intell Med,Generating interpretable context-aware medical concept embedding implicating expert knowle,2024-03-05,2026-09-24,2026-10-14,10,0
+42869856,10.1016/j.artmed.2026.103555,Artif Intell Med,MRC-GAT: A meta-relational copula-based graph attention network for interpretable multimod,2026-01-29,2026-10-05,2026-10-14,3,0
+42869855,10.1016/j.artmed.2026.103545,Artif Intell Med,GenGait: A Transformer-based model for human gait anomaly detection and normative twin gen,2026-03-25,2026-10-01,2026-10-14,6,0
+42843121,10.1016/j.artmed.2026.103542,Artif Intell Med,A benchmark study comparing deep learning and path analysis approaches for multi-class lin,2026-04-08,2026-09-24,2026-10-07,4,0
+42456448,10.1016/j.artmed.2026.103485,Artif Intell Med,GLF-Net: A quasi-periodic prior-guided waveform segmentation network for ECG delineation.,2025-06-17,2026-07-08,2026-07-16,5,0
+42361400,10.1016/j.artmed.2026.103483,Artif Intell Med,R-peak detection and ECG data compression scheme based on empirical mode decomposition and,2025-05-26,2026-06-22,2026-06-27,8,0
+42361399,10.1016/j.artmed.2026.103484,Artif Intell Med,CastNet: A three-channel EEG-based deep learning model for cross-subject depression detect,2025-11-30,2026-06-22,2026-06-27,4,0
+42349205,10.1016/j.artmed.2026.103482,Artif Intell Med,JRadiEvo: A Japanese radiology report generation model enhanced by evolutionary optimizati,2026-01-18,2026-06-18,2026-06-26,7,0
+42335637,10.1016/j.artmed.2026.103478,Artif Intell Med,Causally-informed deep learning towards explainable and generalizable outcome prediction i,2026-01-19,2026-06-15,2026-06-24,6,0
+42330731,10.1016/j.artmed.2026.103475,Artif Intell Med,A self-supervised learning framework with hierarchical residual cross fusion network for s,2025-07-24,2026-06-15,2026-06-22,5,0
+42330728,10.1016/j.artmed.2026.103477,Artif Intell Med,Anatomy consistent segmentation network for joint PET/CT tumor segmentation.,2025-08-26,2026-06-15,2026-06-22,5,0
+42308864,10.1016/j.artmed.2026.103473,Artif Intell Med,Can one model fit all? Evaluating foundation models for time series forecasting across cli,2025-05-14,2026-06-07,2026-06-18,8,0
+42263371,10.1016/j.artmed.2026.103464,Artif Intell Med,Self-tuned healthy homogeneous core: Addressing heterogeneities in biomedical datasets.,2025-11-14,2026-05-26,2026-06-09,7,48
+42247734,10.1016/j.artmed.2026.103465,Artif Intell Med,Contrastive adapter training and consensus knowledge distillation for multi-source-free do,2026-02-21,2026-05-29,2026-06-05,4,0
+42235349,10.1016/j.artmed.2026.103457,Artif Intell Med,Uncertainty quantification framework for AI-based survival models: Application to lung can,2025-09-03,2026-05-11,2026-06-04,5,0
+42229086,10.1016/j.artmed.2026.103459,Artif Intell Med,Annotator reliability and probabilistic consensus for semantic segmentation in digital pat,2025-05-19,2026-05-23,2026-06-03,2,0
+42224800,10.1016/j.artmed.2026.103462,Artif Intell Med,A critical perspective on finite sample conformal prediction theory in medical application,2026-01-26,2026-05-23,2026-06-01,5,0
+42843123,10.1016/j.artmed.2026.103541,Artif Intell Med,Improving fairness of large language model-based ICU mortality prediction via case-based p,2026-03-23,2026-09-19,2026-10-07,5,0
+42190351,10.1016/j.artmed.2026.103456,Artif Intell Med,SiCLIP: An explainable multimodal framework for silicosis diagnosis.,2025-07-15,2026-05-06,2026-05-27,6,0
+42167071,10.1016/j.artmed.2026.103446,Artif Intell Med,Mitigating bias in chest X-ray disease diagnosis via de-biased disentangled representation,2025-01-23,2026-04-17,2026-05-22,5,0
+42155369,10.1016/j.artmed.2026.103443,Artif Intell Med,GHOSTS: Validated generation of synthetic hospital time series.,2025-05-23,2026-04-29,2026-05-20,4,0
+42119431,10.1016/j.artmed.2026.103444,Artif Intell Med,MediCARE: Medical Collaborative Agents REasoning over Interpretable Heterogeneous Graphs.,2024-04-02,2026-04-29,2026-05-13,9,0
+42114397,10.1016/j.artmed.2026.103445,Artif Intell Med,Evidential reasoning-enabled deep learning for reliable treatment outcome prediction in ca,2025-11-23,2026-05-04,2026-05-12,3,0
+42102644,10.1016/j.artmed.2026.103429,Artif Intell Med,EPPCMinerBen: A novel benchmark for evaluating large language models on electronic patient,2025-10-02,2026-04-18,2026-05-09,6,0
+42085854,10.1016/j.artmed.2026.103440,Artif Intell Med,DARE: A Deformable Adaptive Regularization Estimator for learning-based medical image regi,2025-05-18,2026-04-22,2026-05-06,6,0
+42066520,10.1016/j.artmed.2026.103427,Artif Intell Med,Patient preference analysis for online consultation based on user-generated content.,2025-06-06,2026-04-16,2026-05-02,4,0
+42035594,10.1016/j.artmed.2026.103439,Artif Intell Med,Topo-UNet: A topology-aware multi-task network for pulmonary vessel segmentation.,2025-01-13,2026-04-22,2026-04-27,8,0
+42025393,10.1016/j.artmed.2026.103428,Artif Intell Med,Adaptive time-frequency decomposition informer for pathological rest tremor sequence predi,2025-02-12,2026-04-16,2026-04-24,5,0
+42019107,10.1016/j.artmed.2026.103426,Artif Intell Med,Tackling small sample survival analysis via transfer learning: A study of colorectal cance,2025-01-18,2026-04-08,2026-04-23,10,0
+41967286,10.1016/j.artmed.2026.103424,Artif Intell Med,Application research of dynamic chaotic sequence generation mechanism in pre-hospital emer,2025-07-20,2026-04-08,2026-04-13,5,0
+41967285,10.1016/j.artmed.2026.103423,Artif Intell Med,DMVHP-IBS: Dynamic feature-integrated multi-modal prediction of virus-host protein interac,2025-08-01,2026-04-08,2026-04-13,5,0
+41966585,10.1016/j.artmed.2026.103425,Artif Intell Med,Multi-domain based heterogeneous network for drug-target interaction prediction.,2024-12-31,2026-04-08,2026-04-12,6,0
+41932206,10.1016/j.artmed.2026.103413,Artif Intell Med,Reinforcement learning for real-time adaptive radiotherapy.,2025-10-31,2026-03-19,2026-04-04,8,0
+41886942,10.1016/j.artmed.2026.103408,Artif Intell Med,Identifying and timing patient outcomes in clinician notes using large language models.,2025-05-15,2026-03-06,2026-03-27,7,0
+41855728,10.1016/j.artmed.2026.103411,Artif Intell Med,An artificial intelligence approach to support adolescent suicide prevention initiatives i,2025-10-02,2026-03-13,2026-03-20,12,0
+41850098,10.1016/j.artmed.2026.103405,Artif Intell Med,PDAFormer 3+: A full-scale connected modified transformer with parallel dual attention for,2025-02-01,2026-02-19,2026-03-19,4,0
+41830733,10.1016/j.artmed.2026.103392,Artif Intell Med,PatientFlow: Learning to generate mixed-type longitudinal clinical data with flow matching,2025-06-13,2026-03-02,2026-03-15,5,0
+41825437,10.1016/j.artmed.2026.103395,Artif Intell Med,TabulaTime: Novel multimodal deep learning for Acute Coronary Syndrome prediction through ,2025-07-01,2026-03-02,2026-03-14,8,0
+41812385,10.1016/j.artmed.2026.103391,Artif Intell Med,Improving organizational processes in healthcare through simulation-driven resource alloca,2025-05-28,2026-03-02,2026-03-12,6,0
+41812384,10.1016/j.artmed.2026.103397,Artif Intell Med,A multi-feature alignment fusion neural network model for red blood cell aggregation class,2025-01-07,2026-03-02,2026-03-12,6,0
+41806520,10.1016/j.artmed.2026.103390,Artif Intell Med,Precise estimation of tissue microstructure with hybrid graph transformer.,2024-11-03,2026-03-02,2026-03-11,7,0
+41806518,10.1016/j.artmed.2026.103394,Artif Intell Med,Twin cross contrastive learning with multi-modality fusion for drug-target affinity predic,2025-06-22,2026-03-02,2026-03-11,5,0
+41795506,10.1016/j.artmed.2026.103396,Artif Intell Med,Syndrome differentiation of Traditional Chinese Medicine via multiple knowledge enhancemen,2025-07-02,2026-03-02,2026-03-08,7,0
+41785585,10.1016/j.artmed.2026.103398,Artif Intell Med,EvoPS: Evolutionary Patch Selection in the Training Embedding Space of Whole Slide Images.,2025-11-30,2026-03-02,2026-03-06,2,0
+41734640,10.1016/j.artmed.2026.103388,Artif Intell Med,CL-MHAD: Contrastive Learning-based Multi-Hypergraph Aggregation and Diffusion model for p,2025-09-30,2026-02-17,2026-02-25,5,0
+41722536,10.1016/j.artmed.2026.103378,Artif Intell Med,TADynFed: Dynamic modality-adaptive federated learning with tissue-aware disentanglement f,2025-07-16,2026-02-10,2026-02-22,7,0
+41713110,10.1016/j.artmed.2026.103377,Artif Intell Med,GFASNet: Gait feature attention-driven deep sequential network for dementia-related gait p,2025-06-12,2026-02-10,2026-02-20,7,0
+41713109,10.1016/j.artmed.2026.103379,Artif Intell Med,Size doesn't matter: Assessing the trustworthiness of large language models in medical con,2025-07-23,2026-02-10,2026-02-20,5,0
+41707487,10.1016/j.artmed.2026.103372,Artif Intell Med,A Character-level Convolutional Recurrent Interaction Network for joint traditional Chines,2024-11-18,2026-01-30,2026-02-19,9,0
+41671610,10.1016/j.artmed.2026.103364,Artif Intell Med,PreLora: A fine-tuning approach with low-rank matrix decomposition and prefix tuning for p,2025-01-20,2026-01-20,2026-02-11,13,0
+41655396,10.1016/j.artmed.2026.103366,Artif Intell Med,Calibration-informed metrics for instance-level predictive reliability in medical AI.,2025-10-03,2026-01-20,2026-02-09,1,0
+41655395,10.1016/j.artmed.2026.103376,Artif Intell Med,Towards more efficient and better multi-view and multi-modal retinopathy assisted diagnosi,2025-01-23,2026-02-03,2026-02-09,3,0
+41653675,10.1016/j.artmed.2026.103370,Artif Intell Med,A novel ECG QRS complex detection algorithm based on dynamic Bayesian network.,2024-11-25,2026-01-27,2026-02-08,5,0
+41650580,10.1016/j.artmed.2026.103374,Artif Intell Med,Uncertainty in deep learning for EEG under dataset shifts.,2025-07-09,2026-02-02,2026-02-07,5,0
+41633018,10.1016/j.artmed.2026.103371,Artif Intell Med,EEG-based epileptic seizure prediction with patient-tailored spectral-spatial-temporal fea,2025-04-09,2026-01-27,2026-02-03,6,0
+41619514,10.1016/j.artmed.2026.103369,Artif Intell Med,Double Graph Attention Network for predicting non-alcoholic fatty liver disease in patient,2024-11-23,2026-01-27,2026-02-01,10,0
+41610818,10.1016/j.artmed.2026.103368,Artif Intell Med,From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artific,2025-10-30,2026-01-24,2026-01-30,18,0
+41604873,10.1016/j.artmed.2026.103365,Artif Intell Med,IKDP: Implicit Knowledge Enhanced Disease Prediction via heterogeneous admission sequence ,2025-06-03,2026-01-20,2026-01-29,7,0
+41576486,10.1016/j.artmed.2026.103353,Artif Intell Med,BRLA-DDI: A novel framework for drug-drug interaction extraction.,2024-11-17,2026-01-15,2026-01-23,6,0
+41558310,10.1016/j.artmed.2026.103352,Artif Intell Med,Rethinking U-Net architecture in medical imaging: Advancing the efficient and interpretabl,2025-03-07,2026-01-12,2026-01-21,5,0
+41554188,10.1016/j.artmed.2026.103351,Artif Intell Med,Mitigating data center bias in cancer classification: Transfer bias unlearning and feature,2025-04-22,2026-01-05,2026-01-19,3,0
+41529539,10.1016/j.artmed.2026.103349,Artif Intell Med,Siamese evolutionary masking: Enhancing the generalization of self-supervised medical imag,2024-12-20,2026-01-05,2026-01-14,4,0
+41512598,10.1016/j.artmed.2026.103350,Artif Intell Med,Integrating probabilistic trees and causal networks for clinical and epidemiological data.,2025-01-22,2026-01-05,2026-01-10,4,0
+41506063,10.1016/j.artmed.2025.103345,Artif Intell Med,B2E-CDG: Conditional diffusion-based for label-free OCT angiography artifact removal and r,2025-06-03,2025-12-27,2026-01-09,5,0
+41506062,10.1016/j.artmed.2025.103346,Artif Intell Med,Learning Health Systems provide a glide path to safe landing for AI in health.,2025-07-26,2025-12-28,2026-01-09,14,0
+41506061,10.1016/j.artmed.2025.103347,Artif Intell Med,Smiling difficulties in Alzheimer's disease linked to reduced nucleus accumbens and pallid,2025-01-05,2025-12-29,2026-01-09,5,0
+41494363,10.1016/j.artmed.2025.103348,Artif Intell Med,Tackling data scarcity: Synthetic tumour and mask generation to improve image segmentation,2025-08-01,2025-12-29,2026-01-07,9,0
+41478228,10.1016/j.artmed.2025.103336,Artif Intell Med,Seamless monitoring of stress levels leveraging a foundational model for time sequences.,2024-11-15,2025-12-13,2026-01-02,3,0
+41478227,10.1016/j.artmed.2025.103335,Artif Intell Med,UniStain: A unified and organ-aware virtual H&E staining framework for label-free autofluo,2025-06-16,2025-12-12,2026-01-02,8,0
+41475079,10.1016/j.artmed.2025.103338,Artif Intell Med,Multi-scale feature enhancement in multi-task learning for medical image analysis.,2025-07-05,2025-12-17,2026-01-01,6,0
+41435806,10.1016/j.artmed.2025.103337,Artif Intell Med,Clinical decision support system for detecting right ventricular dysfunction in acute pulm,2025-01-07,2025-12-13,2025-12-24,9,0
+41421129,10.1016/j.artmed.2025.103334,Artif Intell Med,Intelligent sentiment analysis with Arabic patient feedback on healthcare services in King,2024-08-17,2025-12-12,2025-12-21,5,0
+41385850,10.1016/j.artmed.2025.103333,Artif Intell Med,Regret theory-based clinical efficacy evaluation method with three-way decision.,2025-01-12,2025-12-08,2025-12-13,4,0
+41380307,10.1016/j.artmed.2025.103331,Artif Intell Med,TransFair: Transferring fairness from ocular disease classification to progression predict,2024-12-02,2025-11-29,2025-12-12,7,0
+41349237,10.1016/j.artmed.2025.103324,Artif Intell Med,ProtoRadNet: Prototypical patches of Convolutional Features for Radiology Image Classifica,2025-08-13,2025-11-27,2025-12-06,3,0
+41349236,10.1016/j.artmed.2025.103319,Artif Intell Med,Development and validation of deep continual learning model to sequentially learn multiple,2025-01-07,2025-11-25,2025-12-06,7,0
+41344072,10.1016/j.artmed.2025.103322,Artif Intell Med,QENNA: A quantum-enhanced neural network for early Alzheimer's detection using magnetic re,2025-07-17,2025-11-27,2025-12-05,9,0
+41338038,10.1016/j.artmed.2025.103314,Artif Intell Med,Data Augmentation for Few-Shot Biomedical NER Using ChatGPT.,2023-11-04,2025-11-24,2025-12-04,8,0
+41330258,10.1016/j.artmed.2025.103323,Artif Intell Med,Geometric deep learning for local growth prediction on abdominal aortic aneurysm surfaces.,2025-06-23,2025-11-27,2025-12-03,8,0
+41330257,10.1016/j.artmed.2025.103318,Artif Intell Med,Deep learning for autism detection using clinical notes: A comparison of transfer learning,2024-09-23,2025-11-24,2025-12-03,5,45
+41330256,10.1016/j.artmed.2025.103309,Artif Intell Med,SurgflowNet: Leveraging unannotated video for consistent endoscopic pituitary surgery work,2025-07-15,2025-11-13,2025-12-03,8,0
+41319399,10.1016/j.artmed.2025.103311,Artif Intell Med,MedSumGraph: enhancing GraphRAG for medical QA with summarization and optimized prompts.,2025-07-08,2025-11-21,2025-12-01,3,0
+41319398,10.1016/j.artmed.2025.103313,Artif Intell Med,Context-aware heterogeneous graph neural network for multi-level description and invasiven,2024-07-04,2025-11-24,2025-12-01,9,0
+41297151,10.1016/j.artmed.2025.103317,Artif Intell Med,A labeled ophthalmic ultrasound dataset with medical report generation based on cross-moda,2024-10-31,2025-11-24,2025-11-27,5,0
+41265341,10.1016/j.artmed.2025.103301,Artif Intell Med,A deep representation learning algorithm on drug-target interaction to screen novel drug c,2024-10-14,2025-11-02,2025-11-21,5,0
+41265340,10.1016/j.artmed.2025.103307,Artif Intell Med,CA-OCL and CHAN: A novel diagnostic framework for rheumatoid arthritis integrating contrad,2025-06-18,2025-11-12,2025-11-21,3,0
+41260195,10.1016/j.artmed.2025.103306,Artif Intell Med,Weakly-supervised ultrasound image segmentation with elliptical shape prior constraint.,2024-12-25,2025-11-12,2025-11-20,7,0
+41260194,10.1016/j.artmed.2025.103299,Artif Intell Med,Deformable phrase level attention: A flexible approach for improving AI based medical codi,2024-04-14,2025-11-02,2025-11-20,5,0
+41252887,10.1016/j.artmed.2025.103304,Artif Intell Med,Enhancing transformer-based architectures with geometric deep learning for colonoscopic po,2024-10-28,2025-11-11,2025-11-19,3,0
+41241976,10.1016/j.artmed.2025.103305,Artif Intell Med,Detecting depression through speech and text from casual talks with fully automated virtua,2024-11-12,2025-11-12,2025-11-16,6,0
+41237464,10.1016/j.artmed.2025.103288,Artif Intell Med,Frequency-based boundary-guided attention network for domain generalizable polyp segmentat,2025-01-07,2025-10-21,2025-11-14,2,0
+41207085,10.1016/j.artmed.2025.103298,Artif Intell Med,Hierarchical classification for differential diagnosis of fever of unknown origin: A multi,2023-10-23,2025-11-02,2025-11-10,6,0
+41197439,10.1016/j.artmed.2025.103289,Artif Intell Med,Multi-annotation agreement and prediction consistency networks: Improving semi-supervised ,2024-11-29,2025-10-23,2025-11-07,11,0
+41197438,10.1016/j.artmed.2025.103297,Artif Intell Med,LkaM-PTM: Predicting PTM sites through multimodal protein features from capturing cross-fi,2025-01-16,2025-10-31,2025-11-07,2,0
+41175548,10.1016/j.artmed.2025.103282,Artif Intell Med,Investigation of synonym expansion and self-alignment pretraining for enhancing Human Phen,2024-09-21,2025-10-15,2025-11-02,5,0
+41172576,10.1016/j.artmed.2025.103285,Artif Intell Med,SpineCLUE: Automatic vertebrae identification using contrastive learning and uncertainty e,2024-08-18,2025-10-21,2025-11-01,8,0
+41166823,10.1016/j.artmed.2025.103287,Artif Intell Med,Multi-modal medical image synthesis via dual-branch wavelet encoding and deformable featur,2025-05-28,2025-10-21,2025-10-31,7,0
+41151346,10.1016/j.artmed.2025.103286,Artif Intell Med,An explainable three dimensional framework to uncover learning patterns: A unified look in,2024-11-30,2025-10-21,2025-10-29,11,0
+41151345,10.1016/j.artmed.2025.103283,Artif Intell Med,Automation or augmentation? The impact of artificial intelligence's technological characte,2025-06-18,2025-10-16,2025-10-29,2,0

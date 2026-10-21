@@ -1,0 +1,24 @@
+id,source,severity,concern,action_taken,files,status
+A1,Agent A,MAJOR,'Pre-registered' overstated; amendments D5-D7 after results; H7 and E7 spec mismatches unlogged,Terminology changed to 'pre-specified'; D8-D11 logged; amendment count and post-hoc status stated in Methods 2.1,"manuscript, deviations.md, protocol §12",Fixed (disclosure)
+A2,Agent A,MAJOR,Under-coverage attributed to drift untested,"E10 diagnostic, R1 (4 origins), R4 finite-sample, R5 trend added; text decomposes shortfall (≈0.3 finite-sample, ≈1.5 truncation, ≈1.2 residual change/other)","Results 3.3, Discussion",Fixed; residual cause remains unexplained (disclosed)
+A3,Agent A,MAJOR,H5 depends on reference count (not pre-submission); journal- vs article-weighted gains differ,"R2 pre-submission-only run: 1.4% vs control [1.0,1.9], 1.6% vs F4 [1.1,2.1]; text reports both and the no-C5 effect",Results 3.6,"Fixed (reported); H5 verdict stays 'not supported' for primary spec, borderline for strict spec"
+A4,Agent A,MAJOR,Shrinkage conclusion not a test of shrinkage (lognormal; n>=100),F7 (shrunk empirical quantiles) and F8 (6-month persistence) tested incl. n>=30; no gain; text limits the claim; small-n regime has only 6 journals,Results 3.2,Fixed (limited claim); small-n regime untestable here
+A5,Agent A,MAJOR,'Results replicated' overstated; E9 non-random; coverage shortfall not reproduced,"'Replicated' removed; E9 described as non-random, smaller shortfall (−0.8 pts) stated","Abstract, 3.7",Fixed
+A6,Agent A,MAJOR,"Manuscript not submission-ready (placeholders, DOI, hash log)",Placeholders remain by design (authors); data manifest with decompressed-content hashes added; DOI deposit still impossible here,"declarations, data_manifest.json",OPEN (blocks READY)
+A7,Agent A,MODERATE,"Weak F2, only two origins, arbitrary 72 d",Rationale for 72 d added; four origins exploratory; richer baselines listed as limitation,Methods/Limitations,Disclosed
+A8,Agent A,MODERATE,"Fast-end result: 23 origins/19 journals, winner's curse",n_journals and caveat added to text,Results 3.5,Disclosed
+A9,Agent A,MODERATE,Manuscript says fast journals concentrated in 'engineering'; data show engineering/computing lowest,"Replaced by coded field table (D6): chem/materials/physics 28%, clinical 23%, eng/computing 7%, other 10%",Results 3.5,Fixed
+A10,Agent A,MODERATE,CP intervals ignore clustering,Journal-cluster bootstrap CI added to text and Table 4,Results 3.5,Fixed
+A11,Agent A,MODERATE,Frame defined with 2023 data; eligibility needs >=50 target papers,Limitation added,Limitations,Disclosed
+A12,Agent A,MODERATE,Very fast D may be resubmission dates,Sensitivity excluding 6 journals with median <30 d: conclusions unchanged,results/sensitivity_excl_median_lt30,Fixed (sensitivity)
+A13,Agent A,MODERATE,Prior-art search thin,search_log.md reconstructed; limitation stated; search not extended systematically,literature_review/search_log.md,Disclosed; OPEN for systematic search
+A14,Agent A,MINOR,Stale journal_comparison/selected_journal; inconsistent sampling windows,Updated and annotated,journal_selection/,Fixed
+A15,Agent A,MINOR,Runtime leakage assertion tautological,"Acknowledged: leakage control rests on construction + unit tests, not the assertion",data_leakage_audit.md,Disclosed
+B1,Agent B,MAJOR,Raw/processed data not in git,Raw snapshots un-ignored for commit (see commit); top-level README states data location; DOI deposit open,"README, .gitignore",Fixed if push succeeds; DOI OPEN
+B2,Agent B,MAJOR,Orphan shape_diagnostics file,shape_diagnostics.py added (reproduces file byte-identically) and added to pipeline,code/src,Fixed
+B3,Agent B,MODERATE,Bootstrap sizes undisclosed,D11a + Methods text corrected,"manuscript, deviations",Fixed
+B4,Agent B,MODERATE,Drift null differs from protocol,D11b + protocol §12,protocol,Fixed
+B5,Agent B,MODERATE,Frame duplicates (802 vs 800),D11e + manuscript Methods,manuscript,Fixed (disclosed)
+B6,Agent B,MODERATE,Stale amendment count; pipeline lacks post-hoc scripts,Count updated; scripts added to run_pipeline.sh,"manuscript, run_pipeline.sh",Fixed
+B7,Agent B,MODERATE,Protocol text not amended,Protocol §12 amendments,protocol,Fixed
+B8,Agent B,MINOR,requirements incomplete; timing claim; README dangling refs; hidden choices,requirements pinned; README timing corrected; final_audit.md created; hidden choices in D11/protocol §12,various,Fixed

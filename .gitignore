@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 .pytest_cache/
-data/raw/crossref/
-data/raw/pubmed/
+
+
 data/processed/
 *.tmp
 journal_selection/raw/*.html
