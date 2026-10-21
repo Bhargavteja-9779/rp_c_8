@@ -1,0 +1,32 @@
+{
+ "independent_recompute_25_journal_origins_max_abs_pinball_diff": {
+  "F3": 8.326672684688674e-17,
+  "F6": 8.326672684688674e-17,
+  "F4": 8.326672684688674e-17
+ },
+ "share_D_le_7": 0.01157835224123226,
+ "share_D_le_14": 0.019858477590442052,
+ "accept_weekday_share": {
+  "0": 0.1897,
+  "1": 0.1751,
+  "2": 0.1639,
+  "3": 0.1566,
+  "4": 0.145,
+  "5": 0.0812,
+  "6": 0.0885
+ },
+ "received_weekday_share": {
+  "0": 0.1694,
+  "1": 0.1754,
+  "2": 0.1692,
+  "3": 0.1638,
+  "4": 0.1511,
+  "5": 0.0862,
+  "6": 0.0849
+ },
+ "heaping_ratio_D_multiple_of_30_vs_neighbours": 0.9977752444696456,
+ "heaping_ratio_D_multiple_of_7_vs_others": 1.0666881848555263,
+ "journals_with_median_le_30": 1,
+ "journals_with_share_D_le_10_gt_30pct": 2,
+ "journals_with_bimodal_flag_share_D_le_10_between_10_and_30pct": 31
+}

@@ -1,0 +1,103 @@
+{
+ "phillips2025": {
+  "doi": "10.1001/jamanetworkopen.2025.12545",
+  "title": "Review and Publication Times and Reporting Across Journals on Health Policy",
+  "year": 2025,
+  "venue": "JAMA Network Open",
+  "authors": [
+   "Phillips, K.",
+   "Horn, D."
+  ],
+  "volume": "8",
+  "issue": "5",
+  "page": "e2512545"
+ },
+ "hanson2024": {
+  "doi": "10.1162/qss_a_00327",
+  "title": "The strain on scientific publishing",
+  "year": 2024,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Hanson, M.",
+   "Barreiro, P.",
+   "Crosetto, P.",
+   "Brockington, D."
+  ],
+  "volume": "5",
+  "issue": "4",
+  "page": "823-843"
+ },
+ "hadavand2024": {
+  "doi": "10.1257/jel.20221653",
+  "title": "Publishing Economics: How Slow? Why Slow? Is Slow Productive? How to Fix Slow?",
+  "year": 2024,
+  "venue": "Journal of Economic Literature",
+  "authors": [
+   "Hadavand, A.",
+   "Hamermesh, D.",
+   "Wilson, W."
+  ],
+  "volume": "62",
+  "issue": "1",
+  "page": "269-293"
+ },
+ "luwel2020": {
+  "doi": "10.1007/978-3-030-47665-6_4",
+  "title": "Characteristics of Publication Delays Over the Period 2000\u20132016",
+  "year": 2020,
+  "venue": "Evaluative Informetrics: The Art of Metrics-Based Research Assessment",
+  "authors": [
+   "Luwel, M.",
+   "van Eck, N.",
+   "van Leeuwen, T."
+  ],
+  "volume": null,
+  "issue": null,
+  "page": "89-114"
+ },
+ "sebo2019": {
+  "doi": "10.1007/s11192-019-03061-8",
+  "title": "Factors associated with publication speed in general medical journals: a retrospective study of bibliometric data",
+  "year": 2019,
+  "venue": "Scientometrics",
+  "authors": [
+   "Sebo, P.",
+   "Fournier, J.",
+   "Ragot, C.",
+   "Gorioux, P.",
+   "Herrmann, F.",
+   "Maisonneuve, H."
+  ],
+  "volume": "119",
+  "issue": "2",
+  "page": "1037-1058"
+ },
+ "dianovics_lifecycle": {
+  "doi": "10.71240/lcyc.084124",
+  "title": "Acceptance and publication lags in scholarly journals between 2016 and 2025",
+  "year": 2025,
+  "venue": "",
+  "authors": [
+   "Dianovics, D.",
+   "Varga, M.",
+   "Bognar, M.",
+   "Aczel, B."
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null
+ },
+ "dejonge2026": {
+  "doi": "10.1371/journal.pone.0345417",
+  "title": "Manuscript submission systems and metadata completeness in Crossref: Patterns and associations",
+  "year": 2026,
+  "venue": "PLOS One",
+  "authors": [
+   "de Jonge, H.",
+   "Kramer, B."
+  ],
+  "volume": "21",
+  "issue": "3",
+  "page": "e0345417"
+ }
+}

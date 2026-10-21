@@ -1,0 +1,15 @@
+# Independent re-evaluation of the actual contribution (Phase 2) (items 1–12 assess the v1 paper only; note that experiments X2–X3 had already been executed when this was written, the plan below uses them)
+1. **Question actually answered:** can a journal's visible past turnaround be used as a calibrated forecast of the time to acceptance of papers submitted next, and how far can "≤ T days" claims be trusted?
+2. **New knowledge established (v1):** journal history gives ≈16 % lower loss than publisher-pooled forecasts; 80 % intervals span ≈5× and cover ≈77 %; 12 % of journal-origins accepted ≥ half their papers within 72 d; covariates add 1–3 %.
+3. **What does it do that established work does not?** It evaluates out of time with proper scoring rules (prior art found none; reviewer C).
+4. **Meaningful difference?** Moderately: calibration shortfall of ~3 points and forecast intervals of ×5 are practically relevant; the *ranking* of forecasters differs by <2 % of loss and is not.
+5. **Contribution type:** empirical/methodological (evaluation design + finding). Not a new method.
+6. **New finding or known result?** Variance partition ≈ known (Björk & Solomon 2013); drift ≈ known; the out-of-time calibration/optimism and the 72-day-claim analysis are new but narrow.
+7. **Evidence supports scope?** For three date-depositing publishers; not for Elsevier/IEEE; `received` semantics unverifiable (largest threat).
+8. **Valuable if the main improvement disappears?** There is no "main improvement" — the paper is a measurement study; its value rests on the measurement and on guidance it can legitimately give.
+9. **Two-sentence statement:** *Using 1.7 million publisher-deposited dates, we show that a journal's past 12-month turnaround is a useful but wide forecast whose 80 % intervals under-cover later papers by ~3 points, that simple empirical quantiles are as good as parametric, shrinkage or learned forecasters, and that "≤72 days" claims are supported for a small minority of journals and overstate future speed.*
+10. **Skeptical editor:** "descriptive scientometrics with a forecasting wrapper; mostly negative hypotheses; does not observe peer review".
+11. **Simpler experiment?** Yes, one could just report medians — the paper's point is that this is not enough and by how much.
+12. **Strongest legitimate rejection argument:** the contribution is incremental measurement with unverifiable date semantics and a three-publisher frame, positioned in a journal whose scope is integrity/peer-review behaviour rather than publishing-speed forecasting.
+
+**Consequence → plan:** Path **A+B** — strengthen with evidence that closes the validity gap (independent test of the `received` date), turn the observed under-coverage into a *tested remedy* (out-of-time recalibration), test whether learned forecasters beat the simple one (simpler-method challenge), fix dependence handling, and reframe the paper as an evidence-based reporting/forecast standard with an honest scope statement. Not Path C/D: the question is meaningful and no scooping work was found.
