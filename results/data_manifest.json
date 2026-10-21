@@ -1,0 +1,8 @@
+{
+ "articles_clean.csv.gz": "dcfc23ecdb681d3d8911cc5dc5c933308f3e1737cfd4c8a0931b6f41bf96b2fe",
+ "articles_clean_noC5.csv.gz": "334c22ceb872f8bb96b5357e749fb09e377d2cd9d3986d07109da898f82e54c0",
+ "frame_eligible.json": "f96955326aa44e6733e4bdda967f1442b14130c4e408895df3d6ec3e3a8938d9",
+ "n_crossref_files": 802,
+ "n_pubmed_files": 48,
+ "collected": "2026-10-20/21 (Crossref REST API, PubMed E-utilities)"
+}
