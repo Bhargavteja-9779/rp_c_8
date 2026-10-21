@@ -7,3 +7,4 @@ data/processed/
 *.tmp
 journal_selection/raw/*.html
 journal_selection/raw/cj.txt
+results_quick_*/

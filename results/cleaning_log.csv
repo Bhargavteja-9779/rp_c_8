@@ -1,0 +1,9 @@
+rule,n
+start,1829907
+C6_duplicate_doi_removed,5519
+C1_unparsable,0
+C2_D_out_of_range,10530
+C3_accepted_after_pub,13595
+C4_received_before_min,1
+C5_nonresearch,62990
+final,1737272
