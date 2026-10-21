@@ -1,36 +1,37 @@
-# Selected journal (BEST-AVAILABLE — NOT COMPLIANT WITH THE HARD 72-DAY CONSTRAINT)
+# Selected journal — REVISED 2026-10-21 after topic selection
+(The first version selected *J. King Saud Univ. CIS* for a machine-learning topic; that topic was abandoned (Gate C), so the selection was redone for the final topic: meta-research on journal turnaround. The superseded version is in git history.)
 
-> **Status: TIMELINE UNVERIFIED — DOES NOT SATISFY THE HARD CONSTRAINT.** JCR quartile **UNVERIFIED**. Selected only because no journal satisfied the constraint (see `journal_verification.md`).
+> **Status: TIMELINE NOT VERIFIED AS ≤ 72 DAYS — DOES NOT SATISFY THE HARD CONSTRAINT. JCR QUARTILE NOT VERIFIED (secondary sources only).**
+> The target is "scope-appropriate, least-deviating among journals publishing peer-review / publication-process meta-research", chosen because no scope-appropriate journal satisfies the constraint.
 
+## Primary target: *Accountability in Research: Policies and Quality Assurance* (Taylor & Francis)
 | Field | Value | Verification |
 |---|---|---|
-| Journal | Journal of King Saud University – Computer and Information Sciences (JKSU-CIS) | – |
-| Publisher | Springer Nature, on behalf of King Saud University (DOAJ lists "Springer, CH"; some aggregators still say Elsevier) | DOAJ API 2026-10-20 |
-| ISSN / eISSN | 1319-1578 / 2213-1248 | DOAJ + Crossref |
-| Model | Fully open access (since 2025 per DOAJ), CC BY / CC BY-NC-ND | DOAJ |
-| APC | up to €1,790 / US$2,090 / £1,590 (waivers for some countries) | DOAJ; confirm on publisher site |
-| Peer review | Double anonymous | DOAJ |
-| JIF | 6.1–6.4 reported by Springer page/aggregators (snippet), **not verified in JCR** | secondary |
-| JCR category / quartile | **Unverified** (no JCR access). Aggregator claims "Q1" without a JCR category; not accepted | – |
-| Observed submission→acceptance | median 87 d, IQR 68–112, P90 136, 31.1 % ≤ 72 d (n=399 papers published ≥ 2025-07) | Crossref sample, survivorship-biased |
-| Reported (publisher) timeline | **Not found** (official page not retrievable) | – |
-| Scope | General computer and information sciences (AI/ML, data mining, information systems, etc.) | web snippets; re-verify at <https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences/publish/guide-for-authors> (403 to this environment) and the Springer journal page |
-| Length guidance | Snippet: ~6,000 words, numbered sections, title page with ORCID | **to be re-verified by the authors** |
+| Publisher | Taylor & Francis (Routledge) | aggregator listing; to confirm on publisher site |
+| ISSN | 0898-9621 (print); eISSN 1545-5815 | Crossref query by ISSN returned the journal |
+| Scope | "examination and critical analysis of practices and systems for promoting integrity in the conduct of research" (interdisciplinary forum for ethics, procedures, standards, policies on research conduct) | secondary (search snippet); official aims & scope page **not retrieved** |
+| Evidence that peer-review / publication-process studies are in scope | 2020–2026 articles retrieved from Crossref: e.g. *Author academic influence and manuscript acceptance: Evidence from peer review in Cell Press journals* (10.1080/08989621.2025.2521083); *On the (ab)use of special issues in scholarly journals* (10.1080/08989621.2024.2439434); *Characteristics of blacklisted journals* (10.1080/08989621.2022.2112953); *Cultural distance, gender and praise in peer review* (10.1080/08989621.2024.2409310) | Crossref records |
+| JIF / JCR | aggregator: 2024 JIF 4.0; JCR "Medical Ethics" Q1 | **UNVERIFIED** (no Clarivate access) |
+| Observed submission→acceptance | median 105.5 d, IQR 71–141, **27.4 % ≤ 72 d** (n=164 papers published ≥ 2024-01; Crossref assertions; survivorship-biased) | own sample `journal_selection/turnaround_samples_infosci.csv` |
+| Publisher-reported timeline | not retrieved | – |
+| APC / model | hybrid (subscription + OA option); APC not verified | to confirm |
+| Data/code policy, length limits, reference style | **not retrieved** (publisher pages return 403) — must be read by the authors before formatting | – |
 
-## Why this journal
-* Closest-to-constraint among journals whose scope fits a data-science/ML methodology paper (87-d observed median; the only faster venues are Frontiers titles and niche medical-informatics venues).
-* Scope accepts empirical-methodology work on machine-learning evaluation.
+**Why this journal:** the only scope-appropriate venues examined are slow; this one has the shortest observed median (105 d) and a materially higher share (27 %) of papers accepted within 72 d than the alternatives, while publishing the same genre (bibliometric / meta-research on peer review).
 
-## Principal risks
-1. **Timeline:** only 31 % of published papers met 72 d; individual outcome is uncertain and unbounded by any guarantee.
-2. **Quartile unverified:** the Q1 requirement is not demonstrated.
-3. **Scope/novelty bar:** an audit-style paper must show methodological contribution beyond "leakage exists".
-4. **Publisher/guideline ambiguity:** the journal moved from Elsevier to Springer Nature; instructions must be re-read before submission.
-5. APC cost.
+## Alternatives (all non-compliant)
+| Journal | Observed median (n) | % ≤72 d | Notes |
+|---|---|---|---|
+| *Research Integrity and Peer Review* (BMC / Springer Nature) | 133.5 d (104; Crossref) — **publisher-reported median 194 d** | 8.7 | Best scope match; journal page reports JIF 10.7 (2024); JCR Q1 per aggregator (unverified); APC up to €2,190 (DOAJ). Our own sample and the publisher figure disagree (itself an instance of the study's theme) |
+| *Scientometrics* (Springer) | 204.5 d (296) | 5.7 | JCR (mirror): Information Science & Library Science Q1; CS Interdisciplinary Applications Q2; observed far from 72 d |
+| *Learned Publishing* (Wiley) | 172.5 d (160) | 13.8 | scope fit moderate |
+| *JASIST* (Wiley) | 238 d (229) | 3.5 | |
+| *Quantitative Science Studies*, *J. Informetrics*, *Research Evaluation* | not measurable (dates not deposited) | – | **TIMELINE UNVERIFIED** |
 
-## Backup targets (also non-compliant)
-* *Frontiers in Artificial Intelligence* (closest median, 73.5 d; prestige lower).
-* *Machine Learning* (Springer; best scope fit, median 201 d).
-* *Knowledge-Based Systems* (Elsevier; JCR CS-AI Q1 per mirror; official 165 d).
+## Principal rejection / timeline risks
+1. Timeline: ≤ 72 d is not supported for any scope-appropriate journal; for the primary target only ~27 % of published papers meet it.
+2. Editors may view a descriptive-plus-forecasting bibliometric study as incremental (see `review/`).
+3. Quartile/IF unverified; scope statement unverified from the official page.
+4. The publisher-defined meaning of "received" varies; some journals' dates look like re-submission dates (limitation stated in the manuscript).
 
-Confidence in this selection: **low-to-moderate** (judgement under a constraint that cannot be met).
+Confidence in this selection: **low-to-moderate**.

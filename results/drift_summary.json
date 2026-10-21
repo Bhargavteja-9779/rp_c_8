@@ -1,0 +1,6 @@
+{
+ "n_pairs": 3105,
+ "variance_ratio": 7.338059242301291,
+ "share_abs_delta_gt_0_2": 0.18776167471819646,
+ "median_abs_delta": 0.08796877294595706
+}

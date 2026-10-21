@@ -44,3 +44,13 @@ See `raw/observed_table_top25.md` and `journal_comparison.md`.
 ## 5. Consequence for the project
 
 Because the hard constraint cannot be met by any journal that could be examined, the Director records this as an **open, disclosed Gate-A failure** (not a pass). The project continues with a *best-available, non-compliant* target so the scientific work is not blocked, and the author must decide whether to accept that deviation. If the author insists on a literal ≤72-day guarantee, no honest journal choice exists, since no journal can guarantee it.
+
+---
+## 6. ADDENDUM (2026-10-21) — correction of scope of the "no journal ≤72 d" finding
+
+After the main study dataset (800 Springer Nature / Wiley / Taylor & Francis journals, 1.74 M dated articles; `results/`) was collected, the acceptance-cohort statistics for papers **accepted 2025-04-20 → 2026-10-20** showed that **61 of 773 journals (≥100 recent papers) have a deposited-date median submission→acceptance ≤ 72 days, 62 have ≥ 50 % of papers within 72 days, and 6 have ≥ 80 %** (e.g. *Science China Chemistry* median 49 d, *Science China Materials* 52 d, *Asian Journal of Civil Engineering* 33 d, *Journal of Polymer Science* 66 d).
+
+Consequences:
+1. The statement in §1 ("none of 100 journals…") is **true only for the 100-journal list screened in Step 0**, which was assembled by me from computing/biomedical-informatics-oriented names and is **not a random sample of journals**. It must not be read as "no journal meets 72 days".
+2. Journals meeting a ≤72-d *observed* median do exist, but (i) they are in chemistry/materials/physics/clinical-medicine/civil-engineering — none is a computing, information-science or meta-research journal; (ii) deposited "received" dates are publisher-defined and some medians (e.g. 10–30 d) suggest that "received" can be a re-submission date for some journals (unverifiable here); (iii) the same study shows turnaround **drifts** (18.8 % of journal-year pairs shift by > 0.2 ln-units) and that "fast" evidence over-predicts future speed (forecast P(D≤72)≈0.86 → realised 0.74 in the highest bin), so even these are not guarantees; (iv) JCR quartile of these journals is unverified.
+3. Because the research topic (meta-research on publication delay) cannot credibly be published in those fields, the selected journal remains a **scope-appropriate but non-compliant** target (see `selected_journal.md`). The author may instead choose to prioritise the timeline and change the *topic* to a field where a fast, verified Q1 journal exists; this is a trade-off the project cannot resolve without author input.
