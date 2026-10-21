@@ -1,0 +1,123 @@
+{
+ "n_records": 6829,
+ "n_journals": 388,
+ "by_server": {
+  "ResearchSquare": {
+   "n": 4222,
+   "n_journals": 301,
+   "median_delta": -13.0,
+   "q25": -29.0,
+   "q75": -6.0,
+   "share_abs_le_14": 0.4497868308858361,
+   "share_received_le_posted_plus_14": 0.9142586451918522,
+   "share_received_gt_posted_plus_90": 0.04784462340123164,
+   "share_received_gt_posted_plus_180": 0.0246328754144955,
+   "median_D": 129.0
+  },
+  "bioRxiv/medRxiv": {
+   "n": 1927,
+   "n_journals": 232,
+   "median_delta": 17.0,
+   "q25": -1.0,
+   "q75": 102.0,
+   "share_abs_le_14": 0.3544369486248054,
+   "share_received_le_posted_plus_14": 0.4789828749351323,
+   "share_received_gt_posted_plus_90": 0.27296315516346653,
+   "share_received_gt_posted_plus_180": 0.16087182148417228,
+   "median_D": 131.0
+  },
+  "other": {
+   "n": 680,
+   "n_journals": 167,
+   "median_delta": -1.0,
+   "q25": -20.25,
+   "q75": 21.0,
+   "share_abs_le_14": 0.47352941176470587,
+   "share_received_le_posted_plus_14": 0.7382352941176471,
+   "share_received_gt_posted_plus_90": 0.1514705882352941,
+   "share_received_gt_posted_plus_180": 0.07058823529411765,
+   "median_D": 134.0
+  }
+ },
+ "ResearchSquare_fast_looking": {
+  "n": 391,
+  "n_journals": 30,
+  "median_delta": -10.0,
+  "q25": -19.0,
+  "q75": -5.0,
+  "share_abs_le_14": 0.5396419437340153,
+  "share_received_le_posted_plus_14": 0.9258312020460358,
+  "share_received_gt_posted_plus_90": 0.04603580562659847,
+  "share_received_gt_posted_plus_180": 0.020460358056265986,
+  "median_D": 70.0
+ },
+ "ResearchSquare_not_fast": {
+  "n": 3831,
+  "n_journals": 271,
+  "median_delta": -13.0,
+  "q25": -30.0,
+  "q75": -6.0,
+  "share_abs_le_14": 0.440616027146959,
+  "share_received_le_posted_plus_14": 0.9130775254502741,
+  "share_received_gt_posted_plus_90": 0.04802923518663534,
+  "share_received_gt_posted_plus_180": 0.025058731401722788,
+  "median_D": 136.0
+ },
+ "ResearchSquare_flagged": {
+  "n": 247,
+  "n_journals": 26,
+  "median_delta": -11.0,
+  "q25": -21.0,
+  "q75": -6.0,
+  "share_abs_le_14": 0.48582995951417,
+  "share_received_le_posted_plus_14": 0.9068825910931174,
+  "share_received_gt_posted_plus_90": 0.05668016194331984,
+  "share_received_gt_posted_plus_180": 0.024291497975708502,
+  "median_D": 87.0
+ },
+ "ResearchSquare_by_member": {
+  "Springer Nature": {
+   "n": 4018,
+   "n_journals": 212,
+   "median_delta": -14.0,
+   "q25": -30.0,
+   "q75": -6.0,
+   "share_abs_le_14": 0.4659034345445495,
+   "share_received_le_posted_plus_14": 0.9509706321553012,
+   "share_received_gt_posted_plus_90": 0.025883524141363863,
+   "share_received_gt_posted_plus_180": 0.014186162269785963,
+   "median_D": 130.0
+  },
+  "Taylor & Francis": {
+   "n": 61,
+   "n_journals": 30,
+   "median_delta": 100.0,
+   "q25": 45.0,
+   "q75": 180.0,
+   "share_abs_le_14": 0.09836065573770492,
+   "share_received_le_posted_plus_14": 0.14754098360655737,
+   "share_received_gt_posted_plus_90": 0.5409836065573771,
+   "share_received_gt_posted_plus_180": 0.2459016393442623,
+   "median_D": 109.0
+  },
+  "Wiley": {
+   "n": 143,
+   "n_journals": 59,
+   "median_delta": 79.0,
+   "q25": 20.5,
+   "q75": 151.0,
+   "share_abs_le_14": 0.14685314685314685,
+   "share_received_le_posted_plus_14": 0.2097902097902098,
+   "share_received_gt_posted_plus_90": 0.45454545454545453,
+   "share_received_gt_posted_plus_180": 0.22377622377622378,
+   "median_D": 128.0
+  }
+ },
+ "ResearchSquare_journals_ge5": {
+  "n": 166,
+  "median_of_medians": -14.0,
+  "share_median_gt_60": 0.04819277108433735,
+  "share_median_gt_30": 0.06626506024096386
+ },
+ "note": "Research Square 'In Review' preprints are posted after the manuscript enters review; a median received-minus-posted of about -10 d is therefore expected if `received` is the original submission date."
+}

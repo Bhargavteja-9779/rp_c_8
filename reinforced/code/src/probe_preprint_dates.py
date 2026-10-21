@@ -19,7 +19,7 @@ def pdate(s):
         try: return datetime.strptime(s.strip(), f)
         except Exception: pass
 def journal(j):
-    m = get("https://api.crossref.org/works", {"filter": f"issn:{j['issn']},relation.type:has-preprint,from-pub-date:2022-01-01,type:journal-article", "rows": 60, "sample": 60, "select": "DOI,relation,assertion"})
+    m = get("https://api.crossref.org/works", {"filter": f"issn:{j['issn']},relation.type:has-preprint,from-pub-date:2022-01-01,type:journal-article", "rows": 30, "select": "DOI,relation,assertion"})
     out = []
     if not m: return out
     for it in m["items"]:
@@ -32,9 +32,19 @@ def journal(j):
             if d and d[0] and len(d) >= 3:
                 out.append([j["issn"], j["member"], it["DOI"], pp[0], a["received"], a["accepted"], f"{d[0]}-{d[1]:02d}-{d[2]:02d}", p.get("publisher", "")])
     return out
-rows = []
-with ThreadPoolExecutor(6) as ex:
-    for r in ex.map(journal, fr): rows += r
+rows = []; t_start = time.time(); os.makedirs(os.path.dirname(OUT), exist_ok=True)
+fh = open(OUT + ".partial", "w", newline=""); wp = csv.writer(fh); wp.writerow(["issn", "member", "doi", "preprint_doi", "received", "accepted", "preprint_posted", "preprint_publisher"])
+import random; random.Random(1).shuffle(fr)
+def job(j):
+    if time.time() - t_start > 1800: return []
+    r = journal(j)
+    with lock: 
+        for x in r: wp.writerow(x)
+        fh.flush()
+    return r
+lock = threading.Lock()
+with ThreadPoolExecutor(8) as ex:
+    for r in ex.map(job, fr): rows += r
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 with open(OUT, "w", newline="") as f:
     w = csv.writer(f); w.writerow(["issn", "member", "doi", "preprint_doi", "received", "accepted", "preprint_posted", "preprint_publisher"]); w.writerows(rows)

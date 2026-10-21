@@ -1,0 +1,29 @@
+{
+ "median_accept_to_online_lag_days": 20.0,
+ "cov_visible": {
+  "est": -0.03033962239282235,
+  "lo": -0.0349393028248957,
+  "hi": -0.025749237902190848,
+  "n_journals": 781
+ },
+ "cov_exchangeable": {
+  "est": -0.0002179040966908492,
+  "lo": -0.0023528386731606825,
+  "hi": 0.00201892500130789,
+  "n_journals": 781
+ },
+ "cov_sim_nodrift": {
+  "est": 0.0005111816856923135,
+  "lo": -0.000647590938368007,
+  "hi": 0.0015739013447180709,
+  "n_journals": 781
+ },
+ "paired_visible_minus_sim": {
+  "est": -0.030850804078514666,
+  "lo": -0.03545838362989909,
+  "hi": -0.026326616469594798
+ },
+ "corr_visible_vs_sim_across_journal_origins": 0.03801126981284566,
+ "corr_shortfall_vs_growth": -0.013977121962148915,
+ "sim_shortfall_vs_growth_corr": -0.5286129375732946
+}
