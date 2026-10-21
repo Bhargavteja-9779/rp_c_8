@@ -1,4 +1,7 @@
-# Journal comparison (≥ 10 non-MDPI journals investigated; 100 sampled)
+# Journal comparison — STEP-0 SCREEN (superseded for the final topic; see selected_journal.md and journal_verification.md §6 addendum)
+> This table reflects the first screen of 100 hand-picked (not random) journals, made before the topic was fixed. Its statement that 0/100 pass applies to that list only. The final target journal is in `selected_journal.md`.
+
+# (original heading) ≥ 10 non-MDPI journals investigated; 100 sampled
 
 Eligibility filter (mandatory in the brief): verified submission→acceptance ≤ 72 d. **Result: 0 / 100 pass.** Table is therefore a ranking by *closeness* to the constraint, among journals scientifically plausible for a computing/data-science methodology paper. JCR data are from the Peeref mirror unless stated (secondary, not Clarivate-verified).
 
@@ -32,4 +35,4 @@ Full ranked table (100 journals): `journal_turnaround_summary.csv`.
 | Machine Learning | 5 | 1 | 2 | 3 | 11 |
 | Knowledge-Based Systems | 4 | 1 | 3 | 2 | 10 |
 
-JKSU-CIS is chosen as best available (tie broken by stronger JIF evidence and rigor bar the project can credibly meet). This is a judgement, documented as such.
+(Superseded) JKSU-CIS was the best-available choice for a computing topic; the project topic later changed to meta-research and the target is now *Accountability in Research*.

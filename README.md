@@ -6,7 +6,7 @@ Status: **NOT READY FOR SUBMISSION — see `review/final_audit.md`** (readiness 
 |---|---|
 | `journal_selection/` | Journal landscape (100 journals sampled with publisher-deposited dates), verification report, comparison, selected (best-available, non-compliant) journal, journal-fit audit |
 | `literature_review/` | literature matrix (evidence level per item), novelty map, research-gap chain, reference verification |
-| `research_design/` | candidate directions, abandoned directions, research questions, hypotheses, pre-registered protocol, leakage audit, deviations log |
+| `research_design/` | candidate directions, abandoned directions, research questions, hypotheses, pre-specified protocol, leakage audit, deviations log |
 | `code/` | `tdelay` package, tests, entry point `run_all.py`, pipeline script, README |
 | `results/` | metrics, statistics, figures, sensitivity, external validation, `metrics.json` (source of every manuscript number) |
 | `tables/`, `figures/` | manuscript tables and schematic |

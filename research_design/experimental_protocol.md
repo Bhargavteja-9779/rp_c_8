@@ -1,4 +1,4 @@
-# Experimental protocol v1.0 (pre-registered before any forecast-error computation)
+# Experimental protocol v1.0 (pre-specified before any forecast-error computation)
 
 Protocol frozen: 2026-10-20 (git commit recorded in `deviations.md`). Data collection (descriptive download of article dates, no model evaluation) started before this freeze; see §10 for the disclosure on prior exposure.
 

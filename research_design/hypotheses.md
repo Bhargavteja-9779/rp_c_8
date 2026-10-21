@@ -10,7 +10,7 @@ Thresholds were fixed **before** any forecast-error computation. Journals are th
 | H4 | RQ4 | Fewer than 5 % of journals have an out-of-time realised P(D ≤ 72) ≥ 0.5 | proportion with 95 % Clopper–Pearson upper bound < 0.05 | upper bound ≥ 0.05 |
 | H5 | RQ5 | Adding article-level pre-submission covariates to the journal-level forecast reduces pooled pinball loss by < 2 % (relative) | bootstrap CI upper bound of relative reduction < 2 % | upper bound ≥ 2 % |
 | H6 (exploratory) | RQ3 | Year-to-year change in journal median log D exceeds what sampling noise alone produces (variance ratio > 1.5) | exploratory, no multiplicity claim | – |
-| H7 (exploratory) | RQ2 | Shorter visibility windows (12 mo) beat 36-month windows on average | descriptive | – |
+| H7 (exploratory) | RQ2 | Shorter visibility windows (12 mo) beat 24-month windows on average (text originally said 36 mo; see deviations D8) | descriptive | – |
 
 Heuristic expectations (not hypotheses): the best forecaster will differ by journal size; drift will matter more for fast-growing mega-journals.
 

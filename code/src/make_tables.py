@@ -41,9 +41,11 @@ d = pd.read_csv(f"{ROOT}/data/processed/articles_clean.csv.gz", usecols=["issn",
 gg = r.groupby("issn").D.agg(n="size", med="median", p72=lambda x: (x <= 72).mean()); gg = gg[gg.n >= 100]
 M["recent"] = dict(n_journals=int(len(gg)), med_le_72=int((gg.med <= 72).sum()), p72_ge_50=int((gg.p72 >= .5).sum()), p72_ge_80=int((gg.p72 >= .8).sum()), window="accepted 2025-04-20..2026-10-20", share_by_member=gg.join(d.drop_duplicates("issn").set_index("issn").member).groupby("member").apply(lambda x: float((x.med <= 72).mean()), include_groups=False).to_dict())
 dr = pd.read_csv(f"{R}/drift_pairs.csv"); M["drift_extra"] = dict(share_abs_gt_0_2=float((dr.delta.abs() > .2).mean()), share_abs_gt_0_5=float((dr.delta.abs() > .5).mean()), n_pairs=int(len(dr)))
-f0 = f0.assign(over=f0.phat_72 >= .8); M["high_bin_72"] = dict(n=int(f0.over.sum()), forecast=float(f0[f0.over].phat_72.mean()), realised=float(f0[f0.over].real_72.mean()))
+f0 = f0.assign(over=f0.phat_72 >= .8); M["high_bin_72"] = dict(n_journals=int(f0[f0.over].issn.nunique()), n=int(f0.over.sum()), forecast=float(f0[f0.over].phat_72.mean()), realised=float(f0[f0.over].real_72.mean()))
 pit = pd.read_csv(f"{R}/pit_counts.csv"); pf = pit[pit.method == "F0"][[f"b{k}" for k in range(10)]].sum(); M["pit_F0_top_decile"] = float(pf.iloc[-1] / pf.sum())
 brier = pd.read_csv(f"{R}/brier_skill_vs_F2.csv"); M["brier_skill"] = brier.set_index("method").to_dict("index")
+M["post"] = json.load(open(f"{R}/post_hoc_D6_EXPLORATORY.json")); M["e10"] = json.load(open(f"{R}/oracle_diagnostic_E10_EXPLORATORY.json")); M["sens_lt30"] = json.load(open(f"{R}/sensitivity_excl_median_lt30_EXPLORATORY.json"))
+M["rev"] = json.load(open(f"{R}/revision_analyses_EXPLORATORY.json"))
 M["shape"] = json.load(open(f"{R}/shape_diagnostics_EXPLORATORY.json"))
 json.dump(M, open(f"{R}/metrics.json", "w"), indent=1, default=float)
 rows = [(k, v["supported"] if isinstance(v, dict) and "supported" in v else None) for k, v in hyp.items() if k != "H3"]; print(rows); print("tables:", sorted(os.listdir(T)))

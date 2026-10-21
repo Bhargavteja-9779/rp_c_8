@@ -17,7 +17,7 @@
 | APC / model | hybrid (subscription + OA option); APC not verified | to confirm |
 | Data/code policy, length limits, reference style | **not retrieved** (publisher pages return 403) — must be read by the authors before formatting | – |
 
-**Why this journal:** the only scope-appropriate venues examined are slow; this one has the shortest observed median (105 d) and a materially higher share (27 %) of papers accepted within 72 d than the alternatives, while publishing the same genre (bibliometric / meta-research on peer review).
+**Why this journal:** the only scope-appropriate venues examined are slow; among the four scope-appropriate journals whose dates could be sampled (Accountability in Research, Research Integrity and Peer Review, Scientometrics, Learned Publishing, JASIST), it had the shortest observed median (105 d) and the largest share (27 %) of papers accepted within 72 d; journals whose dates are not deposited (e.g. Journal of Informetrics, Quantitative Science Studies) could not be compared. Sampling windows differ across the journal-selection files (papers published ≥2024-01 here; ≥2025-07 in the Step-0 screen), so the figures are indicative only.
 
 ## Alternatives (all non-compliant)
 | Journal | Observed median (n) | % ≤72 d | Notes |

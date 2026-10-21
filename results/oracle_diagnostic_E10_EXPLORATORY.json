@@ -1,0 +1,35 @@
+{
+ "sub_complete": {
+  "n_journals": 781,
+  "cov80_minus_nominal": -0.0151185560377856,
+  "ci95": [
+   -0.018817439959065457,
+   -0.011506456166840144
+  ],
+  "mean_pinball": 0.1982153654109848,
+  "mean_n_train": 357.6819072501633,
+  "median_ratio_train_to_test_median": 0.9963235294117647
+ },
+ "sub_trunc": {
+  "n_journals": 778,
+  "cov80_minus_nominal": -0.12945483514393633,
+  "ci95": [
+   -0.13733016130791378,
+   -0.12224075168036298
+  ],
+  "mean_pinball": 0.21743727877111693,
+  "mean_n_train": 213.0210249671485,
+  "median_ratio_train_to_test_median": 0.8256694855532065
+ },
+ "visible": {
+  "n_journals": 781,
+  "cov80_minus_nominal": -0.03033962239282235,
+  "ci95": [
+   -0.035053734044162524,
+   -0.0256855241537731
+  ],
+  "mean_pinball": 0.20187918992408926,
+  "mean_n_train": 346.70150228608753,
+  "median_ratio_train_to_test_median": 0.9800796812749004
+ }
+}
