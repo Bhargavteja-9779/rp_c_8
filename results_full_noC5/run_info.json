@@ -1,0 +1,70 @@
+{
+ "elapsed_s": 455.9,
+ "python": "3.13.16",
+ "platform": "Linux-6.18.44-fc-v139-x86_64-with-glibc2.39",
+ "numpy": "2.5.3",
+ "pandas": "3.0.5",
+ "cfg": {
+  "data_cutoff": "2026-10-20",
+  "origins": [
+   "2023-01-01",
+   "2024-01-01"
+  ],
+  "horizon_days": 182,
+  "train_window_days": 365,
+  "long_window_days": 730,
+  "min_train": 100,
+  "min_test": 50,
+  "taus": [
+   0.05,
+   0.1,
+   0.15,
+   0.2,
+   0.25,
+   0.3,
+   0.35,
+   0.4,
+   0.45,
+   0.5,
+   0.55,
+   0.6,
+   0.65,
+   0.7,
+   0.75,
+   0.8,
+   0.85,
+   0.9,
+   0.95
+  ],
+  "thresholds_days": [
+   72,
+   120,
+   180
+  ],
+  "decay_half_life_days": 182.5,
+  "prior_min_n": 20,
+  "d_min": 1,
+  "d_max": 1460,
+  "received_min": "2010-01-01",
+  "accept_after_pub_tol_days": 7,
+  "min_refs": 5,
+  "vc_cap_per_journal_year": 300,
+  "vc_years": [
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "bootstrap_B": 5000,
+  "seed": 20261020,
+  "size_strata": [
+   150,
+   400
+  ],
+  "quick": {
+   "max_journals": 40,
+   "bootstrap_B": 200
+  }
+ }
+}

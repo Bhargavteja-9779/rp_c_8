@@ -1,0 +1,25 @@
+{
+ "n_shared_dois": 59885,
+ "journals": [
+  "BMC Bioinformatics",
+  "BMC Geriatr",
+  "BMC Health Serv Res",
+  "BMC Infect Dis",
+  "BMC Med Res Methodol",
+  "BMC Public Health",
+  "Clin Epigenetics",
+  "Eur J Med Res",
+  "Harm Reduct J",
+  "J Med Case Rep",
+  "Med Phys",
+  "NPJ Digit Med",
+  "Sci Data",
+  "Stat Med"
+ ],
+ "received_exact": 0.999966602655089,
+ "accepted_exact": 0.9999833013275444,
+ "received_within1": 0.999966602655089,
+ "accepted_within1": 0.9999833013275444,
+ "D_diff_median": 0.0,
+ "received_diff_abs_gt30": 3.339734491107957e-05
+}

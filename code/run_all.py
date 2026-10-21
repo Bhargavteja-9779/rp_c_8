@@ -79,14 +79,14 @@ def _figures(met, pit, cov, gall, rel, vc, vci, dr, df, fig, cfg):
     # Fig: PIT
     f, ax = plt.subplots(1, 3, figsize=(7.2, 2.4), sharey=True)
     for a_, m in zip(ax, ("F0", "F3", "F4")):
-        c = pit[pit.method == m][[f"b{k}" for k in range(10)]].sum().to_numpy(); a_.bar(range(10), c / c.sum(), color=cols[m]); a_.axhline(0.1, color="k", lw=.8, ls="--"); a_.set_title(m); a_.set_xlabel("PIT decile")
+        c = pit[pit.method == m][[f"b{k}" for k in range(10)]].sum().to_numpy(); a_.bar(range(10), c / c.sum(), color=cols[m]); a_.axhline(0.1, color="k", lw=.8, ls="--"); a_.set_title(m); a_.set_xticks(range(10)); a_.set_xticklabels(range(1, 11)); a_.set_xlabel("PIT decile")
     ax[0].set_ylabel("share of test papers"); f.tight_layout(); f.savefig(os.path.join(fig, "fig_pit.png")); plt.close(f)
     # Fig: coverage distribution
     f, a_ = plt.subplots(figsize=(4.2, 2.8)); ms = ["F0", "F1", "F2", "F3", "F4", "F6"]
-    a_.boxplot([met[met.method == m].groupby("issn")["cov80"].mean() for m in ms], tick_labels=ms, showfliers=False); a_.axhline(0.8, color="k", ls="--", lw=.8); a_.set_ylabel("out-of-time coverage of nominal 80% interval"); f.tight_layout(); f.savefig(os.path.join(fig, "fig_coverage.png")); plt.close(f)
+    a_.boxplot([met[met.method == m].groupby("issn")["cov80"].mean() for m in ms], tick_labels=ms, showfliers=False); a_.axhline(0.8, color="k", ls="--", lw=.8); a_.set_ylabel("coverage of nominal 80% interval", fontsize=8); f.tight_layout(); f.savefig(os.path.join(fig, "fig_coverage.png")); plt.close(f)
     # Fig: skill by method
     f, a_ = plt.subplots(figsize=(4.2, 2.8)); w = E.per_journal(met, "pinball"); sk = [(1 - w[m] / w["F2"]).dropna() for m in ms]
-    a_.boxplot(sk, tick_labels=ms, showfliers=False); a_.axhline(0, color="k", lw=.8); a_.set_ylabel("pinball skill vs publisher-pooled (F2)"); f.tight_layout(); f.savefig(os.path.join(fig, "fig_skill.png")); plt.close(f)
+    a_.boxplot(sk, tick_labels=ms, showfliers=False); a_.axhline(0, color="k", lw=.8); a_.set_ylabel("pinball skill vs F2", fontsize=8); f.tight_layout(); f.savefig(os.path.join(fig, "fig_skill.png")); plt.close(f)
     # Fig: reliability of P(D<=72)
     f, a_ = plt.subplots(figsize=(3.6, 3.4))
     for m, r in rel.items(): a_.plot(r.mean_forecast, r.mean_realised, "o-", color=cols[m], label=m)
@@ -96,7 +96,8 @@ def _figures(met, pit, cov, gall, rel, vc, vci, dr, df, fig, cfg):
     # Fig: variance components
     f, a_ = plt.subplots(figsize=(3.8, 2.6)); parts = ["sigma2_journal", "sigma2_year", "sigma2_resid"]; tot = sum(vc[p] for p in parts)
     vals = [vc[p] / tot for p in parts]; a_.bar(["journal", "journal×year", "residual"], vals, color=["#1b6ca8", "#e08a1e", "#8c8c8c"])
-    for i, p in enumerate(parts): a_.errorbar(i, vals[i], yerr=[[0], [0]], color="k")
+    for i, v in enumerate(vals): a_.text(i, v + 0.01, f"{v:.2f}", ha="center", fontsize=8)
+    a_.set_title(f"ICC(journal) = {vc['icc_journal']:.2f} [{vci['icc_journal'][0]:.2f}, {vci['icc_journal'][1]:.2f}]", fontsize=8)
     a_.set_ylabel("share of Var(ln D)"); f.tight_layout(); f.savefig(os.path.join(fig, "fig_variance_components.png")); plt.close(f)
     # Fig: drift
     f, a_ = plt.subplots(figsize=(4.2, 2.8)); a_.hist(dr.delta, bins=40, color="#7a5195"); a_.set_xlabel("Δ median ln D, year→year"); a_.set_ylabel("journal-year pairs"); f.tight_layout(); f.savefig(os.path.join(fig, "fig_drift.png")); plt.close(f)

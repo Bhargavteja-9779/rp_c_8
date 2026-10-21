@@ -133,11 +133,11 @@ def drift_analysis(df, cfg, seed=None):
                 rows.append(dict(issn=issn, year=k, delta=d, null_var=float(np.var(nulls)), n_a=len(a), n_b=len(b)))
     r = pd.DataFrame(rows); return r
 
-def article_level_experiment(df, issn_member, cfg, metrics, n_folds=5):
+def article_level_experiment(df, issn_member, cfg, metrics, n_folds=5, feats=None, taus5=(0.1, 0.25, 0.5, 0.75, 0.9)):
     """E7: does adding article covariates improve quantile forecasts over the journal-level F4 quantile? Grouped CV by journal."""
     import lightgbm as lgb
     from sklearn.model_selection import GroupKFold
-    taus5 = [0.1, 0.25, 0.5, 0.75, 0.9]; taus = np.asarray(cfg["taus"]); recs = []
+    taus5 = list(taus5); taus = np.asarray(cfg["taus"]); recs = []
     for t0 in cfg["origins"]:
         per, prior, _ = _prep_origin(df, issn_member, t0, cfg)
         for issn, (tr12, tr24, test) in per.items():
@@ -148,7 +148,7 @@ def article_level_experiment(df, issn_member, cfg, metrics, n_folds=5):
     d = pd.concat(recs, ignore_index=True)
     d["rec_month"] = d["received"].dt.month; d["rec_wd"] = d["received"].dt.weekday; d["lref"] = np.log1p(d["n_refs"].fillna(d["n_refs"].median()))
     d["n_authors"] = d["n_authors"].fillna(d["n_authors"].median())
-    feats = ["n_authors", "rec_month", "rec_wd", "lref"]; groups = d["issn"].to_numpy(); gkf = GroupKFold(n_splits=n_folds)
+    feats = feats or ["n_authors", "rec_month", "rec_wd", "lref"]; groups = d["issn"].to_numpy(); gkf = GroupKFold(n_splits=n_folds)
     res = {}
     for tau in taus5:
         base = np.zeros(len(d)); ctrl = np.zeros(len(d)); cov = np.zeros(len(d))

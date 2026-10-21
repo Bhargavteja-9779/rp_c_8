@@ -1,0 +1,6 @@
+{
+ "visibility_assertions_executed": true,
+ "n_journal_origins": 1558,
+ "share_target_D_gt_730": 0.004355561214062432,
+ "note": "split_journal_origin asserts target/train DOI disjointness and train accepted<t0, V<t0 for every journal-origin"
+}

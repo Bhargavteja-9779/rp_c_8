@@ -1,0 +1,478 @@
+{
+ "gneiting2007": {
+  "doi": "10.1198/016214506000001437",
+  "title": "Strictly Proper Scoring Rules, Prediction, and Estimation",
+  "year": 2007,
+  "venue": "Journal of the American Statistical Association",
+  "authors": [
+   "Gneiting, T.",
+   "Raftery, A."
+  ],
+  "volume": "102",
+  "issue": "477",
+  "page": "359-378"
+ },
+ "gneiting2007b": {
+  "doi": "10.1111/j.1467-9868.2007.00587.x",
+  "title": "Probabilistic Forecasts, Calibration and Sharpness",
+  "year": 2007,
+  "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+  "authors": [
+   "Gneiting, T.",
+   "Balabdaoui, F.",
+   "Raftery, A."
+  ],
+  "volume": "69",
+  "issue": "2",
+  "page": "243-268"
+ },
+ "koenker1978": {
+  "doi": "10.2307/1913643",
+  "title": "Regression Quantiles",
+  "year": 1978,
+  "venue": "Econometrica",
+  "authors": [
+   "Koenker, R.",
+   "Bassett, G."
+  ],
+  "volume": "46",
+  "issue": "1",
+  "page": "33"
+ },
+ "hyndman1996": {
+  "doi": "10.1080/00031305.1996.10473566",
+  "title": "Sample Quantiles in Statistical Packages",
+  "year": 1996,
+  "venue": "The American Statistician",
+  "authors": [
+   "Hyndman, R.",
+   "Fan, Y."
+  ],
+  "volume": "50",
+  "issue": "4",
+  "page": "361-365"
+ },
+ "efron1973": {
+  "doi": "10.1080/01621459.1973.10481350",
+  "title": "Stein's Estimation Rule and its Competitors\u2014An Empirical Bayes Approach",
+  "year": 1973,
+  "venue": "Journal of the American Statistical Association",
+  "authors": [
+   "Efron, B.",
+   "Morris, C."
+  ],
+  "volume": "68",
+  "issue": "341",
+  "page": "117-130"
+ },
+ "dersimonian1986": {
+  "doi": "10.1016/0197-2456(86)90046-2",
+  "title": "Meta-analysis in clinical trials",
+  "year": 1986,
+  "venue": "Controlled Clinical Trials",
+  "authors": [
+   "DerSimonian, R.",
+   "Laird, N."
+  ],
+  "volume": "7",
+  "issue": "3",
+  "page": "177-188"
+ },
+ "angelopoulos2023": {
+  "doi": "10.1561/2200000101",
+  "title": "Conformal Prediction: A Gentle Introduction",
+  "year": 2023,
+  "venue": "Foundations and Trends\u00ae in Machine Learning",
+  "authors": [
+   "Angelopoulos, A.",
+   "Bates, S."
+  ],
+  "volume": "16",
+  "issue": "4",
+  "page": "494-591"
+ },
+ "clopper1934": {
+  "doi": "10.1093/biomet/26.4.404",
+  "title": "THE USE OF CONFIDENCE OR FIDUCIAL LIMITS ILLUSTRATED IN THE CASE OF THE BINOMIAL",
+  "year": 1934,
+  "venue": "Biometrika",
+  "authors": [
+   "CLOPPER, C.",
+   "PEARSON, E."
+  ],
+  "volume": "26",
+  "issue": "4",
+  "page": "404-413"
+ },
+ "field2007": {
+  "doi": "10.1111/j.1467-9868.2007.00593.x",
+  "title": "Bootstrapping Clustered Data",
+  "year": 2007,
+  "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+  "authors": [
+   "Field, C.",
+   "Welsh, A."
+  ],
+  "volume": "69",
+  "issue": "3",
+  "page": "369-390"
+ },
+ "shrout1979": {
+  "doi": "10.1037/0033-2909.86.2.420",
+  "title": "Intraclass correlations: Uses in assessing rater reliability.",
+  "year": 1979,
+  "venue": "Psychological Bulletin",
+  "authors": [
+   "Shrout, P.",
+   "Fleiss, J."
+  ],
+  "volume": "86",
+  "issue": "2",
+  "page": "420-428"
+ },
+ "hendricks2020": {
+  "doi": "10.1162/qss_a_00022",
+  "title": "Crossref: The sustainable source of community-owned scholarly metadata",
+  "year": 2020,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Hendricks, G.",
+   "Tkaczyk, D.",
+   "Lin, J.",
+   "Feeney, P."
+  ],
+  "volume": "1",
+  "issue": "1",
+  "page": "414-427"
+ },
+ "visser2021": {
+  "doi": "10.1162/qss_a_00112",
+  "title": "Large-scale comparison of bibliographic data sources: Scopus, Web of\n                    Science, Dimensions, Crossref, and Microsoft Academic",
+  "year": 2021,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Visser, M.",
+   "van Eck, N.",
+   "Waltman, L."
+  ],
+  "volume": "2",
+  "issue": "1",
+  "page": "20-41"
+ },
+ "virtanen2020": {
+  "doi": "10.1038/s41592-019-0686-2",
+  "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+  "year": 2020,
+  "venue": "Nature Methods",
+  "authors": [
+   "Virtanen, P.",
+   "Gommers, R.",
+   "Oliphant, T.",
+   "Haberland, M.",
+   "Reddy, T.",
+   "Cournapeau, D.",
+   "Burovski, E.",
+   "Peterson, P.",
+   "Weckesser, W.",
+   "Bright, J.",
+   "van der Walt, S.",
+   "Brett, M.",
+   "Wilson, J.",
+   "Millman, K.",
+   "Mayorov, N.",
+   "Nelson, A.",
+   "Jones, E.",
+   "Kern, R.",
+   "Larson, E.",
+   "Carey, C.",
+   "Polat, \u0130.",
+   "Feng, Y.",
+   "Moore, E.",
+   "VanderPlas, J.",
+   "Laxalde, D.",
+   "Perktold, J.",
+   "Cimrman, R.",
+   "Henriksen, I.",
+   "Quintero, E.",
+   "Harris, C.",
+   "Archibald, A.",
+   "Ribeiro, A.",
+   "Pedregosa, F.",
+   "van Mulbregt, P.",
+   ", .",
+   "Vijaykumar, A.",
+   "Bardelli, A.",
+   "Rothberg, A.",
+   "Hilboll, A.",
+   "Kloeckner, A.",
+   "Scopatz, A.",
+   "Lee, A.",
+   "Rokem, A.",
+   "Woods, C.",
+   "Fulton, C.",
+   "Masson, C.",
+   "H\u00e4ggstr\u00f6m, C.",
+   "Fitzgerald, C.",
+   "Nicholson, D.",
+   "Hagen, D.",
+   "Pasechnik, D.",
+   "Olivetti, E.",
+   "Martin, E.",
+   "Wieser, E.",
+   "Silva, F.",
+   "Lenders, F.",
+   "Wilhelm, F.",
+   "Young, G.",
+   "Price, G.",
+   "Ingold, G.",
+   "Allen, G.",
+   "Lee, G.",
+   "Audren, H.",
+   "Probst, I.",
+   "Dietrich, J.",
+   "Silterra, J.",
+   "Webber, J.",
+   "Slavi\u010d, J.",
+   "Nothman, J.",
+   "Buchner, J.",
+   "Kulick, J.",
+   "Sch\u00f6nberger, J.",
+   "de Miranda Cardoso, J.",
+   "Reimer, J.",
+   "Harrington, J.",
+   "Rodr\u00edguez, J.",
+   "Nunez-Iglesias, J.",
+   "Kuczynski, J.",
+   "Tritz, K.",
+   "Thoma, M.",
+   "Newville, M.",
+   "K\u00fcmmerer, M.",
+   "Bolingbroke, M.",
+   "Tartre, M.",
+   "Pak, M.",
+   "Smith, N.",
+   "Nowaczyk, N.",
+   "Shebanov, N.",
+   "Pavlyk, O.",
+   "Brodtkorb, P.",
+   "Lee, P.",
+   "McGibbon, R.",
+   "Feldbauer, R.",
+   "Lewis, S.",
+   "Tygier, S.",
+   "Sievert, S.",
+   "Vigna, S.",
+   "Peterson, S.",
+   "More, S.",
+   "Pudlik, T.",
+   "Oshima, T.",
+   "Pingel, T.",
+   "Robitaille, T.",
+   "Spura, T.",
+   "Jones, T.",
+   "Cera, T.",
+   "Leslie, T.",
+   "Zito, T.",
+   "Krauss, T.",
+   "Upadhyay, U.",
+   "Halchenko, Y.",
+   "V\u00e1zquez-Baeza, Y."
+  ],
+  "volume": "17",
+  "issue": "3",
+  "page": "261-272"
+ },
+ "harris2020": {
+  "doi": "10.1038/s41586-020-2649-2",
+  "title": "Array programming with NumPy",
+  "year": 2020,
+  "venue": "Nature",
+  "authors": [
+   "Harris, C.",
+   "Millman, K.",
+   "van der Walt, S.",
+   "Gommers, R.",
+   "Virtanen, P.",
+   "Cournapeau, D.",
+   "Wieser, E.",
+   "Taylor, J.",
+   "Berg, S.",
+   "Smith, N.",
+   "Kern, R.",
+   "Picus, M.",
+   "Hoyer, S.",
+   "van Kerkwijk, M.",
+   "Brett, M.",
+   "Haldane, A.",
+   "del R\u00edo, J.",
+   "Wiebe, M.",
+   "Peterson, P.",
+   "G\u00e9rard-Marchant, P.",
+   "Sheppard, K.",
+   "Reddy, T.",
+   "Weckesser, W.",
+   "Abbasi, H.",
+   "Gohlke, C.",
+   "Oliphant, T."
+  ],
+  "volume": "585",
+  "issue": "7825",
+  "page": "357-362"
+ },
+ "winkler1972": {
+  "doi": "10.1080/01621459.1972.10481224",
+  "title": "A Decision-Theoretic Approach to Interval Estimation",
+  "year": 1972,
+  "venue": "Journal of the American Statistical Association",
+  "authors": [
+   "Winkler, R."
+  ],
+  "volume": "67",
+  "issue": "337",
+  "page": "187-191"
+ },
+ "wilcoxon1945": {
+  "doi": "10.2307/3001968",
+  "title": "Individual Comparisons by Ranking Methods",
+  "year": 1945,
+  "venue": "Biometrics Bulletin",
+  "authors": [
+   "Wilcoxon, F."
+  ],
+  "volume": "1",
+  "issue": "6",
+  "page": "80"
+ },
+ "efron1979": {
+  "doi": "10.1214/aos/1176344552",
+  "title": "Bootstrap Methods: Another Look at the Jackknife",
+  "year": 1979,
+  "venue": "The Annals of Statistics",
+  "authors": [
+   "Efron, B."
+  ],
+  "volume": "7",
+  "issue": "1",
+  "page": "1-26"
+ },
+ "bjork2013": {
+  "doi": "10.1016/j.joi.2013.09.001",
+  "title": "The publishing delay in scholarly peer-reviewed journals",
+  "year": 2013,
+  "venue": "Journal of Informetrics",
+  "authors": [
+   "Bj\u00f6rk, B.",
+   "Solomon, D."
+  ],
+  "volume": "7",
+  "issue": "4",
+  "page": "914-923"
+ },
+ "huisman2017": {
+  "doi": "10.1007/s11192-017-2310-5",
+  "title": "Duration and quality of the peer review process: the author\u2019s perspective",
+  "year": 2017,
+  "venue": "Scientometrics",
+  "authors": [
+   "Huisman, J.",
+   "Smits, J."
+  ],
+  "volume": "113",
+  "issue": "1",
+  "page": "633-650"
+ },
+ "mrowinski2016": {
+  "doi": "10.1007/s11192-016-1871-z",
+  "title": "Review time in peer review: quantitative analysis and modelling of editorial workflows",
+  "year": 2016,
+  "venue": "Scientometrics",
+  "authors": [
+   "Mrowinski, M.",
+   "Fronczak, A.",
+   "Fronczak, P.",
+   "Nedic, O.",
+   "Ausloos, M."
+  ],
+  "volume": "107",
+  "issue": "1",
+  "page": "271-286"
+ },
+ "bilalli2021": {
+  "doi": "10.1007/s11192-020-03742-9",
+  "title": "A framework for assessing the peer review duration of journals: case study in computer science",
+  "year": 2020,
+  "venue": "Scientometrics",
+  "authors": [
+   "Bilalli, B.",
+   "Munir, R.",
+   "Abell\u00f3, A."
+  ],
+  "volume": "126",
+  "issue": "1",
+  "page": "545-563"
+ },
+ "horbach2020": {
+  "doi": "10.1162/qss_a_00076",
+  "title": "Pandemic publishing: Medical journals strongly speed up their publication process for COVID-19",
+  "year": 2020,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Horbach, S."
+  ],
+  "volume": "1",
+  "issue": "3",
+  "page": "1056-1067"
+ },
+ "argiles2023": {
+  "doi": "10.1002/leap.1564",
+  "title": "Empirical analysis of factors influencing delay in article acceptance in accounting journals",
+  "year": 2023,
+  "venue": "Learned Publishing",
+  "authors": [
+   "Argil\u00e9s\u2010Bosch, J.",
+   "Ravenda, D.",
+   "Garcia\u2010Blandon, J."
+  ],
+  "volume": "36",
+  "issue": "4",
+  "page": "517-532"
+ },
+ "andersen2021": {
+  "doi": "10.1080/03007995.2021.1905622",
+  "title": "Time from submission to publication varied widely for biomedical journals: a systematic review",
+  "year": 2021,
+  "venue": "Current Medical Research and Opinion",
+  "authors": [
+   "Andersen, M.",
+   "Fonnes, S.",
+   "Rosenberg, J."
+  ],
+  "volume": "37",
+  "issue": "6",
+  "page": "985-993"
+ },
+ "ellison2002": {
+  "doi": "10.1086/341868",
+  "title": "The Slowdown of the Economics Publishing Process",
+  "year": 2002,
+  "venue": "Journal of Political Economy",
+  "authors": [
+   "Ellison, G."
+  ],
+  "volume": "110",
+  "issue": "5",
+  "page": "947-993"
+ },
+ "powell2016": {
+  "doi": "10.1038/530148a",
+  "title": "Does it take too long to publish research?",
+  "year": 2016,
+  "venue": "Nature",
+  "authors": [
+   "Powell, K."
+  ],
+  "volume": "530",
+  "issue": "7589",
+  "page": "148-151"
+ }
+}

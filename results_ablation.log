@@ -1,0 +1,9 @@
+all 0.0222
+only_n_authors 0.0085
+only_rec_month 0.0001
+only_rec_wd 0.0001
+only_lref 0.0131
+drop_n_authors 0.0133
+drop_rec_month 0.0221
+drop_rec_wd 0.0221
+drop_lref 0.0088
