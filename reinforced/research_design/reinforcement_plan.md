@@ -1,5 +1,5 @@
 # Research reinforcement plan (cycle 2)
-Principle: no new model components were added; each experiment targets an identified rejection risk. (Order of design vs execution is stated in `revised_experimental_protocol.md`.)
+NOTE: written after Y0–Y5 outputs existed; the "Expected if true" column is retrospective, not a prediction. Principle: no new model components were added; each experiment targets an identified rejection risk. (Order of design vs execution is stated in `revised_experimental_protocol.md`.)
 
 | Exp | 1 Deficiency | 2 Evidence it matters | 3 Improvement | 4 Hypothesis | 5–6 Implementation / experiment | 7 Expected if true | 8 If false | 9 Cost | 10 Effect on contribution | 11 Verification | 12 Objection addressed |
 |---|---|---|---|---|---|---|---|---|---|---|---|

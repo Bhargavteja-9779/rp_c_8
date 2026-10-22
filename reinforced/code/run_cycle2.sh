@@ -4,10 +4,10 @@ set -euo pipefail
 cd "$(dirname "$0")/src"
 python3 forensics.py
 python3 cal_and_meta.py
+python3 dependence_quality_calibration.py
 # probe_preprint_dates.py queries Crossref (~30 min, network); the committed result is partial. Uncomment to recollect:
 # python3 probe_preprint_dates.py
 python3 x1_analysis.py
-python3 dependence_quality_calibration.py
 python3 y0_imprint_inference.py
 python3 y1_rolling_panel.py
 python3 y2_null_and_simulation.py

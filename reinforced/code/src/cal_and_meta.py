@@ -1,5 +1,5 @@
 """Cycle-2 experiments X2 (calibration correction F9) and X3 (learned journal-feature meta-forecaster F10, stronger baseline).
-Strict time ordering: models are fitted only on cohorts whose labels were complete before the test origin:
+Intended time ordering (NOTE: not strictly met; training cohorts include every paper received in the window whenever accepted, so 0.9-3.1% of labels were accepted after the origin; see reinforcement_deviations C2-13 and the strict re-analysis in z_experiments.py Z2):
   test origin 2024-01-01 <- fitted on target cohort of origin 2022-01-01 (received 2022H1; accepted by 2023-07)
   test origin 2025-01-01 <- fitted on cohorts of origins 2022-01-01 and 2023-01-01 (the latter complete by 2024-07)
 Design (levels, features, hyper-parameters, time ordering) was fixed in this script before its single run (no re-runs or tuning); the protocol document was written AFTER the run, so this is not an independently time-stamped pre-specification."""

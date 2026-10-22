@@ -41,7 +41,7 @@ Manuscript (`manuscript/Revised_Manuscript.docx/.pdf`, ~5,000 words, 29 referenc
 - Unit tests (10) pass; cycle-1 byte-identical re-run was verified by an independent agent (`/review/independent_review_agentB_reproducibility.md`).
 - `reinforced/code/run_cycle2.sh` lists the cycle-2 order; the preprint probe file is partial (worker restart) and its collection step is disabled by default.
 - `review/final_consistency_audit.md`: 26 manuscript quantities re-derived from result files (26 found), 0 unresolved markers, 29 references all cited.
-- Cycle-2 reproducibility audit by an independent agent: `review/agent_R2_reproducibility.md` (see below for status).
+- Cycle-2 reproducibility audit (independent agent, `review/agent_R2_reproducibility.md`): all 11 cycle-2 scripts re-run in a scratch copy reproduced the committed outputs byte-for-byte; the manuscript rebuilt with no text difference; about 90 manuscript values checked, a handful of minor failures (all corrected since). Its major findings have been acted on: the X1 order of events is now stated accurately (C2-14), README order fixed, look-ahead labels disclosed (C2-13). **Still open:** `ROOT` paths are hard-coded; the preprint probe cannot be reproduced (live API, partial file); no persistent-identifier deposit.
 
 ## Recommended next steps for the authors
 
