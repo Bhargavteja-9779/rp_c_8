@@ -9,3 +9,7 @@
 | C2-6 | Y1 recalibration evaluable only for three origins (maps require targets complete at t0) | design limitation |
 | C2-7 | Y2(a) permutation null from the protocol was not run (judged uninformative); (b), (c) run | deviation |
 | C2-8 | Y3/Y4/Y5 run once as specified | — |
+| C2-9 | Part C experiments Z1–Z6 specified and committed (protocol Part C) after the second adversarial review and before running; `z_experiments.py` was run once, then the manuscript text was rewritten around its output | the rewrite followed the results; the σ²-based account was chosen because Z1 matched the magnitude, so its explanatory weight is limited |
+| C2-10 | Z2 evaluates only three origins (October 2023–April 2024) with a 480-day cap; maps use only targets complete at the origin | design limitation of any strictly out-of-time recalibration with this horizon |
+| C2-11 | Z1 uses σ² = journal×year component estimated from the same data; the journal-specific σ² proxy also uses the same data | circularity disclosed in Results and Limitations |
+| C2-12 | Numbers of X2/X6 (look-ahead variant) retained in `cal_meta_summary.json` and `X4_X5_X6_summary.json` but demoted in the manuscript | preserved, not deleted |
