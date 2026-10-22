@@ -37,3 +37,18 @@ Reviewer of record: `agent_R2_adversarial.md` (separately launched instance of t
 - Desk rejection at RIPR on scope: more likely than not.
 - At a scientometrics journal: major revision likely; points would be the unidentified mechanism, the three-publisher frame, validation of dates beyond Springer Nature, and incremental novelty.
 - Fatal scientific flaws: none identified by the reviewers; the review set contains no human.
+
+## Third check of the rewritten text (`agent_R3_final_check.md`, 15 findings)
+No number disagreed with its source file; the findings concerned mismatched comparisons and over-reach. Corrections made in the manuscript:
+
+| R3 finding | Fix |
+|---|---|
+| 1 (MAJOR) journal-mean estimates sat beside imprint-mean t(6) intervals | imprint mean reported with its interval in abstract, Results, Table 2 (new column) and Table 5 |
+| 2, 3, 4 abstract wording; causal reading; "oracle" is σ²/2 | abstract now says shifts "bracketing the observed value"; Discussion says compatible with, not a causal finding; oracle defined (no training shift, target variance halved, free choice) |
+| 5 "robust at three publishers" | only F0 − F2 passes Holm and publisher-level check; shortfall reported as negative in all three publishers (unadjusted p = 0.024, 2 d.f., outside the Holm family) |
+| 6 over-correction explanation | R and V learned from early origins; F4 has no such map; V reduced the absolute error, R changed its sign |
+| 7 L reached nominal coverage | reported, with the look-ahead/censoring caveat and training on 1–2 cohorts |
+| 8 H5 and H7 verdicts | H5: not supported as pre-specified (3.2 % [2.5, 3.9]); strict pre-submission 1.0 % is post hoc. H7: small journal-level effect (Holm p 2e-06), not at imprint level |
+| 9 mixed evaluation sets in the abstract | abstract states that remedies and reliability refer to three later origins where F0 was −1.9 |
+| 10 fast-lane attribution | rewritten: fast-lane/flagged exclusion removes about a quarter; all variants stay above 5 % |
+| 11, 12, 13, 14, 15 | fast-looking-journal statistic split by weighting; "U-shaped" replaced; proxy vs R² sentence separated; H2 wording (journal CI already contains −3); minor wording items |

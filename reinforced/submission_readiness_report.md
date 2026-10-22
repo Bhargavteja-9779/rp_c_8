@@ -10,10 +10,10 @@ The science is in better shape than at the end of cycle 1: the claims now match 
 
 | Weakness found | What was done | Outcome |
 |---|---|---|
-| Inference ignored imprint/publisher correlation (R01, R22) | imprint cluster bootstraps, t(6) intervals, publisher-level checks, Holm | only two results are robust at publisher level: journal information is valuable (F0 − F2, Holm p < 0.001) and F0 under-covers (−3.0 points; imprint t(6) CI −4.2 to −1.1). The ranking among F0/F3/F4/F6 is suggestive only. |
+| Inference ignored imprint/publisher correlation (R01, R22) | imprint cluster bootstraps, t(6) intervals, publisher-level checks, Holm | only the value of journal information (F0 − F2, Holm p < 0.001) passes Holm adjustment and a publisher-level check; F0 under-covers (journal mean −3.0; imprint mean −2.7, t(6) CI −4.2 to −1.1; negative in all three publishers, unadjusted p = 0.024). The ranking among F0/F3/F4/F6 is suggestive only. |
 | H2 "not supported" depended on aggregation (R02) | specification curve | relabelled **inconclusive** |
-| "Optimism from slow papers not yet visible" untested (R04) | random-split, stationary-world, cohort-shift simulations, backward oracle, pre-origin eligibility | the earlier explanation is withdrawn. The shortfall is of the order produced by random cohort-to-cohort shifts of the size of the journal × year variance (σ²/2 → −2.8, σ² → −4.9; observed −3.0). This is a consistency check, not identification: σ² comes from the same data and the observed spread across journals and imprints is not reproduced. |
-| Calibration remedy looked ahead of the origin; 2025 target censored (R16) | strict re-run (Z2) | **remedy not supported**: recalibration, width inflation and F4 all over-correct (+1.9, +1.05, +1.3 points vs F0 −1.9); loss unchanged. Calibrated event probabilities improve the reliability slope (0.91 → 0.97 for the 72-day event). |
+| "Optimism from slow papers not yet visible" untested (R04) | random-split, stationary-world, cohort-shift simulations, backward oracle, pre-origin eligibility | the earlier explanation is withdrawn. Simulated random cohort-to-cohort shifts with half to full the journal × year variance bracket the observed shortfall (−2.8 and −4.9 vs −3.0; 2σ² gives −8.9). This is a consistency check, not identification: σ² comes from the same data and the observed spread across journals and imprints is not reproduced. |
+| Calibration remedy looked ahead of the origin; 2025 target censored (R16) | strict re-run (Z2) | **remedy not supported**: recalibration, width inflation and F4 all over-cover (+1.9, +1.05, +1.3 points vs F0 −1.9); loss unchanged. Calibrated event probabilities improve the reliability slope (0.91 → 0.97 for the 72-day event). |
 | `received` date semantics unverifiable (R05, R23) | Research Square preprint probe | pre-set criterion **failed** (mis-specified); post-hoc statistics compatible for Springer Nature only (95 % paper-weighted, 82 % journal-weighted received ≤ posting + 14 d; posting lag shifts by year; 14-day resolution). Wiley and Taylor & Francis remain untestable. |
 | Under-cited prior work (R08) | independent prior-art search, 7 added references, corrected MetaROR description | contribution stated as incremental measurement ("we found no …"). |
 | Normative AI sentence, F2 as straw baseline, uncited vendor pages (R25, R27) | text changes | done |
@@ -34,7 +34,7 @@ Manuscript (`manuscript/Revised_Manuscript.docx/.pdf`, ~5,000 words, 29 referenc
 - Conditional on acceptance; peer review itself is unobserved.
 - The cohort-variance account is characterised, not identified.
 - Remedies were evaluated at three origins only; L (learned forecaster) was trained on one or two cohorts without tuning.
-- Contribution is incremental measurement with mostly negative hypothesis outcomes (H1 supported; H2 inconclusive; H3, H4, H7 not supported; H5 specification-dependent).
+- Contribution is incremental measurement with mostly negative hypothesis outcomes (H1 supported; H2 inconclusive; H3, H4, H5 not supported as pre-specified; H7 small journal-level effect, not robust at imprint level).
 
 ## Reproducibility status
 
