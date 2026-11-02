@@ -13,8 +13,8 @@ n_att = pm.journal.nunique(); cnt = pm.groupby("journal").size(); keep = cnt[cnt
 e = pm[pm.received.notna() & pm.accepted.notna() & pm.pubmed_date.notna()].copy(); e = e.assign(D=(e.accepted - e.received).dt.days, V=e.pubmed_date, issn=e.journal, doi=e.pmid, member="PubMed-ext")
 n0 = len(e); e = e[(e.D >= 1) & (e.D <= cfg["d_max"]) & ((e.accepted - e.V).dt.days <= cfg["accept_after_pub_tol_days"]) & ~e.title.fillna("").str.contains(Dm.NONRESEARCH)].drop_duplicates("pmid")
 e["D"] = e.D.clip(upper=CAP); e["y"] = np.log(e.D.astype(float)); pub_of = {j: "PubMed-ext" for j in e.issn.unique()}
-origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); eval_origins = [o for o in origins if o >= "2023-07-01"]
-store = build_store(e, pub_of, origins, cfg); params = json.load(open(f"{OUT}/D_params_by_origin.json")); rng = np.random.default_rng(SEED); rows = []; own = []
+origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); eval_origins = None
+store = build_store(e, pub_of, origins, cfg); params = json.load(open(f"{OUT}/D_params_by_origin.json")); eval_origins = sorted(params); rng = np.random.default_rng(SEED); rows = []; own = []
 for t0 in eval_origins:
     fp = params[t0]; par = dict(tau2_pub={}, b_pub={}, tau2_g=fp["tau2_g"], b_g=fp["b_g"], c=fp["c"], G=None, alpha_aci=fp["alpha_aci"])
     for r_ in forecast_rows(store[t0], t0, par, use=("F0", "F6", "V", "CVg", "CVb")): r_["variant"] = "transfer"; rows.append(r_)

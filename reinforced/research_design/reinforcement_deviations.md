@@ -20,3 +20,4 @@
 | C2-17 | Part D: evaluation origin list had an off-by-one-day arithmetic error (first origin 2023-04-01 has no complete earlier origin); the run crashed before producing any output; origins changed to 2023-07-01 … 2025-07-01 (nine) — protocol amendment D-A1 | no result seen before the change |
 | C2-18 | Part D first runs stopped with programming errors (missing complete origin; F6 returned a Forecast object not an array); fixed with no result produced | no analysis choice changed |
 | C2-19 | Part D-365 (first full run) revealed a cap artefact; exploratory cap sensitivity (post hoc) → amendment D-A2: primary analysis repeated at cap 480 (six origins); D-365 retained and reported | choice of 480 based on F0 sensitivity only |
+| C2-20 | d_external.py first run stopped (hard-coded origin list inconsistent with the cap-480 origins); fixed before any output | no analysis choice changed |
