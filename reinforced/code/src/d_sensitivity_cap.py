@@ -1,4 +1,4 @@
-"""EXPLORATORY (post hoc, not in the Part D protocol): sensitivity of the F0 80% coverage shortfall to the duration cap and the target-cohort length, at origins 2023-07-01..2024-07-01 where all targets are complete for every setting."""
+"""EXPLORATORY (post hoc, not in the Part D protocol): sensitivity of the F0 80% coverage shortfall to the duration cap and the target-cohort length, at origins 2023-07-01..2024-07-01 where targets are complete for caps up to 480 days; for the 1,460-day setting the targets are right-censored at the data end (papers received around 2024-07 are observable for about 750 days)."""
 import json, sys
 sys.path.insert(0, "/home/user/rp_c_8/reinforced/code/src")
 import d_lib as L

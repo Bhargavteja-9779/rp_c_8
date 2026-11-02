@@ -52,3 +52,11 @@ def test_matches_study_pipeline_on_20_journal_origins():
             assert abs(got["n_visible"] - len(tr12)) == 0 and np.max(np.abs(np.log(got["quantiles_days"]) - ref)) < 6e-3  # output quantiles are rounded to 0.01 day
             n += 1
     assert n >= 20
+
+@pytest.mark.skipif(not os.path.exists("/home/user/rp_c_8/reinforced/code/src/d_lib.py"), reason="study code not available")
+def test_unrounded_smoothing_matches_study_code_exactly():
+    sys.path.insert(0, "/home/user/rp_c_8/reinforced/code/src"); import d_lib
+    r = np.random.default_rng(11)
+    for _ in range(20):
+        y = np.log(r.integers(5, 400, int(r.integers(100, 600))).astype(float)); h = float(r.uniform(0.15, 0.5))
+        assert np.max(np.abs(smoothed_quantiles(y, h) - d_lib.smoothed_quantiles(y, h))) < 1e-12
