@@ -1,4 +1,4 @@
-"""Part D main experiment: strict out-of-time panel on the frame (781-journal data), ten evaluation origins 2023-04-01..2025-07-01.
+"""Part D main experiment: strict out-of-time panel on the frame (781-journal data), nine evaluation origins 2023-07-01..2025-07-01 (amendment D-A1).
 Run once as specified in revised_experimental_protocol.md Part D."""
 import json, sys
 sys.path.insert(0, "/home/user/rp_c_8/reinforced/code/src")
@@ -10,7 +10,7 @@ ROOT = "/home/user/rp_c_8"; OUT = f"{ROOT}/reinforced/results"; cfg = json.load(
 df = pd.read_csv(f"{ROOT}/data/processed/articles_clean.csv.gz", parse_dates=["received", "accepted", "V"]); fr = json.load(open(f"{ROOT}/data/raw/frame_eligible.json")); member = {j["issn"]: j["member"] for j in fr}; df = df[df.issn.isin(member)].copy()
 df["D"] = df.D.clip(upper=CAP); df["y"] = np.log(df.D.astype(float))
 imprint = pd.read_csv(f"{OUT}/journal_imprint_map.csv", index_col=0).iloc[:, 0]
-origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); eval_origins = [o for o in origins if o >= "2023-04-01"]
+origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); eval_origins = [o for o in origins if o >= "2023-07-01"]
 store = build_store(df, member, origins, cfg); rng = np.random.default_rng(SEED); rows = []; params = {}
 for t0 in eval_origins:
     use = [o for o in origins if complete(o, t0)]; par = learn(store, use, rng); params[t0] = {k: (v if k != "G" else None) for k, v in par.items()}

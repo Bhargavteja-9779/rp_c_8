@@ -80,3 +80,5 @@ Consequences: if HD1 or HD3 fail the method is reported as not supported and the
 **D6 Practical constraint disclosed in advance.** With the completeness rule the number of earlier complete origins available is 1 at the first evaluation origin and grows by one per quarter (maximum 10 at the last; counts reported).
 
 **D7 Deliverable.** An open-source package and a single-page browser tool implementing CV0 with the final frame τ̂²; unit tests must reproduce the pipeline's CV0 quantiles for at least 20 journal-origins to 1e-6.
+
+**Amendment D-A1 (before any Part D result existed).** The first Part D run stopped with an error at the first evaluation origin: 2022-01-01 + 91 + 365 days = 2023-04-02, so no earlier origin is complete at 2023-04-01 (the protocol text said exactly one; an arithmetic slip). Evaluation origins are therefore 2023-07-01 … 2025-07-01 (**nine**), with 1 … 9 earlier complete origins. No result had been produced; nothing else changes.
