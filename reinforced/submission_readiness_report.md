@@ -50,3 +50,30 @@ Manuscript (`manuscript/Revised_Manuscript.docx/.pdf`, ~5,000 words, 29 referenc
 3. Have a human methodologist replicate at least the headline numbers and read the Limitations.
 4. Complete author-side declarations.
 5. If the 72-day requirement is binding, treat it as a request for a journal with a publicly verifiable submission-to-acceptance median; none was found.
+
+
+---
+# Cycle 3 update (2026-11-02): method paper, external validation, product
+
+**Decision: still B (not yet ready for submission), but with a stronger paper.** `manuscript/Methods_Manuscript.docx/.pdf` replaces the measurement paper as the candidate submission; the cycle-2 paper (`Revised_Manuscript`) is kept for reference.
+
+## What is new and what it supports
+- **A method and a protocol.** CV0 (empirical forecast smoothed by the cohort-to-cohort shift variance learned from earlier *complete* cohorts), compared with empirical quantiles, time decay, width inflation, quantile recalibration and adaptive conformal updating; hypotheses HD1–HD6 and constants fixed in a committed protocol before the runs.
+- **Evidence (six strict origins, 774 journals, 4,486 journal-origins, 482,065 papers):** average coverage of the 80 % interval moves from −1.9 to +0.5 points; mean absolute coverage error 7.18 → 6.75 (about 4.5 expected by chance); pinball loss and interval score not worse; better than width inflation, recalibration and ACI by about 0.3 points; Brier-type scores and calibration slopes improve. External PubMed journals (118, other publishers): better than empirical quantiles at both duration caps, better than width inflation only at cap 365.
+- **A methodological finding with wider use:** the apparent coverage shortfall of the empirical interval changes from +2.2 to −2.4 points as the duration cap changes from 270 days to none, because capped values fall inside the interval.
+- **Product:** `product/` (Python package with CLI and 9 tests, including a match against the study pipeline) and a browser tool (`product/web/index.html`, also published as a private artifact: https://claude.ai/artifact/FjPHPbxiKrhXkrHachrEWb). The tool's JavaScript matches the Python output to 0.01 %.
+
+## What the reviews took away (and the paper now says)
+- The gain over simple corrections is small; CV0 is better than F0 at 42 % of journal-origins and worse at 38 %; it over-covers Taylor & Francis journals; only the 80 % interval was checked.
+- The mechanism test (HD5) is weak (r = 0.15) and failed at cap 365; the mechanism is not established.
+- The primary analysis (cap 480) followed an amendment made after the first full run; both caps are reported as co-primary, and a result counts as confirmed only where both agree.
+- On external journals, five outlier journals drive half the F0 shortfall; excluding them the differences are compatible with zero (post hoc).
+- Third-round reviews: `review/agent_R4_methods_paper.md` (13 findings, dispositions in `review/cycle3_review_dispositions.md`) and `review/agent_R4_reproducibility.md` (central results re-run byte-identically; external analysis rerun on the final data after a MAJOR finding; deviations C2-17…C2-23 logged).
+
+## Still blocking or open
+1. Venue and timeline: the 72-day submission-to-acceptance requirement cannot be verified for any scope-appropriate journal; no JCR quartile verified; acceptance cannot be guaranteed. The paper is now a methods/scientometrics paper, so *Research Integrity and Peer Review* (Methodology article) remains weakly fitting and *Quantitative Science Studies* or *Journal of Informetrics* fit better (timelines unverified).
+2. No persistent-identifier deposit of data, code and the tool.
+3. No human review; all reviews are by instances of the same model family.
+4. Author-side declarations are placeholders.
+5. Reproducibility gaps: hard-coded absolute paths; live-API collection cannot be rerun to identical data; PubMed first-online date is an entry-date proxy.
+6. Effect size: the contribution is a modest calibration improvement plus a cautionary finding about truncation, not a large accuracy gain. Reviewers at selective venues may judge it incremental.

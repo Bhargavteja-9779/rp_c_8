@@ -33,11 +33,11 @@ Script `reinforced/code/src/consistency_check_methods.py`: 37/37 quantities foun
 | T72 F0 slope | 0.89 | found |
 | T72 CV0 slope | 0.92 | found |
 | T72 CV0 Brier | 0.00900 | found |
-| ext journals | 117 | found |
-| ext journal-origins | 652 | found |
-| ext papers | 74,787 | found |
-| ext F0 abs | 7.40 | found |
-| ext CVg abs | 6.90 | found |
+| ext journals | 118 | found |
+| ext journal-origins | 658 | found |
+| ext papers | 75,279 | found |
+| ext F0 abs | 7.36 | found |
+| ext CVg abs | 6.86 | found |
 | ext HD6 vs F0 | −0.50 | found |
 | ext HD6 vs V | −0.25 | found |
 | tau2 global | 0.040 | found |
