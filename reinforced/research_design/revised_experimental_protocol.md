@@ -46,3 +46,37 @@ Results of Y0–Y5 and X1–X6 were already known. Each Z-experiment responds to
 | Z5 | R2-20/R2-08 | backward-oracle script (F0 trained on the complete cohort submitted after the target, origins 2022-01, 2023-01); eligibility from pre-origin data only (no minimum on target size beyond 10) | report |
 | Z6 | R2-09 | moving-block bootstrap over ordered origins for the panel's pooled shortfall; describe U-shape | report |
 Text corrections regardless of outcomes: X6 count (4 of 6), hypothesis-list wording, Table 5 labels, "hard to beat", fast-end claim, F2 described as straw baseline, 2025 origin and journal-set sizes stated, title with journal count and three publishers.
+
+## Part D (cycle 3): a calibrated forecaster for cohort shift — specified before any Part D code was run or any external data were fetched
+Motivation. Cycle 2 characterised the shortfall as compatible with random cohort-to-cohort location shifts but did not turn that into a method, and its remedies (R, V) were learned from a few early origins and over-covered. Part D builds a forecaster that estimates the cohort-shift variance from **earlier, complete** cohorts only, and tests it on ten strictly out-of-time origins plus an external set of journals from publishers outside the frame. Nothing is tuned on evaluation data; all constants below are fixed here.
+
+**D0 Data and rule.** Durations are capped at 365 days (D365 = min(D, 365); y = ln D365) for training and scoring. Panel origins are quarterly, 2022-01-01 … 2025-07-01. At origin t0 the visible set is papers first online and accepted before t0 within the preceding 12 months; the target cohort is papers received in [t0, t0+91). Eligibility ≥ 100 visible and ≥ 30 target papers (frame journals); the frame data are those of cycles 1–2. **Evaluation origins**: 2023-04-01 … 2025-07-01 (ten). A method at origin t0 may use *only* earlier origins o with o + 91 + 365 ≤ t0 ("complete at t0"), see D6 for the number available. Targets of an evaluation origin are complete by 2026-09-30.
+
+**D1 Forecasters (quantile levels 0.1,…,0.9).**
+- F0: empirical quantiles (Hazen) of the visible 12-month sample. F6: time-decayed (half-life 182.5 d).
+- V: half-widths about the median multiplied by one constant c ∈ {1.000, 1.025, …, 1.400}, chosen on earlier complete origins to bring pooled 80 % coverage closest to 0.80.
+- R: F0 quantile levels replaced through the PIT map learned from earlier complete origins.
+- **CV0 (proposed): cohort-shift smoothed empirical forecaster.** Predictive CDF G(q) = (1/n) Σ_i Φ((q − y_i)/h), with h² = τ̂²_pub + s²/n (s² the visible sample variance; n the visible size), quantiles by bisection. τ̂²_pub is estimated per publisher (Springer Nature, Wiley, Taylor & Francis) from earlier complete origins as τ̂² = max(0, Var_j(Δ_j) − mean_j(s²_tr/n_tr + s²_te/n_te)), Δ_j = mean(y_target) − mean(y_visible) of journal-origin j, variance centred on the publisher mean.
+- **CVb (secondary):** CV0 with the visible sample shifted by the publisher mean of Δ over earlier complete origins.
+- **CVg (secondary):** CV0 with a single global τ̂² pooled over publishers.
+- **ACI (secondary, interval only):** adaptive conformal-type update of the miscoverage level of the F0 80 % interval, α_0 = 0.20; for each earlier complete origin o in time order, α ← clip(α + γ(0.20 − m_o), 0.02, 0.60) with m_o the pooled miscoverage of the interval at level α_o on the targets of o, γ = 0.05 (not tuned).
+Journal identity (not only publisher) is used by every forecaster through the visible sample.
+
+**D2 Metrics.** Primary: (a) journal-mean absolute error of 80 % coverage |cov − 0.80|, (b) mean pinball loss over nine levels, (c) mean 80 % interval (Winkler) score. Secondary: signed coverage, lower and upper tail coverage (0.1/0.9 quantiles), width, Brier scores for D ≤ 72/120/180.
+
+**D3 Hypotheses (confirmatory).**
+- HD1: CV0 has lower mean absolute coverage error than F0 (journal-cluster paired bootstrap, 3,000 draws; pooled over the ten origins, journal averaged first).
+- HD2: CV0's pinball loss is not more than 0.5 % above F0's (non-inferiority; upper CI bound).
+- HD3: CV0's signed coverage lies within ±1.5 points of 80 % in the pooled evaluation.
+- HD4: CV0 has lower mean absolute coverage error than each of V, R and ACI (Holm over the three).
+- HD5 (mechanism, not circular because τ̂² uses earlier cohorts only): the shortfall predicted for each journal-origin as G(q90_F0) − G(q10_F0) − 0.80 (with the same CV0 G) correlates positively with the observed shortfall across journal-origins aggregated by journal; calibration slope of observed on predicted by decile bins reported with journal-cluster CI.
+- HD6 (external): on external journals (D5), CV0 with the *frame's* pooled τ̂² (transfer) has lower mean absolute coverage error than F0 and V (V's constant likewise transferred).
+Consequences: if HD1 or HD3 fail the method is reported as not supported and the paper remains a measurement paper.
+
+**D4 Inference.** Journal-cluster bootstrap (3,000 draws) for all contrasts; imprint-mean t(6) and publisher-level checks for HD1/HD4; origin dependence by a moving-block bootstrap over the ten ordered origins (block length 2). Holm over the HD4 contrasts. Results are reported whether or not hypotheses are supported.
+
+**D5 External set.** `collect_pubmed_external.py` (journal list fixed in the script before fetching). PubMed History received/accepted dates; first-online proxy = PubMed entry date. Journals kept by rule if ≥ 600 dated records (not by outcome). The same D0 rule, origins and eligibility are applied (target cohort ≥ 30 papers, visible ≥ 100). τ̂² (and V's c) for the transfer analysis are taken from the frame's evaluation at the matching origin (earlier complete frame origins only), pooled over publishers; a secondary "own-history" analysis learns them from earlier complete external origins.
+
+**D6 Practical constraint disclosed in advance.** With the completeness rule the number of earlier complete origins available is 1 at the first evaluation origin and grows by one per quarter (maximum 10 at the last; counts reported).
+
+**D7 Deliverable.** An open-source package and a single-page browser tool implementing CV0 with the final frame τ̂²; unit tests must reproduce the pipeline's CV0 quantiles for at least 20 journal-origins to 1e-6.
