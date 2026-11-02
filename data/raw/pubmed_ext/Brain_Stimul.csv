@@ -1,0 +1,719 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34954085,10.1016/j.brs.2021.12.007,Brain Stimul,Use of electroconvulsive therapy for individuals receiving inpatient psychiatric care on a,2021-10-19,2021-12-20,2021-12-27,5,0
+34954084,10.1016/j.brs.2021.12.008,Brain Stimul,Electroconvulsive therapy modulates critical brain dynamics in major depressive disorder p,2021-09-17,2021-12-20,2021-12-27,8,0
+34952226,10.1016/j.brs.2021.12.005,Brain Stimul,High resolution ultrasonic neural modulation observed via in vivo two-photon calcium imagi,2021-09-14,2021-12-17,2021-12-25,6,69
+34933143,10.1016/j.brs.2021.12.004,Brain Stimul,Auricular transcutaneous vagus nerve stimulation modulates the heart-evoked potential.,2021-08-20,2021-12-15,2021-12-22,8,0
+34902623,10.1016/j.brs.2021.12.003,Brain Stimul,Individual interregional perfusion between the left dorsolateral prefrontal cortex stimula,2021-08-14,2021-12-08,2021-12-14,2,0
+34896304,10.1016/j.brs.2021.12.002,Brain Stimul,Bihemispheric sensorimotor oscillatory network states determine cortical responses to tran,2021-10-20,2021-12-07,2021-12-14,3,0
+34861412,10.1016/j.brs.2021.11.015,Brain Stimul,Stoney vs. Histed: Quantifying the spatial effects of intracortical microstimulation.,2021-07-30,2021-11-19,2021-12-04,5,60
+34856396,10.1016/j.brs.2021.11.019,Brain Stimul,Phase- targeted stimulation modulates phase-amplitude coupling in the motor cortex of the ,2020-07-13,2021-11-28,2021-12-03,4,0
+34826627,10.1016/j.brs.2021.11.018,Brain Stimul,Sex difference in tDCS current mediated by changes in cortical anatomy: A study across you,2021-06-19,2021-11-22,2021-11-27,8,101
+34826626,10.1016/j.brs.2021.11.017,Brain Stimul,The Brain Electrophysiological recording & STimulation (BEST) toolbox.,2021-09-20,2021-11-22,2021-11-27,4,0
+34823038,10.1016/j.brs.2021.11.016,Brain Stimul,Long-term changes in short-interval intracortical facilitation modulate motor cortex plast,2021-09-10,2021-11-20,2021-11-26,7,0
+34818580,10.1016/j.brs.2021.11.014,Brain Stimul,Multi-locus transcranial magnetic stimulation system for electronically targeted brain sti,2021-09-20,2021-11-19,2021-11-25,11,43
+34801750,10.1016/j.brs.2021.11.012,Brain Stimul,Jargonaphasia as a disconnection syndrome: A study combining white matter electrical stimu,2021-09-11,2021-11-14,2021-11-22,5,0
+34785386,10.1016/j.brs.2021.11.009,Brain Stimul,Improved object recognition memory using post-encoding repetitive transcranial magnetic st,2021-05-11,2021-11-09,2021-11-18,4,53
+34767967,10.1016/j.brs.2021.11.008,Brain Stimul,Anatomical and fMRI-network comparison of multiple DLPFC targeting strategies for repetiti,2021-03-12,2021-11-08,2021-11-13,15,80
+34752934,10.1016/j.brs.2021.11.007,Brain Stimul,Accelerated intermittent theta-burst stimulation broadly ameliorates symptoms and cognitio,2021-01-16,2021-11-04,2021-11-10,13,0
+34749007,10.1016/j.brs.2021.10.552,Brain Stimul,Weak DCS causes a relatively strong cumulative boost of synaptic plasticity with spaced le,2021-05-14,2021-10-30,2021-11-09,4,56
+34749005,10.1016/j.brs.2021.11.006,Brain Stimul,Deep brain stimulation effect on anterior pallidum reduces motor impulsivity in Parkinson',2021-07-19,2021-11-04,2021-11-09,5,62
+34742997,10.1016/j.brs.2021.11.003,Brain Stimul,Deep brain stimulation of the nucleus accumbens shell attenuates cocaine withdrawal but in,2021-09-09,2021-11-01,2021-11-08,7,78
+34742996,10.1016/j.brs.2021.11.004,Brain Stimul,Individualized beta-band oscillatory transcranial direct current stimulation over the prim,2021-07-16,2021-11-01,2021-11-08,9,0
+34742994,10.1016/j.brs.2021.11.001,Brain Stimul,Transcranial Electrical Stimulation generates electric fields in deep human brain structur,2021-03-05,2021-11-01,2021-11-08,6,0
+34700055,10.1016/j.brs.2021.10.388,Brain Stimul,Pressing ethical issues in considering pediatric deep brain stimulation for obsessive-comp,2021-06-25,2021-10-22,2021-10-27,9,41
+34687964,10.1016/j.brs.2021.10.386,Brain Stimul,Transcranial direct current stimulation combined with alcohol cue inhibitory control train,2021-06-24,2021-10-18,2021-10-24,12,0
+34678487,10.1016/j.brs.2021.10.385,Brain Stimul,Configuring intracortical microelectrode arrays and stimulus parameters to minimize neuron,2021-05-26,2021-10-18,2021-10-23,4,27
+34673259,10.1016/j.brs.2021.10.383,Brain Stimul,Increased migraine-free intervals with multifocal repetitive transcranial magnetic stimula,2021-08-26,2021-10-16,2021-10-22,10,0
+34673258,10.1016/j.brs.2021.10.384,Brain Stimul,"Paired Acute Invasive/Non-invasive Stimulation (PAINS) study: A phase I/II randomized, sha",2021-04-01,2021-10-18,2021-10-22,7,0
+34653682,10.1016/j.brs.2021.10.001,Brain Stimul,Subthreshold repetitive transcranial magnetic stimulation drives structural synaptic plast,2021-04-11,2021-10-11,2021-10-16,11,0
+34626843,10.1016/j.brs.2021.09.014,Brain Stimul,Effects of modifying the electrode placement and pulse width on cognitive side effects wit,2021-05-13,2021-09-29,2021-10-10,9,0
+34619386,10.1016/j.brs.2021.09.009,Brain Stimul,Identifying the neurophysiological effects of memory-enhancing amygdala stimulation using ,2020-12-05,2021-09-17,2021-10-08,9,47
+34562659,10.1016/j.brs.2021.09.004,Brain Stimul,Multi-scale modeling toolbox for single neuron and subcellular activity under Transcranial,2021-01-05,2021-09-15,2021-09-26,9,77
+34560319,10.1016/j.brs.2021.09.003,Brain Stimul,A randomized sham controlled comparison of once vs twice-daily intermittent theta burst st,2021-06-13,2021-09-15,2021-09-25,14,0
+34547503,10.1016/j.brs.2021.09.002,Brain Stimul,Wearable sensor-driven responsive deep brain stimulation for essential tremor.,2021-07-01,2021-09-11,2021-09-22,12,0
+34517143,10.1016/j.brs.2021.09.001,Brain Stimul,High-resolution computational modeling of the current flow in the outer ear during transcu,2021-03-15,2021-09-09,2021-09-14,8,92
+34482000,10.1016/j.brs.2021.08.024,Brain Stimul,Multi-electrode stimulation evokes consistent spatial patterns of phosphenes and improves ,2021-01-17,2021-08-31,2021-09-06,12,51
+34481097,10.1016/j.brs.2021.08.022,Brain Stimul,Two forms of short-interval intracortical inhibition in human motor cortex.,2021-02-18,2021-08-31,2021-09-05,9,40
+34481095,10.1016/j.brs.2021.08.017,Brain Stimul,Individual differences in neuroanatomy and neurophysiology predict effects of transcranial,2020-12-01,2021-08-19,2021-09-05,6,104
+34481094,10.1016/j.brs.2021.08.023,Brain Stimul,An insight into electrical resistivity of white matter and brain tumors.,2021-04-21,2021-08-31,2021-09-05,7,0
+34464746,10.1016/j.brs.2021.08.018,Brain Stimul,Short and long-term effects of single and multiple sessions of electroconvulsive therapy o,2021-03-24,2021-08-19,2021-09-01,10,0
+34438047,10.1016/j.brs.2021.08.019,Brain Stimul,Combining proactive transcranial stimulation and cardiac biofeedback to substantially mana,2021-06-01,2021-08-21,2021-08-27,8,0
+34438046,10.1016/j.brs.2021.08.004,Brain Stimul,Investigating the interaction between white matter and brain state on tDCS-induced changes,2020-10-14,2021-08-05,2021-08-27,9,44
+34428554,10.1016/j.brs.2021.08.016,Brain Stimul,The sensitivity of ECG contamination to surgical implantation site in brain computer inter,2021-04-06,2021-08-19,2021-08-25,23,35
+34428553,10.1016/j.brs.2021.08.014,Brain Stimul,Theta-burst stimulation entrains frequency-specific oscillatory responses.,2021-03-23,2021-08-17,2021-08-25,9,58
+34425244,10.1016/j.brs.2021.08.011,Brain Stimul,Novel method for identification of individualized resonant frequencies for treatment of Ma,2019-11-27,2021-08-11,2021-08-24,4,0
+34411753,10.1016/j.brs.2021.08.007,Brain Stimul,Electrified microglia: Impact of direct current stimulation on diverse properties of the m,2021-03-24,2021-08-09,2021-08-20,4,0
+34400379,10.1016/j.brs.2021.08.010,Brain Stimul,A connectomic analysis of deep brain stimulation for treatment-resistant depression.,2021-02-28,2021-08-11,2021-08-18,19,40
+34400378,10.1016/j.brs.2021.08.008,Brain Stimul,Effects of repetitive Transcranial Magnetic Stimulation in aged rats depend on pre-treatme,2021-03-01,2021-08-09,2021-08-18,7,79
+34371212,10.1016/j.brs.2021.08.003,Brain Stimul,Individualized tDCS modeling predicts functional connectivity changes within the working m,2021-05-04,2021-08-05,2021-08-10,13,53
+34371209,10.1016/j.brs.2021.07.011,Brain Stimul,Analgesia induced by anodal tDCS and high-frequency tRNS over the motor cortex: Immediate ,2021-03-10,2021-07-25,2021-08-10,7,0
+34365019,10.1016/j.brs.2021.07.015,Brain Stimul,A patient-oriented analysis of pain side effect: A step to improve the patient's experienc,2021-02-24,2021-07-22,2021-08-09,11,0
+34358704,10.1016/j.brs.2021.07.009,Brain Stimul,Evoking highly focal percepts in the fingertips through targeted stimulation of sulcal reg,2021-02-02,2021-07-19,2021-08-07,12,65
+34352356,10.1016/j.brs.2021.07.064,Brain Stimul,Imaging-based programming of subthalamic nucleus deep brain stimulation in Parkinson's dis,2021-02-15,2021-07-31,2021-08-06,10,0
+34332156,10.1016/j.brs.2021.07.012,Brain Stimul,"Adaptive current-flow models of ECT: Explaining individual static impedance, dynamic imped",2020-12-13,2021-07-22,2021-08-01,10,0
+34332155,10.1016/j.brs.2021.07.018,Brain Stimul,Accelerated theta burst stimulation for the treatment of depression: A randomised controll,2021-05-20,2021-07-26,2021-08-01,16,0
+34329797,10.1016/j.brs.2021.07.013,Brain Stimul,Day-to-day variability in motor threshold during rTMS treatment for depression: Clinical i,2021-03-02,2021-07-22,2021-07-31,9,0
+34284167,10.1016/j.brs.2021.07.006,Brain Stimul,Anterior thalamic stimulation improves working memory precision judgments.,2021-02-10,2021-07-15,2021-07-21,9,0
+34246820,10.1016/j.brs.2021.07.001,Brain Stimul,Estimation of individually induced e-field strength during transcranial electric stimulati,2020-12-29,2021-07-01,2021-07-12,5,20
+34245918,10.1016/j.brs.2021.07.003,Brain Stimul,Thalamic deep brain stimulation for Tourette Syndrome: A naturalistic trial with brief ran,2021-03-16,2021-07-05,2021-07-11,12,0
+34187756,10.1016/j.brs.2021.06.006,Brain Stimul,Transcutaneous auricular vagus nerve stimulation influences gastric motility: A randomized,2020-12-08,2021-06-13,2021-07-01,14,0
+34198105,10.1016/j.brs.2021.06.003,Brain Stimul,Safety of focused ultrasound neuromodulation in humans with temporal lobe epilepsy.,2021-01-22,2021-06-08,2021-07-02,19,0
+34186465,10.1016/j.brs.2021.06.008,Brain Stimul,Subthreshold stimulation intensity is associated with greater clinical efficacy of intermi,2021-03-16,2021-06-15,2021-06-30,11,0
+34182233,10.1016/j.brs.2021.06.007,Brain Stimul,Polarity-specific high-definition transcranial direct current stimulation of the anterior ,2020-12-01,2021-06-15,2021-06-29,6,0
+34182182,10.1016/j.brs.2021.06.011,Brain Stimul,Biophysical mechanisms of electroconvulsive therapy-induced volume expansion in the medial,2021-04-20,2021-06-23,2021-06-29,15,88
+34167918,10.1016/j.brs.2021.06.005,Brain Stimul,Intensified electrical stimulation targeting lateral and medial prefrontal cortices for th,2021-01-13,2021-06-09,2021-06-26,12,0
+34154980,10.1016/j.brs.2021.06.002,Brain Stimul,Electrical stimulation of the external ear acutely activates noradrenergic mechanisms in h,2021-02-12,2021-06-07,2021-06-23,6,0
+34133991,10.1016/j.brs.2021.05.012,Brain Stimul,Seizure risk with repetitive TMS: Survey results from over a half-million treatment sessio,2021-02-05,2021-05-29,2021-06-17,7,0
+34126233,10.1016/j.brs.2021.05.013,Brain Stimul,Reproducibility of cortical response modulation induced by intermittent and continuous the,2020-12-10,2021-05-24,2021-06-15,8,67
+34119670,10.1016/j.brs.2021.05.016,Brain Stimul,Changes in seizure duration during acute course electroconvulsive therapy.,2020-12-30,2021-05-19,2021-06-14,4,41
+34048940,10.1016/j.brs.2021.05.008,Brain Stimul,Parsing the antidepressant effects of non-invasive brain stimulation and pharmacotherapy: ,2020-12-01,2021-05-13,2021-05-29,6,0
+34048939,10.1016/j.brs.2021.05.009,Brain Stimul,Phase-dependent offline enhancement of human motor memory.,2021-03-01,2021-05-14,2021-05-29,8,0
+34044182,10.1016/j.brs.2021.05.010,Brain Stimul,Electroconvulsive therapy is associated with lower readmission rates in patients with schi,2021-01-07,2021-05-19,2021-05-28,13,0
+34029769,10.1016/j.brs.2021.05.004,Brain Stimul,Transcranial brain atlas for school-aged children and adolescents.,2020-10-16,2021-05-11,2021-05-25,6,0
+34029768,10.1016/j.brs.2021.05.005,Brain Stimul,Multi-session delivery of synchronous rTMS and sensory stimulation induces long-term plast,2020-11-10,2021-05-12,2021-05-25,6,68
+34022430,10.1016/j.brs.2021.05.002,Brain Stimul,Single-pulse stimulation of cerebellar nuclei stops epileptic thalamic activity.,2020-04-20,2021-05-03,2021-05-23,11,0
+34015518,10.1016/j.brs.2021.04.024,Brain Stimul,Generating artificial sensations with spinal cord stimulation in primates and rodents.,2020-12-24,2021-04-30,2021-05-21,6,33
+33991713,10.1016/j.brs.2021.04.019,Brain Stimul,Eye movements and the perceived location of phosphenes generated by intracranial primary v,2020-11-20,2021-04-26,2021-05-16,9,0
+33991712,10.1016/j.brs.2021.04.022,Brain Stimul,A theoretical framework for the site-specific and frequency-dependent neuronal effects of ,2020-12-28,2021-04-27,2021-05-16,7,0
+33989819,10.1016/j.brs.2021.04.021,Brain Stimul,Sonothermogenetics for noninvasive and cell-type specific deep brain neuromodulation.,2020-12-19,2021-04-28,2021-05-15,12,50
+33989818,10.1016/j.brs.2021.04.025,Brain Stimul,Delta oscillation underlies the interictal spike changes after repeated transcranial direc,2020-11-10,2021-04-29,2021-05-15,6,52
+33984536,10.1016/j.brs.2021.04.026,Brain Stimul,Navigated repetitive transcranial magnetic stimulation improves the outcome of postsurgica,2020-10-27,2021-04-30,2021-05-14,11,0
+33984535,10.1016/j.brs.2021.04.028,Brain Stimul,A ventromedial prefrontal dysrhythmia in obsessive-compulsive disorder is attenuated by nu,2020-11-16,2021-04-30,2021-05-14,9,0
+33975054,10.1016/j.brs.2021.04.020,Brain Stimul,Microstimulation-evoked neural responses in visual cortex are depth dependent.,2020-08-28,2021-04-27,2021-05-12,4,0
+33940243,10.1016/j.brs.2021.04.016,Brain Stimul,Acute low frequency dorsal subthalamic nucleus stimulation improves verbal fluency in Park,2021-01-01,2021-04-26,2021-05-04,20,0
+33866020,10.1016/j.brs.2021.04.010,Brain Stimul,Targeting location relates to treatment response in active but not sham rTMS stimulation.,2020-11-16,2021-04-01,2021-04-19,19,38
+33857664,10.1016/j.brs.2021.04.004,Brain Stimul,Randomized double-blind sham-controlled trial of thalamic versus GPi stimulation in patien,2020-03-24,2021-04-01,2021-04-16,8,0
+33852934,10.1016/j.brs.2021.04.001,Brain Stimul,Self-adjustment of deep brain stimulation delays optimization in Parkinson's disease.,2020-07-16,2021-04-01,2021-04-15,9,0
+33848678,10.1016/j.brs.2021.03.017,Brain Stimul,"Does pericentral mu-rhythm ""power"" corticomotor excitability? - A matter of EEG perspectiv",2020-09-13,2021-03-25,2021-04-14,4,0
+33848677,10.1016/j.brs.2021.04.008,Brain Stimul,Cutaneous sensation of electrical stimulation waveforms.,2020-02-10,2021-04-01,2021-04-14,3,46
+33848676,10.1016/j.brs.2021.04.005,Brain Stimul,Electrophysiological signatures predict clinical outcomes after deep brain stimulation of ,2020-02-08,2021-04-01,2021-04-14,7,0
+33798763,10.1016/j.brs.2021.03.013,Brain Stimul,Exploring and optimizing the neuroplastic effects of anodal transcranial direct current st,2020-09-28,2021-03-22,2021-04-03,5,0
+33785407,10.1016/j.brs.2021.03.014,Brain Stimul,Right and left inferior frontal opercula are involved in discriminating angry and sad faci,2020-10-02,2021-03-23,2021-04-01,9,0
+33785406,10.1016/j.brs.2021.03.015,Brain Stimul,Electroconvulsive therapy with a memory reactivation intervention for post-traumatic stres,2020-10-19,2021-03-23,2021-04-01,14,0
+33781956,10.1016/j.brs.2021.03.010,Brain Stimul,Non-invasive brain stimulation for speech in Parkinson's disease: A randomized controlled ,2020-06-25,2021-03-19,2021-03-31,6,0
+33781955,10.1016/j.brs.2021.03.011,Brain Stimul,External induction and stabilization of brain oscillations in the human.,2020-07-28,2021-03-18,2021-03-31,7,44
+33774207,10.1016/j.brs.2021.03.004,Brain Stimul,Entrainment of cerebellar Purkinje cell spiking activity using pulsed ultrasound stimulati,2020-06-22,2021-03-09,2021-03-29,4,50
+33766677,10.1016/j.brs.2021.03.001,Brain Stimul,Effects of direct current stimulation on synaptic plasticity in a single neuron.,2020-10-13,2021-03-03,2021-03-27,5,57
+33762220,10.1016/j.brs.2021.03.007,Brain Stimul,"Exposure to gamma tACS in Alzheimer's disease: A randomized, double-blind, sham-controlled",2020-11-11,2021-03-11,2021-03-26,10,0
+33757931,10.1016/j.brs.2021.03.009,Brain Stimul,Image-based biophysical modeling predicts cortical potentials evoked with subthalamic deep,2020-10-18,2021-03-14,2021-03-25,9,120
+33722660,10.1016/j.brs.2021.03.002,Brain Stimul,Offset-related brain activity in the left ventrolateral prefrontal cortex promotes long-te,2020-09-03,2021-03-03,2021-03-17,6,0
+33706007,10.1016/j.brs.2021.02.019,Brain Stimul,Safety evaluation of a new setup for transcranial electric stimulation during magnetic res,2020-08-20,2021-02-26,2021-03-12,6,0
+33684598,10.1016/j.brs.2021.02.018,Brain Stimul,Motor cortex transcranial direct current stimulation effects on knee osteoarthritis pain i,2020-04-10,2021-02-24,2021-03-09,10,0
+33677157,10.1016/j.brs.2021.02.014,Brain Stimul,The influence of high-frequency repetitive transcranial magnetic stimulation on endogenous,2020-11-19,2021-02-21,2021-03-08,6,0
+33667699,10.1016/j.brs.2021.02.015,Brain Stimul,Alternate sessions of transcranial direct current stimulation (tDCS) reduce chronic pain i,2020-04-09,2021-02-21,2021-03-06,8,0
+33652130,10.1016/j.brs.2021.02.017,Brain Stimul,Deep brain stimulation of midbrain locomotor circuits in the freely moving pig.,2020-11-22,2021-02-23,2021-03-03,11,50
+33581283,10.1016/j.brs.2021.01.012,Brain Stimul,Cortical plasticity is correlated with cognitive improvement in Alzheimer's disease patien,2020-04-30,2021-01-14,2021-02-14,8,0
+33647477,10.1016/j.brs.2021.02.012,Brain Stimul,Use of a physiological reflex to standardize vagal nerve stimulation intensity improves da,2020-09-23,2021-02-18,2021-03-02,4,0
+33636401,10.1016/j.brs.2021.02.011,Brain Stimul,Transcranial laser stimulation: Mitochondrial and cerebrovascular effects in younger and o,2020-09-09,2021-02-18,2021-02-27,7,0
+33621675,10.1016/j.brs.2021.02.006,Brain Stimul,Dissociating the causal role of left and right dorsal premotor cortices in planning and ex,2020-08-26,2021-02-11,2021-02-24,11,0
+33618015,10.1016/j.brs.2021.02.008,Brain Stimul,Repetitive anodal transcranial direct current stimulation improves neurological recovery b,2020-09-28,2021-02-12,2021-02-23,7,0
+33588105,10.1016/j.brs.2021.02.005,Brain Stimul,Cortical responses to noninvasive perturbations enable individual brain fingerprinting.,2020-06-22,2021-02-09,2021-02-16,10,29
+33578035,10.1016/j.brs.2021.02.002,Brain Stimul,Asymmetric transcallosal conduction delay leads to finer bimanual coordination.,2020-08-05,2021-02-04,2021-02-13,8,0
+33556620,10.1016/j.brs.2021.01.023,Brain Stimul,Evidence of state-dependence in the effectiveness of responsive neurostimulation for seizu,2020-06-17,2021-01-31,2021-02-09,6,41
+33535082,10.1016/j.brs.2021.01.020,Brain Stimul,Inverse associations between cerebellar inhibition and motor impairment in spinocerebellar,2020-05-21,2021-01-24,2021-02-04,3,0
+33524612,10.1016/j.brs.2021.01.015,Brain Stimul,Accumbens coordinated reset stimulation in mice exhibits ameliorating aftereffects on bing,2020-10-03,2021-01-21,2021-02-02,8,0
+33516860,10.1016/j.brs.2021.01.016,Brain Stimul,The impact of individual electrical fields and anatomical factors on the neurophysiologica,2020-08-25,2021-01-19,2021-02-01,6,0
+33516859,10.1016/j.brs.2021.01.018,Brain Stimul,Pinging the brain with transcranial magnetic stimulation reveals cortical reactivity in ti,2020-04-05,2021-01-23,2021-02-01,2,82
+33493624,10.1016/j.brs.2021.01.013,Brain Stimul,A direct comparison of neuronavigated and non-neuronavigated intermittent theta burst stim,2020-06-10,2021-01-14,2021-01-26,9,0
+33482375,10.1016/j.brs.2021.01.007,Brain Stimul,Frequency-dependent modulation of cerebellar excitability during the application of non-in,2020-08-18,2021-01-12,2021-01-23,4,65
+33460838,10.1016/j.brs.2021.01.006,Brain Stimul,Bidirectional and state-dependent modulation of brain activity by transcranial focused ult,2020-05-08,2021-01-08,2021-01-19,9,64
+33454396,10.1016/j.brs.2021.01.005,Brain Stimul,Effects of repeated anodal transcranial direct current stimulation on auditory fear extinc,2020-05-26,2021-01-08,2021-01-18,7,0
+33453454,10.1016/j.brs.2021.01.004,Brain Stimul,Classification accuracy of TMS for the diagnosis of mild cognitive impairment.,2020-08-05,2021-01-08,2021-01-17,16,0
+33450428,10.1016/j.brs.2021.01.002,Brain Stimul,Transcranial focused ultrasound stimulation with high spatial resolution.,2020-02-24,2021-01-06,2021-01-16,12,0
+33444809,10.1016/j.brs.2021.01.003,Brain Stimul,Transient ultrasound stimulation has lasting effects on neuronal excitability.,2020-09-03,2021-01-06,2021-01-15,7,35
+33422683,10.1016/j.brs.2021.01.001,Brain Stimul,Neuro-cardiac coupling predicts transcutaneous auricular vagus nerve stimulation effects.,2020-10-05,2021-01-04,2021-01-11,5,0
+33418095,10.1016/j.brs.2020.12.014,Brain Stimul,Cognitive effects of theta frequency bilateral subthalamic nucleus stimulation in Parkinso,2020-06-13,2020-12-28,2021-01-09,14,0
+33385593,10.1016/j.brs.2020.12.008,Brain Stimul,Structural and functional correlates of subthalamic deep brain stimulation-induced apathy ,2020-06-25,2020-12-21,2021-01-02,14,0
+33359603,10.1016/j.brs.2020.12.010,Brain Stimul,tDCS-induced modulation of GABA concentration and dopamine release in the human brain: A c,2020-06-08,2020-12-21,2020-12-29,9,0
+33359601,10.1016/j.brs.2020.12.007,Brain Stimul,Low intensity repetitive magnetic stimulation reduces expression of genes related to infla,2020-07-02,2020-12-18,2020-12-29,6,0
+33346068,10.1016/j.brs.2020.12.003,Brain Stimul,Comparison of clinical outcomes with two Transcranial Magnetic Stimulation treatment proto,2020-08-21,2020-12-09,2020-12-22,8,0
+33346067,10.1016/j.brs.2020.12.005,Brain Stimul,The critical role of the inferior frontal cortex in establishing a prediction model for ge,2019-12-17,2020-12-11,2020-12-22,8,0
+33340767,10.1016/j.brs.2020.12.004,Brain Stimul,Transcranial direct current stimulation for fatigue in patients with Sjogren's syndrome: A,2020-06-16,2020-12-13,2020-12-20,12,0
+33279717,10.1016/j.brs.2020.11.015,Brain Stimul,Stimulation of the right entorhinal white matter enhances visual memory encoding in humans,2020-04-17,2020-11-16,2020-12-07,14,45
+33217610,10.1016/j.brs.2020.11.009,Brain Stimul,White matter hyperintensities affect transcranial electrical stimulation in the aging brai,2020-08-12,2020-11-11,2020-11-21,5,27
+33217609,10.1016/j.brs.2020.11.010,Brain Stimul,Selective optogenetic stimulation of efferent fibers in the vagus nerve of a large mammal.,2020-08-12,2020-11-11,2020-11-21,21,39
+33217607,10.1016/j.brs.2020.11.012,Brain Stimul,"Rapid, Dose-Dependent Enhancement of Cerebral Blood Flow by transcranial AC Stimulation in",2020-04-25,2020-11-12,2020-11-21,5,53
+33197654,10.1016/j.brs.2020.11.005,Brain Stimul,No effect of anodal tDCS on motor cortical excitability and no evidence for responders in ,2020-02-28,2020-11-04,2020-11-17,6,0
+33186778,10.1016/j.brs.2020.11.007,Brain Stimul,Temporal interference stimulation targets deep brain regions by modulating neural oscillat,2020-05-06,2020-11-07,2020-11-14,5,93
+33166727,10.1016/j.brs.2020.11.001,Brain Stimul,Ryanodine receptors are involved in the improvement of depression-like behaviors through e,2020-04-09,2020-11-01,2020-11-10,8,0
+33166726,10.1016/j.brs.2020.11.002,Brain Stimul,Short-interval intracortical inhibition as a function of inter-stimulus interval: Three me,2020-06-13,2020-11-01,2020-11-10,6,0
+33127580,10.1016/j.brs.2020.10.011,Brain Stimul,Disentangling EEG responses to TMS due to cortical and peripheral activations.,2019-10-13,2020-10-21,2020-11-01,9,0
+36584748,10.1016/j.brs.2022.12.008,Brain Stimul,Early transcranial direct current stimulation with modified constraint-induced movement th,2022-07-15,2022-12-18,2022-12-31,6,0
+36574814,10.1016/j.brs.2022.12.011,Brain Stimul,Robust enhancement of motor sequence learning with 4 mA transcranial electric stimulation.,2022-09-19,2022-12-20,2022-12-28,4,93
+36572209,10.1016/j.brs.2022.12.009,Brain Stimul,Transcranial direct current stimulation of the right anterior temporal lobe changes interp,2022-09-08,2022-12-19,2022-12-27,6,0
+36549480,10.1016/j.brs.2022.12.005,Brain Stimul,Three-layer model with absorption for conservative estimation of the maximum acoustic tran,2022-10-03,2022-12-12,2022-12-23,16,0
+36526154,10.1016/j.brs.2022.12.006,Brain Stimul,Can individually targeted and optimized multi-channel tDCS outperform standard bipolar tDC,2022-08-24,2022-12-12,2022-12-17,8,0
+36496128,10.1016/j.brs.2022.12.003,Brain Stimul,Differential dose responses of transcranial focused ultrasound at brain regions indicate c,2022-05-27,2022-12-06,2022-12-11,9,66
+36460293,10.1016/j.brs.2022.11.009,Brain Stimul,Efficacy and safety of simultaneous rTMS-tDCS over bilateral angular gyrus on neuropsychia,2022-07-13,2022-11-27,2022-12-03,7,0
+36402376,10.1016/j.brs.2022.11.002,Brain Stimul,Characterization of vagus nerve stimulation-induced pupillary responses in epileptic patie,2022-07-03,2022-11-13,2022-11-20,7,0
+36374738,10.1016/j.brs.2022.10.004,Brain Stimul,Magnetic-field-synchronized wireless modulation of neural activity by magnetoelectric nano,2022-07-17,2022-10-19,2022-11-15,18,0
+36356829,10.1016/j.brs.2022.10.012,Brain Stimul,Assessment of safety and feasibility of non-invasive vagus nerve stimulation for treatment,2022-07-10,2022-10-31,2022-11-11,13,0
+36332891,10.1016/j.brs.2022.10.007,Brain Stimul,Cerebral perfusion is related to antidepressant effect and cognitive side effects of Elect,2022-08-24,2022-10-20,2022-11-05,5,0
+36328341,10.1016/j.brs.2022.10.009,Brain Stimul,Individually tuned theta HD-tACS improves spatial performance.,2022-07-05,2022-10-27,2022-11-04,3,0
+36252908,10.1016/j.brs.2022.09.011,Brain Stimul,Maximizing brain networks engagement via individualized connectome-wide target search.,2022-04-01,2022-09-23,2022-10-18,6,0
+36241025,10.1016/j.brs.2022.09.015,Brain Stimul,"kHz-frequency electrical stimulation selectively activates small, unmyelinated vagus affer",2022-03-24,2022-09-30,2022-10-15,18,101
+36228977,10.1016/j.brs.2022.10.001,Brain Stimul,Multi-modal investigation of transcranial ultrasound-induced neuroplasticity of the human ,2022-04-30,2022-10-03,2022-10-14,17,0
+36183953,10.1016/j.brs.2022.09.009,Brain Stimul,Evidence for a modulating effect of transcutaneous auricular vagus nerve stimulation (taVN,2022-04-12,2022-09-22,2022-10-03,17,0
+36180039,10.1016/j.brs.2022.09.013,Brain Stimul,Assessing effective connectivity of the cerebellum with cerebral cortex using TMS-EEG.,2022-05-17,2022-09-25,2022-10-01,3,0
+36150665,10.1016/j.brs.2022.09.003,Brain Stimul,The efficacy and safety of transcutaneous auricular vagus nerve stimulation in patients wi,2022-06-15,2022-09-12,2022-09-24,17,0
+36126864,10.1016/j.brs.2022.09.005,Brain Stimul,Effects of bilateral dorsolateral prefrontal cortex high-definition transcranial direct-cu,2022-07-17,2022-09-16,2022-09-21,5,0
+36113762,10.1016/j.brs.2022.09.004,Brain Stimul,Personalized brain stimulation of memory networks.,2022-06-06,2022-09-12,2022-09-17,10,0
+36096443,10.1016/j.brs.2022.08.025,Brain Stimul,Restoration of functional network state towards more physiological condition as the correl,2022-03-22,2022-08-31,2022-09-13,7,0
+36084908,10.1016/j.brs.2022.08.024,Brain Stimul,No robust online effects of transcranial direct current stimulation on corticospinal excit,2022-04-08,2022-08-31,2022-09-10,6,0
+36067978,10.1016/j.brs.2022.08.022,Brain Stimul,Transcranial ultrasound stimulation to human middle temporal complex improves visual motio,2022-01-24,2022-08-30,2022-09-07,8,0
+36067977,10.1016/j.brs.2022.08.019,Brain Stimul,Vagus nerve stimulation increases stomach-brain coupling via a vagal afferent pathway.,2022-04-05,2022-08-24,2022-09-07,5,0
+36058524,10.1016/j.brs.2022.08.020,Brain Stimul,Persistent synaptic inhibition of the subthalamic nucleus by high frequency stimulation.,2021-10-21,2022-08-25,2022-09-05,10,0
+36041704,10.1016/j.brs.2022.08.017,Brain Stimul,Transcutaneous cervical vagus nerve stimulation reduces behavioral and physiological manif,2022-04-19,2022-08-23,2022-08-31,19,52
+36031059,10.1016/j.brs.2022.08.013,Brain Stimul,"Neuronavigation maximizes accuracy and precision in TMS positioning: Evidence from 11,230 ",2022-05-10,2022-08-18,2022-08-29,6,54
+36028155,10.1016/j.brs.2022.08.012,Brain Stimul,"Impact of medications, mood state, and electrode placement on ECT outcomes in treatment-re",2022-05-24,2022-08-18,2022-08-27,7,0
+35988862,10.1016/j.brs.2022.07.049,Brain Stimul,"tDCS induced GABA change is associated with the simulated electric field in M1, an effect ",2022-04-28,2022-07-26,2022-08-22,15,69
+35987327,10.1016/j.brs.2022.08.010,Brain Stimul,Probabilistic maps for deep brain stimulation - Impact of methodological differences.,2022-05-04,2022-08-11,2022-08-21,8,0
+35985472,10.1016/j.brs.2022.08.007,Brain Stimul,Percepts evoked by multi-electrode stimulation of human visual cortex.,2022-05-03,2022-08-11,2022-08-20,6,41
+35970317,10.1016/j.brs.2022.08.001,Brain Stimul,Vagus nerve stimulation-induced cognitive enhancement: Hippocampal neuroplasticity in heal,2022-05-17,2022-08-03,2022-08-16,10,0
+35964870,10.1016/j.brs.2022.08.005,Brain Stimul,The phase of sensorimotor mu and beta oscillations has the opposite effect on corticospina,2022-04-01,2022-08-06,2022-08-15,5,0
+35952963,10.1016/j.brs.2022.08.002,Brain Stimul,Brain mapping of auditory hallucinations and illusions induced by direct intracortical ele,2022-03-02,2022-08-03,2022-08-12,10,0
+35944604,10.1016/j.brs.2022.07.053,Brain Stimul,Multimodal multi-center analysis of electroconvulsive therapy effects in depression: Brain,2022-04-05,2022-07-25,2022-08-10,14,0
+35926784,10.1016/j.brs.2022.07.051,Brain Stimul,"Post-trial access in implanted neural device research: Device maintenance, abandonment, an",2022-06-01,2022-07-26,2022-08-05,17,25
+35926783,10.1016/j.brs.2022.07.050,Brain Stimul,Long-term comparative effectiveness of deep brain stimulation in severe obsessive-compulsi,2022-04-15,2022-07-25,2022-08-05,10,0
+35921960,10.1016/j.brs.2022.07.047,Brain Stimul,Controlling pallidal oscillations in real-time in Parkinson's disease using evoked interfe,2021-10-08,2022-07-20,2022-08-04,17,42
+35918052,10.1016/j.brs.2022.07.046,Brain Stimul,Evaluating optimized temporal patterns of spinal cord stimulation (SCS).,2022-04-20,2022-07-19,2022-08-03,4,0
+35850438,10.1016/j.brs.2022.07.005,Brain Stimul,Repeated motor cortex theta-burst stimulation produces persistent strengthening of cortico,2022-04-21,2022-07-12,2022-07-20,2,67
+35792318,10.1016/j.brs.2022.06.012,Brain Stimul,Targeting the frontoparietal network using bifocal transcranial alternating current stimul,2022-02-08,2022-06-29,2022-07-07,5,0
+35772671,10.1016/j.brs.2022.06.010,Brain Stimul,Efficacy and quality of life after 6-9 years of deep brain stimulation for depression.,2022-02-16,2022-06-23,2022-07-01,11,0
+35738468,10.1016/j.brs.2022.06.006,Brain Stimul,Non-invasive cervical vagus nerve stimulation effects on reaction time and valence image a,2022-02-21,2022-06-10,2022-06-24,5,136
+35718324,10.1016/j.brs.2022.06.007,Brain Stimul,Non-invasive optogenetics with ultrasound-mediated gene delivery and red-light excitation.,2022-04-18,2022-06-11,2022-06-20,12,71
+35700915,10.1016/j.brs.2022.06.004,Brain Stimul,Effect of cerebellum stimulation on cognitive recovery in patients with Alzheimer disease:,2022-02-08,2022-06-05,2022-06-15,10,0
+35690388,10.1016/j.brs.2022.06.003,Brain Stimul,Self-administered transcranial direct current stimulation for pain in older adults with kn,2022-04-03,2022-06-05,2022-06-12,6,45
+35690386,10.1016/j.brs.2022.05.020,Brain Stimul,Deep brain stimulation of the anterior thalamus attenuates PTZ kindling with concomitant r,2022-02-27,2022-05-31,2022-06-12,6,77
+35671947,10.1016/j.brs.2022.05.021,Brain Stimul,Effects of stimulus pulse rate on somatosensory adaptation in the human cortex.,2021-12-03,2022-05-31,2022-06-08,3,48
+35644517,10.1016/j.brs.2022.05.014,Brain Stimul,DLPFC stimulation alters working memory related activations and performance: An interleave,2021-07-13,2022-05-17,2022-06-02,10,0
+35644516,10.1016/j.brs.2022.05.015,Brain Stimul,Perceived timing of cutaneous vibration and intracortical microstimulation of human somato,2021-12-27,2022-05-20,2022-06-02,9,0
+35643390,10.1016/j.brs.2022.05.016,Brain Stimul,VNS parameters for clinical response in Epilepsy.,2022-01-28,2022-05-22,2022-06-02,7,0
+35640845,10.1016/j.brs.2022.05.019,Brain Stimul,The role of axonal voltage-gated potassium channels in tDCS.,2022-03-24,2022-05-26,2022-06-01,2,0
+35640844,10.1016/j.brs.2022.05.018,Brain Stimul,Antidepressant-like effects of transcorneal electrical stimulation in rat models.,2022-03-08,2022-05-25,2022-06-01,12,0
+35636708,10.1016/j.brs.2022.05.017,Brain Stimul,A high-density theta burst paradigm enhances the aftereffects of transcranial magnetic sti,2022-02-01,2022-05-25,2022-06-01,9,64
+35609816,10.1016/j.brs.2022.05.011,Brain Stimul,Intermittent theta burst stimulation (iTBS) versus 10 Hz high-frequency repetitive transcr,2021-12-03,2022-05-09,2022-05-25,11,0
+35597518,10.1016/j.brs.2022.05.013,Brain Stimul,Cerebellar transcranial direct current stimulation modulates timing but not acquisition of,2022-03-18,2022-05-16,2022-05-22,5,0
+35568312,10.1016/j.brs.2022.05.006,Brain Stimul,Efficacy and safety of HD-tDCS and respiratory rehabilitation for critically ill patients ,2022-03-09,2022-05-05,2022-05-15,25,72
+35568311,10.1016/j.brs.2022.05.008,Brain Stimul,Neuronal oscillations predict deep brain stimulation outcome in Parkinson's disease.,2022-01-21,2022-05-07,2022-05-15,5,0
+35561963,10.1016/j.brs.2022.05.005,Brain Stimul,Electrical stimulation of the trigeminal nerve improves olfaction in healthy individuals: ,2022-02-25,2022-05-05,2022-05-14,9,51
+35561960,10.1016/j.brs.2022.05.004,Brain Stimul,Mechanistic insights into ultrasonic neurostimulation of disconnected neurons using single,2021-10-11,2022-05-03,2022-05-14,2,0
+35533836,10.1016/j.brs.2022.05.003,Brain Stimul,Timing is everything: Event-related transcranial direct current stimulation improves motor,2022-02-28,2022-05-02,2022-05-10,5,0
+35525389,10.1016/j.brs.2022.04.018,Brain Stimul,Relationship between high-frequency activity in the cortical sensory and the motor hand ar,2021-12-04,2022-04-29,2022-05-08,6,0
+35490971,10.1016/j.brs.2022.04.015,Brain Stimul,Long-term directional deep brain stimulation: Monopolar review vs. local field potential g,2021-03-08,2022-04-20,2022-05-02,9,0
+35490970,10.1016/j.brs.2022.04.017,Brain Stimul,Database of 25 validated coil models for electric field simulations for TMS.,2022-01-07,2022-04-25,2022-05-02,5,0
+35470019,10.1016/j.brs.2022.04.014,Brain Stimul,Tolerability and feasibility of at-home remotely supervised transcranial direct current st,2022-01-05,2022-04-19,2022-04-27,13,0
+35447379,10.1016/j.brs.2022.04.009,Brain Stimul,The effect of meninges on the electric fields in TES and TMS. Numerical modeling with adap,2022-02-01,2022-04-08,2022-04-22,5,0
+35429660,10.1016/j.brs.2022.04.002,Brain Stimul,Transcranial alternating current stimulation rescues motor deficits in a mouse model of Pa,2021-11-11,2022-04-01,2022-04-17,5,0
+35421585,10.1016/j.brs.2022.04.007,Brain Stimul,Simultaneous stereo-EEG and high-density scalp EEG recordings to study the effects of intr,2021-11-17,2022-04-06,2022-04-15,17,0
+35413481,10.1016/j.brs.2022.04.008,Brain Stimul,Complex negative emotions induced by electrical stimulation of the human hypothalamus.,2021-12-13,2022-04-05,2022-04-13,14,0
+35395424,10.1016/j.brs.2022.04.001,Brain Stimul,Non-ablative doses of focal ionizing radiation alters function of central neural circuits.,2022-01-20,2022-04-01,2022-04-09,21,0
+35378336,10.1016/j.brs.2022.03.008,Brain Stimul,Sequence of visual cortex stimulation affects phosphene brightness in blind subjects.,2021-12-10,2022-03-29,2022-04-05,11,0
+35367670,10.1016/j.brs.2022.03.007,Brain Stimul,Selective augmentation of corticospinal motor drive with trans-spinal direct current stimu,2022-01-10,2022-03-27,2022-04-04,6,0
+35341967,10.1016/j.brs.2022.03.003,Brain Stimul,Long latency responses in tongue muscle elicited by various stimulation sites in anestheti,2021-06-17,2022-03-16,2022-03-29,2,0
+35318122,10.1016/j.brs.2022.03.001,Brain Stimul,Potential role for peripheral nerve stimulation on learning and long-term memory: A compar,2021-10-05,2022-03-04,2022-03-24,4,0
+35292403,10.1016/j.brs.2022.03.002,Brain Stimul,Imaging versus electrographic connectivity in human mood-related fronto-temporal networks.,2021-06-28,2022-03-09,2022-03-17,18,67
+35278689,10.1016/j.brs.2022.02.018,Brain Stimul,Boosting visual perceptual learning by transcranial alternating current stimulation over t,2021-11-10,2022-02-28,2022-03-13,5,0
+35337598,10.1016/j.brs.2022.01.016,Brain Stimul,Closed-loop optimization of transcranial magnetic stimulation with electroencephalography ,2021-08-27,2022-01-28,2022-03-27,9,56
+35248785,10.1016/j.brs.2022.02.013,Brain Stimul,Differential effects of anodal and dual tDCS on sensorimotor functions in chronic hemipare,2021-02-09,2022-02-21,2022-03-07,6,0
+35247646,10.1016/j.brs.2022.02.017,Brain Stimul,Local and distant cortical responses to single pulse intracranial stimulation in the human,2021-11-15,2022-02-24,2022-03-06,11,122
+35231608,10.1016/j.brs.2022.02.008,Brain Stimul,Daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces ,2021-08-03,2022-02-17,2022-03-02,13,73
+35219923,10.1016/j.brs.2022.02.012,Brain Stimul,Long-term prophylactic efficacy of transcranial direct current stimulation in chronic migr,2021-11-24,2022-02-20,2022-02-28,9,0
+35219922,10.1016/j.brs.2022.02.014,Brain Stimul,Cell type-specific excitability probed by optogenetic stimulation depends on the phase of ,2021-11-08,2022-02-21,2022-02-28,2,83
+35183789,10.1016/j.brs.2022.02.003,Brain Stimul,Induction of Bdnf from promoter I following electroconvulsive seizures contributes to stru,2021-07-26,2022-02-10,2022-02-21,10,48
+35182811,10.1016/j.brs.2022.02.007,Brain Stimul,The degree of cortical plasticity correlates with cognitive performance in patients with M,2021-11-23,2022-02-14,2022-02-20,14,0
+35182810,10.1016/j.brs.2022.02.006,Brain Stimul,Prefrontal theta phase-dependent rTMS-induced plasticity of cortical and behavioral respon,2021-09-29,2022-02-14,2022-02-20,5,0
+35181532,10.1016/j.brs.2022.02.004,Brain Stimul,Neurophysiological and behavioral effects of multisession prefrontal tDCS and concurrent c,2021-10-06,2022-02-10,2022-02-20,7,0
+35104664,10.1016/j.brs.2022.01.015,Brain Stimul,Transcranial focused ultrasound induces sustained synaptic plasticity in rat hippocampus.,2021-11-05,2022-01-27,2022-02-02,3,61
+35093561,10.1016/j.brs.2022.01.012,Brain Stimul,Anodic and symmetric biphasic pulses enlarge the therapeutic window in deep brain stimulat,2021-04-23,2022-01-19,2022-01-31,8,0
+35092823,10.1016/j.brs.2022.01.014,Brain Stimul,Long term study of motivational and cognitive effects of low-intensity focused ultrasound ,2021-08-06,2022-01-24,2022-01-30,8,66
+35085817,10.1016/j.brs.2022.01.013,Brain Stimul,Updated scalp heuristics for localizing the dorsolateral prefrontal cortex based on conver,2021-09-15,2022-01-20,2022-01-28,8,0
+35085816,10.1016/j.brs.2022.01.011,Brain Stimul,Age-dependent non-linear neuroplastic effects of cathodal tDCS in the elderly population: ,2021-10-01,2022-01-16,2022-01-28,6,0
+35074549,10.1016/j.brs.2022.01.006,Brain Stimul,Comparison of clinical outcomes with left unilateral and sequential bilateral Transcranial,2021-08-30,2022-01-10,2022-01-26,9,0
+35051642,10.1016/j.brs.2022.01.007,Brain Stimul,Large-scale EEG neural network changes in response to therapeutic TMS.,2021-06-24,2022-01-10,2022-01-21,9,54
+35042056,10.1016/j.brs.2022.01.008,Brain Stimul,How structural and functional MRI can inform dual-site tACS parameters: A case study in a ,2021-04-15,2022-01-10,2022-01-19,5,0
+35038592,10.1016/j.brs.2022.01.009,Brain Stimul,TMS with fast and accurate electronic control: Measuring the orientation sensitivity of co,2021-09-13,2022-01-12,2022-01-18,6,0
+35026481,10.1016/j.brs.2022.01.005,Brain Stimul,Calcium channels control tDCS-induced spontaneous vesicle release from axon terminals.,2021-09-14,2022-01-06,2022-01-14,2,0
+34990877,10.1016/j.brs.2022.01.002,Brain Stimul,Neuronal responses to focused ultrasound are gated by pre-stimulation brain rhythms.,2021-08-07,2022-01-01,2022-01-07,4,0
+34990876,10.1016/j.brs.2022.01.001,Brain Stimul,tACS phase-specifically biases brightness perception of flickering light.,2021-10-14,2022-01-01,2022-01-07,8,0
+34954085,10.1016/j.brs.2021.12.007,Brain Stimul,Use of electroconvulsive therapy for individuals receiving inpatient psychiatric care on a,2021-10-19,2021-12-20,2021-12-27,5,0
+34954084,10.1016/j.brs.2021.12.008,Brain Stimul,Electroconvulsive therapy modulates critical brain dynamics in major depressive disorder p,2021-09-17,2021-12-20,2021-12-27,8,0
+34952226,10.1016/j.brs.2021.12.005,Brain Stimul,High resolution ultrasonic neural modulation observed via in vivo two-photon calcium imagi,2021-09-14,2021-12-17,2021-12-25,6,69
+34933143,10.1016/j.brs.2021.12.004,Brain Stimul,Auricular transcutaneous vagus nerve stimulation modulates the heart-evoked potential.,2021-08-20,2021-12-15,2021-12-22,8,0
+34902623,10.1016/j.brs.2021.12.003,Brain Stimul,Individual interregional perfusion between the left dorsolateral prefrontal cortex stimula,2021-08-14,2021-12-08,2021-12-14,2,0
+34896304,10.1016/j.brs.2021.12.002,Brain Stimul,Bihemispheric sensorimotor oscillatory network states determine cortical responses to tran,2021-10-20,2021-12-07,2021-12-14,3,0
+34861412,10.1016/j.brs.2021.11.015,Brain Stimul,Stoney vs. Histed: Quantifying the spatial effects of intracortical microstimulation.,2021-07-30,2021-11-19,2021-12-04,5,60
+34856396,10.1016/j.brs.2021.11.019,Brain Stimul,Phase- targeted stimulation modulates phase-amplitude coupling in the motor cortex of the ,2020-07-13,2021-11-28,2021-12-03,4,0
+34826627,10.1016/j.brs.2021.11.018,Brain Stimul,Sex difference in tDCS current mediated by changes in cortical anatomy: A study across you,2021-06-19,2021-11-22,2021-11-27,8,101
+34826626,10.1016/j.brs.2021.11.017,Brain Stimul,The Brain Electrophysiological recording & STimulation (BEST) toolbox.,2021-09-20,2021-11-22,2021-11-27,4,0
+34823038,10.1016/j.brs.2021.11.016,Brain Stimul,Long-term changes in short-interval intracortical facilitation modulate motor cortex plast,2021-09-10,2021-11-20,2021-11-26,7,0
+34818580,10.1016/j.brs.2021.11.014,Brain Stimul,Multi-locus transcranial magnetic stimulation system for electronically targeted brain sti,2021-09-20,2021-11-19,2021-11-25,11,43
+34801750,10.1016/j.brs.2021.11.012,Brain Stimul,Jargonaphasia as a disconnection syndrome: A study combining white matter electrical stimu,2021-09-11,2021-11-14,2021-11-22,5,0
+34785386,10.1016/j.brs.2021.11.009,Brain Stimul,Improved object recognition memory using post-encoding repetitive transcranial magnetic st,2021-05-11,2021-11-09,2021-11-18,4,53
+34767967,10.1016/j.brs.2021.11.008,Brain Stimul,Anatomical and fMRI-network comparison of multiple DLPFC targeting strategies for repetiti,2021-03-12,2021-11-08,2021-11-13,15,80
+34752934,10.1016/j.brs.2021.11.007,Brain Stimul,Accelerated intermittent theta-burst stimulation broadly ameliorates symptoms and cognitio,2021-01-16,2021-11-04,2021-11-10,13,0
+34749007,10.1016/j.brs.2021.10.552,Brain Stimul,Weak DCS causes a relatively strong cumulative boost of synaptic plasticity with spaced le,2021-05-14,2021-10-30,2021-11-09,4,56
+34749005,10.1016/j.brs.2021.11.006,Brain Stimul,Deep brain stimulation effect on anterior pallidum reduces motor impulsivity in Parkinson',2021-07-19,2021-11-04,2021-11-09,5,62
+34742997,10.1016/j.brs.2021.11.003,Brain Stimul,Deep brain stimulation of the nucleus accumbens shell attenuates cocaine withdrawal but in,2021-09-09,2021-11-01,2021-11-08,7,78
+34742996,10.1016/j.brs.2021.11.004,Brain Stimul,Individualized beta-band oscillatory transcranial direct current stimulation over the prim,2021-07-16,2021-11-01,2021-11-08,9,0
+34742994,10.1016/j.brs.2021.11.001,Brain Stimul,Transcranial Electrical Stimulation generates electric fields in deep human brain structur,2021-03-05,2021-11-01,2021-11-08,6,0
+38145754,10.1016/j.brs.2023.12.010,Brain Stimul,Pulse-width modulated temporal interference (PWM-TI) brain stimulation.,2023-09-07,2023-12-19,2023-12-26,5,0
+38145753,10.1016/j.brs.2023.12.008,Brain Stimul,Locus coeruleus tyrosine hydroxylase positive neurons mediated the peripheral and central ,2023-10-03,2023-12-19,2023-12-26,10,0
+38145752,10.1016/j.brs.2023.12.011,Brain Stimul,Conversion of a medical implant into a versatile computer-brain interface.,2023-10-13,2023-12-20,2023-12-26,10,0
+38128826,10.1016/j.brs.2023.12.007,Brain Stimul,Transcranial focused ultrasound for the treatment of tremor: A preliminary case series.,2023-11-28,2023-12-13,2023-12-22,11,0
+38101469,10.1016/j.brs.2023.12.005,Brain Stimul,Longitudinal resting-state network connectivity changes in electroconvulsive therapy patie,2023-09-25,2023-12-08,2023-12-16,18,54
+38101468,10.1016/j.brs.2023.12.006,Brain Stimul,Altered in vivo early neurogenesis traits in patients with depression: Evidence from neuro,2023-08-01,2023-12-08,2023-12-16,8,0
+38072355,10.1016/j.brs.2023.12.001,Brain Stimul,Measuring the accuracy of ICA-based artifact removal from TMS-evoked potentials.,2023-06-04,2023-12-01,2023-12-11,4,24
+38135359,10.1016/j.brs.2023.11.003,Brain Stimul,Stereo-EEG-guided network modulation for psychiatric disorders: Interactive holographic pl,2023-05-31,2023-11-07,2023-12-23,7,28
+38135358,10.1016/j.brs.2023.07.057,Brain Stimul,Stereo-EEG-guided network modulation for psychiatric disorders: Surgical considerations.,2023-05-31,2023-07-30,2023-12-23,27,24
+38061548,10.1016/j.brs.2023.11.016,Brain Stimul,Oscillatory network markers of subcallosal cingulate deep brain stimulation for depression,2023-08-23,2023-11-27,2023-12-08,11,72
+38056825,10.1016/j.brs.2023.11.018,Brain Stimul,Multi-scale model of axonal and dendritic polarization by transcranial direct current stim,2023-07-30,2023-11-29,2023-12-07,4,95
+38052373,10.1016/j.brs.2023.11.014,Brain Stimul,High-throughput ultrasound neuromodulation in awake and freely behaving rats.,2023-09-14,2023-11-22,2023-12-06,6,44
+38043646,10.1016/j.brs.2023.11.010,Brain Stimul,EEG synchronized left prefrontal transcranial magnetic stimulation (TMS) for treatment res,2023-01-25,2023-11-19,2023-12-04,11,28
+38036251,10.1016/j.brs.2023.11.011,Brain Stimul,MNI2CPC: A probabilistic cortex-to-scalp mapping for non-invasive brain stimulation target,2023-09-24,2023-11-21,2023-12-01,7,0
+38008154,10.1016/j.brs.2023.11.012,Brain Stimul,HD-tDCS induced changes in resting-state functional connectivity: Insights from EF modelin,2023-08-25,2023-11-20,2023-11-27,5,0
+37979654,10.1016/j.brs.2023.11.005,Brain Stimul,Resting-state background features demonstrate multidien cycles in long-term EEG device rec,2023-06-19,2023-11-07,2023-11-19,11,31
+37977335,10.1016/j.brs.2023.11.008,Brain Stimul,"Cortico-spinal tDCS in amyotrophic lateral sclerosis: A randomized, double-blind, sham-con",2023-07-31,2023-11-13,2023-11-18,15,0
+37952571,10.1016/j.brs.2023.11.004,Brain Stimul,Electroconvulsive therapy improves somatic symptoms before mood in patients with depressio,2023-08-02,2023-11-07,2023-11-13,9,0
+37949296,10.1016/j.brs.2023.11.001,Brain Stimul,Subjective states induced by intracranial electrical stimulation matches the cytoarchitect,2023-09-13,2023-11-03,2023-11-11,7,71
+37949295,10.1016/j.brs.2023.11.002,Brain Stimul,Alpha transcranial alternating current stimulation modulates auditory perception.,2023-05-03,2023-11-02,2023-11-11,3,0
+37918630,10.1016/j.brs.2023.10.012,Brain Stimul,Effects of multisession cathodal transcranial direct current stimulation with cognitive tr,2023-07-04,2023-10-23,2023-11-03,6,0
+37863389,10.1016/j.brs.2023.10.006,Brain Stimul,Pretreatment pupillary reactivity is associated with differential early response to 10 Hz ,2023-08-10,2023-10-08,2023-10-21,16,0
+37863388,10.1016/j.brs.2023.10.009,Brain Stimul,Temporally non-regular patterns of deep brain stimulation (DBS) enhance assessment of evok,2023-04-14,2023-10-11,2023-10-21,7,39
+37838094,10.1016/j.brs.2023.10.003,Brain Stimul,Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined wit,2023-03-22,2023-10-03,2023-10-15,11,0
+37827359,10.1016/j.brs.2023.10.008,Brain Stimul,TMS of parietal and occipital cortex locked to spontaneous transient large-scale brain sta,2023-02-19,2023-10-09,2023-10-13,4,0
+37827358,10.1016/j.brs.2023.10.007,Brain Stimul,Causal influence of brainstem response to transcutaneous vagus nerve stimulation on cardio,2023-04-18,2023-10-09,2023-10-13,8,69
+37909109,10.1016/j.brs.2023.08.002,Brain Stimul,Ultrasonocoverslip: In-vitro platform for high-throughput assay of cell type-specific neur,2023-04-19,2023-08-03,2023-11-01,6,0
+37827360,10.1016/j.brs.2023.10.001,Brain Stimul,Dosing transcranial magnetic stimulation in major depressive disorder: Relations between n,2023-08-07,2023-10-01,2023-10-13,8,0
+37806524,10.1016/j.brs.2023.10.002,Brain Stimul,Efficacy of insula deep repetitive transcranial magnetic stimulation combined with varenic,2023-07-31,2023-10-01,2023-10-09,10,0
+37778457,10.1016/j.brs.2023.09.021,Brain Stimul,Electrophysiological characteristics of CM-pf in diagnosis and outcome of patients with di,2023-01-11,2023-09-20,2023-10-02,11,0
+37778456,10.1016/j.brs.2023.09.018,Brain Stimul,Devising a framework of optogenetic coding in the auditory pathway: Insights from auditory,2023-06-12,2023-09-21,2023-10-02,6,0
+37777110,10.1016/j.brs.2023.09.019,Brain Stimul,Frequency-specific modulation of oscillatory activity in the rat auditory cortex by vagus ,2023-04-12,2023-09-21,2023-10-01,8,0
+37777109,10.1016/j.brs.2023.09.022,Brain Stimul,The intracortical excitability changes underlying the enhancing effects of rewards and pun,2023-03-28,2023-09-18,2023-10-01,7,0
+37741439,10.1016/j.brs.2023.09.013,Brain Stimul,Disrupting nociceptive information processing flow through transcranial focused ultrasound,2023-04-29,2023-09-13,2023-09-24,12,72
+37741438,10.1016/j.brs.2023.09.008,Brain Stimul,Legal aspects of unwanted device explantations: A comment on the patient R case.,2023-06-07,2023-09-08,2023-09-24,2,0
+37734587,10.1016/j.brs.2023.09.010,Brain Stimul,Accumbens connectivity during deep-brain stimulation differentiates loss of control from p,2023-04-13,2023-09-11,2023-09-22,9,65
+37716638,10.1016/j.brs.2023.09.012,Brain Stimul,Effect of temporal interference electrical stimulation on phasic dopamine release in the s,2023-05-17,2023-09-13,2023-09-17,9,0
+37714408,10.1016/j.brs.2023.09.006,Brain Stimul,A randomized trial comparing beam F3 and 5.5 cm targeting in rTMS treatment of depression ,2023-07-10,2023-09-08,2023-09-16,5,37
+37704033,10.1016/j.brs.2023.09.002,Brain Stimul,Forniceal deep brain stimulation in a mouse model of Rett syndrome increases neurogenesis ,2023-04-18,2023-09-02,2023-09-14,6,105
+37704032,10.1016/j.brs.2023.09.009,Brain Stimul,TMS over the pre-SMA enhances semantic cognition via remote network effects on task-based ,2023-04-11,2023-09-08,2023-09-14,4,81
+37690602,10.1016/j.brs.2023.09.004,Brain Stimul,Development and validation of a computational method to predict unintended auditory brains,2023-05-20,2023-09-06,2023-09-11,4,104
+37683763,10.1016/j.brs.2023.08.026,Brain Stimul,Sub-harmonic entrainment of cortical gamma oscillations to deep brain stimulation in Parki,2023-05-04,2023-08-30,2023-09-09,10,45
+37660936,10.1016/j.brs.2023.08.025,Brain Stimul,Tolerability and blinding of high-definition transcranial direct current stimulation among,2023-06-14,2023-08-31,2023-09-04,10,38
+37652135,10.1016/j.brs.2023.08.023,Brain Stimul,Personalized functional imaging-guided rTMS on the superior frontal gyrus for post-stroke ,2023-04-23,2023-08-27,2023-09-01,23,0
+37647985,10.1016/j.brs.2023.08.022,Brain Stimul,Prefrontal stimulation as a tool to disrupt hippocampal and striatal reactivations underly,2023-01-26,2023-08-23,2023-08-31,5,0
+37633491,10.1016/j.brs.2023.08.020,Brain Stimul,Functional connectomic profile correlates with effective anterior thalamic stimulation for,2022-11-30,2023-08-21,2023-08-27,18,0
+37619891,10.1016/j.brs.2023.08.017,Brain Stimul,Feasibility of local field potential-guided programming for deep brain stimulation in Park,2023-02-04,2023-08-18,2023-08-25,10,0
+37611659,10.1016/j.brs.2023.08.011,Brain Stimul,Inhibition of midfrontal theta with transcranial ultrasound explains greater approach vers,2023-03-01,2023-08-16,2023-08-24,6,0
+37611657,10.1016/j.brs.2023.08.014,Brain Stimul,Local neuroanatomical and tract-based proxies of optimal subcallosal cingulate deep brain ,2023-04-16,2023-08-19,2023-08-24,10,0
+37595834,10.1016/j.brs.2023.08.010,Brain Stimul,Mapping subcortical motor pathways in humans with startle-conditioned TMS.,2023-04-11,2023-08-14,2023-08-19,3,33
+37567463,10.1016/j.brs.2023.08.006,Brain Stimul,Adaptive Deep Brain Stimulation for sleep stage targeting in Parkinson's disease.,2023-01-27,2023-08-07,2023-08-12,6,29
+37567462,10.1016/j.brs.2023.08.005,Brain Stimul,Subacute alpha frequency (10Hz) subthalamic stimulation for emotional processing in Parkin,2023-01-18,2023-08-07,2023-08-12,6,0
+37558125,10.1016/j.brs.2023.08.003,Brain Stimul,Alteration of functional connectivity in the cortex and major brain networks of non-human ,2023-03-09,2023-08-03,2023-08-10,7,51
+37543172,10.1016/j.brs.2023.08.001,Brain Stimul,The effect of pulse shape in theta-burst stimulation: Monophasic vs biphasic TMS.,2023-04-27,2023-08-02,2023-08-06,6,49
+37543171,10.1016/j.brs.2023.07.051,Brain Stimul,Subgenual cingulate connectivity as a treatment predictor during low-frequency right dorso,2023-04-16,2023-07-25,2023-08-06,8,0
+37541579,10.1016/j.brs.2023.07.058,Brain Stimul,BurstDR spinal cord stimulation rebalances pain input and pain suppression in the brain in,2023-01-26,2023-07-31,2023-08-05,2,0
+37524296,10.1016/j.brs.2023.07.056,Brain Stimul,Mechanisms of theta burst transcranial ultrasound induced plasticity in the human motor co,2023-03-14,2023-07-28,2023-08-01,6,0
+37517467,10.1016/j.brs.2023.07.054,Brain Stimul,Effective resting-state connectivity in severe unipolar depression before and after electr,2023-02-20,2023-07-27,2023-07-31,21,0
+37517466,10.1016/j.brs.2023.07.050,Brain Stimul,Left or right ear? A neuroimaging study using combined taVNS/fMRI to understand the intera,2023-01-14,2023-07-23,2023-07-31,8,0
+37517465,10.1016/j.brs.2023.07.052,Brain Stimul,Transcranial direct current stimulation elevates the baseline activity while sharpening th,2023-02-08,2023-07-23,2023-07-31,6,0
+37467951,10.1016/j.brs.2023.07.049,Brain Stimul,State-specific modulation of mood using intracranial electrical stimulation of the orbitof,2023-05-08,2023-07-13,2023-07-20,5,0
+37422109,10.1016/j.brs.2023.06.018,Brain Stimul,Machine versus physician-based programming of deep brain stimulation in isolated dystonia:,2023-01-09,2023-06-26,2023-07-09,12,0
+37414370,10.1016/j.brs.2023.07.002,Brain Stimul,Biomarker-guided neuromodulation aids memory in traumatic brain injury.,2022-09-02,2023-07-01,2023-07-07,10,0
+37390891,10.1016/j.brs.2023.06.014,Brain Stimul,Functional connectivity explains how neuronavigated TMS of posterior temporal subregions d,2022-12-31,2023-06-21,2023-07-01,6,0
+37385540,10.1016/j.brs.2023.06.017,Brain Stimul,Intracranial electrical stimulation of corticolimbic sites modulates arousal in humans.,2023-03-31,2023-06-26,2023-06-30,17,78
+37353071,10.1016/j.brs.2023.06.013,Brain Stimul,Personalized alpha-tACS targeting left posterior parietal cortex modulates visuo-spatial a,2023-01-04,2023-06-20,2023-06-24,7,0
+37348704,10.1016/j.brs.2023.06.010,Brain Stimul,Short-term transcutaneous vagus nerve stimulation increases pupil size but does not affect,2023-03-15,2023-06-18,2023-06-23,4,0
+37348702,10.1016/j.brs.2023.06.011,Brain Stimul,Frontal tDCS reduces alcohol relapse rates by increasing connections from left dorsolatera,2022-11-14,2023-06-19,2023-06-23,8,60
+37336282,10.1016/j.brs.2023.06.006,Brain Stimul,Effects of transcutaneous auricular vagus nerve stimulation paired with tones on electroph,2023-04-28,2023-06-12,2023-06-20,5,0
+37330169,10.1016/j.brs.2023.06.007,Brain Stimul,Participant perceptions of changes in psychosocial domains following participation in an a,2022-12-13,2023-06-14,2023-06-18,18,41
+37307872,10.1016/j.brs.2023.05.025,Brain Stimul,A novel whole-head RF coil design tailored for concurrent multichannel brain stimulation a,2022-12-13,2023-05-30,2023-06-13,10,35
+37301470,10.1016/j.brs.2023.05.023,Brain Stimul,Effect of cerebellar transcranial magnetic stimulation with double-cone coil on dysphagia ,2023-02-14,2023-05-28,2023-06-11,8,0
+37279860,10.1016/j.brs.2023.05.020,Brain Stimul,Machine-learning defined precision tDCS for improving cognitive function.,2023-02-08,2023-05-22,2023-06-07,7,52
+37271336,10.1016/j.brs.2023.06.001,Brain Stimul,Design of coil holder for the improved maneuvering in concurrent TMS-MRI.,2023-01-18,2023-06-01,2023-06-05,4,0
+37245844,10.1016/j.brs.2023.05.012,Brain Stimul,Low-intensity ultrasound directly modulates neural activity of the cerebellar cortex.,2023-02-23,2023-05-16,2023-05-29,3,0
+37245842,10.1016/j.brs.2023.05.021,Brain Stimul,Primary outcome from the augmenting cognitive training in older adults study (ACT): A tDCS,2023-02-15,2023-05-24,2023-05-29,11,80
+37244370,10.1016/j.brs.2023.05.013,Brain Stimul,Dynamic amplitude modulation of microstimulation evokes biomimetic onset and offset transi,2022-11-17,2023-05-17,2023-05-28,2,134
+37230462,10.1016/j.brs.2023.05.006,Brain Stimul,Whole-brain network transitions within the framework of ignition and transfer entropy foll,2022-10-28,2023-05-08,2023-05-26,10,0
+37217075,10.1016/j.brs.2023.05.011,Brain Stimul,Future directions in psychiatric neurosurgery: Proceedings of the 2022 American Society fo,2023-04-05,2023-05-14,2023-05-23,33,112
+37211337,10.1016/j.brs.2023.05.014,Brain Stimul,Long-lasting restoration of memory function and hippocampal synaptic plasticity by focused,2022-11-28,2023-05-17,2023-05-22,8,0
+37201865,10.1016/j.brs.2023.05.008,Brain Stimul,Limited output transcranial electrical stimulation 2023 (LOTES-2023): Updates on engineeri,2022-12-21,2023-05-13,2023-05-19,14,91
+37187457,10.1016/j.brs.2023.05.007,Brain Stimul,The timing of transcranial magnetic stimulation relative to the phase of prefrontal alpha ,2022-09-07,2023-05-08,2023-05-16,14,0
+37182683,10.1016/j.brs.2023.05.002,Brain Stimul,Trigeminal nerve stimulation for prolonged disorders of consciousness: A randomized double,2023-02-09,2023-05-03,2023-05-15,10,0
+37146791,10.1016/j.brs.2023.04.022,Brain Stimul,Serial electroconvulsive Seizure alters dendritic complexity and promotes cellular prolife,2023-01-18,2023-04-25,2023-05-06,8,87
+37141936,10.1016/j.brs.2023.04.023,Brain Stimul,"Towards optimizing single pulse electrical stimulation: High current intensity, short puls",2023-02-04,2023-04-26,2023-05-05,7,38
+37137387,10.1016/j.brs.2023.04.016,Brain Stimul,How I became myself after merging with a computer: Does human-machine symbiosis raise huma,2022-12-05,2023-04-20,2023-05-04,3,0
+37100201,10.1016/j.brs.2023.04.018,Brain Stimul,Brain Recording Analysis and Visualization Online (BRAVO): An open-source visualization to,2022-09-14,2023-04-22,2023-04-27,8,0
+37100200,10.1016/j.brs.2023.04.019,Brain Stimul,D2 receptor blockade eliminates exercise-induced changes in cortical inhibition and excita,2023-01-11,2023-04-23,2023-04-27,5,0
+37094762,10.1016/j.brs.2023.04.014,Brain Stimul,Effects of motor cortex neuromodulation on the specificity of corticospinal tract spinal a,2022-12-18,2023-04-19,2023-04-25,2,32
+37088453,10.1016/j.brs.2023.04.013,Brain Stimul,"Toward more diverse, inclusive, and equitable neuromodulation.",2022-12-20,2023-04-18,2023-04-24,3,0
+37080427,10.1016/j.brs.2023.04.012,Brain Stimul,Sustained modulation of primate deep brain circuits with focused ultrasonic waves.,2022-11-30,2023-04-12,2023-04-21,4,56
+37076043,10.1016/j.brs.2023.04.007,Brain Stimul,Views of stakeholders at risk for dementia about deep brain stimulation for cognition.,2022-11-20,2023-04-12,2023-04-20,8,40
+37062348,10.1016/j.brs.2023.04.006,Brain Stimul,The role of the parietal lobe in task-irrelevant suppression during learning.,2022-08-31,2023-04-13,2023-04-17,4,0
+37055009,10.1016/j.brs.2023.04.003,Brain Stimul,Focused ultrasound neuromodulation of the spleen activates an anti-inflammatory response i,2022-11-12,2023-04-05,2023-04-14,16,40
+37028755,10.1016/j.brs.2023.03.012,Brain Stimul,Tomographic tract tracing and data driven approaches to unravel complex 3D fiber anatomy o,2023-01-30,2023-03-28,2023-04-08,8,0
+36940750,10.1016/j.brs.2023.03.001,Brain Stimul,Prefrontal tDCS modulates autonomic responses in COVID-19 inpatients.,2022-11-17,2023-03-02,2023-03-21,7,86
+36933652,10.1016/j.brs.2023.03.007,Brain Stimul,Quasi-static pipeline in electroconvulsive therapy computational modeling.,2022-10-27,2023-03-14,2023-03-19,6,69
+36931463,10.1016/j.brs.2023.03.006,Brain Stimul,Ultrasound-enhanced brain delivery of edaravone provides additive amelioration on disease ,2023-01-05,2023-03-10,2023-03-18,8,0
+36931462,10.1016/j.brs.2023.03.005,Brain Stimul,Depression core network-based individualized targeting for transcranial magnetic stimulati,2022-12-20,2023-03-08,2023-03-18,6,61
+36914065,10.1016/j.brs.2023.03.003,Brain Stimul,Continuous vagus nerve stimulation exerts beneficial effects on rats with experimentally i,2022-08-07,2023-03-07,2023-03-14,16,0
+36828302,10.1016/j.brs.2023.02.010,Brain Stimul,Transferability of cathodal tDCS effects from the primary motor to the prefrontal cortex: ,2022-07-18,2023-02-19,2023-02-25,6,0
+36801260,10.1016/j.brs.2023.02.008,Brain Stimul,Transcutaneous auricular vagus nerve stimulation reduces cytokine production in sepsis: An,2022-09-15,2023-02-12,2023-02-22,9,0
+36773779,10.1016/j.brs.2023.02.003,Brain Stimul,Organ- and function-specific anatomical organization of vagal fibers supports fascicular v,2022-11-12,2023-02-03,2023-02-12,22,122
+36746367,10.1016/j.brs.2023.02.002,Brain Stimul,Lateral cerebellothalamic tract activation underlies DBS therapy for Essential Tremor.,2022-02-07,2023-02-01,2023-02-07,18,85
+36731773,10.1016/j.brs.2023.01.1674,Brain Stimul,Ultrasound modulates neuronal potassium currents via ionotropic glutamate receptors.,2022-10-19,2023-01-27,2023-02-03,13,0
+36731770,10.1016/j.brs.2023.01.1678,Brain Stimul,Infrared neural stimulation in human cerebral cortex.,2022-04-25,2023-01-28,2023-02-03,6,0
+36720304,10.1016/j.brs.2023.01.1673,Brain Stimul,Short duration event related cerebellar TDCS enhances visuomotor adaptation.,2022-10-12,2023-01-24,2023-02-01,6,0
+36702442,10.1016/j.brs.2023.01.1671,Brain Stimul,Graded optogenetic activation of the auditory pathway for hearing restoration.,2022-10-31,2023-01-19,2023-01-27,3,72
+36693536,10.1016/j.brs.2023.01.1672,Brain Stimul,Non-invasive brain stimulation for fatigue in post-acute sequelae of SARS-CoV-2 (PASC).,2022-10-29,2023-01-19,2023-01-25,15,78
+36682718,10.1016/j.brs.2023.01.839,Brain Stimul,Efficacy of transcranial direct current stimulation on postoperative delirium in elderly p,2022-10-14,2023-01-13,2023-01-23,14,0
+36682717,10.1016/j.brs.2023.01.840,Brain Stimul,Deep brain stimulation for Parkinson's disease: A case for patient empowerment.,2022-08-25,2023-01-16,2023-01-23,1,0
+36681239,10.1016/j.brs.2023.01.1664,Brain Stimul,Cyclic versus continuous deep brain stimulation in patients with obsessive compulsive diso,2022-03-18,2023-01-16,2023-01-22,7,0
+36584748,10.1016/j.brs.2022.12.008,Brain Stimul,Early transcranial direct current stimulation with modified constraint-induced movement th,2022-07-15,2022-12-18,2022-12-31,6,0
+36574814,10.1016/j.brs.2022.12.011,Brain Stimul,Robust enhancement of motor sequence learning with 4 mA transcranial electric stimulation.,2022-09-19,2022-12-20,2022-12-28,4,93
+36572209,10.1016/j.brs.2022.12.009,Brain Stimul,Transcranial direct current stimulation of the right anterior temporal lobe changes interp,2022-09-08,2022-12-19,2022-12-27,6,0
+36549480,10.1016/j.brs.2022.12.005,Brain Stimul,Three-layer model with absorption for conservative estimation of the maximum acoustic tran,2022-10-03,2022-12-12,2022-12-23,16,0
+36526154,10.1016/j.brs.2022.12.006,Brain Stimul,Can individually targeted and optimized multi-channel tDCS outperform standard bipolar tDC,2022-08-24,2022-12-12,2022-12-17,8,0
+39706521,10.1016/j.brs.2024.12.1191,Brain Stimul,"Vagus nerve stimulation in treatment-resistant depression: A one-year, randomized, sham-co",2024-09-20,2024-12-14,2024-12-21,29,0
+39701918,10.1016/j.brs.2024.12.1187,Brain Stimul,Effects of vagus nerve stimulation on daily function and quality of life in markedly treat,2024-09-20,2024-12-01,2024-12-20,27,0
+39732191,10.1016/j.brs.2024.12.1475,Brain Stimul,Efficacy of repetitive transcranial magnetic stimulation in preventing postoperative delir,2024-10-19,2024-12-22,2024-12-29,9,0
+39725001,10.1016/j.brs.2024.12.1476,Brain Stimul,The role of delta phase for temporal predictions investigated with bilateral parietal tACS,2024-09-03,2024-12-22,2024-12-27,7,0
+39725000,10.1016/j.brs.2024.12.1474,Brain Stimul,Effectiveness of sequential bilateral repetitive transcranial stimulation versus bilateral,2024-07-22,2024-12-21,2024-12-27,18,0
+39716573,10.1016/j.brs.2024.12.1193,Brain Stimul,Personalized whole-brain activity patterns predict human corticospinal tract activation in,2024-08-15,2024-12-20,2024-12-24,6,72
+39710004,10.1016/j.brs.2024.12.1192,Brain Stimul,Enabling electric field model of microscopically realistic brain.,2024-06-28,2024-12-17,2024-12-23,15,73
+39643112,10.1016/j.brs.2024.12.002,Brain Stimul,Investigating the hypotensive effect of focused ultrasound neuromodulation and barbiturate,2024-09-06,2024-12-02,2024-12-07,3,0
+39622433,10.1016/j.brs.2024.11.010,Brain Stimul,Transcranial low-level laser stimulation in the near-infrared-II region (1064 nm) for brai,2024-08-12,2024-11-25,2024-12-03,14,0
+39577741,10.1016/j.brs.2024.11.005,Brain Stimul,Examination of the interaction of parameters for low-intensity focused ultrasound of the h,2024-08-27,2024-11-07,2024-11-23,4,55
+39532240,10.1016/j.brs.2024.11.006,Brain Stimul,The role of white matter variability in TMS neuromodulatory effects.,2024-07-08,2024-11-08,2024-11-13,7,0
+39515419,10.1016/j.brs.2024.11.003,Brain Stimul,Different stimulation targets of rTMS modulate specific triple-network and hippocampal-cor,2024-06-27,2024-11-05,2024-11-13,6,0
+39476952,10.1016/j.brs.2024.10.010,Brain Stimul,Concurrent optogenetic motor mapping of multiple limbs in awake mice reveals cortical orga,2024-07-05,2024-10-27,2024-10-31,6,77
+39419474,10.1016/j.brs.2024.10.006,Brain Stimul,Deep brain stimulation mitigates memory deficits in a rodent model of traumatic brain inju,2024-08-04,2024-10-14,2024-10-18,11,0
+39413869,10.1016/j.brs.2024.10.005,Brain Stimul,Intracortical microstimulation of human somatosensory cortex induces natural perceptual bi,2024-04-25,2024-10-10,2024-10-17,5,49
+39396800,10.1016/j.brs.2024.10.004,Brain Stimul,Brain metabolic response to repetitive transcranial magnetic stimulation to lesion network,2024-01-31,2024-10-10,2024-10-14,7,0
+39395687,10.1016/j.brs.2024.10.003,Brain Stimul,Reduced auditory perception and brain response with quiet TMS coil.,2024-06-28,2024-10-08,2024-10-13,7,58
+39384084,10.1016/j.brs.2024.10.001,Brain Stimul,Epidural magnetic stimulation of the motor cortex using an implantable coil.,2024-08-08,2024-10-02,2024-10-10,4,0
+39277130,10.1016/j.brs.2024.09.005,Brain Stimul,Adaptive closed-loop modulation of cortical theta oscillations: Insights into the neural d,2023-10-21,2024-09-10,2024-09-15,6,0
+39277129,10.1016/j.brs.2024.09.006,Brain Stimul,Transcranial focused ultrasound stimulation enhances cerebrospinal fluid movement: Real-ti,2024-06-10,2024-09-10,2024-09-15,7,0
+39270929,10.1016/j.brs.2024.09.003,Brain Stimul,Induction and stabilization of delta frequency brain oscillations by phase-synchronized rT,2024-04-30,2024-09-10,2024-09-14,7,0
+39245294,10.1016/j.brs.2024.09.001,Brain Stimul,Differential effects of theta-gamma tACS on motor skill acquisition in young individuals a,2024-06-07,2024-09-04,2024-09-09,11,0
+39218350,10.1016/j.brs.2024.08.013,Brain Stimul,Transient alteration of Awareness triggered by direct electrical stimulation of the brain.,2024-04-14,2024-08-29,2024-09-02,6,0
+39218349,10.1016/j.brs.2024.08.012,Brain Stimul,Acoustic deep brain modulation: Enhancing neuronal activation and neurogenesis.,2024-05-12,2024-08-28,2024-09-02,6,0
+39214185,10.1016/j.brs.2024.08.010,Brain Stimul,Organotypic culture of post-mortem adult human brain explants exhibits synaptic plasticity,2024-03-07,2024-08-27,2024-08-31,6,0
+39214184,10.1016/j.brs.2024.08.011,Brain Stimul,Focused magnetic stimulation for motor recovery after stroke.,2024-02-13,2024-08-27,2024-08-31,9,0
+39209064,10.1016/j.brs.2024.08.008,Brain Stimul,Controlling action potentials with magnetoelectric nanoparticles.,2024-05-28,2024-08-21,2024-08-31,8,0
+39173736,10.1016/j.brs.2024.08.007,Brain Stimul,Genetic labeling of the nucleus of tractus solitarius neurons associated with electrical s,2024-05-28,2024-08-19,2024-08-23,6,79
+39142380,10.1016/j.brs.2024.08.003,Brain Stimul,How conductivity boundaries influence the electric field induced by transcranial magnetic ,2024-05-03,2024-08-10,2024-08-15,4,73
+39134207,10.1016/j.brs.2024.08.002,Brain Stimul,Electrographic seizures during low-current thalamic deep brain stimulation in mice.,2024-05-11,2024-08-09,2024-08-13,7,32
+39096961,10.1016/j.brs.2024.07.022,Brain Stimul,Optogenetic fMRI reveals therapeutic circuits of subthalamic nucleus deep brain stimulatio,2024-04-12,2024-07-31,2024-08-04,9,107
+39096960,10.1016/j.brs.2024.07.021,Brain Stimul,Neuromodulation modifies α-synuclein spreading dynamics in vivo and the pattern is predict,2024-04-16,2024-07-31,2024-08-04,6,41
+39094682,10.1016/j.brs.2024.07.019,Brain Stimul,Model-based navigation of transcranial focused ultrasound neuromodulation in humans: Appli,2024-02-21,2024-07-29,2024-08-03,7,108
+39089647,10.1016/j.brs.2024.07.020,Brain Stimul,Low-intensity focused ultrasound to the posterior insula reduces temporal summation of pai,2024-01-13,2024-07-29,2024-08-02,4,118
+39089646,10.1016/j.brs.2024.07.018,Brain Stimul,Transcranial direct current stimulation enhances effort maintenance in ADHD.,2024-02-02,2024-07-28,2024-08-02,9,0
+39059712,10.1016/j.brs.2024.07.014,Brain Stimul,Temporal interference electrical neurostimulation at 20 Hz beat frequency leads to increas,2024-03-02,2024-07-23,2024-07-27,8,0
+39059711,10.1016/j.brs.2024.07.015,Brain Stimul,Characterization of gray matter volume changes from one week to 6 months after termination,2024-04-09,2024-07-23,2024-07-27,20,0
+39029737,10.1016/j.brs.2024.07.007,Brain Stimul,Working memory enhancement using real-time phase-tuned transcranial alternating current st,2024-02-02,2024-07-12,2024-07-20,10,0
+39019396,10.1016/j.brs.2024.07.008,Brain Stimul,Local neuronal sleep after stroke: The role of cortical bistability in brain reorganizatio,2023-10-07,2024-07-12,2024-07-18,7,0
+38997106,10.1016/j.brs.2024.07.002,Brain Stimul,Real-time closed-loop brainstem stimulation modality for enhancing temporal blood pressure,2024-03-07,2024-07-08,2024-07-13,3,0
+38997105,10.1016/j.brs.2024.07.004,Brain Stimul,The impact of the left inferior frontal gyrus on fear extinction: A transcranial direct cu,2024-04-20,2024-07-06,2024-07-13,5,0
+38909748,10.1016/j.brs.2024.06.008,Brain Stimul,Transcranial magnetic stimulation of primary motor cortex elicits an immediate transcrania,2023-09-07,2024-06-17,2024-06-24,9,0
+38906529,10.1016/j.brs.2024.06.007,Brain Stimul,Exploring the local field potential signal from the subthalamic nucleus for phase-targeted,2023-11-13,2024-06-12,2024-06-22,11,0
+38901565,10.1016/j.brs.2024.06.006,Brain Stimul,Treatment expectations and clinical outcomes following repetitive transcranial magnetic st,2023-12-20,2024-06-05,2024-06-21,9,0
+38880208,10.1016/j.brs.2024.06.004,Brain Stimul,Effect of add-on transcranial alternating current stimulation (tACS) in major depressive d,2024-04-15,2024-06-10,2024-06-17,12,0
+38821395,10.1016/j.brs.2024.05.013,Brain Stimul,Electrophysiological sweet spot mapping in deep brain stimulation for Parkinson's disease ,2023-12-21,2024-05-26,2024-06-01,12,0
+38797370,10.1016/j.brs.2024.05.010,Brain Stimul,Repeated electrical vestibular nerve stimulation (VeNS) reduces severity in moderate to se,2024-02-01,2024-05-20,2024-05-27,7,0
+38839040,10.1016/j.brs.2024.06.001,Brain Stimul,Divergent roles of early visual cortex and inferior frontal junction in visual working mem,2024-01-10,2024-06-02,2024-06-06,3,0
+38821397,10.1016/j.brs.2024.05.012,Brain Stimul,Electrical stimulation of the ventral tegmental area restores consciousness from sevoflura,2024-02-15,2024-05-28,2024-06-01,9,55
+38821396,10.1016/j.brs.2024.05.014,Brain Stimul,TMS provokes target-dependent intracranial rhythms across human cortical and subcortical s,2023-11-24,2024-05-26,2024-06-01,8,89
+38763414,10.1016/j.brs.2024.05.007,Brain Stimul,Single session cross-frequency bifocal tACS modulates visual motion network activity in yo,2024-03-04,2024-05-15,2024-05-20,9,0
+38740183,10.1016/j.brs.2024.05.005,Brain Stimul,Trigeminal nerve direct current stimulation causes sustained increase in neural activity i,2024-02-06,2024-05-09,2024-05-14,4,66
+38740182,10.1016/j.brs.2024.05.004,Brain Stimul,Thresholds and mechanisms of human magnetophosphene perception induced by low frequency si,2023-12-22,2024-05-07,2024-05-14,6,0
+38734066,10.1016/j.brs.2024.05.003,Brain Stimul,Sustained reduction of essential tremor with low-power non-thermal transcranial focused ul,2023-12-12,2024-05-03,2024-05-12,20,0
+38697468,10.1016/j.brs.2024.04.019,Brain Stimul,The effect of tDCS on inhibitory control and its transfer effect on sustained attention in,2024-02-17,2024-04-29,2024-05-03,7,0
+38688399,10.1016/j.brs.2024.04.009,Brain Stimul,Transcranial direct current stimulation alters cerebrospinal fluid-interstitial fluid exch,2024-01-22,2024-04-15,2024-05-01,2,0
+38677543,10.1016/j.brs.2024.04.016,Brain Stimul,"Characterization, number, and spatial organization of nerve fibers in the human cervical v",2024-01-23,2024-04-23,2024-04-28,15,0
+38648972,10.1016/j.brs.2024.04.012,Brain Stimul,Vagus nerve stimulation enhances remyelination and decreases innate neuroinflammation in l,2024-01-23,2024-04-17,2024-04-23,8,0
+38641170,10.1016/j.brs.2024.04.010,Brain Stimul,Depressive symptom trajectories with prolonged rTMS treatment.,2023-11-10,2024-04-15,2024-04-20,10,0
+38641169,10.1016/j.brs.2024.04.011,Brain Stimul,Breakdown of effective information flow in disorders of consciousness: Insights from TMS-E,2023-09-22,2024-04-15,2024-04-20,8,0
+38636820,10.1016/j.brs.2024.04.006,Brain Stimul,Auditory cues modulate the short timescale dynamics of STN activity during stepping in Par,2024-01-16,2024-04-10,2024-04-19,8,52
+38631548,10.1016/j.brs.2024.04.007,Brain Stimul,Transcranial electric stimulation modulates firing rate at clinically relevant intensities,2023-12-20,2024-04-11,2024-04-18,5,84
+38604563,10.1016/j.brs.2024.03.015,Brain Stimul,Intensity-dependent effects of tDCS on motor learning are related to dopamine.,2023-10-02,2024-03-18,2024-04-12,6,0
+38621645,10.1016/j.brs.2024.04.005,Brain Stimul,The effect of transcranial ultrasound pulse repetition frequency on sustained inhibition i,2024-01-29,2024-04-12,2024-04-16,9,0
+38593972,10.1016/j.brs.2024.04.002,Brain Stimul,Does vibrotactile stimulation of the auricular vagus nerve enhance working memory? A behav,2023-11-07,2024-04-02,2024-04-10,8,34
+38574853,10.1016/j.brs.2024.03.016,Brain Stimul,Clinical characteristics and treatment exposure of patients with marked treatment-resistan,2024-01-04,2024-03-21,2024-04-05,26,0
+38574852,10.1016/j.brs.2024.04.001,Brain Stimul,Neurochemical mechanisms underlying serotonergic modulation of neuroplasticity in humans.,2023-06-06,2024-04-01,2024-04-05,5,0
+38565374,10.1016/j.brs.2024.03.021,Brain Stimul,Stress priming transcranial direct current stimulation (tDCS) enhances updating of emotion,2023-11-13,2024-03-25,2024-04-03,7,0
+38537689,10.1016/j.brs.2024.03.013,Brain Stimul,Transcranial focused ultrasound stimulation in the infralimbic cortex facilitates extincti,2023-12-10,2024-03-15,2024-03-28,7,0
+38531502,10.1016/j.brs.2024.03.017,Brain Stimul,Low frequency stimulation for seizure suppression: Identification of optimal targets in th,2024-01-18,2024-03-22,2024-03-27,4,0
+38499287,10.1016/j.brs.2024.03.010,Brain Stimul,Feasibility study of microburst VNS therapy in drug-resistant focal and generalized epilep,2023-09-20,2024-03-12,2024-03-19,9,0
+38492885,10.1016/j.brs.2024.03.012,Brain Stimul,Neural mechanisms of the temporal response of cortical neurons to intracortical microstimu,2023-10-12,2024-03-12,2024-03-17,2,58
+38490472,10.1016/j.brs.2024.03.011,Brain Stimul,Systematic 1 Hz direct electrical stimulation for seizure induction: A reliable method for,2023-11-10,2024-03-12,2024-03-16,10,0
+38479713,10.1016/j.brs.2024.03.009,Brain Stimul,Bilateral intracortical inhibition during unilateral motor preparation and sequence learni,2023-10-21,2024-03-06,2024-03-14,6,0
+38458381,10.1016/j.brs.2024.02.019,Brain Stimul,When to hold and when to fold: Early prediction of nonresponse to transcranial magnetic st,2024-01-13,2024-02-28,2024-03-09,7,0
+38453003,10.1016/j.brs.2024.02.020,Brain Stimul,Combining neuroimaging and brain stimulation to test alternative causal pathways for nicot,2023-10-20,2024-02-28,2024-03-08,17,75
+38447773,10.1016/j.brs.2024.03.004,Brain Stimul,Transcranial focused ultrasound of the amygdala modulates fear network activation and conn,2023-12-18,2024-03-03,2024-03-07,11,0
+38442800,10.1016/j.brs.2024.03.001,Brain Stimul,Effects of different sonication parameters of theta burst transcranial ultrasound stimulat,2023-11-24,2024-03-02,2024-03-06,7,0
+38438012,10.1016/j.brs.2024.02.021,Brain Stimul,tDCS reduces depression and state anxiety symptoms in older adults from the augmenting cog,2023-10-06,2024-02-28,2024-03-05,11,82
+38428585,10.1016/j.brs.2024.02.016,Brain Stimul,EEG-based biomarkers predict individual differences in TMS-induced entrainment of intrinsi,2023-10-26,2024-02-24,2024-03-02,3,0
+38428583,10.1016/j.brs.2024.02.014,Brain Stimul,Temporally interfering electric fields brain stimulation in primary motor cortex of mice p,2023-10-26,2024-02-21,2024-03-02,6,0
+38423207,10.1016/j.brs.2024.02.013,Brain Stimul,Tonic and phasic transcutaneous auricular vagus nerve stimulation (taVNS) both evoke rapid,2023-10-29,2024-02-20,2024-03-01,3,0
+38387557,10.1016/j.brs.2024.02.011,Brain Stimul,Driving Hebbian plasticity over ventral premotor-motor projections transiently enhances mo,2023-09-07,2024-02-16,2024-02-23,6,0
+38342364,10.1016/j.brs.2024.02.005,Brain Stimul,Reduction of alpha-synuclein oligomers in preclinical models of Parkinson's disease by ele,2023-09-30,2024-02-06,2024-02-12,10,0
+38342363,10.1016/j.brs.2024.02.006,Brain Stimul,Acoustic noise generated by TMS in typical environment and inside an MRI scanner.,2023-04-26,2024-02-08,2024-02-12,4,0
+38341176,10.1016/j.brs.2024.01.011,Brain Stimul,Thalamic deep brain stimulation for tourette syndrome increases cortical beta activity.,2023-06-06,2024-01-27,2024-02-11,8,0
+38336340,10.1016/j.brs.2024.02.001,Brain Stimul,Impact of multiple-session home-based transcranial direct current stimulation (M-HB-tDCS) ,2023-11-10,2024-02-01,2024-02-10,8,0
+38286400,10.1016/j.brs.2024.01.004,Brain Stimul,Assessing cortical excitability with electroencephalography: A pilot study with EEG-iTBS.,2023-09-11,2024-01-11,2024-01-30,9,0
+38272256,10.1016/j.brs.2024.01.006,Brain Stimul,Direct subthalamic nucleus stimulation influences speech and voice quality in Parkinson's ,2023-07-26,2024-01-16,2024-01-26,10,0
+38266773,10.1016/j.brs.2024.01.007,Brain Stimul,Single threshold adaptive deep brain stimulation in Parkinson's disease depends on paramet,2023-06-05,2024-01-16,2024-01-25,12,0
+38184192,10.1016/j.brs.2024.01.002,Brain Stimul,Vagus nerve stimulation for the treatment of narcolepsy.,2023-08-24,2024-01-02,2024-01-07,11,0
+38145754,10.1016/j.brs.2023.12.010,Brain Stimul,Pulse-width modulated temporal interference (PWM-TI) brain stimulation.,2023-09-07,2023-12-19,2023-12-26,5,0
+38145753,10.1016/j.brs.2023.12.008,Brain Stimul,Locus coeruleus tyrosine hydroxylase positive neurons mediated the peripheral and central ,2023-10-03,2023-12-19,2023-12-26,10,0
+38145752,10.1016/j.brs.2023.12.011,Brain Stimul,Conversion of a medical implant into a versatile computer-brain interface.,2023-10-13,2023-12-20,2023-12-26,10,0
+38128826,10.1016/j.brs.2023.12.007,Brain Stimul,Transcranial focused ultrasound for the treatment of tremor: A preliminary case series.,2023-11-28,2023-12-13,2023-12-22,11,0
+38101469,10.1016/j.brs.2023.12.005,Brain Stimul,Longitudinal resting-state network connectivity changes in electroconvulsive therapy patie,2023-09-25,2023-12-08,2023-12-16,18,54
+38101468,10.1016/j.brs.2023.12.006,Brain Stimul,Altered in vivo early neurogenesis traits in patients with depression: Evidence from neuro,2023-08-01,2023-12-08,2023-12-16,8,0
+38072355,10.1016/j.brs.2023.12.001,Brain Stimul,Measuring the accuracy of ICA-based artifact removal from TMS-evoked potentials.,2023-06-04,2023-12-01,2023-12-11,4,24
+41482154,10.1016/j.brs.2025.103017,Brain Stimul,Trigeminal nerve direct current stimulation modulates raphe-hippocampal network synchrony ,2025-07-17,2025-12-26,2026-01-03,3,0
+41482152,10.1016/j.brs.2025.103022,Brain Stimul,Site-specific stimulation imperative: Lessons from a failed auricular-cervical transcutane,2025-04-27,2025-12-30,2026-01-03,9,0
+41482153,10.1016/j.brs.2025.103015,Brain Stimul,Low Intensity Ultrasound-facilitated exosome delivery promotes hippocampal neurogenesis in,2025-10-09,2025-12-23,2026-01-03,11,0
+41475513,10.1016/j.brs.2025.103019,Brain Stimul,Large-scale mapping of artificial perceptions for neuroprostheses using spontaneous neuron,2025-06-09,2025-12-27,2026-01-01,10,0
+41443587,10.1016/j.brs.2025.103012,Brain Stimul,Hybrid optogenetic and electrical stimulation of retinal ganglion cells for artificial vis,2025-08-25,2025-12-18,2025-12-25,9,0
+41429310,10.1016/j.brs.2025.103013,Brain Stimul,"A wireless, 60-channel, AI-enabled neurostimulation platform.",2025-07-07,2025-12-18,2025-12-23,11,0
+41421652,10.1016/j.brs.2025.103010,Brain Stimul,Chronometric interleaved TMS-fMRI shows state-dependent network effects underlying speech ,2025-05-15,2025-12-16,2025-12-21,7,0
+41419090,10.1016/j.brs.2025.103004,Brain Stimul,Neuromodulator timing regulates adult cortical plasticity via the synaptic eligibility tra,2025-10-09,2025-12-10,2025-12-20,7,80
+41412476,10.1016/j.brs.2025.103006,Brain Stimul,Subthreshold electric fields bidirectionally modulate neurotransmitter release through axo,2025-08-01,2025-12-11,2025-12-19,3,84
+41397523,10.1016/j.brs.2025.103003,Brain Stimul,Increasing the quantity of electrical stimulation pulses reduces cortical response inhibit,2025-07-08,2025-12-09,2025-12-16,4,0
+41391518,10.1016/j.brs.2025.103005,Brain Stimul,Trigeminal nerve stimulation modulates dopaminergic circuits and neuroinflammation to alle,2025-08-28,2025-12-11,2025-12-15,9,0
+41386553,10.1016/j.brs.2025.103002,Brain Stimul,Mechanisms mediating dynamic changes in neural responses during deep brain stimulation.,2025-09-19,2025-12-09,2025-12-13,6,74
+41352728,10.1016/j.brs.2025.102990,Brain Stimul,Reducing target E-field variability in repetitive TMS through online motion compensation.,2025-08-21,2025-11-17,2025-12-07,8,0
+41352727,10.1016/j.brs.2025.102998,Brain Stimul,dsGrid: a dual-site TMS grid-search method for personalized targeting of motor network con,2025-07-07,2025-11-27,2025-12-07,8,140
+41344553,10.1016/j.brs.2025.102997,Brain Stimul,A novel interleaved TMS-MRS approach with standard MRI hardware.,2025-09-02,2025-11-27,2025-12-05,10,0
+41314512,10.1016/j.brs.2025.102988,Brain Stimul,Modulating cerebrospinal fluid dynamics using pulsed photobiomodulation.,2025-06-21,2025-11-14,2025-11-29,6,0
+41276161,10.1016/j.brs.2025.102992,Brain Stimul,Comprehensive map of axonal pathway activation as a function of subthalamic deep brain sti,2025-09-02,2025-11-18,2025-11-24,4,52
+41241259,10.1016/j.brs.2025.11.007,Brain Stimul,Effectiveness of transcranial magnetic stimulation for posttraumatic stress disorder: A mu,2025-09-11,2025-11-07,2025-11-16,10,47
+41238013,10.1016/j.brs.2025.11.011,Brain Stimul,Theta-paced stimulation of the thalamic nucleus reuniens entrains mPFC-HPC oscillations an,2025-08-16,2025-11-11,2025-11-15,3,70
+41232760,10.1016/j.brs.2025.11.010,Brain Stimul,Simulation of evoked responses to transcranial magnetic stimulation using a multiscale cor,2025-09-05,2025-11-10,2025-11-14,3,73
+41232758,10.1016/j.brs.2025.11.008,Brain Stimul,Non-invasive temporal interference stimulation of the hippocampus suppresses epileptic bio,2025-06-07,2025-11-08,2025-11-14,30,66
+41205798,10.1016/j.brs.2025.11.005,Brain Stimul,Brain-wide hemodynamic responses to precise transcranial ultrasound neuromodulation.,2025-06-07,2025-11-05,2025-11-09,7,49
+41326235,10.1016/j.brs.2025.10.018,Brain Stimul,An in vivo model for transcranial direct current stimulation of the motor cortex in awake ,2025-07-24,2025-10-24,2025-12-02,4,0
+41183728,10.1016/j.brs.2025.10.020,Brain Stimul,Trajectories of response to bilateral rTMS in late-life depression.,2025-08-15,2025-10-25,2025-11-04,11,0
+41175966,10.1016/j.brs.2025.10.025,Brain Stimul,Effects of cue-synchronized parietal cathodal tDCS on internet gaming disorder: A randomiz,2025-09-07,2025-10-28,2025-11-02,13,0
+41167555,10.1016/j.brs.2025.10.021,Brain Stimul,Acute and transient change in brain water content induced by a single electroconvulsive th,2025-07-08,2025-10-25,2025-10-31,12,0
+41161414,10.1016/j.brs.2025.10.022,Brain Stimul,Evaluation of DBS computational modeling methodologies using in-vivo electrophysiology in ,2025-05-26,2025-10-25,2025-10-30,8,74
+41151703,10.1016/j.brs.2025.10.016,Brain Stimul,Anodal M1 tDCS shapes frequency-specific functional connectivity and network topology in P,2025-07-30,2025-10-21,2025-10-29,15,0
+41109521,10.1016/j.brs.2025.10.013,Brain Stimul,TMS-induced modulation of brain networks and its associations to rTMS treatment for depres,2025-06-19,2025-10-12,2025-10-19,15,72
+41072764,10.1016/j.brs.2025.10.005,Brain Stimul,The trajectory of symptom change over the course of transcranial magnetic stimulation for ,2025-08-30,2025-10-03,2025-10-11,6,0
+41072762,10.1016/j.brs.2025.10.006,Brain Stimul,A multifunctional theranostic ultrasound platform for remote magnetogenetics and expanded ,2025-07-17,2025-10-06,2025-10-11,14,61
+41052711,10.1016/j.brs.2025.10.004,Brain Stimul,Post-inhibitory rebound excitation drives extensor activity following spinal cord stimulat,2025-07-02,2025-10-02,2025-10-07,5,48
+41052710,10.1016/j.brs.2025.09.009,Brain Stimul,Optimal asymmetric electric field pulses for selective transcranial magnetic stimulation w,2025-07-07,2025-09-10,2025-10-07,12,63
+41038506,10.1016/j.brs.2025.09.019,Brain Stimul,Fluctuations in the optimal sensorimotor mu-rhythm phase associated with high corticospina,2025-06-17,2025-09-29,2025-10-03,7,0
+41038505,10.1016/j.brs.2025.09.020,Brain Stimul,Cerebello-cortical inhibition underlies the effects of cerebellar magnetic stimulation on ,2025-05-15,2025-09-28,2025-10-03,21,0
+41033413,10.1016/j.brs.2025.09.021,Brain Stimul,Transcranial pulse stimulation modulates neuronal activity and functional network dynamics,2025-05-14,2025-09-27,2025-10-02,10,44
+41015260,10.1016/j.brs.2025.09.018,Brain Stimul,The effects of intracranial stimulation on local neurovascular responses in humans.,2025-06-16,2025-09-24,2025-09-28,14,0
+40975380,10.1016/j.brs.2025.09.008,Brain Stimul,Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accur,2025-03-06,2025-09-10,2025-09-21,8,98
+40972817,10.1016/j.brs.2025.09.010,Brain Stimul,Characterizing neuronal and population responses to electrical stimulation in the human hi,2025-03-19,2025-09-12,2025-09-20,8,0
+40945605,10.1016/j.brs.2025.09.005,Brain Stimul,Photoswitching endogenous glutamate receptors in neural ensembles and single synapses in v,2025-04-15,2025-09-07,2025-09-14,16,110
+40945602,10.1016/j.brs.2025.09.004,Brain Stimul,Transcranial ultrasound stimulation modulates neuronal membrane potentials across broad ti,2025-06-09,2025-09-07,2025-09-14,6,106
+40914197,10.1016/j.brs.2025.09.001,Brain Stimul,Multidimensional Motor Evoked Potentials (MultiMEP): Digging up buried information from si,2025-03-28,2025-09-02,2025-09-07,11,0
+40921295,10.1016/j.brs.2025.09.002,Brain Stimul,Flexible and stable cycle-by-cycle phase-locked deep brain stimulation system targeting br,2025-05-04,2025-09-05,2025-09-09,16,0
+40914196,10.1016/j.brs.2025.08.026,Brain Stimul,Optimal stimulation site and fiber tracts in subthalamic deep brain stimulation for Meige ,2025-04-09,2025-08-29,2025-09-07,10,0
+40907655,10.1016/j.brs.2025.08.021,Brain Stimul,Divergent responses of glutamatergic and GABAergic prefrontal neurons underlie changes in ,2025-05-20,2025-08-27,2025-09-05,5,0
+40886913,10.1016/j.brs.2025.08.022,Brain Stimul,"A novel home-based, combined occipital and trigeminal afferent stimulation therapy for maj",2025-06-09,2025-08-27,2025-09-01,5,0
+40885469,10.1016/j.brs.2025.08.024,Brain Stimul,Effects of atorvastatin-loaded PEGylated liposomes delivered by magnetic stimulation for s,2025-05-07,2025-08-28,2025-08-31,8,0
+40854479,10.1016/j.brs.2025.08.017,Brain Stimul,Revisiting subcallosal cingulate deep brain stimulation for depression: Long-term safety a,2025-04-03,2025-08-19,2025-08-31,20,0
+40850522,10.1016/j.brs.2025.08.019,Brain Stimul,Repetitive magnetic stimulation induces plasticity of excitatory synapses through cooperat,2025-01-30,2025-08-22,2025-08-25,6,0
+40848897,10.1016/j.brs.2025.08.018,Brain Stimul,Transcranial direct current stimulation plus cognitive training for cognitive symptoms in ,2025-03-13,2025-08-20,2025-08-24,18,0
+40846279,10.1016/j.brs.2025.08.015,Brain Stimul,Association between concomitant anticonvulsants and clinical and cognitive outcomes of ele,2025-05-26,2025-08-19,2025-08-23,8,0
+40846278,10.1016/j.brs.2025.08.014,Brain Stimul,Brief transcranial focused ultrasound stimulation causes lasting modifications to the syna,2025-05-31,2025-08-20,2025-08-23,18,0
+40840721,10.1016/j.brs.2025.08.011,Brain Stimul,Dual-site beta transcranial alternating current stimulation during a bimanual coordination,2025-04-06,2025-08-18,2025-08-22,10,0
+40816470,10.1016/j.brs.2025.08.003,Brain Stimul,Subthalamic nucleus deep brain stimulation for cranial-cervical dystonia: optimal stimulat,2024-09-29,2025-08-08,2025-08-16,15,0
+40803530,10.1016/j.brs.2025.08.002,Brain Stimul,Electrophysiological changes in the acute phase after deep brain stimulation surgery.,2024-06-21,2025-08-08,2025-08-14,12,0
+40803529,10.1016/j.brs.2025.08.008,Brain Stimul,Magnetoelectric nanoparticle technology for mitigating motor deficits in Parkinsonian mice,2025-04-22,2025-08-11,2025-08-14,8,0
+40803528,10.1016/j.brs.2025.08.006,Brain Stimul,Analyses of biomarkers for tremor using local field potentials recorded from deep brain st,2024-12-23,2025-08-08,2025-08-14,10,50
+40769384,10.1016/j.brs.2025.07.019,Brain Stimul,Magnetogenetics inspired by animal Magnetoreception: ΔTRPV4MagR as a novel magnetogenetic ,2025-04-24,2025-07-31,2025-08-07,10,0
+40759323,10.1016/j.brs.2025.07.020,Brain Stimul,Spinal cord stimulation restores locomotion in a Parkinson's disease patient and rodents.,2025-04-22,2025-07-31,2025-08-05,8,0
+40738401,10.1016/j.brs.2025.07.008,Brain Stimul,Repetitive magnetic stimulation with iTBS600 induces persistent structural and functional ,2025-02-23,2025-07-10,2025-07-31,4,0
+40730281,10.1016/j.brs.2025.07.014,Brain Stimul,Tumor treating fields combined with ionizing radiation inhibit the malignant phenotype of ,2025-04-22,2025-07-22,2025-07-30,7,0
+40730280,10.1016/j.brs.2025.07.016,Brain Stimul,Transcranial magnetic vs intracranial electric stimulation: a direct comparison of their e,2024-10-18,2025-07-25,2025-07-30,14,0
+40712952,10.1016/j.brs.2025.07.013,Brain Stimul,Continuous theta-burst stimulation of the prefrontal cortex in the macaque monkey: no beha,2025-04-30,2025-07-22,2025-07-28,2,0
+40651660,10.1016/j.brs.2025.07.004,Brain Stimul,Trigeminal nerve stimulation as an active control condition in TMS clinical trials: Eviden,2025-03-18,2025-07-07,2025-07-13,6,0
+40645287,10.1016/j.brs.2025.07.006,Brain Stimul,On the need of individually optimizing temporal interference stimulation of human brains d,2025-01-21,2025-07-07,2025-07-12,5,57
+40639716,10.1016/j.brs.2025.07.005,Brain Stimul,Cerebral metabolic rate of oxygen is correlated to treatment effect of electroconvulsive t,2025-04-29,2025-07-07,2025-07-11,6,0
+40633903,10.1016/j.brs.2025.07.003,Brain Stimul,All-optical mapping reveals distributed suppression of cortical sensory responses after op,2024-12-13,2025-07-07,2025-07-10,11,41
+40835066,10.1016/j.brs.2025.08.010,Brain Stimul,WITHDRAWN: Human Applications of Transcranial Temporal Interference Stimulation: A Systema,2025-05-22,2025-08-16,2025-08-21,18,0
+40588127,10.1016/j.brs.2025.06.016,Brain Stimul,Turning up the current - optimizing stimulation parameters with vagus nerve stimulation in,2025-04-28,2025-06-25,2025-07-01,7,0
+40588126,10.1016/j.brs.2025.06.017,Brain Stimul,Cell-type-specific responses to single-pulse electrical stimulation of the human brain.,2025-03-05,2025-06-27,2025-07-01,9,0
+40513772,10.1016/j.brs.2025.06.009,Brain Stimul,Parameter optimisation for mitigating somatosensory confounds during transcranial ultrason,2025-03-30,2025-06-10,2025-06-14,5,89
+40505956,10.1016/j.brs.2025.06.007,Brain Stimul,Thalamocortical white matter connectivity and the entorhinal cortex as neural correlates o,2025-02-12,2025-06-09,2025-06-13,7,0
+40484122,10.1016/j.brs.2025.06.004,Brain Stimul,Wearable peripheral nerve stimulator reduces essential tremor symptoms through targeted br,2024-12-18,2025-06-04,2025-06-09,10,0
+40482811,10.1016/j.brs.2025.05.136,Brain Stimul,Realistic electric field characterization of clinically used deformable large TMS coils in,2025-02-09,2025-05-24,2025-06-08,4,34
+40456441,10.1016/j.brs.2025.05.137,Brain Stimul,Right hemispheric dominance of auditory effects evoked by electrical cortical stimulation ,2024-04-04,2025-05-30,2025-06-03,5,0
+40456440,10.1016/j.brs.2025.05.138,Brain Stimul,Multi-modal connectivity of the brain underlying visual hallucinations evoked by high-freq,2024-05-30,2025-05-30,2025-06-03,8,0
+40414489,10.1016/j.brs.2025.05.134,Brain Stimul,Spinal cord ultrasound stimulation modulates corticospinal excitability in humans.,2025-01-12,2025-05-20,2025-05-26,2,0
+40414487,10.1016/j.brs.2025.05.115,Brain Stimul,Short-interval interhemispheric inhibition does not originate from the motor hotspot.,2024-10-21,2025-05-16,2025-05-26,5,0
+40383298,10.1016/j.brs.2025.05.113,Brain Stimul,Left inferior parietal lobe and auditory cortex jointly contribute to sound knowledge retr,2024-12-24,2025-05-14,2025-05-19,7,0
+40374109,10.1016/j.brs.2025.05.103,Brain Stimul,A comparative analysis of technical data: At-home vs. in-clinic application of transcrania,2025-02-08,2025-05-12,2025-05-16,25,0
+40374107,10.1016/j.brs.2025.05.105,Brain Stimul,Theta-frequency subthalamic nucleus stimulation increases decision threshold.,2024-11-13,2025-05-13,2025-05-16,9,58
+40348180,10.1016/j.brs.2025.04.023,Brain Stimul,A randomized controlled trial of anodal transcranial direct current stimulation (A-tDCS) a,2025-01-12,2025-04-29,2025-05-11,6,0
+40340023,10.1016/j.brs.2025.05.006,Brain Stimul,Modulation of dopaminergic transmission and brain activity by frontotemporal tDCS: A multi,2025-01-28,2025-05-04,2025-05-09,8,0
+40311845,10.1016/j.brs.2025.04.020,Brain Stimul,Transcutaneous vagus nerve stimulation boosts accuracy during perceptual decision-making.,2024-10-29,2025-04-28,2025-05-02,6,0
+40311843,10.1016/j.brs.2025.04.018,Brain Stimul,Deep transcranial ultrasound stimulation using personalized acoustic metamaterials improve,2024-12-23,2025-04-26,2025-05-02,26,0
+40306617,10.1016/j.brs.2025.04.017,Brain Stimul,Low intensity rTMS in adolescent mice affects visuomotor behaviour with no impact on visua,2025-01-22,2025-04-26,2025-05-01,7,0
+40306616,10.1016/j.brs.2025.04.019,Brain Stimul,Phase-dependent closed-loop deep brain stimulation of the fornix provides bidirectional ma,2024-12-18,2025-04-26,2025-05-01,7,59
+40274222,10.1016/j.brs.2025.04.010,Brain Stimul,Task-related changes in resting state connectivity are affected by temporal interference (,2025-01-06,2025-04-09,2025-04-25,6,0
+40252967,10.1016/j.brs.2025.04.012,Brain Stimul,Accelerated iTBS-Induced changes in resting-state functional connectivity correspond with ,2024-10-22,2025-04-09,2025-04-20,13,37
+40246195,10.1016/j.brs.2025.04.015,Brain Stimul,Spatially and temporally mismatched blood flow and neuronal activity by high-intensity int,2024-12-17,2025-04-14,2025-04-18,11,0
+40239740,10.1016/j.brs.2025.04.014,Brain Stimul,Multi-locus transcranial magnetic stimulation with pulse-width modulation.,2025-01-24,2025-04-14,2025-04-17,12,0
+40222667,10.1016/j.brs.2025.04.011,Brain Stimul,Predictive role of endogenous phase lags between target brain regions in dual-site transcr,2024-11-18,2025-04-10,2025-04-14,8,0
+40222666,10.1016/j.brs.2025.04.013,Brain Stimul,Repeated net-tDCS of the hypothalamus appetite-control network enhances inhibitory control,2024-10-07,2025-04-09,2025-04-14,14,0
+40222665,10.1016/j.brs.2025.04.008,Brain Stimul,Selective manipulation of excitatory and inhibitory neurons in top-down and bottom-up visu,2024-10-17,2025-04-08,2025-04-14,9,0
+40216307,10.1016/j.brs.2025.03.021,Brain Stimul,Subthreshold intracortical microstimulation of human somatosensory cortex enhances tactile,2024-10-28,2025-03-28,2025-04-12,16,44
+40216305,10.1016/j.brs.2025.04.002,Brain Stimul,Affective state-dependent effects of prefrontal rTMS on the cognitive control of negative ,2025-01-16,2025-04-03,2025-04-12,6,0
+40209894,10.1016/j.brs.2025.04.006,Brain Stimul,Durability of clinical benefit with Stanford Neuromodulation Therapy (SNT) in treatment-re,2025-01-29,2025-04-07,2025-04-11,5,0
+40194594,10.1016/j.brs.2025.04.003,Brain Stimul,Personalized models of Beam/F3 targeting in transcranial magnetic stimulation for depressi,2024-12-18,2025-04-03,2025-04-08,6,53
+40180220,10.1016/j.brs.2025.03.022,Brain Stimul,Aperiodic activity as a biomarker of seizures and neuromodulation.,2024-11-18,2025-03-29,2025-04-04,5,0
+40180219,10.1016/j.brs.2025.03.024,Brain Stimul,Transcranial direct current stimulation and methylphenidate interact to increase cognitive,2024-09-04,2025-03-31,2025-04-04,8,0
+40169093,10.1016/j.brs.2025.03.020,Brain Stimul,Investigating brain network dynamics in state-dependent stimulation: A concurrent electroe,2024-12-02,2025-03-27,2025-04-02,12,92
+40164305,10.1016/j.brs.2025.03.019,Brain Stimul,Induced zero-phase synchronization as a potential neural code for optimized visuomotor int,2024-12-11,2025-03-28,2025-04-01,6,0
+40118249,10.1016/j.brs.2025.03.014,Brain Stimul,Accelerated iTBS with a personalised targeting method to treat negative symptoms of schizo,2025-01-27,2025-03-18,2025-03-22,14,0
+40097094,10.1016/j.brs.2025.03.007,Brain Stimul,Vagus nerve stimulation therapy for treatment-resistant PTSD.,2024-11-26,2025-03-09,2025-03-18,14,0
+40090667,10.1016/j.brs.2025.03.006,Brain Stimul,Optogenetic stimulation of cell bodies versus axonal terminals generate comparable activit,2024-12-10,2025-03-09,2025-03-17,4,52
+40081467,10.1016/j.brs.2025.03.008,Brain Stimul,Subjective patient rating as a novel feedback signal for DBS programming in Parkinson's di,2024-08-18,2025-03-09,2025-03-14,8,0
+40054574,10.1016/j.brs.2025.02.022,Brain Stimul,Electrical stimulation of the dorsolateral prefrontal cortex inhibits vestibular signallin,2024-09-15,2025-02-28,2025-03-09,7,0
+40032157,10.1016/j.brs.2025.02.021,Brain Stimul,Acute dentate nucleus deep brain stimulation modulates corticomotor excitability in chroni,2024-11-06,2025-02-27,2025-03-04,9,43
+40024366,10.1016/j.brs.2025.02.020,Brain Stimul,Decoding auditory working memory content from EEG responses to auditory-cortical TMS.,2024-04-19,2025-02-23,2025-03-03,14,78
+39988121,10.1016/j.brs.2025.02.017,Brain Stimul,Comparison of ultra-ultrabrief and ultrabrief pulse widths in right unilateral electroconv,2024-12-13,2025-02-20,2025-02-24,10,0
+39706521,10.1016/j.brs.2024.12.1191,Brain Stimul,"Vagus nerve stimulation in treatment-resistant depression: A one-year, randomized, sham-co",2024-09-20,2024-12-14,2024-12-21,29,0
+39701918,10.1016/j.brs.2024.12.1187,Brain Stimul,Effects of vagus nerve stimulation on daily function and quality of life in markedly treat,2024-09-20,2024-12-01,2024-12-20,27,0
+40010636,10.1016/j.brs.2025.02.018,Brain Stimul,Repetitive transcranial magnetic stimulation modulates brain connectivity in children with,2024-09-20,2025-02-21,2025-02-27,8,66
+39988120,10.1016/j.brs.2025.02.012,Brain Stimul,Towards accredited clinical training in brain stimulation: Proceedings from the brain stim,2025-01-22,2025-02-19,2025-02-24,25,33
+39986374,10.1016/j.brs.2025.02.015,Brain Stimul,Pulsed inhibition of corticospinal excitability by the thalamocortical sleep spindle.,2024-07-27,2025-02-18,2025-02-23,6,0
+39978727,10.1016/j.brs.2025.02.009,Brain Stimul,Efficacy and safety of high-dose and personalized TBS on post-stroke cognitive impairment:,2024-10-28,2025-02-17,2025-02-21,17,0
+39955027,10.1016/j.brs.2025.02.003,Brain Stimul,Locating activation sites of TMS with opposite current directions using probabilistic mode,2024-07-15,2025-02-05,2025-02-16,6,0
+39955026,10.1016/j.brs.2025.02.008,Brain Stimul,Investigating the hemodynamic response to iTBS of the left DLPFC: A concurrent iTBS/fNIRS ,2024-11-14,2025-02-12,2025-02-16,14,0
+39938863,10.1016/j.brs.2025.02.007,Brain Stimul,Statistical method accounts for microscopic electric field distortions around neurons when,2024-10-28,2025-02-09,2025-02-13,5,34
+39938862,10.1016/j.brs.2025.02.001,Brain Stimul,Controlling the local extracellular electric field can suppress the generation and propaga,2024-11-22,2025-02-03,2025-02-13,4,57
+39924101,10.1016/j.brs.2025.02.005,Brain Stimul,Motor network reorganization associated with rTMS-induced writing improvement in writer's ,2024-09-20,2025-02-06,2025-02-10,23,36
+39924100,10.1016/j.brs.2025.02.002,Brain Stimul,Basal forebrain activation improves working memory in senescent monkeys.,2024-11-06,2025-02-01,2025-02-10,11,67
+39921050,10.1016/j.brs.2025.01.025,Brain Stimul,tDCS cranial nerve Co-stimulation: Unveiling brainstem pathways involved in trigeminal ner,2024-10-23,2025-01-30,2025-02-08,5,71
+39894343,10.1016/j.brs.2025.01.011,Brain Stimul,Deep brain stimulation-entrained gamma oscillations in chronic home recordings in Parkinso,2024-06-01,2025-01-12,2025-02-03,7,0
+39892503,10.1016/j.brs.2025.01.018,Brain Stimul,Vagal nerve stimulation dynamically alters anxiety-like behavior in rats.,2024-11-06,2025-01-22,2025-02-02,6,0
+39864587,10.1016/j.brs.2025.01.014,Brain Stimul,Cost-effectiveness analysis of deep brain stimulation for the treatment of alcohol use dis,2024-06-05,2025-01-16,2025-01-27,4,58
+39842609,10.1016/j.brs.2025.01.015,Brain Stimul,Low intensity focused ultrasound stimulation in stroke: A phase I safety & feasibility tri,2024-10-25,2025-01-18,2025-01-23,11,0
+39827982,10.1016/j.brs.2025.01.013,Brain Stimul,"Virtual human retina: Simulating neural signalling, degeneration, and responses to electri",2024-10-29,2025-01-16,2025-01-20,9,0
+39827981,10.1016/j.brs.2025.01.008,Brain Stimul,Transcutaneous electrical stimulation enhances episodic memory encoding via a noradrenalin,2024-03-29,2025-01-12,2025-01-20,2,0
+39809411,10.1016/j.brs.2025.01.007,Brain Stimul,Cross-species characterization of transcranial ultrasound propagation.,2024-10-15,2025-01-10,2025-01-15,9,0
+39778653,10.1016/j.brs.2025.01.003,Brain Stimul,Parietal alpha stimulation causally enhances attentional information coding in evoked and ,2024-08-02,2025-01-05,2025-01-09,6,0
+39755367,10.1016/j.brs.2024.12.1478,Brain Stimul,MRI free targeting of deep brain structures based on facial landmarks.,2024-09-17,2024-12-31,2025-01-05,3,34
+39732191,10.1016/j.brs.2024.12.1475,Brain Stimul,Efficacy of repetitive transcranial magnetic stimulation in preventing postoperative delir,2024-10-19,2024-12-22,2024-12-29,9,0
+39725001,10.1016/j.brs.2024.12.1476,Brain Stimul,The role of delta phase for temporal predictions investigated with bilateral parietal tACS,2024-09-03,2024-12-22,2024-12-27,7,0
+39725000,10.1016/j.brs.2024.12.1474,Brain Stimul,Effectiveness of sequential bilateral repetitive transcranial stimulation versus bilateral,2024-07-22,2024-12-21,2024-12-27,18,0
+39716573,10.1016/j.brs.2024.12.1193,Brain Stimul,Personalized whole-brain activity patterns predict human corticospinal tract activation in,2024-08-15,2024-12-20,2024-12-24,6,72
+39710004,10.1016/j.brs.2024.12.1192,Brain Stimul,Enabling electric field model of microscopically realistic brain.,2024-06-28,2024-12-17,2024-12-23,15,73
+42962808,10.1016/j.brs.2026.103250,Brain Stimul,Differential effects of γ-state-triggered thalamic stimulation on mechanical sensitivity i,2026-05-28,2026-10-29,2026-10-30,8,0
+42957088,10.1016/j.brs.2026.103247,Brain Stimul,"Clinical efficacy of accelerated vs. standard H1-coil TMS dosing: a prospective, multisite",2026-08-03,2026-10-28,2026-10-29,22,0
+42951248,10.1016/j.brs.2026.103245,Brain Stimul,Low-intensity pulsed ultrasound activates Piezo1 to restore brain lymphatic drainage and i,2026-07-06,2026-10-23,2026-10-28,10,0
+42933772,10.1016/j.brs.2026.103234,Brain Stimul,High-intensity transcranial alternating current stimulation for post-stroke cognitive impa,2026-06-13,2026-10-12,2026-10-26,12,0
+42918495,10.1016/j.brs.2026.103239,Brain Stimul,Brain-state-resolved consistency of corticospinal responses to TMS.,2026-05-24,2026-10-17,2026-10-23,7,0
+42901375,10.1016/j.brs.2026.103240,Brain Stimul,Intrinsic and extrinsic connectivity of the seizure onset zone at rest and during stimulat,2026-03-26,2026-10-18,2026-10-20,14,0
+42892416,10.1016/j.brs.2026.103238,Brain Stimul,A reproducible safety assessment model for concurrent transcranial magnetic stimulation wi,2026-01-02,2026-10-15,2026-10-18,17,0
+42880444,10.1016/j.brs.2026.103236,Brain Stimul,Reliable change in autobiographical memory after electroconvulsive therapy: Depressed-cont,2026-07-26,2026-10-14,2026-10-15,7,0
+42863565,10.1016/j.brs.2026.103233,Brain Stimul,High-capacity transcranial direct current stimulation (HC-tDCS).,2025-08-12,2026-10-10,2026-10-13,11,0
+42833357,10.1016/j.brs.2026.103232,Brain Stimul,Stimulating current direction produces depth-dependent spatial selectivity in cortical act,2026-08-19,2026-10-04,2026-10-05,4,0
+42829029,10.1016/j.brs.2026.103227,Brain Stimul,Cognitive state dependent enhancement of cognitive control with transcranial magnetic stim,2026-04-19,2026-10-01,2026-10-04,5,0
+42829027,10.1016/j.brs.2026.103224,Brain Stimul,Optical cortico-cortical evoked potentials reveal structural and state-dependent cortical ,2026-04-20,2026-09-28,2026-10-04,5,0
+42759877,10.1016/j.brs.2026.103207,Brain Stimul,Subthalamic DBS engages right-lateralized frontal control to improve gait adaptation in Pa,2026-06-20,2026-09-10,2026-09-18,12,0
+42759876,10.1016/j.brs.2026.103211,Brain Stimul,Vagus nerve stimulation exerts disease-modifying effects in epileptic rats by enhancing hi,2026-05-29,2026-09-11,2026-09-18,18,0
+42731592,10.1016/j.brs.2026.103206,Brain Stimul,TMS-EEG correlate of suicidal ideation in individuals with depression: A multi-site synthe,2026-05-07,2026-09-08,2026-09-13,17,0
+42716220,10.1016/j.brs.2026.103205,Brain Stimul,Transcranial alternating current stimulation for treatment of multiple system atrophy cere,2026-05-23,2026-09-07,2026-09-09,26,0
+42685898,10.1016/j.brs.2026.103196,Brain Stimul,Spinal cord stimulation attenuates itch-like behavior and dermatitis: Contribution of a sp,2026-05-21,2026-08-25,2026-09-03,14,0
+42697328,10.1016/j.brs.2026.103199,Brain Stimul,Parameter-dependent effects of transcranial ultrasound stimulation on corticospinal excita,2026-03-02,2026-09-02,2026-09-04,6,0
+42660350,10.1016/j.brs.2026.103197,Brain Stimul,Noninvasive tFUS stimulation of the parabrachial nucleus suppresses lever pressing during ,2026-04-23,2026-08-26,2026-08-28,6,0
+42612820,10.1016/j.brs.2026.103193,Brain Stimul,A modular system for multichannel transcranial magnetic stimulation: physical and physiolo,2026-03-20,2026-08-17,2026-08-18,11,0
+42607831,10.1016/j.brs.2026.103190,Brain Stimul,Image-guided low-intensity focused ultrasound neuromodulation: acoustic targeting optimiza,2026-03-17,2026-08-13,2026-08-17,6,0
+42607830,10.1016/j.brs.2026.103191,Brain Stimul,E-field modeling of transcranial magnetic stimulation differentiates parietal contribution,2026-02-24,2026-08-17,2026-08-17,6,0
+42600738,10.1016/j.brs.2026.103183,Brain Stimul,Reduced left vmPFC-STN-related white matter integrity is associated with pre-surgical apat,2026-05-06,2026-08-09,2026-08-14,7,0
+42595103,10.1016/j.brs.2026.103188,Brain Stimul,Minimal reservoir computing generates hippocampal-inspired stimulation for open-loop modul,2026-02-26,2026-08-11,2026-08-13,8,0
+42595102,10.1016/j.brs.2026.103182,Brain Stimul,"A standardized, surgically relevant map for emergence of organ-specific branches from the ",2026-05-19,2026-08-05,2026-08-13,16,57
+42595101,10.1016/j.brs.2026.103185,Brain Stimul,Dose dependent effects of transcranial photobiomodulation on blood-oxygenation-level-depen,2026-03-17,2026-08-05,2026-08-13,15,28
+42586499,10.1016/j.brs.2026.103187,Brain Stimul,Cortical specificity matters: the importance of stimulating hindlimb representation for th,2026-05-18,2026-08-11,2026-08-12,4,0
+42586498,10.1016/j.brs.2026.103186,Brain Stimul,"Direct substantia nigra deep brain stimulation in Parkinson's disease: Efficacy, safety, a",2026-05-19,2026-08-11,2026-08-12,12,0
+42586497,10.1016/j.brs.2026.103178,Brain Stimul,Pharmacological evidence for propagation dynamics of TMS-evoked potentials in the human br,2026-03-16,2026-08-02,2026-08-12,4,0
+42526755,10.1016/j.brs.2026.103172,Brain Stimul,Effects of personalized transcranial magnetic stimulation on social cognitive network func,2026-03-12,2026-07-21,2026-07-30,16,98
+42501968,10.1016/j.brs.2026.103173,Brain Stimul,Proximity to an SGC-DLPFC individualized functional target and electric-field modeling do ,2026-02-13,2026-07-22,2026-07-26,8,0
+42480914,10.1016/j.brs.2026.103171,Brain Stimul,Focused ultrasound to bilateral thalamic nuclei significantly improves human cognitive att,2025-11-04,2026-07-13,2026-07-22,10,0
+42435937,10.1016/j.brs.2026.103155,Brain Stimul,Development and validation of the transcranial magnetic stimulation reporting assessment t,2026-02-19,2026-06-30,2026-07-12,17,0
+42419513,10.1016/j.brs.2026.103163,Brain Stimul,Altered vagus nerve stimulation evoked locus coeruleus activity in a rodent model of Rett ,2026-03-25,2026-07-08,2026-07-09,3,0
+42398899,10.1016/j.brs.2026.103158,Brain Stimul,High-fidelity transcranial ultrasound multi-focal stimulation via physics-aware hologram t,2026-04-23,2026-07-02,2026-07-04,8,0
+42392443,10.1016/j.brs.2026.103154,Brain Stimul,Transcutaneous auricular vagus nerve stimulation is associated with higher gastric antral ,2026-01-09,2026-06-30,2026-07-03,5,0
+42392442,10.1016/j.brs.2026.103156,Brain Stimul,Empirical limitations of current low-intensity focused ultrasound simulation platforms.,2026-02-04,2026-06-30,2026-07-03,8,0
+42379349,10.1016/j.brs.2026.103157,Brain Stimul,Phase-synchronized iTBS and tACS at 40 Hz gamma frequency: The impact on working memory pe,2026-01-20,2026-06-30,2026-07-01,5,0
+42362146,10.1016/j.brs.2026.103151,Brain Stimul,Cell-type-specific bidirectional modulation of the cortico-thalamo-cortical sensory pathwa,2026-03-21,2026-06-25,2026-06-27,6,54
+42341923,10.1016/j.brs.2026.103145,Brain Stimul,Parameter specific modulation of neuronal firing and extracellular action potential dynami,2026-02-09,2026-06-20,2026-06-25,4,0
+42331055,10.1016/j.brs.2026.103146,Brain Stimul,Parametric optimization of transcranial focused ultrasound neuromodulation of the periaque,2026-01-29,2026-06-20,2026-06-22,7,0
+42309321,10.1016/j.brs.2026.103141,Brain Stimul,Intracranial-implanted coupled electrode tumor treating fields (ICE-TTF) enable efficient ,2026-03-08,2026-06-11,2026-06-18,10,0
+42235884,10.1016/j.brs.2026.103139,Brain Stimul,Single-trial assessment of gamma-frequency brain oscillations and their modulation using t,2025-09-18,2026-06-02,2026-06-04,8,0
+42229579,10.1016/j.brs.2026.103138,Brain Stimul,Cerebellar rTMS ameliorates cognitive impairment in Alzheimer's disease: A randomized tria,2025-10-24,2026-05-31,2026-06-03,10,0
+42229578,10.1016/j.brs.2026.103137,Brain Stimul,Transcutaneous auricular vagus nerve stimulation for dysphagia in acute stroke: a randomiz,2026-03-19,2026-05-31,2026-06-03,12,0
+42217542,10.1016/j.brs.2026.103132,Brain Stimul,Transcranial direct current stimulation with motor-learning based gait therapy post-stroke,2025-12-24,2026-05-23,2026-05-31,14,0
+42217541,10.1016/j.brs.2026.103131,Brain Stimul,Suppression of endogenous alpha power predicts clinical response to 10 Hz tACS in major de,2026-03-17,2026-05-21,2026-05-31,7,0
+42190876,10.1016/j.brs.2026.103133,Brain Stimul,Vagal afferents gate cortical excitability in a kainate-induced mouse model of temporal lo,2025-12-02,2026-05-25,2026-05-27,11,0
+42173313,10.1016/j.brs.2026.103130,Brain Stimul,Lysergic acid diethylamide pretreatment prolongs brain-stimulation induced neural activity,2026-03-10,2026-05-20,2026-05-23,8,0
+42167724,10.1016/j.brs.2026.103121,Brain Stimul,"Effect of high, low, and asymmetric frequency stimulation of the subthalamic nucleus in Pa",2024-09-27,2026-05-13,2026-05-22,7,0
+42144100,10.1016/j.brs.2026.103118,Brain Stimul,Pre-stimulus brain states predict and control variability in stimulation responses.,2025-10-02,2026-05-08,2026-05-18,6,0
+42107526,10.1016/j.brs.2026.103117,Brain Stimul,Brain-age defines a structural signature of outcomes after vagus nerve stimulation in chil,2025-09-07,2026-05-07,2026-05-11,37,0
+42067059,10.1016/j.brs.2026.103113,Brain Stimul,Real-time electric-field neuronavigation on realistic head models for conventional and mul,2026-01-28,2026-04-28,2026-05-02,10,0
+42049166,10.1016/j.brs.2026.103111,Brain Stimul,Dithering suppresses half-harmonic neural synchronisation to photic stimulation in humans.,2025-11-29,2026-04-22,2026-04-29,10,47
+42019910,10.1016/j.brs.2026.103105,Brain Stimul,MEP-independent silent periods in hand muscles elicited by transcranial magnetic stimulati,2025-11-18,2026-04-18,2026-04-23,13,0
+42002222,10.1016/j.brs.2026.103103,Brain Stimul,Gamma oscillations in basolateral amygdala as a mechanistic and predictive biomarker for p,2025-12-22,2026-04-15,2026-04-20,5,0
+41966260,10.1016/j.brs.2026.103096,Brain Stimul,A minimally invasive floating-wire interface for transcranial deep brain stimulation.,2026-01-14,2026-04-03,2026-04-12,4,0
+41962834,10.1016/j.brs.2026.103097,Brain Stimul,Cerebellar focused ultrasound stimulation modulates neural response at hippocampus and sup,2026-01-27,2026-04-07,2026-04-11,7,0
+41935623,10.1016/j.brs.2026.103094,Brain Stimul,Curb your enthusiasm: Positive expectations negatively interact with prefrontal tDCS effec,2025-07-14,2026-03-31,2026-04-05,3,0
+41921821,10.1016/j.brs.2026.103090,Brain Stimul,Where are effective contacts located for motor cortical stimulation? A large retrospective,2025-11-20,2026-03-27,2026-04-02,22,0
+41819259,10.1016/j.brs.2026.103070,Brain Stimul,State-dependent fornix-hippocampal communication and the impact of deep brain stimulation:,2025-12-14,2026-03-09,2026-03-13,2,0
+41796673,10.1016/j.brs.2026.103068,Brain Stimul,Transnasal ventral brainstem stimulation reverses anesthesia-induced unconsciousness in sh,2025-11-05,2026-03-05,2026-03-09,16,0
+41771420,10.1016/j.brs.2026.103065,Brain Stimul,Real-time brain-computer interface control of walking exoskeleton with bilateral sensory f,2025-12-04,2026-02-23,2026-03-03,19,0
+41786287,10.1016/j.brs.2026.103066,Brain Stimul,Stereotactic rodent-to-human approximation of the mesencephalic cuneiform nucleus to guide,2025-12-09,2026-03-01,2026-03-06,10,0
+41781301,10.1016/j.brs.2026.103050,Brain Stimul,"Accelerated TMS with the H1-coil for depression: A multisite, randomized non-inferiority t",2025-10-02,2026-02-07,2026-03-05,23,0
+41771421,10.1016/j.brs.2026.103062,Brain Stimul,Effect of electroconvulsive therapy on neural oscillations in schizophrenia: A magnetoence,2025-12-22,2026-02-21,2026-03-03,5,0
+41759716,10.1016/j.brs.2026.103064,Brain Stimul,Network-targeted TMS modulates nicotine craving and default mode network connectivity in p,2025-11-26,2026-02-22,2026-02-28,15,44
+41740836,10.1016/j.brs.2026.103061,Brain Stimul,Tractography-guided versus clinical contact selection for deep brain stimulation in tremor,2025-04-08,2026-02-20,2026-02-26,11,0
+41720182,10.1016/j.brs.2026.103060,Brain Stimul,Layer-specific electric fields and effective conductivity in nonhuman primates during tran,2025-10-31,2026-02-17,2026-02-21,3,65
+41713680,10.1016/j.brs.2026.103058,Brain Stimul,Vital-affective symptom connectivity during electroconvulsive therapy distinguishes depres,2025-09-30,2026-02-16,2026-02-20,30,0
+41713679,10.1016/j.brs.2026.103055,Brain Stimul,Cerebellar functional reorganization after intermittent theta burst stimulation over vermi,2025-10-12,2026-02-16,2026-02-20,9,0
+41690464,10.1016/j.brs.2026.103054,Brain Stimul,Optimizing and assessing multichannel TMS focality.,2025-09-17,2026-02-11,2026-02-15,6,0
+41690463,10.1016/j.brs.2026.103053,Brain Stimul,Neural mechanisms of tDCS: Insights from an in-vivo rodent model across a range of electri,2025-11-19,2026-02-09,2026-02-15,4,0
+41687811,10.1016/j.brs.2026.103051,Brain Stimul,Transcutaneous vagus nerve stimulation enhances episodic memory across valences and memory,2025-05-13,2026-02-09,2026-02-14,6,0
+41672280,10.1016/j.brs.2026.103048,Brain Stimul,Patient-reported outcomes following accelerated vs. standard TMS with the H1 coil for majo,2025-10-03,2026-02-01,2026-02-12,24,0
+41654212,10.1016/j.brs.2026.103049,Brain Stimul,A nonlinear relationship of evoked responses following charge-balanced single-pulse electr,2025-07-09,2026-02-05,2026-02-08,14,83
+41638627,10.1016/j.brs.2026.103045,Brain Stimul,Transcranial alternating current stimulation can disrupt or reestablish neural entrainment,2025-11-29,2026-02-01,2026-02-05,12,58
+41633466,10.1016/j.brs.2026.103044,Brain Stimul,Cortical potentials evoked by stimulation of cervical vagus vs. auricular nerve: a compara,2025-08-13,2026-01-29,2026-02-04,16,94
+41580144,10.1016/j.brs.2026.103034,Brain Stimul,"Modulation of motor cortical theta and gamma oscillations using phase-targeted, closed-loo",2025-09-30,2026-01-22,2026-01-25,7,0
+41554336,10.1016/j.brs.2026.103033,Brain Stimul,Electroconvulsive stimulation elicits antidepressant-like effects via βCaMKII-dependent la,2025-06-24,2026-01-14,2026-01-20,8,0
+41548802,10.1016/j.brs.2026.103031,Brain Stimul,Postictal agitation is associated with brain-wide postictal microstructural changes after ,2025-10-23,2026-01-14,2026-01-19,12,0
+41548801,10.1016/j.brs.2026.103032,Brain Stimul,Non-invasive modulation of brain activity and behavior by transcranial radio frequency sti,2025-10-16,2026-01-13,2026-01-19,6,41
+41529760,10.1016/j.brs.2025.103023,Brain Stimul,Unilateral online ultrasound stimulation of early visual cortex suppresses responses to co,2025-08-26,2025-12-31,2026-01-14,5,0
+41482154,10.1016/j.brs.2025.103017,Brain Stimul,Trigeminal nerve direct current stimulation modulates raphe-hippocampal network synchrony ,2025-07-17,2025-12-26,2026-01-03,3,0
+41482152,10.1016/j.brs.2025.103022,Brain Stimul,Site-specific stimulation imperative: Lessons from a failed auricular-cervical transcutane,2025-04-27,2025-12-30,2026-01-03,9,0
+41519465,10.1016/j.brs.2026.103025,Brain Stimul,Low-intensity transcranial ultrasound effects on the ventral intermediate nucleus and zona,2025-10-24,2026-01-08,2026-01-11,9,0
+41485554,10.1016/j.brs.2025.103016,Brain Stimul,TI-Toolbox: An open-source software for temporal interference stimulation research.,2025-10-09,2025-12-22,2026-01-05,5,0
+41485553,10.1016/j.brs.2025.103018,Brain Stimul,Effects of low-frequency burst stimulation of the motor thalamus on cortical neural co-fir,2025-08-30,2025-12-26,2026-01-05,6,44
+41482153,10.1016/j.brs.2025.103015,Brain Stimul,Low Intensity Ultrasound-facilitated exosome delivery promotes hippocampal neurogenesis in,2025-10-09,2025-12-23,2026-01-03,11,0
+41475513,10.1016/j.brs.2025.103019,Brain Stimul,Large-scale mapping of artificial perceptions for neuroprostheses using spontaneous neuron,2025-06-09,2025-12-27,2026-01-01,10,0
+41443587,10.1016/j.brs.2025.103012,Brain Stimul,Hybrid optogenetic and electrical stimulation of retinal ganglion cells for artificial vis,2025-08-25,2025-12-18,2025-12-25,9,0
+41429310,10.1016/j.brs.2025.103013,Brain Stimul,"A wireless, 60-channel, AI-enabled neurostimulation platform.",2025-07-07,2025-12-18,2025-12-23,11,0
+41421652,10.1016/j.brs.2025.103010,Brain Stimul,Chronometric interleaved TMS-fMRI shows state-dependent network effects underlying speech ,2025-05-15,2025-12-16,2025-12-21,7,0
+41419090,10.1016/j.brs.2025.103004,Brain Stimul,Neuromodulator timing regulates adult cortical plasticity via the synaptic eligibility tra,2025-10-09,2025-12-10,2025-12-20,7,80
+41412476,10.1016/j.brs.2025.103006,Brain Stimul,Subthreshold electric fields bidirectionally modulate neurotransmitter release through axo,2025-08-01,2025-12-11,2025-12-19,3,84
+41397523,10.1016/j.brs.2025.103003,Brain Stimul,Increasing the quantity of electrical stimulation pulses reduces cortical response inhibit,2025-07-08,2025-12-09,2025-12-16,4,0
+41391518,10.1016/j.brs.2025.103005,Brain Stimul,Trigeminal nerve stimulation modulates dopaminergic circuits and neuroinflammation to alle,2025-08-28,2025-12-11,2025-12-15,9,0
+41386553,10.1016/j.brs.2025.103002,Brain Stimul,Mechanisms mediating dynamic changes in neural responses during deep brain stimulation.,2025-09-19,2025-12-09,2025-12-13,6,74
+41352728,10.1016/j.brs.2025.102990,Brain Stimul,Reducing target E-field variability in repetitive TMS through online motion compensation.,2025-08-21,2025-11-17,2025-12-07,8,0
+41352727,10.1016/j.brs.2025.102998,Brain Stimul,dsGrid: a dual-site TMS grid-search method for personalized targeting of motor network con,2025-07-07,2025-11-27,2025-12-07,8,140
+41344553,10.1016/j.brs.2025.102997,Brain Stimul,A novel interleaved TMS-MRS approach with standard MRI hardware.,2025-09-02,2025-11-27,2025-12-05,10,0
+41314512,10.1016/j.brs.2025.102988,Brain Stimul,Modulating cerebrospinal fluid dynamics using pulsed photobiomodulation.,2025-06-21,2025-11-14,2025-11-29,6,0
+41276161,10.1016/j.brs.2025.102992,Brain Stimul,Comprehensive map of axonal pathway activation as a function of subthalamic deep brain sti,2025-09-02,2025-11-18,2025-11-24,4,52
+41241259,10.1016/j.brs.2025.11.007,Brain Stimul,Effectiveness of transcranial magnetic stimulation for posttraumatic stress disorder: A mu,2025-09-11,2025-11-07,2025-11-16,10,47
+41238013,10.1016/j.brs.2025.11.011,Brain Stimul,Theta-paced stimulation of the thalamic nucleus reuniens entrains mPFC-HPC oscillations an,2025-08-16,2025-11-11,2025-11-15,3,70
+41232760,10.1016/j.brs.2025.11.010,Brain Stimul,Simulation of evoked responses to transcranial magnetic stimulation using a multiscale cor,2025-09-05,2025-11-10,2025-11-14,3,73
+41232758,10.1016/j.brs.2025.11.008,Brain Stimul,Non-invasive temporal interference stimulation of the hippocampus suppresses epileptic bio,2025-06-07,2025-11-08,2025-11-14,30,66
+41205798,10.1016/j.brs.2025.11.005,Brain Stimul,Brain-wide hemodynamic responses to precise transcranial ultrasound neuromodulation.,2025-06-07,2025-11-05,2025-11-09,7,49

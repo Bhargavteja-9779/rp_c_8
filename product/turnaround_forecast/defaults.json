@@ -1,1 +1,18 @@
-{"tau2_global": 0.0, "note": "placeholder until Part D results"}
+{
+ "tau2_global": 0.04013282808082923,
+ "tau2_by_publisher": {
+  "Springer Nature": 0.04097903772877526,
+  "Taylor & Francis": 0.04064900636855464,
+  "Wiley": 0.038131909498829775
+ },
+ "mean_shift_by_publisher": {
+  "Springer Nature": 0.021484731877870315,
+  "Taylor & Francis": 0.024437845050794972,
+  "Wiley": 0.045323499443937314
+ },
+ "c_width_scale": 1.05,
+ "cap_days": 480,
+ "n_origins": 13,
+ "n_journal_origins": 9645,
+ "note": "learned from all earlier quarterly cohorts (91 days, received 2022-01-01..2025-01-01 starts) whose targets were complete by 2026-10-20; Crossref dates of Springer Nature, Wiley and Taylor & Francis journals"
+}

@@ -1,0 +1,20 @@
+{
+ "noise_floor_abs_err": 0.03617513116167826,
+ "tau2_global": 0.04013282808082923,
+ "tau2_pub": {
+  "Springer Nature": 0.04097903772877526,
+  "Taylor & Francis": 0.04064900636855464,
+  "Wiley": 0.038131909498829775
+ },
+ "b_pub": {
+  "Springer Nature": 0.021484731877870315,
+  "Taylor & Francis": 0.024437845050794972,
+  "Wiley": 0.045323499443937314
+ },
+ "c": 1.05,
+ "excess_abs_err_F0": 0.03558279646775056,
+ "excess_abs_err_CV0": 0.03135432458459012,
+ "excess_abs_err_CVb": 0.03092713256893251,
+ "excess_abs_err_V": 0.03433594223488161,
+ "excess_abs_err_R": 0.03411642509141797
+}
