@@ -1,5 +1,5 @@
-"""Part D main experiment: strict out-of-time panel on the frame (781-journal data), nine evaluation origins 2023-07-01..2025-07-01 (amendment D-A1).
-Run once as specified in revised_experimental_protocol.md Part D."""
+"""Part D main experiment: strict out-of-time panel on the frame. D_CAP=480 (default, primary): six evaluation origins 2023-10-01..2025-01-01; D_CAP=365 (first run): nine origins 2023-07-01..2025-07-01 (amendments D-A1, D-A2).
+Specified in revised_experimental_protocol.md Part D."""
 import json, sys
 sys.path.insert(0, "/home/user/rp_c_8/reinforced/code/src")
 from d_lib import *

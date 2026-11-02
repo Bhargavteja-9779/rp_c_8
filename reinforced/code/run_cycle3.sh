@@ -7,7 +7,9 @@ D_CAP=480 python3 d_experiments.py        # primary: cap 480 days, six origins (
 D_CAP=365 python3 d_experiments.py        # as first run: cap 365 days, nine origins (writes *_cap365.*)
 python3 d_sensitivity_cap.py              # exploratory cap sensitivity
 python3 d_defaults.py                     # shipped tau2 and noise floor
-python3 d_external.py                     # external validation with frozen parameters
+python3 d_external.py                     # external validation, cap 480 (primary)
+D_CAP=365 python3 d_external.py           # external validation, cap 365
+python3 d_extras.py                       # post hoc robustness analyses (review R4)
 python3 d_figures.py
 python3 build_methods_manuscript.py
 python3 consistency_check_methods.py
