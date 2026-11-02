@@ -1,0 +1,889 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34021750,10.1093/molbev/msab157,Mol Biol Evol,Bacterial Evolutionary Precursors of Eukaryotic Copper-Zinc Superoxide Dismutases.,2021-03-30,2021-05-21,2021-05-23,1,81
+33973633,10.1093/molbev/msab128,Mol Biol Evol,Comparative Genome Analyses Highlight Transposon-Mediated Genome Expansion and the Evoluti,2020-12-31,2021-04-28,2021-05-12,12,92
+33783509,10.1093/molbev/msab096,Mol Biol Evol,Novelty and Convergence in Adaptation to Whole Genome Duplication.,2021-01-11,2021-03-29,2021-03-31,8,105
+33749795,10.1093/molbev/msab085,Mol Biol Evol,"Enhancer Pleiotropy, Gene Expression, and the Architecture of Human Enhancer-Gene Interact",2020-10-31,2021-03-18,2021-03-23,2,52
+33492385,10.1093/molbev/msab009,Mol Biol Evol,Complexity of the simplest species tree problem.,2020-07-18,2021-01-13,2021-01-26,2,56
+34009325,10.1093/molbev/msab131,Mol Biol Evol,Diverse Molecular Mechanisms Contribute to Differential Expression of Human Duplicated Gen,2021-02-06,2021-04-28,2021-05-20,10,93
+33760032,10.1093/molbev/msab091,Mol Biol Evol,Piggybacking on Niche Adaptation Improves the Maintenance of Multidrug-Resistance Plasmids,2020-10-26,2021-03-23,2021-03-25,5,99
+33892491,10.1093/molbev/msab120,Mol Biol Evol,MEGA11: Molecular Evolutionary Genetics Analysis Version 11.,2021-03-03,2021-04-20,2021-04-24,3,23
+36219871,10.1093/molbev/msac201,Mol Biol Evol,Evolutionary responses of a reef-building coral to climate change at the end of the last g,2022-04-03,2022-09-13,2022-10-12,10,126
+36219870,10.1093/molbev/msac208,Mol Biol Evol,Sequence divergence and retrotransposon insertion underlie interspecific epigenetic differ,2022-05-03,2022-09-21,2022-10-12,10,49
+35980103,10.1093/molbev/msac173,Mol Biol Evol,The neurodevelopmental gene MSANTD2 belongs to a gene family formed by recurrent molecular,2022-03-28,2022-08-02,2022-08-19,5,95
+35932227,10.1093/molbev/msac174,Mol Biol Evol,TimeTree 5: An Expanded Resource for Species Divergence Times.,2022-06-25,2022-08-03,2022-08-07,8,15
+35763818,10.1093/molbev/msac128,Mol Biol Evol,Duplication of horizontally acquired GH5_2 enzymes played a central role in the evolution ,2022-02-25,2022-06-03,2022-06-29,3,46
+35724423,10.1093/molbev/msac125,Mol Biol Evol,Human follicular mites: Ectoparasites becoming symbionts.,2021-10-11,2022-05-31,2022-06-21,11,196
+35707979,10.1093/molbev/msac132,Mol Biol Evol,A near-deterministic mutational hotspot in Pseudomonas fluorescens is constructed by multi,2022-04-05,2022-06-06,2022-06-17,3,24
+35700217,10.1093/molbev/msac130,Mol Biol Evol,Tree House Explorer: A Novel Genome Browser for Phylogenomics.,2022-01-03,2022-06-02,2022-06-15,4,28
+35700212,10.1093/molbev/msac129,Mol Biol Evol,Duplication of NRAMP3 gene in poplars generated two homologous transporters with distinct ,2021-12-15,2022-06-02,2022-06-15,9,82
+35687854,10.1093/molbev/msac131,Mol Biol Evol,Recombination landscape divergence between populations is marked by larger low-recombining,2022-02-01,2022-06-07,2022-06-11,12,96
+35679434,10.1093/molbev/msac126,Mol Biol Evol,A transcriptomic atlas underlying developmental plasticity of seasonal forms of Bicyclus a,2022-03-14,2022-05-31,2022-06-10,2,101
+35679426,10.1093/molbev/msac124,Mol Biol Evol,Trade-offs predicted by metabolic network structure give rise to evolutionary specializati,2021-06-08,2022-05-31,2022-06-10,6,70
+35671323,10.1093/molbev/msac123,Mol Biol Evol,Recurrent Plant-Specific Duplications of KNL2 and Its Conserved Function as a Kinetochore ,2022-02-21,2022-05-27,2022-06-08,11,60
+38105444,10.1093/molbev/msad266,Mol Biol Evol,Co-option of an Astacin Metalloprotease Is Associated with an Evolutionarily Novel Feeding,2023-03-28,2023-11-16,2023-12-18,5,90
+38091963,10.1093/molbev/msad267,Mol Biol Evol,Ursa: A Comprehensive Multiomics Toolbox for High-Throughput Single-Cell Analysis.,2023-04-27,2023-11-03,2023-12-14,6,62
+38085182,10.1093/molbev/msad275,Mol Biol Evol,DNA Conserved in Diverse Animals Since the Precambrian Controls Genes for Embryonic Develo,2023-07-23,2023-12-06,2023-12-12,2,55
+38069902,10.1093/molbev/msad273,Mol Biol Evol,Mapping and Functional Dissection of the Rumpless Trait in Piao Chicken Identifies a Causa,2023-05-10,2023-11-20,2023-12-10,11,55
+38069672,10.1093/molbev/msad271,Mol Biol Evol,Phylloxera and Aphids Show Distinct Features of Genome Evolution Despite Similar Reproduct,2023-08-19,2023-12-05,2023-12-10,6,59
+38069639,10.1093/molbev/msad274,Mol Biol Evol,DNA Polymerase Diversity Reveals Multiple Incursions of Polintons During Nematode Evolutio,2023-08-24,2023-12-04,2023-12-10,6,87
+38064674,10.1093/molbev/msad268,Mol Biol Evol,Functional Prokaryotic-Like Deoxycytidine Triphosphate Deaminases and Thymidylate Synthase,2023-06-10,2023-11-30,2023-12-08,3,75
+38061001,10.1093/molbev/msad269,Mol Biol Evol,Parasitoid Serpins Evolve Novel Functions to Manipulate Host Homeostasis.,2023-06-16,2023-11-29,2023-12-07,10,122
+38060983,10.1093/molbev/msad265,Mol Biol Evol,Interchromosomal Colocalization with Parental Genes Is Linked to the Function and Evolutio,2023-07-13,2023-11-29,2023-12-07,5,95
+38059517,10.1093/molbev/msad262,Mol Biol Evol,An Ancestral Major Histocompatibility Complex Organization in Cartilaginous Fish: Reconstr,2023-09-11,2023-11-27,2023-12-07,8,60
+38039155,10.1093/molbev/msad263,Mol Biol Evol,Molluscan Genomes Reveal Extensive Differences in Photopigment Evolution Across the Phylum,2023-06-29,2023-11-14,2023-12-01,3,123
+38039153,10.1093/molbev/msad261,Mol Biol Evol,Genetic Modification of a Hox Locus Drives Mimetic Color Pattern Variation in a Highly Pol,2023-09-01,2023-11-27,2023-12-01,14,83
+38000891,10.1093/molbev/msad259,Mol Biol Evol,Subgenomic Stability of Progenitor Genomes During Repeated Allotetraploid Origins of the S,2023-07-06,2023-11-14,2023-11-25,11,117
+37995370,10.1093/molbev/msad258,Mol Biol Evol,Historic Museum Samples Provide Evidence for a Recent Replacement of Wolbachia Types in Eu,2023-06-25,2023-11-20,2023-11-23,6,100
+37995323,10.1093/molbev/msad248,Mol Biol Evol,IPOP: An Integrative Plant Multi-omics Platform for Cross-species Comparison and Evolution,2023-08-20,2023-11-09,2023-11-23,6,57
+37995319,10.1093/molbev/msad256,Mol Biol Evol,Genetic Load and Adaptive Potential of a Recovered Avian Species that Narrowly Avoided Ext,2023-01-04,2023-11-16,2023-11-23,8,113
+37995300,10.1093/molbev/msad257,Mol Biol Evol,Inference of Admixture Origins in Indigenous African Cattle.,2023-04-07,2023-11-14,2023-11-23,6,48
+37992195,10.1093/molbev/msad253,Mol Biol Evol,DegronMD: Leveraging Evolutionary and Structural Features for Deciphering Protein-Targeted,2023-07-03,2023-11-09,2023-11-22,3,43
+37992125,10.1093/molbev/msad252,Mol Biol Evol,Temporal Variation in Introgressed Segments' Length Statistics Computed from a Limited Num,2023-04-18,2023-11-09,2023-11-22,3,73
+37988296,10.1093/molbev/msad245,Mol Biol Evol,The Scorpionfly (Panorpa cognata) Genome Highlights Conserved and Derived Features of the ,2023-07-10,2023-11-07,2023-11-21,6,88
+37987559,10.1093/molbev/msad255,Mol Biol Evol,Extensive Phylogenomic Discordance and the Complex Evolutionary History of the Neotropical,2023-08-31,2023-11-13,2023-11-21,9,117
+37987557,10.1093/molbev/msad251,Mol Biol Evol,Phosphate Limitation Responses in Marine Green Algae Are Linked to Reprogramming of the tR,2023-04-17,2023-11-16,2023-11-21,9,86
+37987553,10.1093/molbev/msad247,Mol Biol Evol,Complex Evolutionary History With Extensive Ancestral Gene Flow in an African Primate Radi,2023-07-05,2023-11-09,2023-11-21,15,96
+37979163,10.1093/molbev/msad250,Mol Biol Evol,Unraveling the Unusual Subgenomic Organization in the Neopolyploid Free-Living Flatworm Ma,2023-06-20,2023-11-14,2023-11-18,4,49
+37979156,10.1093/molbev/msad246,Mol Biol Evol,Parallel Nonfunctionalization of CK1δ/ε Kinase Ohnologs Following a Whole-Genome Duplicati,2023-09-26,2023-11-07,2023-11-18,7,80
+37935059,10.1093/molbev/msad239,Mol Biol Evol,Evolution of the Spider Homeobox Gene Repertoire by Tandem and Whole Genome Duplication.,2023-05-26,2023-10-26,2023-11-07,5,131
+37931158,10.1093/molbev/msad238,Mol Biol Evol,Deleterious and Adaptive Mutations in Plant Germplasm Conserved Ex Situ.,2023-08-23,2023-10-26,2023-11-06,3,65
+37804117,10.1093/molbev/msad224,Mol Biol Evol,Low Mutation Load in a Supergene Underpinning Alternative Male Mating Strategies in Ruff (,2023-05-12,2023-09-28,2023-10-07,12,74
+37950899,10.1093/molbev/msad244,Mol Biol Evol,Pithoviruses Are Invaded by Repeats That Contribute to Their Evolution and Divergence from,2023-02-25,2023-11-07,2023-11-11,8,74
+37950889,10.1093/molbev/msad243,Mol Biol Evol,"Redefining the Evolutionary History of the Rock Dove, Columba livia, Using Whole Genome Se",2023-05-03,2023-11-03,2023-11-11,9,68
+37950885,10.1093/molbev/msad242,Mol Biol Evol,Shrinkage-based Random Local Clocks with Scalable Inference.,2023-05-31,2023-11-07,2023-11-11,6,35
+37948764,10.1093/molbev/msad235,Mol Biol Evol,Building Phylogenetic Trees From Genome Sequences With kSNP4.,2023-07-29,2023-10-18,2023-11-10,2,14
+37935058,10.1093/molbev/msad240,Mol Biol Evol,Mitonuclear Sex Determination? Empirical Evidence from Bivalves.,2023-06-28,2023-10-26,2023-11-07,6,84
+37935057,10.1093/molbev/msad241,Mol Biol Evol,"Opsin Gene Duplication in Lepidoptera: Retrotransposition, Sex Linkage, and Gene Expressio",2023-08-16,2023-10-26,2023-11-07,5,95
+37931146,10.1093/molbev/msad237,Mol Biol Evol,"Evolutionary ""Crowdsourcing"": Alignment of Fitness Landscapes Allows for Cross-species Ada",2023-04-06,2023-10-10,2023-11-06,6,52
+37879119,10.1093/molbev/msad236,Mol Biol Evol,Cold-Driven Hemoglobin Evolution in Antarctic Notothenioid Fishes Prior to Hemoglobin Gene,2023-05-25,2023-10-18,2023-10-25,5,114
+37879113,10.1093/molbev/msad234,Mol Biol Evol,PhylteR: Efficient Identification of Outlier Sequences in Phylogenomic Datasets.,2023-02-13,2023-10-18,2023-10-25,10,52
+37863047,10.1093/molbev/msad233,Mol Biol Evol,Evolutionary Insights from a Large-Scale Survey of Population-Genomic Variation.,2023-05-03,2023-10-03,2023-10-21,4,64
+37850912,10.1093/molbev/msad232,Mol Biol Evol,"Insights into RAG Evolution from the Identification of ""Missing Link"" Family A RAGL Transp",2023-08-09,2023-10-10,2023-10-18,13,90
+37832226,10.1093/molbev/msad230,Mol Biol Evol,UPrimer: A Clade-Specific Primer Design Program Based on Nested-PCR Strategy and Its Appli,2023-04-17,2023-10-09,2023-10-14,5,57
+37832225,10.1093/molbev/msad228,Mol Biol Evol,Between but Not Within-Species Variation in the Distribution of Fitness Effects.,2023-05-17,2023-09-25,2023-10-14,8,52
+37823438,10.1093/molbev/msad222,Mol Biol Evol,Hybrid Epigenomes Reveal Extensive Local Genetic Changes to Chromatin Accessibility Contri,2023-01-06,2023-07-27,2023-10-12,4,62
+37823401,10.1093/molbev/msad229,Mol Biol Evol,Phylogenomics Reveals High Levels of Incomplete Lineage Sorting at the Ancestral Nodes of ,2023-05-23,2023-10-08,2023-10-12,11,93
+37816123,10.1093/molbev/msad225,Mol Biol Evol,Comparative Population Transcriptomics Provide New Insight into the Evolutionary History a,2023-05-01,2023-09-25,2023-10-10,7,197
+37903429,10.1093/molbev/msad231,Mol Biol Evol,Natural Selection Signatures in the Hondo and Ryukyu Japanese Subpopulations.,2023-03-27,2023-10-06,2023-10-31,13,77
+37874344,10.1093/molbev/msad218,Mol Biol Evol,Genus-Wide Transcriptional Landscapes Reveal Correlated Gene Networks Underlying Microevol,2023-04-28,2023-09-21,2023-10-24,8,58
+37804524,10.1093/molbev/msad221,Mol Biol Evol,Horizontally Transferred Salivary Protein Promotes Insect Feeding by Suppressing Ferredoxi,2023-06-29,2023-09-28,2023-10-08,13,70
+37804116,10.1093/molbev/msad227,Mol Biol Evol,Adaptive RAxML-NG: Accelerating Phylogenetic Inference under Maximum Likelihood using Data,2023-05-23,2023-09-26,2023-10-07,5,31
+37797308,10.1093/molbev/msad223,Mol Biol Evol,Deciphering Evolutionary Trajectories of Lactate Dehydrogenases Provides New Insights into,2023-07-06,2023-09-28,2023-10-05,6,121
+37788637,10.1093/molbev/msad219,Mol Biol Evol,"Diversification of Ubiquinone Biosynthesis via Gene Duplications, Transfers, Losses, and P",2023-05-26,2023-09-26,2023-10-04,15,81
+37787619,10.1093/molbev/msad220,Mol Biol Evol,Asymmetric Evolution of Protein Domains in the Leucine-Rich Repeat Receptor-Like Kinase Fa,2023-03-29,2023-09-26,2023-10-03,4,158
+37772983,10.1093/molbev/msad216,Mol Biol Evol,Tensor Decomposition-based Feature Extraction and Classification to Detect Natural Selecti,2023-03-02,2023-09-14,2023-09-29,4,199
+37768198,10.1093/molbev/msad214,Mol Biol Evol,"Genomic Variation, Population History, and Long-Term Genetic Adaptation to High Altitudes ",2023-01-24,2023-09-25,2023-09-28,10,181
+39708372,10.1093/molbev/msae263,Mol Biol Evol,MEGA12: Molecular Evolutionary Genetic Analysis Version 12 for Adaptive and Green Computin,2024-10-02,2024-12-17,2024-12-22,6,30
+39703058,10.1093/molbev/msae257,Mol Biol Evol,Circadian Rhythm Mechanisms Underlying Convergent Adaptation of Unihemispheric Slow-Wave S,2024-09-02,2024-12-09,2024-12-20,7,116
+39692633,10.1093/molbev/msae244,Mol Biol Evol,Sex-Specific Dominance of Gene Expression in Seed Beetles.,2024-03-01,2024-11-20,2024-12-18,4,91
+39692632,10.1093/molbev/msae249,Mol Biol Evol,Inferring Long-Term and Short-Term Determinants of Genetic Diversity in Honey Bees: Beekee,2024-09-11,2024-12-04,2024-12-18,6,115
+39686544,10.1093/molbev/msae256,Mol Biol Evol,Co-evolution and Gene Transfers Drive Speciation Patterns in Host-Associated Bacteria.,2023-12-11,2024-12-02,2024-12-17,4,62
+39686539,10.1093/molbev/msae259,Mol Biol Evol,Asymmetrical Evolution of Promoter Methylation of Mammalian Genes after Duplication.,2024-06-06,2024-12-09,2024-12-17,5,45
+39665690,10.1093/molbev/msae251,Mol Biol Evol,A Graph-based Goat Pangenome Reveals Structural Variations Involved in Domestication and A,2024-04-11,2024-11-22,2024-12-12,22,85
+39665685,10.1093/molbev/msae252,Mol Biol Evol,Evolutionary Novelty of Apolipoprotein D Facilitates Metabolic Plasticity in Lepidopteran ,2024-07-16,2024-12-05,2024-12-12,10,59
+39661651,10.1093/molbev/msae250,Mol Biol Evol,Saltational Episodes of Reticulate Evolution in the Drosophila saltans Species Group.,2024-03-09,2024-12-02,2024-12-11,8,117
+39657604,10.1093/molbev/msae248,Mol Biol Evol,Phylogenetic Analysis of 590 Species Reveals Distinct Evolutionary Patterns of Intron-Exon,2024-09-27,2024-11-18,2024-12-11,6,68
+39657112,10.1093/molbev/msae246,Mol Biol Evol,"The Sensory Shark: High-quality Morphological, Genomic and Transcriptomic Data for the Sma",2024-07-07,2024-11-21,2024-12-15,37,198
+39605284,10.1093/molbev/msae245,Mol Biol Evol,Elevated Rates of Molecular Evolution Genome-wide in Mutualist Legumes and Rhizobia.,2024-05-21,2024-11-15,2024-11-28,3,78
+39570730,10.1093/molbev/msae243,Mol Biol Evol,Remarkable Evolutionary Rate Variations Among Lineages and Among Genome Compartments in Ma,2024-09-12,2024-11-10,2024-11-21,7,57
+39565932,10.1093/molbev/msae242,Mol Biol Evol,Digital Image Processing to Detect Adaptive Evolution.,2024-03-20,2024-11-13,2024-11-20,3,193
+39549274,10.1093/molbev/msae241,Mol Biol Evol,Accurate Inference of the Polyploid Continuum Using Forward-Time Simulations.,2024-08-15,2024-11-05,2024-11-16,2,140
+39530650,10.1093/molbev/msae208,Mol Biol Evol,Comparative Genomics Provides Insights into Adaptive Evolution and Demographics of Bats.,2024-07-04,2024-10-09,2024-11-13,20,102
+39506548,10.1093/molbev/msae237,Mol Biol Evol,Multiple-Wave Admixture and Adaptive Evolution of the Pamirian Wakhi People.,2023-10-09,2024-10-30,2024-11-12,10,50
+39494471,10.1093/molbev/msae231,Mol Biol Evol,The Characterization of Ancient Methanococcales Malate Dehydrogenases Reveals That Strong ,2024-04-10,2024-10-21,2024-11-04,8,120
+39431598,10.1093/molbev/msae220,Mol Biol Evol,Evolutionary Dynamics of Proinflammatory Caspases in Primates and Rodents.,2024-06-20,2024-10-14,2024-10-21,3,59
+39665151,10.1093/molbev/msae234,Mol Biol Evol,Rapid Sex Chromosome Turnover in African Clawed Frogs (Xenopus) and the Origins of New Sex,2024-04-26,2024-10-28,2024-12-12,12,102
+39531644,10.1093/molbev/msae240,Mol Biol Evol,Diversity of Transcriptional Regulatory Adaptation in E. coli.,2024-06-11,2024-10-29,2024-11-13,10,57
+39530343,10.1093/molbev/msae239,Mol Biol Evol,Convergent Degenerated Regulatory Elements Associated with Limb Loss in Limbless Amphibian,2024-04-30,2024-11-01,2024-11-13,21,105
+39530333,10.1093/molbev/msae235,Mol Biol Evol,Evolution of Sex-linked Genes and the Role of Pericentromeric Regions in Sex Chromosomes: ,2024-09-16,2024-10-30,2024-11-13,6,83
+39514774,10.1093/molbev/msae238,Mol Biol Evol,The Bayesian Phylogenetic Bootstrap and its Application to Short Trees and Branches.,2024-06-25,2024-10-29,2024-11-13,2,51
+39506544,10.1093/molbev/msae236,Mol Biol Evol,Conjugation Mediates Large-Scale Chromosomal Transfer in Streptomyces Driving Diversificat,2024-07-09,2024-10-21,2024-11-12,7,61
+39497507,10.1093/molbev/msae232,Mol Biol Evol,Integrating Contact Tracing Data to Enhance Outbreak Phylodynamic Inference: A Deep Learni,2024-05-07,2024-10-24,2024-11-05,7,49
+39494496,10.1093/molbev/msae233,Mol Biol Evol,Rewiring of Uric Acid Metabolism in the Intestine Promotes High-Altitude Hypoxia Adaptatio,2024-05-28,2024-10-24,2024-11-04,18,65
+39492761,10.1093/molbev/msae228,Mol Biol Evol,Specialization Restricts the Evolutionary Paths Available to Yeast Sugar Transporters.,2024-07-03,2024-10-25,2024-11-04,4,202
+39487572,10.1093/molbev/msae229,Mol Biol Evol,Repeated Shifts in Sociality Are Associated With Fine-tuning of Highly Conserved and Linea,2024-08-21,2024-10-28,2024-11-02,8,102
+39470581,10.1093/molbev/msae226,Mol Biol Evol,χ-Conotoxins are an Evolutionary Innovation of Mollusk-Hunting Cone Snails as a Counter-Ad,2024-05-29,2024-10-24,2024-10-29,13,81
+39470441,10.1093/molbev/msae225,Mol Biol Evol,Transposable Element Diversity and Activity Patterns in Neotropical Salamanders.,2024-05-31,2024-10-23,2024-10-29,2,50
+39467337,10.1093/molbev/msae224,Mol Biol Evol,Further Evidence for Strong Nonneutrality of Yeast Synonymous Mutations.,2024-07-21,2024-10-23,2024-10-29,4,39
+39460991,10.1093/molbev/msae223,Mol Biol Evol,Tree Sequences as a General-Purpose Tool for Population Genetic Inference.,2024-02-20,2024-10-17,2024-10-26,3,124
+39447047,10.1093/molbev/msae222,Mol Biol Evol,Genomic and Acoustic Biogeography of the Iconic Sulphur-crested Cockatoo Clarifies Species,2024-05-01,2024-10-17,2024-10-25,10,136
+39437268,10.1093/molbev/msae221,Mol Biol Evol,Recent and Recurrent Autopolyploidization Fueled Diversification of Snow Carp on the Tibet,2024-07-02,2024-10-15,2024-10-22,10,109
+39431557,10.1093/molbev/msae219,Mol Biol Evol,Gentrius: Generating Trees Compatible With a Set of Unrooted Subtrees and its Application ,2024-07-08,2024-10-11,2024-10-21,3,49
+39418132,10.1093/molbev/msae216,Mol Biol Evol,Ancient Secretory Pathways Contributed to the Evolutionary Origin of an Ecologically Impac,2024-05-24,2024-10-11,2024-10-18,6,82
+39412298,10.1093/molbev/msae217,Mol Biol Evol,Genetic and Developmental Divergence in the Neural Crest Program between Cichlid Fish Spec,2024-06-06,2024-10-09,2024-10-16,6,100
+39404101,10.1093/molbev/msae210,Mol Biol Evol,RERconverge Expansion: Using Relative Evolutionary Rates to Study Complex Categorical Trai,2024-03-13,2024-10-08,2024-10-15,10,60
+39404100,10.1093/molbev/msae212,Mol Biol Evol,Deep Ancestral Introgressions between Ovine Species Shape Sheep Genomes via Argali-Mediate,2024-03-10,2024-10-04,2024-10-15,7,73
+39302159,10.1093/molbev/msae198,Mol Biol Evol,Five-leaf Generalizations of the D-statistic Reveal the Directionality of Admixture.,2024-02-24,2024-09-08,2024-09-20,5,25
+39462521,10.1093/molbev/msae204,Mol Biol Evol,Maroon Rice Genomic Diversity Reflects 350 Years of Colonial History.,2024-03-21,2024-09-23,2024-10-28,9,71
+39437846,10.1093/molbev/msae158,Mol Biol Evol,The Population History of Domestic Sheep Revealed by Paleogenomes.,2024-02-13,2024-07-22,2024-10-23,39,115
+39431545,10.1093/molbev/msae200,Mol Biol Evol,Functional Optimization in Distinct Tissues and Conditions Constrains the Rate of Protein ,2024-04-18,2024-08-05,2024-10-21,3,106
+39418337,10.1093/molbev/msae215,Mol Biol Evol,Predicting Phylogenetic Bootstrap Values via Machine Learning.,2024-04-23,2024-09-15,2024-10-18,4,40
+39404847,10.1093/molbev/msae206,Mol Biol Evol,Toxin-Antitoxin Systems Reflect Community Interactions Through Horizontal Gene Transfer.,2024-06-29,2024-09-24,2024-10-15,4,48
+39404090,10.1093/molbev/msae211,Mol Biol Evol,A Minimal Hybrid Sterility Genome Assembled by Chromosome Swapping Between Mouse Subspecie,2024-02-26,2024-10-04,2024-10-15,5,68
+39404085,10.1093/molbev/msae213,Mol Biol Evol,Chromatin Accessibility and Gene Expression Vary Between a New and Evolved Autopolyploid o,2024-07-19,2024-10-10,2024-10-15,3,92
+39404010,10.1093/molbev/msae209,Mol Biol Evol,Machine Learning Reveals the Diversity of Human 3D Chromatin Contact Patterns.,2023-12-24,2024-08-08,2024-10-15,7,60
+39391982,10.1093/molbev/msae205,Mol Biol Evol,Tracing the Evolutionary History of the Temperature-Sensing Prion-like Domain in EARLY FLO,2024-05-08,2024-09-17,2024-10-11,4,117
+39382385,10.1093/molbev/msae207,Mol Biol Evol,Assessing the Role of Bacterial Innate and Adaptive Immunity as Barriers to Conjugative Pl,2024-04-23,2024-10-02,2024-10-09,5,69
+39361595,10.1093/molbev/msae203,Mol Biol Evol,soibean: High-Resolution Taxonomic Identification of Ancient Environmental DNA Using Mitoc,2024-05-13,2024-09-27,2024-10-04,6,58
+39331699,10.1093/molbev/msae202,Mol Biol Evol,VirID: Beyond Virus Discovery-An Integrated Platform for Comprehensive RNA Virus Character,2024-07-11,2024-09-24,2024-09-27,20,111
+39324637,10.1093/molbev/msae201,Mol Biol Evol,Widespread Adaptive Introgression of Major Histocompatibility Complex Genes across Vertebr,2024-03-26,2024-09-23,2024-09-26,21,98
+39302728,10.1093/molbev/msae199,Mol Biol Evol,Evolutionary Innovations in Conserved Regulatory Elements Associate With Developmental Gen,2024-04-09,2024-09-17,2024-09-20,8,82
+39288326,10.1093/molbev/msae196,Mol Biol Evol,Functional Characterization Supports Multiple Evolutionary Origins of Pheromone Receptors ,2024-02-23,2024-09-10,2024-09-17,6,93
+39288321,10.1093/molbev/msae197,Mol Biol Evol,Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter Ants.,2024-04-22,2024-09-12,2024-09-17,8,107
+39288167,10.1093/molbev/msae192,Mol Biol Evol,HaploSweep: Detecting and Distinguishing Recent Soft and Hard Selective Sweeps through Hap,2024-03-28,2024-09-03,2024-09-17,4,53
+39241178,10.1093/molbev/msae186,Mol Biol Evol,The Human Accelerated Region HAR202 Controls NPAS3 Expression in the Developing Forebrain ,2024-02-04,2024-08-14,2024-09-06,4,80
+39302634,10.1093/molbev/msae183,Mol Biol Evol,Diversity in Recombination Hotspot Characteristics and Gene Structure Shape Fine-Scale Rec,2024-06-27,2024-08-20,2024-09-20,2,83
+39288165,10.1093/molbev/msae193,Mol Biol Evol,Whole Genomes Inform Genetic Rescue Strategy for Montane Red Foxes in North America.,2024-03-12,2024-09-03,2024-09-17,4,114
+39271164,10.1093/molbev/msae195,Mol Biol Evol,The Chromosome-level Genome Provides Insights into the Evolution and Adaptation of Extreme,2024-05-21,2024-09-09,2024-09-14,4,143
+39271153,10.1093/molbev/msae194,Mol Biol Evol,The Fate of a Polygenic Phenotype Within the Genomic Landscapes of Introgression in the Eu,2024-02-07,2024-09-06,2024-09-14,10,55
+39268685,10.1093/molbev/msae168,Mol Biol Evol,Low Genetic Impact of the Roman Occupation of Britain in Rural Communities.,2023-09-04,2024-08-07,2024-09-15,23,99
+39248185,10.1093/molbev/msae191,Mol Biol Evol,Evolution of the Correlated Genomic Variation Landscape Across a Divergence Continuum in t,2024-04-14,2024-09-03,2024-09-09,7,173
+39238468,10.1093/molbev/msae189,Mol Biol Evol,Most Pleiotropic Effects of Gene Knockouts Are Evolutionarily Transient in Yeasts.,2024-03-20,2024-08-30,2024-09-06,11,57
+39238368,10.1093/molbev/msae190,Mol Biol Evol,Rapid Loss of Nutritional Symbionts in an Endemic Hawaiian Herbivore Radiation Is Associat,2024-07-03,2024-09-03,2024-09-06,5,108
+39235107,10.1093/molbev/msae187,Mol Biol Evol,Patterns of Fitness and Gene Expression Epistasis Generated by Beneficial Mutations in the,2024-05-12,2024-08-30,2024-09-05,4,85
+39235104,10.1093/molbev/msae188,Mol Biol Evol,A Novel Expression Domain of extradenticle Underlies the Evolutionary Developmental Origin,2024-05-16,2024-08-30,2024-09-05,17,120
+39226145,10.1093/molbev/msae184,Mol Biol Evol,Reused Protein Segments Linked to Functional Dynamics.,2024-02-22,2024-08-26,2024-09-03,5,86
+39219319,10.1093/molbev/msae185,Mol Biol Evol,Promoters Constrain Evolution of Expression Levels of Essential Genes in Escherichia coli.,2024-05-22,2024-08-28,2024-09-02,3,75
+39213383,10.1093/molbev/msae182,Mol Biol Evol,Diverse Origins of Near-Identical Antifreeze Proteins in Unrelated Fish Lineages Provide I,2024-03-06,2024-08-13,2024-08-31,4,113
+39213378,10.1093/molbev/msae178,Mol Biol Evol,A Quantitative Computational Framework for Allopolyploid Single-Cell Data Integration and ,2024-04-28,2024-08-13,2024-08-31,22,52
+39189989,10.1093/molbev/msae180,Mol Biol Evol,Horizontal Gene Transfer of a key Translation Factor and its Role in Polyproline Proteome ,2023-10-09,2024-08-20,2024-08-27,2,64
+39189646,10.1093/molbev/msae181,Mol Biol Evol,Prevalent Fast Evolution of Genes Involved in Heterochromatin Functions.,2024-03-15,2024-08-20,2024-08-27,6,135
+39183719,10.1093/molbev/msae179,Mol Biol Evol,The Genetic Architecture of Recombination Rates is Polygenic and Differs Between the Sexes,2024-03-20,2024-07-11,2024-08-26,11,124
+39172738,10.1093/molbev/msae176,Mol Biol Evol,Inference of Host-Pathogen Interaction Matrices from Genome-Wide Polymorphism Data.,2024-04-09,2024-08-20,2024-08-22,7,69
+39162340,10.1093/molbev/msae175,Mol Biol Evol,Mitochondrial DNA Genomes Reveal Relaxed Purifying Selection During Human Population Expan,2023-11-27,2024-08-06,2024-08-20,6,70
+39158305,10.1093/molbev/msae174,Mol Biol Evol,GTRpmix: A Linked General Time-Reversible Model for Profile Mixture Models.,2024-04-05,2024-08-12,2024-08-19,9,33
+39150953,10.1093/molbev/msae166,Mol Biol Evol,Comparative Genomics Supports Ecologically Induced Selection as a Putative Driver of Bande,2023-11-21,2024-07-10,2024-08-16,14,129
+39141777,10.1093/molbev/msae172,Mol Biol Evol,Annelid Comparative Genomics and the Evolution of Massive Lineage-Specific Genome Rearrang,2024-05-15,2024-08-08,2024-08-14,3,156
+39116340,10.1093/molbev/msae165,Mol Biol Evol,Distinct Genes with Similar Functions Underlie Convergent Evolution in Myotis Bat Ecomorph,2023-09-08,2024-07-24,2024-08-08,11,79
+39191515,10.1093/molbev/msae173,Mol Biol Evol,Ecological Changes Exacerbating the Spread of Invasive Ticks has Driven the Dispersal of S,2024-01-30,2024-08-12,2024-08-28,5,62
+39137184,10.1093/molbev/msae171,Mol Biol Evol,SegVir: Reconstruction of Complete Segmented RNA Viral Genomes from Metatranscriptomes.,2024-05-29,2024-08-06,2024-08-13,6,63
+39136558,10.1093/molbev/msae169,Mol Biol Evol,Genomic Anatomy of Homozygous XX Females and YY Males Reveals Early Evolutionary Trajector,2024-04-07,2024-08-06,2024-08-13,13,99
+39117360,10.1093/molbev/msae167,Mol Biol Evol,TF-High-Evolutionary: In Vivo Mutagenesis of Gene Regulatory Networks for the Study of the,2024-04-25,2024-08-06,2024-08-09,7,42
+39107250,10.1093/molbev/msae164,Mol Biol Evol,Multiple Horizontal Mini-chromosome Transfers Drive Genome Evolution of Clonal Blast Fungu,2024-02-13,2024-07-31,2024-08-07,9,148
+39101626,10.1093/molbev/msae160,Mol Biol Evol,Invasion and Amplification of Endogenous Retroviruses in Dasyuridae Marsupial Genomes.,2023-11-30,2024-07-25,2024-08-05,5,57
+39101592,10.1093/molbev/msae162,Mol Biol Evol,Varying Selection Pressure for a Na+ Sensing Site in Epithelial Na+ Channel Subunits Refle,2024-02-21,2024-07-29,2024-08-05,6,63
+39101589,10.1093/molbev/msae163,Mol Biol Evol,Variation in the Spectrum of New Mutations among Inbred Strains of Mice.,2024-03-27,2024-07-31,2024-08-05,7,56
+39101471,10.1093/molbev/msae154,Mol Biol Evol,Evolution of Virus-like Features and Intrinsically Disordered Regions in Retrotransposon-d,2024-05-29,2024-07-19,2024-08-05,10,126
+39101470,10.1093/molbev/msae153,Mol Biol Evol,The Possible Earliest Allopolyploidization in Tracheophytes Revealed by Phylotranscriptomi,2023-09-26,2024-07-19,2024-08-05,4,131
+39099254,10.1093/molbev/msae149,Mol Biol Evol,Complex Genomes of Early Nucleocytoviruses Revealed by Ancient Origins of Viral Aminoacyl-,2024-03-05,2024-07-15,2024-08-05,5,60
+39093595,10.1093/molbev/msae161,Mol Biol Evol,Gene Transfer Among Viruses Substantially Contributes to Gene Gain of Giant Viruses.,2023-10-12,2024-07-22,2024-08-02,7,62
+39078618,10.1093/molbev/msae156,Mol Biol Evol,Fast and Accurate Estimation of Selection Coefficients and Allele Histories from Ancient a,2023-12-16,2024-07-10,2024-07-30,2,87
+39073781,10.1093/molbev/msae155,Mol Biol Evol,Biased Retention of Environment-Responsive Genes Following Genome Fractionation.,2024-01-10,2024-07-11,2024-07-29,8,64
+39073613,10.1093/molbev/msae157,Mol Biol Evol,Parallel Evolution at the Regulatory Base-Pair Level Contributes to Mammalian Interspecifi,2024-04-22,2024-07-23,2024-07-29,2,62
+39041198,10.1093/molbev/msae152,Mol Biol Evol,Improving the Accuracy of Bulk Fitness Assays by Correcting Barcode Processing Biases.,2023-11-02,2024-07-11,2024-07-23,4,23
+39041196,10.1093/molbev/msae151,Mol Biol Evol,Exploring the Origins and Evolution of Oxygenic and Anoxygenic Photosynthesis in Deeply Br,2024-01-29,2024-07-17,2024-07-23,15,98
+38935574,10.1093/molbev/msae120,Mol Biol Evol,Prey Shifts Drive Venom Evolution in Cone Snails.,2024-01-03,2024-06-03,2024-06-27,9,68
+38850168,10.1093/molbev/msae111,Mol Biol Evol,phyloBARCODER: A Web Tool for Phylogenetic Classification of Eukaryote Metabarcodes Using ,2024-01-09,2024-06-04,2024-06-08,7,47
+39058500,10.1093/molbev/msae146,Mol Biol Evol,The Evolution of Ultraconserved Elements in Vertebrates.,2024-03-26,2024-07-08,2024-07-26,4,85
+39041199,10.1093/molbev/msae150,Mol Biol Evol,PhyloAln: A Convenient Reference-Based Tool to Align Sequences and High-Throughput Reads f,2024-02-14,2024-07-16,2024-07-23,5,84
+39011558,10.1093/molbev/msae147,Mol Biol Evol,Adaptive Evolution of Two Distinct Adaptive Haplotypes of Neanderthal Origin at the Immuno,2023-11-21,2024-07-11,2024-07-16,3,54
+39004892,10.1093/molbev/msae145,Mol Biol Evol,Evolution and Functional Differentiation of the C-terminal Motifs of FtsZs During Plant Ev,2024-04-11,2024-07-09,2024-07-15,4,57
+38995236,10.1093/molbev/msae144,Mol Biol Evol,Ancestral Origins and Admixture History of Kazakhs.,2023-12-15,2024-07-02,2024-07-12,11,84
+38990889,10.1093/molbev/msae142,Mol Biol Evol,An Orphan Gene Enhances Male Reproductive Success in Plutella xylostella.,2023-11-24,2024-07-05,2024-07-11,7,104
+38989909,10.1093/molbev/msae141,Mol Biol Evol,Following the Evolutionary Paths of Dscam1 Proteins toward Highly Specific Homophilic Inte,2024-03-20,2024-07-05,2024-07-11,2,81
+38985692,10.1093/molbev/msae140,Mol Biol Evol,Parallel Evolution in Mosquito Vectors-A Duplicated Esterase Locus is Associated With Resi,2024-02-14,2024-05-29,2024-07-10,16,36
+38982580,10.1093/molbev/msae114,Mol Biol Evol,Morphometrics and Phylogenomics of Coca (Erythroxylum spp.) Illuminate Its Reticulate Evol,2023-08-08,2024-05-10,2024-07-10,11,123
+38980178,10.1093/molbev/msae138,Mol Biol Evol,"Polymorphism-Aware Models in RevBayes: Species Trees, Disentangling Balancing Selection, a",2023-12-11,2024-07-06,2024-07-09,3,56
+38958167,10.1093/molbev/msae137,Mol Biol Evol,Inference of Locus-Specific Population Mixtures from Linked Genome-Wide Allele Frequencies,2023-11-06,2024-06-27,2024-07-03,5,86
+38950035,10.1093/molbev/msae124,Mol Biol Evol,Rewinding the Ratchet: Rare Recombination Locally Rescues Neo-W Degeneration and Generates,2024-01-19,2024-05-28,2024-07-01,4,75
+38941083,10.1093/molbev/msae129,Mol Biol Evol,Rapid Adaptation and Interspecific Introgression in the North American Crop Pest Helicover,2023-09-19,2024-06-14,2024-06-28,13,163
+38935588,10.1093/molbev/msae130,Mol Biol Evol,Evidence for Admixture and Rapid Evolution During Glacial Climate Change in an Alpine Spec,2023-12-05,2024-06-14,2024-06-27,3,115
+38935581,10.1093/molbev/msae132,Mol Biol Evol,Selfing Promotes Spread and Introgression of Segregation Distorters in Hermaphroditic Plan,2024-03-20,2024-06-20,2024-06-27,4,76
+38935572,10.1093/molbev/msae128,Mol Biol Evol,Genome-Wide Allele Frequency Changes Reveal That Dynamic Metapopulations Evolve Differentl,2024-02-14,2024-06-20,2024-06-27,5,72
+38934805,10.1093/molbev/msae136,Mol Biol Evol,PHACTboost: A Phylogeny-Aware Pathogenicity Predictor for Missense Mutations via Boosting.,2023-12-12,2024-06-24,2024-06-27,6,63
+38934796,10.1093/molbev/msae135,Mol Biol Evol,Heteroplasmy Is Rare in Plant Mitochondria Compared with Plastids despite Similar Mutation,2023-11-17,2024-06-20,2024-06-27,4,79
+38934791,10.1093/molbev/msae134,Mol Biol Evol,CMAPLE: Efficient Phylogenetic Inference in the Pandemic Era.,2024-02-09,2024-06-21,2024-06-27,4,39
+38922185,10.1093/molbev/msae126,Mol Biol Evol,Comparing Phylogeographies to Reveal Incompatible Geographical Histories within Genomes.,2024-01-09,2024-06-14,2024-06-26,4,75
+38917277,10.1093/molbev/msae133,Mol Biol Evol,Exploring the Accuracy and Limits of Algorithms for Localizing Recombination Breakpoints.,2023-12-08,2024-06-11,2024-06-25,2,37
+38916488,10.1093/molbev/msae125,Mol Biol Evol,Brain Gene Regulatory Networks Coordinate Nest Construction in Birds.,2024-01-25,2024-06-10,2024-06-25,6,93
+38916040,10.1093/molbev/msae131,Mol Biol Evol,Discovering Fragile Clades and Causal Sequences in Phylogenomics by Evolutionary Sparse Le,2024-01-02,2024-06-20,2024-06-25,2,62
+38913688,10.1093/molbev/msae123,Mol Biol Evol,The Human Developing Cerebral Cortex Is Characterized by an Elevated De Novo Expression of,2023-11-23,2024-06-14,2024-06-24,6,85
+38913681,10.1093/molbev/msae127,Mol Biol Evol,Deciphering Structural Traits for Thermal and Kinetic Stability across Protein Family Evol,2024-01-30,2024-06-17,2024-06-24,9,63
+38889245,10.1093/molbev/msae121,Mol Biol Evol,Genomic Reconstruction of the Successful Establishment of a Feralized Bovine Population on,2023-11-24,2024-06-13,2024-06-18,11,104
+38885310,10.1093/molbev/msae122,Mol Biol Evol,Multiple Human Population Movements and Cultural Dispersal Events Shaped the Landscape of ,2023-08-29,2024-06-13,2024-06-17,29,71
+38879872,10.1093/molbev/msae119,Mol Biol Evol,Evolutionary Dynamics of Accelerated Antiviral Resistance Development in Hypermutator Herp,2024-02-04,2024-06-12,2024-06-16,5,75
+38874402,10.1093/molbev/msae118,Mol Biol Evol,Biases in ARG-Based Inference of Historical Population Size in Populations Experiencing Se,2024-04-15,2024-06-11,2024-06-14,2,161
+38869090,10.1093/molbev/msae117,Mol Biol Evol,COATi: Statistical Pairwise Alignment of Protein-Coding Sequences.,2023-05-22,2024-05-28,2024-06-13,3,44
+38865496,10.1093/molbev/msae116,Mol Biol Evol,Ancient and Recent Hybridization in the Oreochromis Cichlid Fishes.,2023-09-21,2024-06-04,2024-06-12,16,68
+38865495,10.1093/molbev/msae115,Mol Biol Evol,"Analysis of Evolutionary Conservation, Expression Level, and Genetic Association at a Geno",2023-08-04,2024-05-03,2024-06-12,5,70
+38842255,10.1093/molbev/msae108,Mol Biol Evol,Historic dog Furs Unravel the Origin and Artificial Selection of Modern Nordic Lapphund an,2024-01-31,2024-05-31,2024-06-06,18,50
+38842253,10.1093/molbev/msae109,Mol Biol Evol,Please Mind the Gap: Indel-Aware Parsimony for Fast and Accurate Ancestral Sequence Recons,2024-03-25,2024-06-03,2024-06-06,4,54
+38880992,10.1093/molbev/msae101,Mol Biol Evol,Rewiring the Sex-Determination Pathway During the Evolution of Self-Fertility.,2024-03-08,2024-05-10,2024-06-17,9,56
+38865490,10.1093/molbev/msae113,Mol Biol Evol,Recurrent Duplication and Diversification of a Vital DNA Repair Gene Family Across Drosoph,2023-11-07,2024-06-04,2024-06-12,5,115
+38860506,10.1093/molbev/msae084,Mol Biol Evol,PhyloBench: A Benchmark for Evaluating Phylogenetic Programs.,2023-11-17,2024-04-22,2024-06-11,5,32
+38857185,10.1093/molbev/msae110,Mol Biol Evol,Odd-Paired is Involved in Morphological Divergence of Snail-Feeding Beetles.,2023-12-12,2024-06-04,2024-06-10,10,84
+38839045,10.1093/molbev/msae094,Mol Biol Evol,Measuring the Efficiency of Purging by non-random Mating in Human Populations.,2023-10-30,2024-05-10,2024-06-06,13,67
+38829800,10.1093/molbev/msae107,Mol Biol Evol,Increased Positive Selection in Highly Recombining Genes Does not Necessarily Reflect an E,2024-01-30,2024-05-28,2024-06-03,1,115
+38829799,10.1093/molbev/msae106,Mol Biol Evol,Genomic and Phenotypic Adaptations of Rattus tanezumi to Cold Limit Its Further Northward ,2023-05-23,2024-05-28,2024-06-03,8,102
+38829798,10.1093/molbev/msae105,Mol Biol Evol,The Tree Reconstruction Game: Phylogenetic Reconstruction Using Reinforcement Learning.,2023-07-02,2024-05-28,2024-06-03,6,46
+38818533,10.1093/molbev/msae104,Mol Biol Evol,SMBE Secretary's Report.,2024-05-27,2024-05-29,2024-05-31,1,0
+38782570,10.1093/molbev/msae093,Mol Biol Evol,Severe Bottleneck Impacted the Genomic Structure of Egg-Eating Cichlids in Lake Victoria.,2023-08-04,2024-05-06,2024-05-24,8,77
+38781495,10.1093/molbev/msae100,Mol Biol Evol,The Evolution of Transglutaminases Underlies the Origin and Loss of Cornified Skin Appenda,2024-02-13,2024-05-20,2024-05-23,7,83
+38768215,10.1093/molbev/msae099,Mol Biol Evol,Signatures of Adaptation and Purifying Selection in Highland Populations of Dasiphora frut,2023-08-23,2024-05-13,2024-05-20,20,87
+38758976,10.1093/molbev/msae097,Mol Biol Evol,Connecting Species-Specific Extents of Genome Reduction in Mitochondria and Plastids.,2024-03-11,2024-05-13,2024-05-17,4,75
+38743589,10.1093/molbev/msae092,Mol Biol Evol,Evolution of Chromosomal Inversions across an Avian Radiation.,2024-01-08,2024-05-03,2024-05-15,6,120
+38736374,10.1093/molbev/msae090,Mol Biol Evol,"Diversity and Molecular Evolution of Nonvisual Opsin Genes across Environmental, Developme",2023-09-12,2024-05-07,2024-05-13,7,89
+38693911,10.1093/molbev/msae085,Mol Biol Evol,Non-Poissonian Bursts in the Arrival of Phenotypic Variation Can Strongly Affect the Dynam,2023-11-08,2024-04-17,2024-05-02,4,81
+38648521,10.1093/molbev/msae078,Mol Biol Evol,The Number and Pattern of Viral Genomic Reassortments are not Necessarily Identifiable fro,2023-09-20,2024-04-09,2024-04-23,6,44
+38776415,10.1093/molbev/msae096,Mol Biol Evol,Dating Ammonia-Oxidizing Bacteria with Abundant Eukaryotic Fossils.,2024-01-09,2024-05-14,2024-05-22,5,119
+38768245,10.1093/molbev/msae098,Mol Biol Evol,Wiring Between Close Nodes in Molecular Networks Evolves More Quickly Than Between Distant,2023-12-21,2024-05-15,2024-05-20,2,85
+38758089,10.1093/molbev/msae095,Mol Biol Evol,Evolutionary Dynamics of Chromatin Structure and Duplicate Gene Expression in Diploid and ,2023-11-02,2024-05-10,2024-05-17,17,191
+38743590,10.1093/molbev/msae091,Mol Biol Evol,Boundary Effects Cause False Signals of Range Expansions in Population Genomic Data.,2023-12-06,2024-05-01,2024-05-15,3,47
+38723179,10.1093/molbev/msae089,Mol Biol Evol,Functional Divergence in Orthologous Transcription Factors: Insights from AtCBF2/3/1 and O,2024-01-13,2024-05-06,2024-05-10,7,73
+38717941,10.1093/molbev/msae088,Mol Biol Evol,Macroevolutionary Dynamics in Micro-organisms: Generalists Give Rise to Specialists Across,2023-10-09,2024-05-03,2024-05-08,5,84
+38709811,10.1093/molbev/msae086,Mol Biol Evol,Unpredictability of the Fitness Effects of Antimicrobial Resistance Mutations Across Envir,2023-11-08,2024-04-30,2024-05-06,5,84
+38709782,10.1093/molbev/msae087,Mol Biol Evol,Genetic Causes and Genomic Consequences of Breakdown of Distyly in Linum trigynum.,2023-11-17,2024-04-29,2024-05-06,15,126
+38696269,10.1093/molbev/msae083,Mol Biol Evol,Wright's Hierarchical F-Statistics.,2024-03-05,2024-04-29,2024-05-02,1,49
+38679468,10.1093/molbev/msae081,Mol Biol Evol,Comparative Analysis of Maternal Gene Expression Patterns Unravels Evolutionary Signatures,2023-11-27,2024-04-23,2024-04-29,2,76
+38676945,10.1093/molbev/msae082,Mol Biol Evol,Sea Anemone Membrane Attack Complex/Perforin Superfamily Demonstrates an Evolutionary Tran,2023-11-30,2024-04-25,2024-04-28,4,65
+38667829,10.1093/molbev/msae080,Mol Biol Evol,The Patterns of Codon Usage between Chordates and Arthropods are Different but Co-evolving,2023-05-05,2024-04-15,2024-04-26,3,77
+38662789,10.1093/molbev/msae076,Mol Biol Evol,A High-Coverage Mesolithic Aurochs Genome and Effective Leveraging of Ancient Cattle Genom,2024-01-24,2024-04-09,2024-04-25,9,56
+38652808,10.1093/molbev/msae079,Mol Biol Evol,The Narrow Footprint of Ancient Balancing Selection Revealed by Heterokaryon Incompatibili,2023-05-31,2024-04-11,2024-04-23,8,96
+38636507,10.1093/molbev/msae077,Mol Biol Evol,Computationally Efficient Demographic History Inference from Allele Frequencies with Super,2023-05-24,2024-04-12,2024-04-19,5,50
+38630635,10.1093/molbev/msae073,Mol Biol Evol,Comparison of Bayesian Coalescent Skyline Plot Models for Inferring Demographic Histories.,2023-09-26,2024-04-01,2024-04-17,2,40
+38577958,10.1093/molbev/msae070,Mol Biol Evol,fastDFE: Fast and Flexible Inference of the Distribution of Fitness Effects.,2024-01-22,2024-03-25,2024-04-05,2,11
+38649162,10.1093/molbev/msae071,Mol Biol Evol,"Synchronized Expansion and Contraction of Olfactory, Vomeronasal, and Taste Receptor Gene ",2023-02-02,2024-03-03,2024-04-23,12,109
+38606905,10.1093/molbev/msae075,Mol Biol Evol,Terrestrial Birth and Body Size Tune UCP1 Functionality in Seals.,2023-10-04,2024-04-05,2024-04-12,7,39
+38606901,10.1093/molbev/msae074,Mol Biol Evol,Phased Assembly of Neo-Sex Chromosomes Reveals Extensive Y Degeneration and Rapid Genome E,2023-10-06,2024-04-05,2024-04-12,11,82
+38586942,10.1093/molbev/msae056,Mol Biol Evol,Viral Receptor-Binding Protein Evolves New Function through Mutations That Cause Trimer In,2023-02-14,2024-03-11,2024-04-08,6,56
+38577785,10.1093/molbev/msae068,Mol Biol Evol,Earl Grey: A Fully Automated User-Friendly Transposable Element Annotation and Analysis Pi,2023-11-24,2024-03-22,2024-04-05,3,52
+38573520,10.1093/molbev/msae049,Mol Biol Evol,Diversity and Evolution of Frog Visual Opsins: Spectral Tuning and Adaptation to Distinct ,2023-09-12,2024-02-26,2024-04-04,28,131
+38573174,10.1093/molbev/msae066,Mol Biol Evol,Inter-species Transcriptomic Analysis Reveals a Constitutive Adaptation Against Oxidative ,2023-10-20,2024-03-07,2024-04-04,10,41
+38526235,10.1093/molbev/msae067,Mol Biol Evol,Emergence of an Orphan Nitrogenase Protein Following Atmospheric Oxygenation.,2023-12-08,2024-03-19,2024-03-25,6,108
+38518286,10.1093/molbev/msae065,Mol Biol Evol,The Origin and Evolution of Sex Peptide and Sex Peptide Receptor Interactions.,2023-11-09,2024-03-18,2024-03-22,4,95
+38513632,10.1093/molbev/msae063,Mol Biol Evol,Multiple Genomic Landscapes of Recombination and Genomic Divergence in Wild Populations of,2023-11-06,2024-03-14,2024-03-22,10,93
+38513084,10.1093/molbev/msae064,Mol Biol Evol,Genomic Diversity in the Endosymbiotic Bacteria of Human Head Lice.,2023-10-25,2024-03-15,2024-03-21,4,97
+38507667,10.1093/molbev/msae061,Mol Biol Evol,The Diverse Evolutionary Histories of Domesticated Metaviral Capsid Genes in Mammals.,2024-01-25,2024-03-04,2024-03-20,6,159
+38507665,10.1093/molbev/msae060,Mol Biol Evol,Correlated Allele Frequency Changes Reveal Clonal Structure and Selection in Temporal Gene,2023-10-13,2024-03-15,2024-03-20,2,37
+38507661,10.1093/molbev/msae062,Mol Biol Evol,Ancient Mitogenomes Reveal the Maternal Genetic History of East Asian Dogs.,2023-07-22,2024-03-11,2024-03-20,45,32
+38507653,10.1093/molbev/msae059,Mol Biol Evol,Adaptation in Unstable Environments and Global Gene Losses: Small but Stable Gene Networks,2024-01-12,2024-03-15,2024-03-20,13,161
+38507648,10.1093/molbev/msae057,Mol Biol Evol,scalepopgen: Bioinformatic Workflow Resources Implemented in Nextflow for Comprehensive Po,2023-09-26,2024-03-04,2024-03-20,3,49
+38415839,10.1093/molbev/msae045,Mol Biol Evol,Functional and Evolutionary Integration of a Fungal Gene With a Bacterial Operon.,2023-11-21,2024-02-21,2024-02-28,12,68
+38552245,10.1093/molbev/msae058,Mol Biol Evol,Multiomics Analyses Provide New Insight into Genetic Variation of Reproductive Adaptabilit,2023-10-13,2024-03-12,2024-03-30,8,97
+38533900,10.1093/molbev/msae017,Mol Biol Evol,Ancient Genomes From Bronze Age Remains Reveal Deep Diversity and Recent Adaptive Episodes,2023-06-30,2024-01-26,2024-03-27,5,79
+38489607,10.1093/molbev/msae055,Mol Biol Evol,Fermentation Practices Select for Thermostable Endolysins in Phages.,2023-10-10,2024-03-07,2024-03-15,6,70
+38466135,10.1093/molbev/msae054,Mol Biol Evol,Genetic Basis and Evolutionary Forces of Sexually Dimorphic Color Variation in a Toad-Head,2023-09-13,2024-03-04,2024-03-11,9,149
+38466119,10.1093/molbev/msae053,Mol Biol Evol,Predicting Functional Consequences of Recent Natural Selection in Britain.,2023-10-16,2024-03-01,2024-03-11,3,48
+38442736,10.1093/molbev/msae050,Mol Biol Evol,Evolution of a Restriction Factor by Domestication of a Yeast Retrotransposon.,2023-11-21,2024-02-23,2024-03-06,4,93
+38437512,10.1093/molbev/msae051,Mol Biol Evol,The Expected Behaviors of Posterior Predictive Tests and Their Unexpected Interpretation.,2023-12-27,2024-01-09,2024-03-04,5,28
+38427813,10.1093/molbev/msae052,Mol Biol Evol,Aneuploidy Can Be an Evolutionary Diversion on the Path to Adaptation.,2023-11-23,2024-02-27,2024-03-01,8,77
+38427787,10.1093/molbev/msae040,Mol Biol Evol,PAPipe: A Pipeline for Comprehensive Population Genetic Analysis.,2023-05-04,2024-02-16,2024-03-01,6,56
+38421617,10.1093/molbev/msae047,Mol Biol Evol,Formation of Different Polyploids Through Disrupting Meiotic Crossover Frequencies Based o,2023-08-11,2024-02-28,2024-02-29,13,98
+38421032,10.1093/molbev/msae048,Mol Biol Evol,Fitness Effects of Phenotypic Mutations at Proteome-Scale Reveal Optimality of Translation,2023-09-04,2024-02-23,2024-02-29,3,72
+38415852,10.1093/molbev/msae046,Mol Biol Evol,Genetic Basis and Evolution of Structural Color Polymorphism in an Australian Songbird.,2023-11-13,2024-02-22,2024-02-28,8,126
+38411627,10.1093/molbev/msae042,Mol Biol Evol,PlantFUNCO: Integrative Functional Genomics Database Reveals Clues into Duplicates Diverge,2023-09-06,2024-02-16,2024-02-27,5,57
+38401527,10.1093/molbev/msae044,Mol Biol Evol,Rapid and Repeated Climate Adaptation Involving Chromosome Inversions following Invasion o,2023-10-25,2024-02-20,2024-02-25,12,124
+38401262,10.1093/molbev/msae041,Mol Biol Evol,Transposable Element Insertions Are Associated with Batesian Mimicry in the Pantropical Bu,2023-08-04,2024-02-16,2024-02-25,13,84
+38391484,10.1093/molbev/msae043,Mol Biol Evol,Cytonuclear Interactions and Subgenome Dominance Shape the Evolution of Organelle-Targeted,2023-10-24,2024-02-16,2024-02-23,9,102
+38378172,10.1093/molbev/msae038,Mol Biol Evol,Genomic Analyses Capture the Human-Induced Demographic Collapse and Recovery in a Wide-Ran,2023-08-15,2024-02-14,2024-02-21,2,156
+38377349,10.1093/molbev/msae032,Mol Biol Evol,Investigating the Evolution of Drosophila STING-Dependent Antiviral Innate Immunity by Mul,2023-10-13,2024-02-07,2024-02-20,11,124
+38377343,10.1093/molbev/msae034,Mol Biol Evol,Adaptive Selection of Cis-regulatory Elements in the Han Chinese.,2023-10-02,2024-02-05,2024-02-20,9,87
+38376543,10.1093/molbev/msae037,Mol Biol Evol,Degeneration of the Olfactory System in a Murid Rodent that Evolved Diurnalism.,2022-10-19,2024-02-13,2024-02-20,6,83
+38376487,10.1093/molbev/msae036,Mol Biol Evol,"A High-Quality Blue Whale Genome, Segmental Duplications, and Historical Demography.",2023-03-08,2024-01-22,2024-02-20,36,178
+38366781,10.1093/molbev/msae035,Mol Biol Evol,The Effects of De Novo Mutation on Gene Expression and the Consequences for Fitness in Chl,2023-09-14,2024-02-13,2024-02-17,2,74
+38366776,10.1093/molbev/msae033,Mol Biol Evol,Brief Communication: The Predictable Network Topology of Evolutionary Genomic Constraint.,2023-07-25,2024-02-09,2024-02-17,1,27
+38349332,10.1093/molbev/msae029,Mol Biol Evol,Biogeographic Perspectives on Human Genetic Diversification.,2023-10-13,2024-02-07,2024-02-13,1,68
+38318973,10.1093/molbev/msae027,Mol Biol Evol,Landscape Heterogeneity Explains the Genetic Differentiation of a Forest Bird across the S,2023-06-05,2024-01-31,2024-02-06,13,120
+38306580,10.1093/molbev/msae025,Mol Biol Evol,The Dynamic Interplay Between Ribosomal DNA and Transposable Elements: A Perspective From ,2023-06-12,2024-01-29,2024-02-02,9,209
+38298175,10.1093/molbev/msae013,Mol Biol Evol,Adaptive Capacity of a DNA Polymerase Clamp-loader ATPase Complex.,2023-10-24,2024-01-16,2024-02-01,6,40
+38410843,10.1093/molbev/msae021,Mol Biol Evol,Gene and Allele-Specific Expression Underlying the Electric Signal Divergence in African W,2023-10-31,2024-01-29,2024-02-27,6,64
+38366574,10.1093/molbev/msae030,Mol Biol Evol,A Critical Appraisal of DNA Transfer from Plants to Parasitic Cyst Nematodes.,2023-05-04,2023-12-18,2024-02-17,4,41
+38366566,10.1093/molbev/msae031,Mol Biol Evol,"Secondary Contact, Introgressive Hybridization, and Genome Stabilization in Sticklebacks.",2023-09-19,2024-02-09,2024-02-17,3,113
+38366124,10.1093/molbev/msae022,Mol Biol Evol,Adaptive Evolution of Pseudomonas aeruginosa in Human Airways Shows Phenotypic Convergence,2023-08-16,2024-01-30,2024-02-17,6,36
+38364113,10.1093/molbev/msae004,Mol Biol Evol,The Density of Regulatory Information Is a Major Determinant of Evolutionary Constraint on,2023-07-04,2024-01-05,2024-02-16,9,72
+38324417,10.1093/molbev/msae028,Mol Biol Evol,Association Analysis Provides Insights into Plant Mitonuclear Interactions.,2023-11-15,2024-02-01,2024-02-07,7,112
+38319744,10.1093/molbev/msae023,Mol Biol Evol,Mapping Geological Events and Nitrogen Fixation Evolution Onto the Timetree of the Evoluti,2023-10-09,2023-11-21,2024-02-06,3,61
+38314890,10.1093/molbev/msae024,Mol Biol Evol,Adaptive Evolution of Nearctic Deepwater Fish Vision: Implications for Assessing Functiona,2023-11-07,2024-01-05,2024-02-05,8,85
+38314876,10.1093/molbev/msae026,Mol Biol Evol,Substitution Models of Protein Evolution with Selection on Enzymatic Activity.,2023-09-29,2024-01-31,2024-02-05,4,109
+38306314,10.1093/molbev/msae020,Mol Biol Evol,Positive Selection Drives cis-regulatory Evolution Across the Threespine Stickleback Y Chr,2023-08-11,2024-01-24,2024-02-02,3,108
+38306290,10.1093/molbev/msae019,Mol Biol Evol,Bridge: A New Algorithm for Rooting Orthologous Genes in Large-Scale Evolutionary Analyses,2023-03-15,2024-01-29,2024-02-02,8,14
+38301272,10.1093/molbev/msae018,Mol Biol Evol,Conservation of Affinity Rather Than Sequence Underlies a Dynamic Evolution of the Motif-M,2023-09-11,2024-01-22,2024-02-01,8,49
+38285634,10.1093/molbev/msae015,Mol Biol Evol,Exploring Adaptive Phenotypes for the Human Calcium-Sensing Receptor Polymorphism R990G.,2024-01-18,2024-01-23,2024-01-29,17,78
+38271287,10.1093/molbev/msae014,Mol Biol Evol,Encyclopedia of Family A DNA Polymerases Localized in Organelles: Evolutionary Contributio,2023-08-29,2024-01-19,2024-01-25,9,108
+38267085,10.1093/molbev/msae012,Mol Biol Evol,Diurnal Rhythms in the Red Seaweed Gracilariopsis chorda are Characterized by Unique Regul,2023-09-09,2024-01-08,2024-01-25,6,153
+38266195,10.1093/molbev/msae003,Mol Biol Evol,Cross-Species Comparative DNA Methylation Reveals Novel Insights into Complex Trait Geneti,2023-07-24,2024-01-04,2024-01-24,15,83
+38262464,10.1093/molbev/msae010,Mol Biol Evol,Evolving Together: Cassandra Retrotransposons Gradually Mirror Promoter Mutations of the 5,2023-07-21,2023-12-11,2024-01-24,4,79
+38243866,10.1093/molbev/msae011,Mol Biol Evol,Dynamic Phytomeric Growth Contributes to Local Adaptation in Barley.,2023-06-30,2024-01-10,2024-01-20,16,97
+38243850,10.1093/molbev/msae009,Mol Biol Evol,Genetically Encoded Lizard Color Divergence for Camouflage and Thermoregulation.,2023-04-04,2024-01-08,2024-01-20,15,78
+38243377,10.1093/molbev/msae008,Mol Biol Evol,Mixed Patterns of Intergenerational DNA Methylation Inheritance in Acropora.,2023-09-06,2024-01-04,2024-01-20,5,73
+38225175,10.1093/molbev/msae006,Mol Biol Evol,Divergent Selection in Low Recombination Regions Shapes the Genomic Islands in Two Incipie,2023-07-10,2024-01-08,2024-01-16,13,70
+38241079,10.1093/molbev/msad272,Mol Biol Evol,"Temporal Dynamics, Discovery, and Emergence of Human-Transmissible RNA Viruses.",2023-08-21,2023-11-28,2024-01-19,7,29
+38232726,10.1093/molbev/msae007,Mol Biol Evol,Ecological Diversification in an Adaptive Radiation of Plants: The Role of De Novo Mutatio,2023-11-01,2024-01-10,2024-01-18,2,92
+38197289,10.1093/molbev/msad260,Mol Biol Evol,Elevated HIV Viral Load is Associated with Higher Recombination Rate In Vivo.,2023-05-26,2023-11-27,2024-01-10,2,59
+38197288,10.1093/molbev/msad264,Mol Biol Evol,Forty Years of Inferential Methods in the Journals of the Society for Molecular Biology an,2023-11-08,2023-11-27,2024-01-10,4,126
+38175672,10.1093/molbev/msae001,Mol Biol Evol,Deciphering the Role of Rapidly Evolving Conserved Elements in Primate Brain Development a,2023-08-30,2023-12-29,2024-01-04,6,80
+38174583,10.1093/molbev/msad287,Mol Biol Evol,Multiple Origins of Bioluminescence in Beetles and Evolution of Luciferase Function.,2023-03-10,2023-12-26,2024-01-04,17,113
+38168711,10.1093/molbev/msad288,Mol Biol Evol,Inference of Infectious Disease Transmission through a Relaxed Bottleneck Using Multiple G,2023-07-28,2023-12-29,2024-01-04,5,71
+38158742,10.1093/molbev/msad286,Mol Biol Evol,Transmission Bottleneck Size Estimation from De Novo Viral Genetic Variation.,2023-08-14,2023-12-19,2024-01-02,4,38
+38152864,10.1093/molbev/msad285,Mol Biol Evol,Gene Regulatory Network that Shaped the Evolution of Larval Apical Organ in Cnidaria.,2023-09-25,2023-12-21,2023-12-28,3,122
+38152862,10.1093/molbev/msad283,Mol Biol Evol,The Impact of Recent Demography on Functional Genetic Variation in North African Human Gro,2023-05-22,2023-12-19,2023-12-28,6,91
+38149995,10.1093/molbev/msad282,Mol Biol Evol,Inferring Viral Transmission Time from Phylogenies for Known Transmission Pairs.,2023-09-12,2023-12-21,2023-12-27,4,53
+38149460,10.1093/molbev/msad284,Mol Biol Evol,Ascertainment Bias in the Genomic Test of Positive Selection on Regulatory Sequences.,2023-08-06,2023-12-22,2023-12-27,2,34
+38142434,10.1093/molbev/msad280,Mol Biol Evol,Performance of Topology Tests under Extreme Selection Bias.,2023-08-01,2023-12-14,2023-12-24,2,19
+38128148,10.1093/molbev/msad276,Mol Biol Evol,On the Origin and Evolution of the Mosquito Male-determining Factor Nix.,2023-06-22,2023-12-08,2023-12-21,18,62
+38124445,10.1093/molbev/msad278,Mol Biol Evol,Comparative Genome Microsynteny Illuminates the Fast Evolution of Nuclear Mitochondrial Se,2023-07-18,2023-12-12,2023-12-21,9,75
+38124397,10.1093/molbev/msad279,Mol Biol Evol,Methods for Estimating Personal Disease Risk and Phylogenetic Diversity of Hematopoietic S,2023-09-01,2023-12-12,2023-12-21,6,64
+38124381,10.1093/molbev/msad277,Mol Biol Evol,Simulations of Sequence Evolution: How (Un)realistic They Are and Why.,2023-07-14,2023-12-08,2023-12-21,6,54
+38069903,10.1093/molbev/msad270,Mol Biol Evol,"A Fast, Reproducible, High-throughput Variant Calling Workflow for Population Genomics.",2023-06-22,2023-11-22,2023-12-10,9,129
+37987564,10.1093/molbev/msad254,Mol Biol Evol,A Conserved Ribosomal Protein Has Entirely Dissimilar Structures in Different Organisms.,2023-08-07,2023-11-16,2023-11-21,7,81
+41442496,10.1093/molbev/msaf304,Mol Biol Evol,Recombination Suppression Drives Expansion of the Drosophila Dot Chromosome.,2025-08-20,2025-10-30,2025-12-24,32,127
+41406172,10.1093/molbev/msaf312,Mol Biol Evol,Cost of Altered Translation Accuracy Shapes Adaptation to Antibiotics in E. coli.,2025-06-28,2025-10-07,2025-12-17,5,50
+41404844,10.1093/molbev/msaf309,Mol Biol Evol,Evolution of the Tri-PDZ Domain in PSD95 (DLG-4 Gene).,2025-04-13,2025-10-30,2025-12-17,8,49
+41401204,10.1093/molbev/msaf320,Mol Biol Evol,The loss of a supergene in obligately polygynous Formica wood ant species.,2025-06-13,2025-11-03,2025-12-16,10,85
+41392451,10.1093/molbev/msaf292,Mol Biol Evol,Coexisting With Humans: Genomic and Behavioral Consequences in a Small and Isolated Bear P,2025-06-10,2025-10-23,2025-12-15,21,170
+41367310,10.1093/molbev/msaf300,Mol Biol Evol,Abundant Recurrent Mitochondrial Mutations and Widespread Mitonuclear Epistasis in Caenorh,2025-05-05,2025-10-30,2025-12-10,5,131
+41355550,10.1093/molbev/msaf321,Mol Biol Evol,"Sponges, ctenophores, and the statistical significance of syntenies.",2025-06-26,2025-11-12,2025-12-08,1,18
+41340546,10.1093/molbev/msaf318,Mol Biol Evol,Comparing great apes reveals human-specific ZEB2 roles in neural development.,2025-02-21,2025-11-07,2025-12-04,7,46
+41325137,10.1093/molbev/msaf307,Mol Biol Evol,Life Cycle Simplifications in Aphids Drive Changes in Evolutionary Rates and Selection Reg,2025-07-08,2025-10-31,2025-12-01,6,56
+41316864,10.1093/molbev/msaf311,Mol Biol Evol,Unraveling the Prevalence and Multifaceted Roles of Accessory Peptide Deformylases in Bact,2025-06-24,2025-11-03,2025-11-29,8,95
+41315007,10.1093/molbev/msaf315,Mol Biol Evol,Structural Mutations Set an Equilibrium Noncoding Genome Fraction.,2025-04-17,2025-11-13,2025-11-29,5,49
+41311308,10.1093/molbev/msaf301,Mol Biol Evol,Selection Estimation from Genetic Time-Series Data: Effects of Limited Sampling and Geneti,2025-03-26,2025-10-27,2025-11-28,3,80
+41310978,10.1093/molbev/msaf314,Mol Biol Evol,Ancestral Chaperonins Provide the First Structural Glimpse into Early Multimeric Protein E,2025-08-18,2025-11-13,2025-11-28,9,85
+41306061,10.1093/molbev/msaf298,Mol Biol Evol,Whole-Genome Duplication Reshapes Adaptation: Autotetraploid Arabidopsis arenosa Leverages,2025-04-01,2025-10-24,2025-11-27,4,143
+41287599,10.1093/molbev/msaf305,Mol Biol Evol,Quick Analysis of Sedimentary Ancient DNA Using quicksand.,2025-08-03,2025-11-19,2025-11-25,5,62
+41277223,10.1093/molbev/msaf303,Mol Biol Evol,Accelerated Mitochondrial Genome Evolution in Parasitic Barnacles Driven by Adaptive and N,2025-06-30,2025-11-12,2025-11-24,8,80
+41275382,10.1093/molbev/msaf302,Mol Biol Evol,Ancestral Sequence Reconstruction Provides Insights into the Structural Diversification an,2025-05-25,2025-11-03,2025-11-23,7,74
+41275381,10.1093/molbev/msaf282,Mol Biol Evol,Efficient Estimation of Nucleotide Diversity and Divergence Using Callable Loci (and More),2025-04-30,2025-09-17,2025-11-23,4,36
+41272398,10.1093/molbev/msaf297,Mol Biol Evol,Bayesian Model Averaging of Parametric Coalescent Models for Phylodynamic Inference.,2025-02-20,2025-11-12,2025-11-22,4,74
+41272394,10.1093/molbev/msaf299,Mol Biol Evol,Modeling the Evolution of Ultraconserved Elements by Indels.,2025-04-24,2025-10-15,2025-11-22,1,83
+41258824,10.1093/molbev/msaf295,Mol Biol Evol,SAI: A Python Package for Statistics for Adaptive Introgression.,2025-04-22,2025-10-22,2025-11-19,4,46
+41250902,10.1093/molbev/msaf296,Mol Biol Evol,Robust and Efficient Confidence Limits for Phylogenomic Inference of Organismal Relationsh,2025-07-01,2025-11-12,2025-11-18,2,49
+41216938,10.1093/molbev/msaf293,Mol Biol Evol,Genomic Signatures of Selection Across Climate Gradients and a Geographic Mosaic of Coevol,2025-05-28,2025-10-22,2025-11-11,9,177
+40986830,10.1093/molbev/msaf238,Mol Biol Evol,Comprehensive Annotation of Olfactory and Gustatory Receptor Genes and Transposable Elemen,2025-04-14,2025-08-11,2025-09-23,27,166
+41277349,10.1093/molbev/msaf288,Mol Biol Evol,Evolutionary Flexibility of Ribosome Biogenesis in Bacteria.,2025-04-30,2025-10-14,2025-11-24,4,80
+41269752,10.1093/molbev/msaf259,Mol Biol Evol,Chromosomal Curing Drives an Arms Race Between Bacterial Transformation and Prophage.,2024-09-09,2025-09-10,2025-11-21,4,107
+41243841,10.1093/molbev/msaf258,Mol Biol Evol,Human Population Genetic History and Evolutionary Dynamics on the Eastern Tibetan Plateau.,2024-06-29,2025-09-19,2025-11-17,13,65
+41231740,10.1093/molbev/msaf294,Mol Biol Evol,"Pan-Angiosperm Analysis of the CLE Signaling Peptide Gene Family Unveils Paths, Patterns, ",2025-06-04,2025-10-31,2025-11-13,5,78
+41218074,10.1093/molbev/msaf290,Mol Biol Evol,Tandem Duplication of Serpin Genes Yields Functional Variation and Snake Venom Inhibitors.,2025-06-05,2025-10-27,2025-11-11,6,72
+41215585,10.1093/molbev/msaf291,Mol Biol Evol,Mitonuclear Discordance of Beetles Shaped by Incomplete Lineage Sorting and Introgression ,2025-06-10,2025-10-01,2025-11-11,11,116
+41208531,10.1093/molbev/msaf289,Mol Biol Evol,The Core MICOS Complex Subunit mic60 has Been Substituted by Two Cryptic Mitofilin-contain,2025-02-19,2025-10-10,2025-11-10,11,69
+41206698,10.1093/molbev/msaf286,Mol Biol Evol,Seeing in the Deep: Evolution of the Opsin Gene Expression in Bermin Crater Lake Cichlids.,2025-03-19,2025-09-17,2025-11-09,6,121
+41206453,10.1093/molbev/msaf287,Mol Biol Evol,Environment-by-Environment Interactions Differ Across Genetic Backgrounds.,2025-04-09,2025-10-14,2025-11-09,4,90
+41189406,10.1093/molbev/msaf257,Mol Biol Evol,GHIST 2024: The First Genomic History Inference Strategies Tournament.,2025-08-11,2025-10-02,2025-11-05,17,79
+41183488,10.1093/molbev/msaf283,Mol Biol Evol,Identifying Single-Origin Rare Variants in Population Genomic Data.,2025-02-16,2025-10-01,2025-11-04,3,65
+41178335,10.1093/molbev/msaf284,Mol Biol Evol,Genomic Features Underlying the Origin of Sociality and the Diversification of Caste Syste,2025-03-03,2025-10-16,2025-11-03,8,78
+41178256,10.1093/molbev/msaf285,Mol Biol Evol,Stable Hypermutators Revealed by the Genomic Landscape of Genes Involved in Genome Stabili,2025-03-16,2025-10-22,2025-11-03,13,112
+41175012,10.1093/molbev/msaf281,Mol Biol Evol,SARS-CoV-2 Evolution in Humans Enables Its Transmission to Nonhuman Primates.,2025-02-18,2025-10-13,2025-11-01,10,57
+41166554,10.1093/molbev/msaf276,Mol Biol Evol,An Evolutionarily Conserved Laterally Acquired Toolkit Enables Microbiota Targeting by Tri,2025-04-18,2025-09-26,2025-10-30,9,112
+41159561,10.1093/molbev/msaf273,Mol Biol Evol,Evolution of the Plant-Associated Pantoea was Accompanied by Plasmid Domestication Events.,2025-07-18,2025-10-10,2025-10-29,6,104
+41152006,10.1093/molbev/msaf279,Mol Biol Evol,Classifying Convergences in the Light of Horizontal Gene Transfer: Epaktovars and Xenotype,2025-04-22,2025-09-10,2025-10-29,1,55
+41150655,10.1093/molbev/msaf277,Mol Biol Evol,DIVERGE v4: A Platform for Large-Scale Analysis of Functional Divergence Across Multi-Gene,2025-06-06,2025-10-07,2025-10-28,10,48
+41147188,10.1093/molbev/msaf274,Mol Biol Evol,Convergent Evolution and Host-Limiting Impacts of SARS-CoV-2 Revealed by Cellular Experime,2025-01-19,2025-10-13,2025-10-28,10,96
+41140120,10.1093/molbev/msaf275,Mol Biol Evol,Fast and Memory-Efficient Dynamic Programming Approach for Large-Scale EHH-Based Selection,2025-04-10,2025-10-10,2025-10-27,3,40
+41137462,10.1093/molbev/msaf270,Mol Biol Evol,Parallel Evolution of X Chromosome-Specific Structural Maintenance of Chromosomes Complexe,2025-05-09,2025-10-06,2025-10-25,4,136
+41134708,10.1093/molbev/msaf271,Mol Biol Evol,Imprinting and DNA Methylation in Water Lily Endosperm: Implications for Seed Evolution.,2024-10-03,2025-09-08,2025-10-24,4,69
+41134688,10.1093/molbev/msaf272,Mol Biol Evol,Highly Recurrent Multinucleotide Mutations in SARS-CoV-2.,2025-07-16,2025-10-10,2025-10-24,5,71
+41129684,10.1093/molbev/msaf269,Mol Biol Evol,Timing and Pattern of Early Diversification in Drosophilidae (Diptera).,2025-04-12,2025-10-10,2025-10-23,5,91
+41129273,10.1093/molbev/msaf260,Mol Biol Evol,Accurate and Efficient Phylogenetic Inference through End-To-End Deep Learning.,2025-01-24,2025-09-05,2025-10-23,5,60
+41102527,10.1093/molbev/msaf262,Mol Biol Evol,Evolution of Large Polymorphic Inversions in a Panmictic Songbird.,2025-03-04,2025-10-10,2025-10-17,10,62
+41099138,10.1093/molbev/msaf264,Mol Biol Evol,Unraveling Epistatic Interactions Between Sites Under Drug-Dependent Selection in the Myco,2025-01-17,2025-09-29,2025-10-16,6,125
+41094714,10.1093/molbev/msaf266,Mol Biol Evol,Accumulation of a Biparentally Inherited Neptune Transposable Element in Natural Killifish,2025-05-20,2025-10-08,2025-10-16,4,51
+41092484,10.1093/molbev/msaf263,Mol Biol Evol,SMTdb: A Comprehensive Spatial Meta-Transcriptome Resource in Cancer.,2025-03-25,2025-09-08,2025-10-15,12,46
+41092453,10.1093/molbev/msaf267,Mol Biol Evol,Widespread Variation in EDNRB2 Is Associated With Diverse Melanin Loss Phenotypes Across A,2025-06-13,2025-10-07,2025-10-15,2,95
+41092232,10.1093/molbev/msaf261,Mol Biol Evol,Enriched Long-Read Sequencing of Co-circulating Viruses in Complex Samples.,2025-02-11,2025-09-05,2025-10-15,7,53
+41077914,10.1093/molbev/msaf255,Mol Biol Evol,A Novel Supergene Controls Queen Size and Colony Social Organization in the Ant Myrmica ru,2025-06-09,2025-09-24,2025-10-13,6,71
+41056469,10.1093/molbev/msaf253,Mol Biol Evol,Navigating Sampling Bias in Discrete Phylogeographic Analysis: Assessing the Performance o,2025-04-25,2025-09-15,2025-10-07,5,39
+41056465,10.1093/molbev/msaf254,Mol Biol Evol,The Genomic Imprint of Chromosomal Inversions and Demographic History in Island Population,2025-05-14,2025-09-24,2025-10-07,4,119
+41032677,10.1093/molbev/msaf248,Mol Biol Evol,Examination of Germline and Somatic Intercellular Bridges in Hydra vulgaris Reveals Insigh,2025-02-07,2025-09-18,2025-10-01,8,64
+41004395,10.1093/molbev/msaf246,Mol Biol Evol,Spread of a Single Superclone Drives Insecticide Resistance in Acyrthosiphon kondoi Across,2024-12-20,2025-08-26,2025-09-26,17,123
+40994024,10.1093/molbev/msaf236,Mol Biol Evol,"Accessible, Realistic Genome Simulation with Selection Using stdpopsim.",2025-03-23,2025-08-18,2025-09-25,31,109
+40985261,10.1093/molbev/msaf228,Mol Biol Evol,Evolution of SL-RNA Genes and Their Splicing Targets in Parasitic Flatworms.,2024-10-08,2025-08-21,2025-09-23,4,104
+41133746,10.1093/molbev/msaf251,Mol Biol Evol,Genomic Drivers of Pyrethroid Resistance Escalation in the Malaria Vector Anopheles funest,2025-02-12,2025-09-10,2025-10-24,10,87
+41132048,10.1093/molbev/msaf243,Mol Biol Evol,Natural Selection of a Virus-Protective FUT2 Variant Following the Transition to Agricultu,2025-01-30,2025-08-29,2025-10-24,9,58
+41092398,10.1093/molbev/msaf211,Mol Biol Evol,Importance of De Novo Gene Evolution to Emerging Viral Threats: The ORF10 Strain-Restricte,2025-02-09,2025-07-11,2025-10-15,19,142
+41077723,10.1093/molbev/msaf237,Mol Biol Evol,Organism-Specific Sequence Motifs Link Ribosomal RNAs to Brain Disorders.,2025-04-24,2025-08-11,2025-10-13,7,106
+41066626,10.1093/molbev/msaf256,Mol Biol Evol,Functional and Structural Determinants of Long- and Short-Term Evolution of Herpesvirus Pr,2025-01-22,2025-09-15,2025-10-09,7,102
+41065272,10.1093/molbev/msaf218,Mol Biol Evol,Genotype by Environment Interactions in Gene Regulation Underlie the Response to Soil Dryi,2025-05-05,2025-08-05,2025-10-09,4,110
+41065271,10.1093/molbev/msaf219,Mol Biol Evol,Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea,2025-02-27,2025-08-27,2025-10-09,13,110
+41052894,10.1093/molbev/msaf249,Mol Biol Evol,Genomic Insights Into Convergent Evolution: Adaptation to Rocky Habitats in Rock-Inhabitin,2025-01-12,2025-09-08,2025-10-07,7,99
+41052877,10.1093/molbev/msaf250,Mol Biol Evol,Interpreting Supervised Machine Learning Inferences in Population Genomics Using Haplotype,2025-03-24,2025-08-29,2025-10-07,3,38
+41051315,10.1093/molbev/msaf252,Mol Biol Evol,Comprehensive Mutational Landscape of Yeast Mutator Strains Reveals the Genetic Basis of M,2025-04-13,2025-09-18,2025-10-06,3,60
+41047750,10.1093/molbev/msaf225,Mol Biol Evol,"Largest-Scale Genomic Resource Reconstructing the Genetic Origin, Population Structure, an",2025-06-07,2025-08-26,2025-10-06,16,122
+41037509,10.1093/molbev/msaf244,Mol Biol Evol,Rapid Radiations Outweigh Reticulations During the Evolution of a 750-Million-Year-Old Lin,2025-04-27,2025-08-25,2025-10-02,13,160
+41031958,10.1093/molbev/msaf231,Mol Biol Evol,Tandem Gene Clusters as Phylogenetic Anchors Reveal the Hidden History of Vertebrate Visua,2025-01-31,2025-08-20,2025-10-01,3,22
+41024750,10.1093/molbev/msaf241,Mol Biol Evol,High Conservation of Translation-Enabling RNA Editing Sites in Hyper-editing Ferns Implies,2025-01-23,2025-08-29,2025-09-30,6,122
+41001982,10.1093/molbev/msaf247,Mol Biol Evol,Resolving the Stasis-Dynamism Paradox: Genome Evolution in Tree Ferns.,2025-05-29,2025-09-15,2025-09-26,7,112
+40997221,10.1093/molbev/msaf242,Mol Biol Evol,SegMantX: A Novel Tool for Detecting DNA Duplications Uncovers Prevalent Duplications in P,2025-04-01,2025-09-03,2025-09-25,2,60
+40997133,10.1093/molbev/msaf239,Mol Biol Evol,Transposable Element-Mediated Cis-Regulation Drives the Evolution of dmrt1 as a Candidate ,2025-01-06,2025-08-21,2025-09-25,6,93
+40991749,10.1093/molbev/msaf229,Mol Biol Evol,Evolution of Sex-Biased Gene Expression During Transitions to Separate Sexes in the Silene,2024-12-06,2025-08-14,2025-09-24,8,80
+40986664,10.1093/molbev/msaf240,Mol Biol Evol,Evolutionary Refinement of Mitochondrial and Plastid Targeting Sequences Coincides with th,2025-03-17,2025-07-25,2025-09-23,4,118
+40977500,10.1093/molbev/msaf235,Mol Biol Evol,From Rabl-like Architecture to Chromosome Territories: A Conserved Developmental Transitio,2025-04-08,2025-09-03,2025-09-22,1,56
+40977497,10.1093/molbev/msaf233,Mol Biol Evol,Wide Diversity and Complex Evolution of M42 Aminopeptidases With Contrasted Functional Pro,2025-06-17,2025-08-29,2025-09-22,7,71
+40974098,10.1093/molbev/msaf230,Mol Biol Evol,Multiomic Analyses Reveal the Molecular Mechanisms of Arid Adaptation in a Desert Rodent S,2024-12-30,2025-07-28,2025-09-20,11,92
+40974095,10.1093/molbev/msaf227,Mol Biol Evol,Seasonal Influenza Viruses Show Distinct Adaptive Dynamics During Growth in Chicken Eggs.,2025-06-25,2025-09-10,2025-09-20,2,52
+40974070,10.1093/molbev/msaf232,Mol Biol Evol,Functional Determinants and Evolutionary Consequences of Pleiotropy in Complex and Mendeli,2024-11-25,2025-08-14,2025-09-20,5,51
+40973465,10.1093/molbev/msaf234,Mol Biol Evol,Chromosome-Level Genome Assembly of Eden's Whale Clarifies the Taxonomy and Speciation of ,2025-06-29,2025-09-03,2025-09-20,8,59
+40972559,10.1093/molbev/msaf215,Mol Biol Evol,From Binding to Catalysis: Emergence of a Rudimentary Enzyme Conferring Intrinsic Antibiot,2025-01-27,2025-07-21,2025-09-20,9,90
+40972546,10.1093/molbev/msaf226,Mol Biol Evol,Deciphering the Impact of Temperature on Pleiotropic Consequences of RNA Polymerase Mutati,2025-04-17,2025-09-05,2025-09-20,6,64
+40971735,10.1093/molbev/msaf224,Mol Biol Evol,MyESL: A Software for Evolutionary Sparse Learning in Molecular Phylogenetics and Genomics,2025-04-21,2025-09-04,2025-09-19,7,19
+40971512,10.1093/molbev/msaf223,Mol Biol Evol,eccDNABase: A Comprehensive and High-Quality Database for Extrachromosomal Circular DNA.,2025-02-22,2025-08-20,2025-09-19,9,46
+40966593,10.1093/molbev/msaf220,Mol Biol Evol,Arthropod Pax Gene Evolution: A Role for Vanessa Cardui Twin of Eyeless in Eye Development,2025-04-11,2025-08-29,2025-09-18,2,119
+40966588,10.1093/molbev/msaf222,Mol Biol Evol,Introducing the Y-chromosomal Ancestral-like Reference Sequence-Improving the Capture of H,2025-04-30,2025-08-29,2025-09-18,4,44
+40966545,10.1093/molbev/msaf221,Mol Biol Evol,Large-scale Genome Analyses Provide Insights into Hymenoptera Evolution.,2025-03-07,2025-08-20,2025-09-18,18,116
+40929366,10.1093/molbev/msaf217,Mol Biol Evol,Distinct Evolutionary Signatures of Human Parainfluenza Viruses 2 and 4 Reveal Host Antago,2025-04-28,2025-08-14,2025-09-10,2,54
+40926692,10.1093/molbev/msaf216,Mol Biol Evol,Detecting Introgression in Shallow Phylogenies: How Minor Molecular Clock Deviations Lead ,2025-03-26,2025-08-04,2025-09-10,3,45
+40794780,10.1093/molbev/msaf194,Mol Biol Evol,Flexibility in Gene Coexpression at Developmental and Evolutionary Timescales.,2024-12-11,2025-07-07,2025-08-12,4,83
+40995967,10.1093/molbev/msaf158,Mol Biol Evol,Spectral Tuning in Mammalian Melanopsins.,2025-04-25,2025-06-26,2025-09-25,4,61
+40995642,10.1093/molbev/msaf214,Mol Biol Evol,"Ancient Genomics Reveals the Origin, Dispersal, and Human Management of East Asian Domesti",2025-05-29,2025-08-21,2025-09-25,39,86
+40973052,10.1093/molbev/msaf212,Mol Biol Evol,Tales of a Super Butterfly: Is Vanessa carye a Truly Migrant Species? Unraveling Migration,2024-10-18,2025-07-31,2025-09-20,7,100
+40919653,10.1093/molbev/msaf210,Mol Biol Evol,No Evidence of Sexually Antagonistic Coevolution in Drosophila Reproductive Tract Transcri,2025-05-07,2025-08-18,2025-09-08,4,63
+40907986,10.1093/molbev/msaf189,Mol Biol Evol,A General Principle of Neuronal Evolution Reveals a Human-Accelerated Neuron Type Potentia,2025-04-29,2025-07-21,2025-09-05,2,112
+40905948,10.1093/molbev/msaf213,Mol Biol Evol,Redundant and Singular Regulatory Elements Underlie the Rapidly Evolving Pigmentation of D,2025-05-05,2025-08-21,2025-09-04,9,80
+40888461,10.1093/molbev/msaf198,Mol Biol Evol,Generalist Malaria Parasites and Host Imprinting: Unveiling Transcriptional Memory.,2025-05-15,2025-07-21,2025-09-01,6,62
+40884829,10.1093/molbev/msaf209,Mol Biol Evol,A Balanced Inversion Polymorphism Exhibits a Dominance Reversal at the Gene Expression Lev,2024-12-18,2025-08-14,2025-08-30,5,220
+40884200,10.1093/molbev/msaf208,Mol Biol Evol,Influence of Gonadal and Chromosomal Sex on the Brain Transcriptome in a Mouse Species wit,2024-07-31,2025-07-21,2025-08-30,5,84
+40856172,10.1093/molbev/msaf202,Mol Biol Evol,Bone Adhered Sediments as a Source of Target and Environmental DNA and Proteins.,2025-02-24,2025-07-31,2025-08-26,12,130
+40829798,10.1093/molbev/msaf206,Mol Biol Evol,How Did Evolution Halve Genome Size During an Oceanic Island Colonization?,2025-04-24,2025-07-31,2025-08-20,10,121
+40828965,10.1093/molbev/msaf205,Mol Biol Evol,Global Pangenome Analysis Highlights the Critical Role of Structural Variants in Cattle Im,2025-03-06,2025-07-31,2025-08-19,17,103
+40828888,10.1093/molbev/msaf204,Mol Biol Evol,Rapid Divergence of Visual Systems and Signaling Traits to Contrasting Light Regimes Durin,2024-11-04,2025-07-14,2025-08-19,15,111
+40827364,10.1093/molbev/msaf203,Mol Biol Evol,The Evolutionary History and Modern Diversity of Triterpenoid Cyclases.,2024-11-17,2025-08-14,2025-08-19,5,155
+40796352,10.1093/molbev/msaf200,Mol Biol Evol,"Recombination, Truncation and Horizontal Transfer Shape the Diversity of Wolbachia-induced",2025-01-07,2025-06-11,2025-08-13,12,61
+40796349,10.1093/molbev/msaf201,Mol Biol Evol,Phylogenomic Analyses Reveal that Panguiarchaeum Is a Clade of Genome-Reduced Asgard Archa,2025-05-22,2025-07-21,2025-08-13,9,138
+40796178,10.1093/molbev/msaf197,Mol Biol Evol,Reduced Amino Acid Substitution Matrices Find Traces of Ancient Coding Alphabets in Modern,2025-02-19,2025-07-31,2025-08-13,4,104
+40795243,10.1093/molbev/msaf187,Mol Biol Evol,Similar Genetic Routes Are Independently Targeted for Mimetic Color Convergence in Bumble ,2025-05-16,2025-07-21,2025-08-12,8,109
+40795034,10.1093/molbev/msaf190,Mol Biol Evol,The Length of Haplotype Blocks and Signals of Structural Variation in Reconstructed Geneal,2025-02-04,2025-07-07,2025-08-12,5,66
+40644399,10.1093/molbev/msaf167,Mol Biol Evol,Molecular Phylogeny of the SELMA Translocation Machinery Recounts the Evolution of Complex,2024-11-04,2025-06-30,2025-07-11,4,109
+40614170,10.1093/molbev/msaf164,Mol Biol Evol,Odorant Receptors Mediating Avoidance of Toxic Mustard Oils in Drosophila melanogaster Are,2024-10-08,2025-06-20,2025-07-04,10,88
+40852875,10.1093/molbev/msaf185,Mol Biol Evol,Convergent Evolution in Amblyopsid Cavefishes and the Age of Eastern North American Subter,2025-01-22,2025-07-15,2025-08-28,7,132
+40827705,10.1093/molbev/msaf174,Mol Biol Evol,The Importance of Regulatory Network Structure for Complex Trait Heritability and Evolutio,2024-09-10,2025-06-27,2025-08-19,4,70
+40824865,10.1093/molbev/msaf132,Mol Biol Evol,Footprints of Worldwide Adaptation in Structured Populations of Drosophila melanogaster Th,2024-11-13,2025-05-14,2025-08-18,101,173
+40823878,10.1093/molbev/msaf184,Mol Biol Evol,The Impact of Sequencing and Genotyping Errors on Bayesian Analysis of Genomic Data under ,2025-03-25,2025-06-26,2025-08-18,4,47
+40812782,10.1093/molbev/msaf188,Mol Biol Evol,Metabolomics-Guided Genomic Comparisons Reveal Convergent Evolution of Hibernation Genes i,2025-03-27,2025-07-09,2025-08-14,9,109
+40796194,10.1093/molbev/msaf199,Mol Biol Evol,Infinite Mixture Models for Improved Modeling of Across-Site Evolutionary Variation.,2024-10-27,2025-07-31,2025-08-13,4,113
+40795242,10.1093/molbev/msaf193,Mol Biol Evol,Mutations Elevate an Underground Pathway to a Physiologically Relevant Protopathway.,2025-04-25,2025-07-28,2025-08-12,4,60
+40795193,10.1093/molbev/msaf133,Mol Biol Evol,Revealing Reassortment in Influenza A Viruses with TreeSort.,2025-01-07,2025-05-12,2025-08-12,4,58
+40795059,10.1093/molbev/msaf196,Mol Biol Evol,Tracing the Genetic Heritage of the Kirgiz People: Dual-Wave Admixture and Ancestry-Biased,2025-04-03,2025-07-28,2025-08-12,9,84
+40795033,10.1093/molbev/msaf181,Mol Biol Evol,Selection Maintains Photosynthesis in a Symbiotic Cyanobacterium Despite Redundancy With i,2025-03-04,2025-06-24,2025-08-12,6,113
+40794765,10.1093/molbev/msaf192,Mol Biol Evol,Impact of Natural Transformation on the Acquisition of Novel Genes in Bacteria.,2025-01-27,2025-07-03,2025-08-12,4,80
+40794720,10.1093/molbev/msaf195,Mol Biol Evol,Polyploid Formation Through Disrupting Mitotic Sister Chromatid Separation of Spermatogoni,2025-01-26,2025-06-30,2025-08-12,14,95
+40794593,10.1093/molbev/msaf186,Mol Biol Evol,A Sitewise Model of Natural Selection on Individual Antibodies via a Transformer-Encoder.,2024-12-27,2025-07-09,2025-08-12,10,69
+40760966,10.1093/molbev/msaf191,Mol Biol Evol,Copy Number Variation Shapes Structural Genomic Diversity Associated With Ecological Adapt,2024-10-23,2025-06-24,2025-08-05,4,112
+40758847,10.1093/molbev/msaf183,Mol Biol Evol,GnT Motifs Can Increase T:A→G:C Mutation Rates Over 1000-fold in Bacteria.,2025-02-14,2025-07-14,2025-08-04,4,40
+40729517,10.1093/molbev/msaf182,Mol Biol Evol,Antimutator and Mutational Spectrum Effects Can Combine to Reduce Evolutionary Potential i,2025-01-27,2025-06-25,2025-07-29,12,143
+40729511,10.1093/molbev/msaf179,Mol Biol Evol,Convergent Molecular Evolution Associated With Repeated Transitions to Gregarious Larval B,2025-02-03,2025-07-02,2025-07-29,5,95
+40729508,10.1093/molbev/msaf178,Mol Biol Evol,Sex-Biased Gene Expression Under Sexually Antagonistic and Sex-Limited Selection.,2024-12-05,2025-06-26,2025-07-29,5,87
+40721218,10.1093/molbev/msaf180,Mol Biol Evol,"Accurate, Scalable Structural Variant Genotyping in Complex Genomes at Population Scales.",2025-02-14,2025-07-04,2025-07-29,12,107
+40713898,10.1093/molbev/msaf177,Mol Biol Evol,An Extension of Muller's Sheltering Hypothesis for the Evolution of Sex Chromosome Gene Co,2025-04-25,2025-07-14,2025-07-28,3,122
+40712095,10.1093/molbev/msaf176,Mol Biol Evol,Repressive Cytosine Methylation is a Marker of Viral Gene Transfer Across Divergent Eukary,2025-02-20,2025-07-14,2025-07-25,5,105
+40709436,10.1093/molbev/msaf175,Mol Biol Evol,A Splicing Mutation in mitfa is Involved in the Depigmentation of Cavefish Triplophysa ros,2025-01-08,2025-07-21,2025-07-25,7,80
+40701836,10.1093/molbev/msaf153,Mol Biol Evol,Multiple Autopolyploid Arabidopsis lyrata Populations Stabilized by Long-Range Adaptive In,2024-09-25,2025-06-06,2025-07-24,12,134
+40696990,10.1093/molbev/msaf162,Mol Biol Evol,Genomic Patterns of Loss of Distyly and Polyploidization in Primroses.,2024-11-22,2025-06-24,2025-07-23,10,117
+40682487,10.1093/molbev/msaf170,Mol Biol Evol,The Genomic Basis of the Tristylous Floral Polymorphism: Evidence for a Role of Gene Dupli,2025-05-04,2025-06-23,2025-07-20,4,105
+40668947,10.1093/molbev/msaf172,Mol Biol Evol,ASTER: A Package for Large-Scale Phylogenomic Reconstructions.,2025-02-28,2025-07-09,2025-07-16,3,19
+40614173,10.1093/molbev/msaf165,Mol Biol Evol,Somatic Evolution of Stem Cell Mutations in Long-Lived Plants.,2025-01-20,2025-06-24,2025-07-04,1,61
+40609045,10.1093/molbev/msaf161,Mol Biol Evol,Host-Specific Adaptation of Legionella pneumophila to Single and Multiple Hosts.,2024-11-20,2025-06-24,2025-07-03,7,69
+40717244,10.1093/molbev/msaf166,Mol Biol Evol,Horizontal Gene Transfer Inference: Gene Presence-Absence Outperforms Gene Trees.,2025-02-11,2025-06-23,2025-07-28,2,33
+40689857,10.1093/molbev/msaf110,Mol Biol Evol,Dynamics of Deleterious Mutations and Purifying Selection in Small Population Isolates.,2024-10-22,2025-05-05,2025-07-21,6,88
+40658797,10.1093/molbev/msaf159,Mol Biol Evol,A Trade-Off between Body Mass and Cancer Resistance in Cetaceans Is Mediated by Cell Cycle,2025-01-25,2025-05-02,2025-07-14,6,66
+40644385,10.1093/molbev/msaf169,Mol Biol Evol,"Integrative Genomic, Transcriptomic and Epigenomic Analysis Reveals cis-regulatory Contrib",2025-02-13,2025-07-02,2025-07-11,10,106
+40643015,10.1093/molbev/msaf150,Mol Biol Evol,PHACE: Phylogeny-Aware Detection of Molecular Coevolution.,2024-11-20,2025-06-04,2025-07-11,2,32
+40635662,10.1093/molbev/msaf171,Mol Biol Evol,Phylogenomics Unveils the Complex Evolution of Retroviruses in Birds.,2025-03-01,2025-07-07,2025-07-10,4,67
+40629843,10.1093/molbev/msaf099,Mol Biol Evol,Expression Divergence in Response to Sex-biased Selection.,2024-11-11,2025-04-09,2025-07-09,8,54
+40629524,10.1093/molbev/msaf168,Mol Biol Evol,Compensatory Evolution Following Deleterious Episodes of GC-biased Gene Conversion in Rode,2024-12-13,2025-06-20,2025-07-09,3,94
+40627728,10.1093/molbev/msaf163,Mol Biol Evol,Host-Associated Genetic Differentiation in the Face of Ongoing Gene Flow: Ecological Speci,2025-03-14,2025-07-02,2025-07-08,4,100
+40609046,10.1093/molbev/msaf160,Mol Biol Evol,Genome-wide Parallelism Underlies Rapid Freshwater Adaptation Fueled by Standing Genetic V,2024-09-24,2025-06-27,2025-07-03,7,91
+40590309,10.1093/molbev/msaf157,Mol Biol Evol,Divergence of Leptin Receptor and Interleukin-6 Receptor Subunit b in Early Vertebrate Evo,2025-02-04,2025-06-20,2025-07-01,8,70
+40590308,10.1093/molbev/msaf156,Mol Biol Evol,Nested Admixture During and After the Trans-Atlantic Slave Trade on the Island of São Tomé,2024-11-22,2025-06-20,2025-07-01,10,74
+40587487,10.1093/molbev/msaf154,Mol Biol Evol,Detecting Interspecific Positive Selection Using Convolutional Neural Networks.,2024-11-26,2025-06-12,2025-07-01,7,87
+40580945,10.1093/molbev/msaf149,Mol Biol Evol,Newly Developed Structure-Based Methods Do Not Outperform Standard Sequence-Based Methods ,2024-12-20,2025-05-29,2025-07-01,3,24
+40580934,10.1093/molbev/msaf152,Mol Biol Evol,Comparative Analysis of Mammalian Adaptive Immune Loci Revealed Spectacular Divergence and,2025-04-07,2025-06-17,2025-07-01,8,64
+40554634,10.1093/molbev/msaf151,Mol Biol Evol,Extensive Recombination Suppression and Genetic Degeneration of a Young ZW Sex Chromosome ,2025-01-20,2025-06-17,2025-06-24,5,136
+40521715,10.1093/molbev/msaf142,Mol Biol Evol,The Heterogametic Transition in European Bufo Toads Switches the Sex Linkage of Key Verteb,2025-03-12,2025-06-03,2025-06-16,7,24
+40488307,10.1093/molbev/msaf147,Mol Biol Evol,Widespread Genetic Signals of Visual System Adaptation in Deepwater Cichlid Fishes.,2025-01-31,2025-05-28,2025-06-09,7,105
+40479505,10.1093/molbev/msaf143,Mol Biol Evol,Spatiotemporal Tracking of Three Novel Transposable Element Invasions in Drosophila melano,2025-02-03,2025-05-16,2025-06-06,5,88
+40476758,10.1093/molbev/msaf145,Mol Biol Evol,Connectivity and Adaptation Patterns of the Deep-Sea Ground-Forming Sponge Geodia hentsche,2025-02-06,2025-05-21,2025-06-06,16,165
+40476605,10.1093/molbev/msaf137,Mol Biol Evol,Pervasive Divergence in Protein Thermostability is Mediated by Both Structural Changes and,2024-12-19,2025-06-02,2025-06-06,9,95
+40415256,10.1093/molbev/msaf116,Mol Biol Evol,Evolutionary Genomics Unravels the Responses and Adaptation to Climate Change in a Key Alp,2024-10-02,2025-05-02,2025-05-26,10,119
+40575924,10.1093/molbev/msaf121,Mol Biol Evol,"Inference of Gene Flow between Species from Genomic Data When the Mode, Direction, and Lin",2025-02-16,2025-05-14,2025-06-27,4,59
+40552781,10.1093/molbev/msaf144,Mol Biol Evol,Genetic and Environmental Factors Shape Rates of Plasticity: The Temporal Dynamics of Opsi,2025-03-19,2025-06-04,2025-06-24,2,78
+40542537,10.1093/molbev/msaf138,Mol Biol Evol,Origin and Evolution of Bacterial Periplasmic Force Transducers.,2025-01-20,2025-06-02,2025-06-21,6,95
+40542536,10.1093/molbev/msaf123,Mol Biol Evol,Sex-biased Migration and Demographic History of the Big European Firefly Lampyris noctiluc,2024-04-10,2025-02-10,2025-06-21,6,80
+40536410,10.1093/molbev/msaf141,Mol Biol Evol,Sweeps in Space: Leveraging Geographic Data to Identify Beneficial Alleles in Anopheles ga,2025-02-10,2025-05-05,2025-06-19,4,80
+40493494,10.1093/molbev/msaf146,Mol Biol Evol,High Gene Expression Predicts Extremely Low Segregation of Deleterious Mutations in Large ,2024-07-03,2025-05-14,2025-06-10,12,47
+40492874,10.1093/molbev/msaf126,Mol Biol Evol,Quantifying the Evolution of SNPs That Affect RNA Secondary Structure in Arabidopsis thali,2024-09-27,2025-05-21,2025-06-10,3,87
+40489355,10.1093/molbev/msaf148,Mol Biol Evol,Structural Changes in Gene Ontology Reveal Modular and Complex Representations of Biologic,2025-02-13,2025-05-28,2025-06-09,8,46
+40488574,10.1093/molbev/msaf109,Mol Biol Evol,A Critical Reexamination of Recovered SARS-CoV-2 Sequencing Data.,2024-02-23,2025-01-07,2025-06-09,2,50
+40488365,10.1093/molbev/msaf118,Mol Biol Evol,The Data are Insufficient to Confidently Root the SARS-CoV-2 Phylogenetic Tree.,2025-02-27,2025-05-20,2025-06-09,1,37
+40485081,10.1093/molbev/msaf120,Mol Biol Evol,Feature Architecture-Aware Ortholog Search With fDOG Reveals the Distribution of Plant Cel,2024-11-25,2025-04-11,2025-06-09,7,120
+40484714,10.1093/molbev/msaf113,Mol Biol Evol,Changes in Evolutionary Developmental Control Points in the Amniote Limb May Explain Hyper,2025-01-27,2025-05-07,2025-06-09,8,97
+40478208,10.1093/molbev/msaf115,Mol Biol Evol,Tripartite Loops Reverse Antibiotic Resistance.,2025-01-28,2025-05-04,2025-06-06,2,86
+40476664,10.1093/molbev/msaf140,Mol Biol Evol,Genome Structural Variants Shape Adaptive Success of an Invasive Urban Malaria Vector Anop,2024-08-28,2025-04-01,2025-06-06,5,102
+40476610,10.1093/molbev/msaf124,Mol Biol Evol,A General Substitution Matrix for Structural Phylogenetics.,2024-09-16,2025-04-09,2025-06-06,2,56
+40474618,10.1093/molbev/msaf101,Mol Biol Evol,MEGA-GPT: Artificial Intelligence Guidance and Building Analytical Protocols Using MEGA So,2025-03-17,2025-04-17,2025-06-06,2,29
+40465848,10.1093/molbev/msaf139,Mol Biol Evol,Genetic Formation of Neolithic Hongshan People and Demic Expansion of Hongshan Culture Inf,2025-02-18,2025-05-19,2025-06-04,21,55
+40465846,10.1093/molbev/msaf135,Mol Biol Evol,Impact of the Zinc Antiviral Protein on the Genomic Composition of RNA Viruses Infecting V,2024-12-04,2025-05-07,2025-06-04,7,26
+40465845,10.1093/molbev/msaf136,Mol Biol Evol,Exploring Large Protein Sequence Space through Homology- and Representation-based Hierarch,2024-11-25,2025-05-28,2025-06-04,5,91
+40458956,10.1093/molbev/msaf130,Mol Biol Evol,Bayesian Phylodynamic Inference of Multitype Population Trajectories Using Genomic Data.,2024-11-26,2025-05-12,2025-06-03,2,46
+40458044,10.1093/molbev/msaf127,Mol Biol Evol,Deciphering the Code of Viral-Host Adaptation Through Maximum-Entropy Nucleotide Bias Mode,2024-02-29,2025-04-18,2025-06-03,5,77
+40452442,10.1093/molbev/msaf131,Mol Biol Evol,Rates of Evolution of Developmental Changes in Gene Expression in Sordariomycetes.,2024-12-10,2025-05-02,2025-06-02,7,67
+40452436,10.1093/molbev/msaf128,Mol Biol Evol,"HGTs are not SPRs: In the Presence of Ghost Lineages, Series of Horizontal Gene Transfers ",2024-10-03,2025-05-02,2025-06-02,4,38
+40452216,10.1093/molbev/msaf129,Mol Biol Evol,Shikimate Kinase-Like 1 Participates in an Ancient and Conserved Role Contributing to Chlo,2024-10-09,2025-05-02,2025-06-02,4,82
+40442955,10.1093/molbev/msaf125,Mol Biol Evol,Accelerated Pseudogenization in the Ancient Endosymbionts of Giant Scale Insects.,2024-11-25,2025-05-05,2025-05-30,6,74
+40418736,10.1093/molbev/msaf117,Mol Biol Evol,ShiNyP: Unlocking SNP-Based Population Genetics-AI-Assisted Platform for Rapid and Interac,2024-11-21,2025-05-14,2025-05-26,5,54
+40418732,10.1093/molbev/msaf119,Mol Biol Evol,Accounting for Chimerism in Demographic Inference: Reconstructing the History of Common Ma,2025-02-11,2025-05-08,2025-05-26,5,120
+40417952,10.1093/molbev/msaf111,Mol Biol Evol,Relaxed Purifying Selection is Associated with an Accumulation of Transposable Elements in,2024-06-15,2025-05-07,2025-05-26,4,100
+40411446,10.1093/molbev/msaf114,Mol Biol Evol,GBRAP: A Comprehensive Database and Tool for Exploring Genomic Diversity Across All Domain,2024-11-07,2025-05-19,2025-05-25,7,16
+40411443,10.1093/molbev/msaf112,Mol Biol Evol,The Fire Ant Social Chromosome Exerts a Major Influence on Genome Regulation.,2025-03-17,2025-05-02,2025-05-25,8,91
+40423579,10.1093/molbev/msaf106,Mol Biol Evol,Quantifying Transcriptome Turnover on Phylogenies by Modeling Gene Expression as a Binary ,2024-10-15,2025-04-09,2025-05-27,9,119
+40423578,10.1093/molbev/msaf090,Mol Biol Evol,When the Past Fades: Detecting Phylogenetic Signal with SatuTe.,2024-09-16,2025-03-26,2025-05-27,6,52
+40415200,10.1093/molbev/msaf105,Mol Biol Evol,Nonhypermutator Cancers Access Driver Mutations Through Reversals in Germline Mutational B,2025-01-07,2025-04-09,2025-05-26,5,57
+40378191,10.1093/molbev/msaf107,Mol Biol Evol,Multiple Horizontal Transfers of Immune Genes Between Distantly Related Teleost Fishes.,2024-12-17,2025-05-02,2025-05-16,4,181
+40341942,10.1093/molbev/msaf094,Mol Biol Evol,Efficient Detection and Characterization of Targets of Natural Selection Using Transfer Le,2024-11-04,2025-04-17,2025-05-09,4,194
+40341936,10.1093/molbev/msaf104,Mol Biol Evol,How the Structure of Signaling Regulation Evolves: Insights From an Evolutionary Model.,2024-10-23,2025-04-23,2025-05-09,2,47
+40341377,10.1093/molbev/msaf103,Mol Biol Evol,Divergent Cardiovascular Adaptations and Gene Regulation in High-Elevation Natives and Rec,2024-10-09,2025-04-09,2025-05-09,6,64
+40331240,10.1093/molbev/msaf100,Mol Biol Evol,Comparative Phylogenetics Reveal Clade-specific Drivers of Recombination Rate Evolution Ac,2024-06-28,2025-04-11,2025-05-07,6,166
+40327587,10.1093/molbev/msaf102,Mol Biol Evol,"Where Did the Y Chromosome in the Spiny Rat Go, and How Did It Get There?",2024-12-19,2025-04-23,2025-05-06,9,60
+40279537,10.1093/molbev/msaf095,Mol Biol Evol,Redistribution of Ancestral Functions Underlies the Evolution of Venom Production in Marin,2024-11-22,2025-04-17,2025-04-25,7,64
+40279373,10.1093/molbev/msaf097,Mol Biol Evol,Transposable Elements Drive Regulatory and Functional Innovation of F-box Genes.,2024-12-18,2025-04-03,2025-04-25,11,139
+40277230,10.1093/molbev/msaf096,Mol Biol Evol,Evolutionary and Functional Analysis of Caspase-8 and ASC Interactions to Drive Lytic Cell,2024-12-09,2025-04-15,2025-04-25,7,106
+40271996,10.1093/molbev/msaf093,Mol Biol Evol,The Demographic History of Populations and Genomic Imprinting have Shaped the Transposon P,2024-08-13,2025-03-31,2025-04-24,9,66
+40247662,10.1093/molbev/msaf092,Mol Biol Evol,Genetic Differentiation is Constrained to Chromosomal Inversions and Putative Centromeres ,2024-11-07,2025-04-04,2025-04-18,5,96
+40247660,10.1093/molbev/msaf089,Mol Biol Evol,ERCnet: Phylogenomic Prediction of Interaction Networks in the Presence of Gene Duplicatio,2024-12-19,2025-03-26,2025-04-18,10,52
+40235155,10.1093/molbev/msaf088,Mol Biol Evol,Pan-Genome Analysis Reveals Local Adaptation to Climate Driven by Introgression in Oak Spe,2024-11-13,2025-04-02,2025-04-16,18,159
+40202086,10.1093/molbev/msaf085,Mol Biol Evol,Chromatin Landscape Is Associated With Sex-Biased Expression and Drosophila-Like Dosage Co,2024-10-13,2025-02-25,2025-04-09,3,63
+40200803,10.1093/molbev/msaf086,Mol Biol Evol,Ectopic Gene Conversion Causing Quantitative Trait Variation.,2025-02-14,2025-03-26,2025-04-09,4,55
+40181585,10.1093/molbev/msaf081,Mol Biol Evol,Functional Characterization of Luciferase in a Brittle Star Indicates Parallel Evolution I,2024-10-25,2025-03-07,2025-04-04,15,51
+40256930,10.1093/molbev/msaf083,Mol Biol Evol,Incorporating Epidemiological Data into the Genomic Analysis of Partially Sampled Infectio,2024-10-16,2025-03-31,2025-04-21,4,62
+40235149,10.1093/molbev/msaf091,Mol Biol Evol,Sex-Biased Admixture Followed by Isolation and Adaptive Evolution Shaped the Genomic and B,2024-05-30,2025-04-01,2025-04-16,7,84
+40203289,10.1093/molbev/msaf084,Mol Biol Evol,Robustness of Ancestral Sequence Reconstruction to Among-site and Among-lineage Evolutiona,2024-12-20,2025-03-31,2025-04-09,3,77
+40202893,10.1093/molbev/msaf065,Mol Biol Evol,A Million Years of Mammoth Mitogenome Evolution.,2024-10-24,2025-03-07,2025-04-09,28,49
+40189939,10.1093/molbev/msaf082,Mol Biol Evol,Unequally Abundant Chromosomes and Unusual Collections of Transferred Sequences Characteri,2024-10-12,2025-04-01,2025-04-07,13,107
+40178369,10.1093/molbev/msaf079,Mol Biol Evol,Purging of Highly Deleterious Mutations Through an Extreme Bottleneck.,2024-10-23,2025-03-13,2025-04-03,5,84
+40173423,10.1093/molbev/msaf073,Mol Biol Evol,Genomic Divergence Shaped the Genetic Regulation of Meiotic Homologous Recombination in Br,2024-12-21,2025-03-06,2025-04-02,9,143
+40172935,10.1093/molbev/msaf078,Mol Biol Evol,Gene-by-environment Interactions and Adaptive Body Size Variation in Mice From the America,2024-10-04,2025-03-21,2025-04-02,8,160
+40172919,10.1093/molbev/msaf080,Mol Biol Evol,Evolutionary Process Underlying Receptor Gene Expansion and Cellular Divergence of Olfacto,2025-01-02,2025-03-18,2025-04-02,11,91
+40172118,10.1093/molbev/msaf076,Mol Biol Evol,An Alternative Self-Splicing Intron Lifecycle Revealed by Dynamic Intron Turnover in Epich,2024-07-09,2025-03-23,2025-04-02,6,80
+40171940,10.1093/molbev/msaf077,Mol Biol Evol,Reference-Free Variant Calling with Local Graph Construction with ska lo (SKA).,2024-10-01,2025-03-20,2025-04-02,10,45
+40164958,10.1093/molbev/msaf075,Mol Biol Evol,Temporal Patterns of Haplotypic and Allelic Diversity Reflect the Changing Selection Lands,2024-07-23,2025-03-21,2025-04-01,4,84
+40156153,10.1093/molbev/msaf071,Mol Biol Evol,Functional Decline of a Bitter Receptor Gene in New World Vultures.,2024-05-22,2025-03-18,2025-03-29,7,55
+40155202,10.1093/molbev/msaf072,Mol Biol Evol,Evolutionary History of Bilaterian FoxP Genes: Complex Ancestral Functions and Evolutionar,2024-07-09,2025-03-14,2025-03-29,5,141
+40154540,10.1093/molbev/msaf074,Mol Biol Evol,Comprehensive Genomic Analysis Reveals Novel Transposable Element-Derived MicroRNA Regulat,2024-08-11,2025-03-13,2025-03-29,9,79
+40152498,10.1093/molbev/msaf067,Mol Biol Evol,Squirrel: Reconstructing Semi-directed Phylogenetic Level-1 Networks from Four-Leaved Netw,2024-11-07,2025-03-04,2025-03-28,6,61
+40146539,10.1093/molbev/msaf063,Mol Biol Evol,Localized Tissue-Specific Gene Expression and Gene Duplications are Important Sources of S,2024-09-25,2025-03-05,2025-03-27,2,73
+40139916,10.1093/molbev/msaf070,Mol Biol Evol,Reconstruction of Ancestral Protein Sequences Using Autoregressive Generative Models.,2024-09-16,2025-02-14,2025-03-27,3,51
+40138356,10.1093/molbev/msaf062,Mol Biol Evol,Evolution of a Plasmid Regulatory Circuit Ameliorates Plasmid Fitness Cost.,2024-06-13,2025-02-28,2025-03-27,12,99
+40131319,10.1093/molbev/msaf069,Mol Biol Evol,Estimates of the Mutation Rate per Year Can Explain Why the Molecular Clock Depends on Gen,2024-10-31,2025-03-19,2025-03-25,2,42
+40129172,10.1093/molbev/msaf057,Mol Biol Evol,Road to Extinction? Past and Present Population Structure and Genomic Diversity in the Koa,2024-07-07,2025-02-24,2025-03-25,15,108
+40129111,10.1093/molbev/msaf068,Mol Biol Evol,A New Comparative Framework for Estimating Selection on Synonymous Substitutions.,2024-10-02,2025-02-19,2025-03-25,5,49
+40127687,10.1093/molbev/msaf064,Mol Biol Evol,The Expansion and Diversification of Epigenetic Regulatory Networks Underpins Major Transi,2024-09-23,2025-03-05,2025-03-25,8,123
+40120127,10.1093/molbev/msaf066,Mol Biol Evol,On the Probability of Reaching High Peaks in Fitness Landscapes by Adaptive Walks.,2024-10-31,2025-03-10,2025-03-23,2,35
+40114504,10.1093/molbev/msaf061,Mol Biol Evol,Stronger Evidence for Relaxed Selection Than Adaptive Evolution in High-elevation Animal m,2023-12-05,2024-07-15,2025-03-21,3,71
+40101100,10.1093/molbev/msaf058,Mol Biol Evol,A Segregating Structural Variant Defines Novel Venom Phenotypes in the Eastern Diamondback,2024-11-04,2025-03-06,2025-03-18,8,130
+40100755,10.1093/molbev/msaf059,Mol Biol Evol,A Phylogenetic Method Identifies Candidate Drivers of the Evolution of the SARS-CoV-2 Muta,2024-11-11,2025-01-09,2025-03-18,1,26
+40070202,10.1093/molbev/msaf055,Mol Biol Evol,Redefining the Limits of Functional Continuity in the Early Evolution of P-Loop NTPases.,2024-10-09,2025-02-14,2025-03-12,11,74
+40066802,10.1093/molbev/msaf051,Mol Biol Evol,"Phyloformer: Fast, Accurate, and Versatile Phylogenetic Reconstruction with Deep Neural Ne",2024-07-23,2025-01-27,2025-03-12,5,72
+40151837,10.1093/molbev/msaf052,Mol Biol Evol,Genomic Insights into the Successful Invasion of the Avian Vampire Fly (Philornis downsi ),2024-10-26,2025-02-19,2025-03-28,11,86
+40112176,10.1093/molbev/msaf056,Mol Biol Evol,Variable Gene Copy Number in Cancer-Related Pathways Is Associated With Cancer Prevalence ,2024-09-27,2025-02-10,2025-03-20,4,58
+40111469,10.1093/molbev/msaf053,Mol Biol Evol,Genomic Introgression and Adaptation of Southern Seabird Species Facilitate Recent Polar C,2024-04-24,2025-01-15,2025-03-20,21,121
+40098486,10.1093/molbev/msaf060,Mol Biol Evol,The Spread of Antibiotic Resistance Is Driven by Plasmids Among the Fastest Evolving and o,2024-11-29,2025-01-27,2025-03-18,2,71
+40067865,10.1093/molbev/msaf054,Mol Biol Evol,Do Manuscripts by Female Evolutionary Biologists Spend Longer Under Review?,2024-08-08,2025-02-19,2025-03-12,2,96
+40056383,10.1093/molbev/msaf050,Mol Biol Evol,Regulatory Plasticity of the Human Genome.,2024-07-31,2025-01-27,2025-03-09,2,79
+40052745,10.1093/molbev/msaf049,Mol Biol Evol,"Misspecification Strikes: ASTRAL can Mislead in the Presence of Hybridization, even for No",2024-11-14,2025-02-25,2025-03-07,2,38
+40048663,10.1093/molbev/msaf034,Mol Biol Evol,Characterizing the Rates and Patterns of De Novo Germline Mutations in the Aye-Aye (Dauben,2024-11-11,2025-01-21,2025-03-06,4,120
+40036822,10.1093/molbev/msaf048,Mol Biol Evol,A Comparative Assessment of Self-limiting Genetic Control Strategies for Population Suppre,2024-09-30,2025-02-10,2025-03-04,2,142
+39992157,10.1093/molbev/msaf044,Mol Biol Evol,Repeatable Selection on Large Ancestry Blocks in an Avian Hybrid Zone.,2024-09-09,2025-01-27,2025-02-24,4,77
+39963938,10.1093/molbev/msaf045,Mol Biol Evol,Avian Migration-Mediated Transmission and Recombination Driving the Diversity of Gammacoro,2024-11-16,2025-01-31,2025-02-18,18,63
+39950968,10.1093/molbev/msaf035,Mol Biol Evol,Genetic and Anatomical Determinants of Olfaction in Dogs and Wild Canids.,2024-03-28,2024-12-13,2025-02-14,10,114
+39943858,10.1093/molbev/msaf042,Mol Biol Evol,Lineage-Specific Class-A GPCR Dynamics Reflect Diverse Chemosensory Adaptations in Lophotr,2024-11-18,2025-02-04,2025-02-13,4,154
+39937658,10.1093/molbev/msaf043,Mol Biol Evol,Widespread and Convergent Evolution of Cone Monochromacy in Galeomorph Sharks.,2024-10-11,2025-02-04,2025-02-12,9,141
+39930867,10.1093/molbev/msaf032,Mol Biol Evol,A Tale of Too Many Trees: A Conundrum for Phylogenetic Regression.,2024-09-03,2025-01-21,2025-02-11,6,123
+39924684,10.1093/molbev/msaf040,Mol Biol Evol,Genetic Mechanisms and Adaptive Benefits of Anthocyanin Red Stigmas in a Wind-Pollinated T,2024-09-18,2025-01-31,2025-02-10,9,55
+39899343,10.1093/molbev/msaf029,Mol Biol Evol,What Do We Gain When Tolerating Loss? The Information Bottleneck Wrings Out Recombination.,2023-11-30,2025-01-14,2025-02-03,6,48
+40036868,10.1093/molbev/msaf020,Mol Biol Evol,Cross-Species Insights from Single-Nucleus Sequencing Highlight Aging-Related Hippocampal ,2024-07-30,2025-01-13,2025-03-04,11,96
+40036526,10.1093/molbev/msaf046,Mol Biol Evol,Treasurer's Report for Financial Year (FY) 2023.,2025-01-30,2025-02-10,2025-03-04,1,0
+39982809,10.1093/molbev/msaf019,Mol Biol Evol,Estimating Gene Conversion Tract Length and Rate From PacBio HiFi Data.,2024-07-05,2025-01-09,2025-02-21,9,48
+39976376,10.1093/molbev/msaf033,Mol Biol Evol,Host-Calibrated Time Tree Caps the Age of Giant Viruses.,2024-09-24,2025-01-23,2025-02-20,2,80
+39936582,10.1093/molbev/msaf007,Mol Biol Evol,"Phylogeography Analysis Reveals Rabies Epidemiology, Evolution, and Transmission in the Ph",2024-07-08,2024-12-20,2025-02-12,15,34
+39932914,10.1093/molbev/msaf036,Mol Biol Evol,Coding Genes Helped the Origination and Diversification of Intragenic MicroRNAs.,2024-04-20,2025-01-21,2025-02-11,5,51
+39932018,10.1093/molbev/msaf004,Mol Biol Evol,Human Single-Cell RNA-Sequencing Data Supports the Hypothesis of X Chromosome Insensitivit,2024-06-27,2025-01-09,2025-02-11,2,38
+39921621,10.1093/molbev/msaf041,Mol Biol Evol,Insufficient Evidence for a Severe Bottleneck in Humans During the Early to Middle Pleisto,2024-10-24,2025-01-27,2025-02-08,2,29
+39921600,10.1093/molbev/msaf039,Mol Biol Evol,Selection Increases Mitonuclear DNA Discordance but Reconciles Incompatibility in African ,2024-07-31,2025-01-21,2025-02-08,19,133
+39920336,10.1093/molbev/msaf038,Mol Biol Evol,Subcellular Enrichment Patterns of New Genes in Drosophila Evolution.,2024-10-06,2025-01-14,2025-02-08,8,61
+39918026,10.1093/molbev/msaf037,Mol Biol Evol,Every Gain Comes With Loss: Ecological and Physiological Shifts Associated With Polyploidi,2024-09-27,2025-01-14,2025-02-07,11,86
+39908346,10.1093/molbev/msaf031,Mol Biol Evol,Red Deer Resequencing Reveals the Importance of Sex Chromosomes for Reconstructing Late Qu,2024-05-02,2025-01-13,2025-02-05,47,103
+39907430,10.1093/molbev/msaf023,Mol Biol Evol,Combinatorial In Vivo Genome Editing Identifies Widespread Epistasis and an Accessible Fit,2024-05-28,2025-01-15,2025-02-05,8,77
+39907064,10.1093/molbev/msaf026,Mol Biol Evol,"An Inversion Polymorphism Under Balancing Selection, Involving Giant Mobile Elements, in a",2024-05-24,2025-01-23,2025-02-05,13,120
+39907027,10.1093/molbev/msaf021,Mol Biol Evol,"Genome Assembly of a Living Fossil, the Atlantic Horseshoe Crab Limulus polyphemus, Reveal",2024-09-13,2025-01-10,2025-02-05,15,129
+39903101,10.1093/molbev/msae261,Mol Biol Evol,Deciphering the Foundations of Mitochondrial Mutational Spectra: Replication-Driven and Da,2024-04-05,2024-12-04,2025-02-04,16,74
+39899329,10.1093/molbev/msaf027,Mol Biol Evol,The Convergent Evolution of Hummingbird Pollination Results in Repeated Floral Scent Loss ,2024-10-15,2025-01-27,2025-02-03,3,153
+39895309,10.1093/molbev/msaf030,Mol Biol Evol,Genomic Signatures of Adaptation to Stress Reveal Shared Evolutionary Trends Between Tetra,2024-07-04,2025-01-17,2025-02-03,6,139
+39891703,10.1093/molbev/msaf028,Mol Biol Evol,Convergent Evolution of Cysteine-Rich Keratins in Horny Teeth of Jawless Vertebrates and i,2024-09-12,2025-01-21,2025-02-01,2,51
+39882964,10.1093/molbev/msaf025,Mol Biol Evol,Fungal-Derived tRNAs Are Expressed and Aminoacylated in Orchid Mitochondria.,2024-11-19,2025-01-21,2025-01-30,4,43
+39882942,10.1093/molbev/msaf024,Mol Biol Evol,Comparative Population Genomics Unveils Congruent Secondary Suture Zone in Southwest Pacif,2024-06-21,2024-12-27,2025-01-30,16,92
+39877976,10.1093/molbev/msaf013,Mol Biol Evol,Molecular and Functional Convergences Associated with Complex Multicellularity in Eukarya.,2024-03-22,2024-12-02,2025-01-29,4,63
+39847535,10.1093/molbev/msaf005,Mol Biol Evol,Multilevel Gene Expression Changes in Lineages Containing Adaptive Copy Number Variants.,2024-06-26,2024-12-02,2025-01-23,4,122
+39838923,10.1093/molbev/msaf010,Mol Biol Evol,Inference of the Demographic Histories and Selective Effects of Human Gut Commensal Microb,2024-02-06,2025-01-07,2025-01-22,3,71
+39836373,10.1093/molbev/msaf017,Mol Biol Evol,Single-cell and Spatial Transcriptomics Illuminate Bat Immunity and Barrier Tissue Evoluti,2024-09-29,2025-01-14,2025-01-21,18,99
+39835721,10.1093/molbev/msaf015,Mol Biol Evol,Deciphering Plant NLR Genomic Evolution: Synteny-Informed Classification Unveils Insights ,2024-04-30,2025-01-14,2025-01-21,10,75
+39833658,10.1093/molbev/msaf012,Mol Biol Evol,Population Genomics of Premature Termination Codons in Cavefish With Substantial Trait Los,2024-08-17,2025-01-07,2025-01-21,13,122
+39823473,10.1093/molbev/msaf006,Mol Biol Evol,Read Length Dominates Phylogenetic Placement Accuracy of Ancient DNA Reads.,2024-07-02,2024-12-20,2025-01-17,5,25
+39823311,10.1093/molbev/msaf011,Mol Biol Evol,Rapid Radiation of a Plant Lineage Sheds Light on the Assembly of Dry Valley Biomes.,2024-06-17,2025-01-03,2025-01-17,10,143
+39823310,10.1093/molbev/msaf009,Mol Biol Evol,An Expanding Universe of Mutational Signatures and Its Rapid Evolution in Single-Stranded ,2024-08-01,2025-01-10,2025-01-17,10,73
+39817463,10.1093/molbev/msaf003,Mol Biol Evol,Drosophila CG11700 may not affect male fecundity-lifespan tradeoff as previously reported.,2024-11-15,2025-01-03,2025-01-16,6,7
+39761698,10.1093/molbev/msae271,Mol Biol Evol,Faithful Interpretation of Protein Structures through Weighted Persistent Homology Improve,2024-05-28,2024-12-20,2025-01-07,4,46
+39847470,10.1093/molbev/msaf002,Mol Biol Evol,Modeling Biases from Low-Pass Genome Sequencing to Enable Accurate Population Genetic Infe,2024-07-19,2025-01-07,2025-01-23,4,60
+39835697,10.1093/molbev/msaf014,Mol Biol Evol,Shared Selection and Genetic Architecture Drive Strikingly Repeatable Evolution in Long-Te,2024-09-16,2025-01-09,2025-01-21,6,70
+39834309,10.1093/molbev/msae265,Mol Biol Evol,Allostery and Evolution: A Molecular Journey Through the Structural and Dynamical Landscap,2024-07-30,2024-12-18,2025-01-21,9,98
+39834162,10.1093/molbev/msaf016,Mol Biol Evol,Positive Selection on Mammalian Immune Genes-Effects of Gene Function and Selective Constr,2024-08-20,2025-01-13,2025-01-21,4,84
+39824217,10.1093/molbev/msaf008,Mol Biol Evol,Most m5C Modifications in Mammalian mRNAs are Nonadaptive.,2024-08-29,2024-12-30,2025-01-18,3,61
+39812022,10.1093/molbev/msaf001,Mol Biol Evol,"Persistent, Private, and Mobile Genes: A Model for Gene Dynamics in Evolving Pangenomes.",2024-07-15,2024-12-17,2025-01-15,3,46
+39812008,10.1093/molbev/msae270,Mol Biol Evol,Rapid Parallel Adaptation in Distinct Invasions of Ambrosia Artemisiifolia Is Driven by La,2024-09-24,2024-12-17,2025-01-15,15,107
+39800935,10.1093/molbev/msae247,Mol Biol Evol,TIPPo: A User-Friendly Tool for De Novo Assembly of Organellar Genomes with High-Fidelity ,2024-07-26,2024-11-18,2025-01-13,6,70
+39786559,10.1093/molbev/msae267,Mol Biol Evol,Exploring Evolution to Uncover Insights Into Protein Mutational Stability.,2024-05-28,2024-11-28,2025-01-09,5,79
+39776198,10.1093/molbev/msae268,Mol Biol Evol,Evolutionary Dynamics of RuBisCO: Emergence of the Small Subunit and its Impact Through Ti,2024-07-17,2024-12-24,2025-01-08,3,83
+39776196,10.1093/molbev/msae273,Mol Biol Evol,Selection Can Favor a Recombination Landscape That Limits Polygenic Adaptation.,2024-10-26,2024-12-13,2025-01-08,4,94
+39775835,10.1093/molbev/msae266,Mol Biol Evol,Direct Measurement of the Mutation Rate and Its Evolutionary Consequences in a Critically ,2024-09-16,2024-12-17,2025-01-08,6,96
+39750749,10.1093/molbev/msae272,Mol Biol Evol,Quantifying the Evolutionary Dynamics of Structure and Content in Closely Related E. coli ,2024-08-21,2024-12-27,2025-01-03,3,49
+39719058,10.1093/molbev/msae262,Mol Biol Evol,A de novo Gene Promotes Seed Germination Under Drought Stress in Arabidopsis.,2024-07-03,2024-12-06,2024-12-24,14,106
+39715360,10.1093/molbev/msae264,Mol Biol Evol,MixtureFinder: Estimating DNA Mixture Models for Phylogenetic Analyses.,2024-03-19,2024-12-19,2024-12-23,4,71
+39703047,10.1093/molbev/msae258,Mol Biol Evol,Navigating a Fine Balance: Point-Mutant Cheater Viruses Disrupt the Viral Replication Cycl,2024-09-18,2024-12-08,2024-12-20,11,67
+39686543,10.1093/molbev/msae260,Mol Biol Evol,"Less, but More: New Insights From Appendicularians on Chordate Fgf Evolution and the Diver",2024-09-02,2024-12-02,2024-12-17,12,130
+39673176,10.1093/molbev/msae254,Mol Biol Evol,The Rich Evolutionary History of the Reactive Oxygen Species Metabolic Arsenal Shapes Its ,2024-07-25,2024-12-05,2024-12-14,9,114
+39671568,10.1093/molbev/msae255,Mol Biol Evol,Sex Chromosome Turnovers and Stability in Snakes.,2024-02-19,2024-11-22,2024-12-13,6,91
+39663845,10.1093/molbev/msae253,Mol Biol Evol,Dampened TLR2-mediated Inflammatory Signaling in Bats.,2024-07-20,2024-12-03,2024-12-12,5,48
+42928542,10.1093/molbev/msag253,Mol Biol Evol,Recurrent tandem duplication of a conserved enhancer underlies parallel genetic origins of,2026-06-30,2026-09-24,2026-10-26,18,81
+42886474,10.1093/molbev/msag249,Mol Biol Evol,Using gene topologies to partition sex chromosomes into regions with distinct histories.,2026-04-07,2026-09-08,2026-10-16,5,81
+42861648,10.1093/molbev/msag240,Mol Biol Evol,"Evolution and metabolite signaling of fumarases (class I and II): origin, function, and su",2025-12-12,2026-09-11,2026-10-12,4,60
+42856092,10.1093/molbev/msag248,Mol Biol Evol,"Diversity and divergence of two sympatric, sibling octopus species.",2026-05-01,2026-08-31,2026-10-11,4,89
+42851070,10.1093/molbev/msag260,Mol Biol Evol,Integrative genotype-environment association and single-cell transcriptomic analyses ident,2026-07-02,2026-10-02,2026-10-09,15,138
+42839738,10.1093/molbev/msag258,Mol Biol Evol,Comparative population genomics reveals evolutionary potential and conservation priorities,2026-06-02,2026-10-02,2026-10-07,11,100
+42831439,10.1093/molbev/msag256,Mol Biol Evol,Interpreting convolutional neural networks in population genetics.,2025-12-04,2026-09-25,2026-10-05,7,94
+42830563,10.1093/molbev/msag228,Mol Biol Evol,Characterizing the detectable and invisible fractions of genomic loci under balancing sele,2026-02-14,2026-08-21,2026-10-05,4,63
+42827080,10.1093/molbev/msag238,Mol Biol Evol,Herd immunity underlies homologous recombination in stationary phase bacteria.,2026-05-26,2026-09-03,2026-10-02,4,69
+42817815,10.1093/molbev/msag247,Mol Biol Evol,Comparative pangenomics unveils distinct host adaptation trends and conserved biosynthetic,2026-01-28,2026-09-18,2026-10-01,3,46
+42817807,10.1093/molbev/msag255,Mol Biol Evol,Identifying adaptive variation in spatially structured populations using low-coverage whol,2026-01-20,2026-09-24,2026-10-01,11,81
+42813227,10.1093/molbev/msag251,Mol Biol Evol,DNA methylation dynamics associated with seasonal wing plasticity of Bicyclus anynana butt,2026-03-28,2026-09-25,2026-09-30,4,72
+42813224,10.1093/molbev/msag252,Mol Biol Evol,Contrasting modes of intron evolution in an evolutionarily distinct eukaryotic lineage rev,2026-03-26,2026-09-21,2026-09-30,6,111
+42802937,10.1093/molbev/msag250,Mol Biol Evol,kamino: fast proteome-wide variant calling for amino acid phylogenomics.,2026-05-21,2026-09-21,2026-09-28,3,69
+42786798,10.1093/molbev/msag243,Mol Biol Evol,Ancient nuclear genome duplication events in vertebrates facilitated the functional divers,2026-04-13,2026-09-14,2026-09-25,6,62
+42781779,10.1093/molbev/msag244,Mol Biol Evol,The shortest animal introns: insights from parasitic cnidarians.,2026-05-11,2026-09-15,2026-09-24,4,41
+42779296,10.1093/molbev/msag246,Mol Biol Evol,Natural selection shapes the evolution of the metabolome in Saccharomyces cerevisiae.,2026-04-07,2026-09-16,2026-09-24,2,42
+42764444,10.1093/molbev/msag241,Mol Biol Evol,Mito-nuclear incompatibility disrupts acyl-CoA oxidase 1/acyl-CoA oxidase 3-mediated mitoc,2026-01-04,2026-09-09,2026-09-21,8,96
+42755230,10.1093/molbev/msag239,Mol Biol Evol,Uncovering structural variation in conifer gigagenomes: evolutionary insights and technica,2025-10-22,2026-09-11,2026-09-18,7,82
+42714457,10.1093/molbev/msag232,Mol Biol Evol,Widespread male-female expression imbalance of X-linked genes across phrynosomatid lizards,2026-03-17,2026-08-31,2026-09-09,7,99
+42671077,10.1093/molbev/msag224,Mol Biol Evol,Multiscale structural evolution of proline-rich protein genes shapes primate salivary defe,2026-03-01,2026-08-24,2026-08-31,10,103
+42671066,10.1093/molbev/msag222,Mol Biol Evol,No genome-wide correlations and little shared genetic architecture between reproductive li,2025-07-03,2026-07-15,2026-08-31,7,123
+42573151,10.1093/molbev/msag193,Mol Biol Evol,Regulatory activity and evolutionary co-option of cis-regulatory elements underlying bear ,2025-06-26,2026-07-13,2026-08-10,9,118
+42750230,10.1093/molbev/msag223,Mol Biol Evol,Museum specimens reveal the genomic consequences of long-term population decline in an ins,2026-01-05,2026-08-11,2026-09-17,16,61
+42749287,10.1093/molbev/msag236,Mol Biol Evol,Local ancestry inference identifies robust evidence of selection in Neolithic Europe.,2026-04-23,2026-09-08,2026-09-16,2,123
+42747432,10.1093/molbev/msag237,Mol Biol Evol,Inferring the demographic history of Chinese and Indian rhesus macaque (Macaca mulatta) po,2026-06-05,2026-09-09,2026-09-16,7,101
+42714431,10.1093/molbev/msag230,Mol Biol Evol,Acquisition and erosion of toxin-antitoxin systems in bacterial chromosomes.,2026-02-11,2026-08-18,2026-09-09,5,69
+42709419,10.1093/molbev/msag233,Mol Biol Evol,Evolutionary diversification of invertase paralogs couples carbon metabolism and sexual re,2026-04-10,2026-08-28,2026-09-08,6,115
+42709414,10.1093/molbev/msag231,Mol Biol Evol,"Ambrosia beetle invasions are structured by inbreeding, intraspecific hybridization, and b",2026-05-05,2026-09-01,2026-09-08,5,76
+42690237,10.1093/molbev/msag214,Mol Biol Evol,Mutation accumulation in a hybrid parthenogenetic vertebrate.,2026-01-09,2026-08-07,2026-09-03,7,76
+42679361,10.1093/molbev/msag227,Mol Biol Evol,Evolutionary persistence of a highly prevalent multicopy mitochondrial-derived nuclear ins,2026-04-29,2026-08-24,2026-09-01,9,95
+42671063,10.1093/molbev/msag225,Mol Biol Evol,Evolution of virulence of a plant RNA virus in developmental stage-structured host populat,2026-03-31,2026-08-19,2026-08-31,3,93
+42670249,10.1093/molbev/msag226,Mol Biol Evol,Pax6 homologs are required for patterning both visual systems of the daddy-longlegs Phalan,2026-04-15,2026-08-25,2026-08-31,6,84
+42666082,10.1093/molbev/msag216,Mol Biol Evol,Gene-level complexity explains genome-wide variation in the distribution of fitness effect,2026-04-08,2026-08-10,2026-08-29,2,105
+42657789,10.1093/molbev/msag221,Mol Biol Evol,Disruption of mitonuclear coadaptation and compensatory evolution after an extreme dietary,2026-05-01,2026-08-03,2026-08-27,4,133
+42647746,10.1093/molbev/msag220,Mol Biol Evol,Variant calling in nonmodel organisms with snpArcher.,2026-04-08,2026-07-16,2026-08-26,6,25
+42631514,10.1093/molbev/msag212,Mol Biol Evol,Adaptation to seasonal drought in Arabis alpina is linked to the demographic history and c,2025-09-08,2026-08-07,2026-08-22,9,97
+42628966,10.1093/molbev/msag215,Mol Biol Evol,Consistent and idiosyncratic pleiotropy in shaping genetic correlations.,2026-02-23,2026-08-10,2026-08-21,3,32
+42626986,10.1093/molbev/msag219,Mol Biol Evol,Signatures of nonsense-mediated mRNA decay but no evidence for transcriptional adaptation ,2026-05-20,2026-08-03,2026-08-21,4,67
+42626984,10.1093/molbev/msag218,Mol Biol Evol,Phylogenomic subsampling and upsampling for efficient evolutionary analyses of big data.,2026-05-18,2026-08-11,2026-08-21,3,59
+42616020,10.1093/molbev/msag211,Mol Biol Evol,On the origin of animals and placental mammals: a critique of literalist readings of the f,2026-04-20,2026-07-20,2026-08-19,4,50
+42610621,10.1093/molbev/msag209,Mol Biol Evol,Identification and masking of artifactual and misleading within-host variants in deep-sequ,2026-03-16,2026-07-02,2026-08-18,13,51
+42606177,10.1093/molbev/msag204,Mol Biol Evol,Redesign of energetically frustrated regions rescues function in defective T4 clamp loader,2026-05-19,2026-07-30,2026-08-17,6,54
+42600100,10.1093/molbev/msag206,Mol Biol Evol,From neuropeptides to toxins: illuminating the origins of venom complexity in cone snails.,2025-10-30,2026-07-28,2026-08-14,13,97
+42600091,10.1093/molbev/msag207,Mol Biol Evol,Questioning the evidence for host-symbiont codiversification in mycorrhizal symbioses.,2026-02-17,2026-07-23,2026-08-14,3,65
+42616006,10.1093/molbev/msag210,Mol Biol Evol,"EZmito2: a tool suite for mitochondrial genome dataset preparation, population genetics, a",2026-03-26,2026-08-14,2026-08-19,6,41
+42615478,10.1093/molbev/msag183,Mol Biol Evol,Evolutionary adaptation proceeds through a small number of phenotypic modules.,2025-12-17,2026-06-25,2026-08-19,5,63
+42606179,10.1093/molbev/msag208,Mol Biol Evol,Repeated mutation of a GT92 glycosyltransferase gene confers antiviral resistance in two C,2026-04-28,2026-08-05,2026-08-17,8,81
+42594297,10.1093/molbev/msag178,Mol Biol Evol,Phylogenomics supports monophyly of marsupial crustaceans: a journey to direct development,2025-11-11,2026-07-02,2026-08-13,21,83
+42586937,10.1093/molbev/msag195,Mol Biol Evol,Quantifying the predictability of evolution by analysis of coalescent rate variation.,2026-01-27,2026-07-14,2026-08-12,2,45
+42586769,10.1093/molbev/msag200,Mol Biol Evol,The physicochemical basis of protein evolution: property-informed evolutionary models (PRI,2026-03-11,2026-07-16,2026-08-12,7,74
+42585597,10.1093/molbev/msag205,Mol Biol Evol,ESL-PSC Toolkit: a graphical software environment for linking shared genetic changes to co,2026-05-26,2026-07-29,2026-08-12,2,10
+42585588,10.1093/molbev/msag202,Mol Biol Evol,Population structure and punctuated genomic hyper-diversity in Caenorhabditis briggsae.,2026-03-02,2026-07-23,2026-08-12,40,126
+42585586,10.1093/molbev/msag203,Mol Biol Evol,Cis- and trans-regulatory factors contributing to divergent activity of the TDH3 promoter ,2026-04-01,2026-08-07,2026-08-12,4,53
+42584000,10.1093/molbev/msag194,Mol Biol Evol,Phylo-Movies: animating phylogenetic trees from sliding-window analyses.,2026-02-07,2026-07-13,2026-08-12,4,44
+42578945,10.1093/molbev/msag199,Mol Biol Evol,Estimating the evolutionary fitness of specific synonymous codon changes.,2026-03-17,2026-07-30,2026-08-11,2,61
+42572112,10.1093/molbev/msag197,Mol Biol Evol,Plasticity-first evolution via CYP405 loss shaped chemical defenses in butterflies.,2025-11-21,2026-06-25,2026-08-10,8,60
+42565512,10.1093/molbev/msag198,Mol Biol Evol,Origin and impacts of ploidy variation in the coral Pocillopora acuta in Hawai'i.,2026-06-03,2026-07-27,2026-08-07,6,114
+42560129,10.1093/molbev/msag196,Mol Biol Evol,Evolution of an amphibian-specific family of epidermal differentiation-associated genes.,2026-04-01,2026-07-20,2026-08-06,5,72
+42551906,10.1093/molbev/msag169,Mol Biol Evol,A novel female reproductive organ differentiates insemination and postmating responses in ,2026-04-03,2026-06-24,2026-08-06,7,106
+42531458,10.1093/molbev/msag190,Mol Biol Evol,Pig Matrix: a matched multiomics 3D regulatory genomics database for evolutionary and comp,2026-04-23,2026-07-13,2026-07-30,21,91
+42520401,10.1093/molbev/msag188,Mol Biol Evol,Beyond fixation: persistent genetic variation under intense selection.,2026-03-04,2026-06-27,2026-07-29,11,47
+42505038,10.1093/molbev/msag182,Mol Biol Evol,Improved gene tree inference from removing alignment errors both from focal genes and when,2025-12-01,2026-07-07,2026-07-27,6,71
+42489507,10.1093/molbev/msag187,Mol Biol Evol,Genetic background shapes the transcriptional activity and phenotypic contribution of a ho,2025-11-13,2026-07-07,2026-07-23,11,68
+42489506,10.1093/molbev/msag184,Mol Biol Evol,Parasites constrain within-population diversification while accelerating between-populatio,2026-03-28,2026-07-09,2026-07-23,2,44
+42489500,10.1093/molbev/msag185,Mol Biol Evol,Reconstructing the evolutionary origin of β-catenin recognition in the Wnt destruction com,2026-03-30,2026-06-30,2026-07-23,5,82
+42489497,10.1093/molbev/msag186,Mol Biol Evol,Temperature-sensitive cytoplasmic incompatibility across divergent Wolbachia partly reflec,2026-03-31,2026-06-27,2026-07-23,8,193
+42483960,10.1093/molbev/msag180,Mol Biol Evol,"Bacterial Persistence Modulates the Speed, Magnitude, and Onset of Antibiotic Resistance E",2026-02-23,2026-06-29,2026-07-22,7,55
+42481176,10.1093/molbev/msag177,Mol Biol Evol,Emergence and stabilization of a neo-Y chromosome in nematode species with rare males.,2026-01-08,2026-07-02,2026-07-22,9,96
+42481161,10.1093/molbev/msag173,Mol Biol Evol,A deep learning-based score to evaluate multiple sequence alignments.,2026-01-29,2026-06-18,2026-07-22,6,111
+42478661,10.1093/molbev/msag179,Mol Biol Evol,Evaluating the adaptive hypothesis of A-to-I RNA editing in filamentous ascomycete fungi.,2026-02-21,2026-07-10,2026-07-21,3,40
+42464925,10.1093/molbev/msag175,Mol Biol Evol,Phylogenetic ancestry of Metamonada proteins points to a common origin of mitochondria in ,2026-03-27,2026-06-30,2026-07-17,6,72
+42464922,10.1093/molbev/msag172,Mol Biol Evol,Epistatic impacts of cis- and trans-regulatory mutations on the distribution of mutational,2025-03-26,2026-06-24,2026-07-17,3,53
+42464908,10.1093/molbev/msag174,Mol Biol Evol,Convergent elevation of mitochondrial proton leakage improves thermogenesis in honeybees.,2026-02-03,2026-06-24,2026-07-17,15,137
+42525917,10.1093/molbev/msag170,Mol Biol Evol,Parallel expansion of trehalose transporter genes integrates intestinal energy metabolism ,2026-03-11,2026-06-09,2026-07-29,7,63
+42501309,10.1093/molbev/msag162,Mol Biol Evol,Why structural divergence varies among residues in enzyme evolution: contributions of muta,2025-10-08,2026-05-18,2026-07-25,2,44
+42488959,10.1093/molbev/msag165,Mol Biol Evol,Y-linked editors for invasive rodent control.,2026-02-04,2026-06-23,2026-07-23,3,46
+42456083,10.1093/molbev/msag161,Mol Biol Evol,EnhancerDB 2.0: a comprehensive cross-species enhancer atlas.,2026-03-31,2026-06-09,2026-07-15,9,43
+42444166,10.1093/molbev/msag146,Mol Biol Evol,The Fate of Horizontally Acquired Genes: Rapid Initial Turnover Followed by Long-Term Pers,2025-08-06,2026-04-22,2026-07-14,3,24
+42427250,10.1093/molbev/msag164,Mol Biol Evol,Egg capsule mineralization via vaterite transportation in the invasive apple snail Pomacea,2025-08-06,2026-03-30,2026-07-10,4,56
+42423042,10.1093/molbev/msag168,Mol Biol Evol,Kingdom-wide evolutionary characterization of RNA editing factors in Archaeplastida.,2026-02-13,2026-06-13,2026-07-09,3,135
+42422947,10.1093/molbev/msag158,Mol Biol Evol,Introgression of thermal tolerance alleles drives adaptation despite risk of mitonuclear c,2025-10-24,2026-06-16,2026-07-09,4,86
+42412056,10.1093/molbev/msag167,Mol Biol Evol,Evolution of CTCF binding sites in the human genome.,2026-02-11,2026-06-23,2026-07-07,3,94
+42412049,10.1093/molbev/msag166,Mol Biol Evol,"Recent plastid replacement in Karlodinium ballantinum (Kareniaceae, Dinoflagellata) challe",2026-03-18,2026-06-30,2026-07-07,8,81
+42402843,10.1093/molbev/msag140,Mol Biol Evol,Segmentally Duplicated Regulatory Elements Undergo Human-Specific Rewiring.,2025-11-24,2026-05-18,2026-07-06,2,141
+42393836,10.1093/molbev/msag156,Mol Biol Evol,The life history of recessive deleterious alleles as seen through the eyes of a honey bee ,2026-03-14,2026-06-12,2026-07-03,14,94
+42391510,10.1093/molbev/msag157,Mol Biol Evol,Severe bottleneck of ancient Homo populations: insights from computational modeling and re,2025-11-18,2026-05-27,2026-07-02,9,67
+42389982,10.1093/molbev/msag159,Mol Biol Evol,Genomic signature of repeated transitions to diurnality in spiders.,2025-12-10,2026-06-04,2026-07-02,4,106
+42366789,10.1093/molbev/msag155,Mol Biol Evol,Phylogenomic blind spots: the limits of UCE and BUSCO loci in the presence of gene flow.,2026-02-09,2026-06-03,2026-06-29,2,73
+42342250,10.1093/molbev/msag139,Mol Biol Evol,seqLens: Optimizing Language Models for Genomic Predictions.,2025-09-22,2026-04-01,2026-06-25,4,68
+42334427,10.1093/molbev/msag153,Mol Biol Evol,The transcriptional and translational outcomes for pseudogenes in bacterial endosymbionts.,2026-02-09,2026-05-27,2026-06-23,5,62
+42333806,10.1093/molbev/msag154,Mol Biol Evol,800 million years of co-evolution in the green plant lineage: the case of LEUNIG and SEUSS,2026-01-16,2026-05-11,2026-06-23,7,86
+42318932,10.1093/molbev/msag152,Mol Biol Evol,RNA i-motif landscapes in plant kingdom and their potential functional roles.,2026-01-07,2026-05-27,2026-06-19,8,25
+42308148,10.1093/molbev/msag150,Mol Biol Evol,Functional divergence and structural changes of Class IV histone deacetylases (HDACs) acro,2025-11-17,2026-06-08,2026-06-17,24,81
+42301149,10.1093/molbev/msag151,Mol Biol Evol,Cis-regulation of gene expression between sexes and life stages in Rumex hastatulus.,2025-06-19,2026-05-26,2026-06-16,6,77
+42284459,10.1093/molbev/msag147,Mol Biol Evol,Ancient conservation of androglobin expression reveals its evolutionary link to ciliary pr,2025-11-27,2026-06-03,2026-06-12,10,62
+42275602,10.1093/molbev/msag141,Mol Biol Evol,Bayesian credible sets for phylogenetic tree topologies with applications to coverage anal,2025-11-25,2026-06-01,2026-06-11,2,39
+42252278,10.1093/molbev/msag136,Mol Biol Evol,"Limited Selection on Neanderthal DNA in 30,780 Recently Admixed Genomes with African-like ",2025-12-03,2026-05-21,2026-06-08,2,95
+42212590,10.1093/molbev/msag131,Mol Biol Evol,Intrahost mutational dynamics parallel long-term genome evolution in endosymbionts.,2026-01-28,2026-04-27,2026-05-29,2,98
+42184971,10.1093/molbev/msag126,Mol Biol Evol,Phylogenomic analysis of vocal fold length evolution reveals links between vocal and audit,2025-08-09,2026-04-27,2026-05-26,13,142
+42301139,10.1093/molbev/msag138,Mol Biol Evol,Accessible and robust machine learning approaches to improve the opsin genotype-phenotype ,2025-08-19,2026-05-18,2026-06-16,2,79
+42295122,10.1093/molbev/msag142,Mol Biol Evol,Stabilizing and directional selection shape the genetic variation of gene expression in th,2025-12-15,2026-05-04,2026-06-15,3,113
+42295111,10.1093/molbev/msag149,Mol Biol Evol,Multiple modes of selection underlie repeated and human-mediated adaptation in a formerly ,2025-08-25,2026-05-26,2026-06-15,3,160
+42276590,10.1093/molbev/msag148,Mol Biol Evol,Genomic and transcriptomic analyses reveal the adaptation to semi-aquatic and aquatic life,2025-12-19,2026-05-07,2026-06-12,20,101
+42275600,10.1093/molbev/msag145,Mol Biol Evol,Horizontal transfers of polydnavirus segments extend the known range of parasitoid attacks,2026-04-21,2026-06-01,2026-06-11,7,74
+42275597,10.1093/molbev/msag144,Mol Biol Evol,Adaptive evolution of endothelial nitric oxide synthase (NOS3) may reduce cetacean suscept,2026-02-26,2026-05-08,2026-06-11,6,71
+42275596,10.1093/molbev/msag143,Mol Biol Evol,Gene loss and compensatory evolution as a source of metabolic preadaptations.,2026-02-09,2026-06-04,2026-06-11,9,61
+42262248,10.1093/molbev/msag108,Mol Biol Evol,Mutation rate estimate and population genomic analysis reveals decline of koalas prior to ,2025-09-10,2026-04-20,2026-06-09,7,87
+42241639,10.1093/molbev/msag135,Mol Biol Evol,Multiple Origins of a Sex Ratio Supergene in Formica Ants.,2025-08-27,2026-04-01,2026-06-04,4,54
+42231692,10.1093/molbev/msag134,Mol Biol Evol,Enhancement of hidden Markov model analyses for improved inference of archaic introgressio,2025-05-15,2026-05-21,2026-06-03,4,23
+42231630,10.1093/molbev/msag132,Mol Biol Evol,On the dynamic caddisfly silk H-fibroin gene: a population study in a net-spinning species,2026-04-01,2026-05-12,2026-06-03,9,43
+42229890,10.1093/molbev/msag133,Mol Biol Evol,The Phylodynamic Threshold of Measurably Evolving Populations.,2026-02-24,2026-05-07,2026-06-03,5,76
+42226637,10.1093/molbev/msag130,Mol Biol Evol,Molecular assessment of recombination processing across genetically diverse mouse strains ,2026-01-05,2026-05-11,2026-06-02,5,127
+42216562,10.1093/molbev/msag129,Mol Biol Evol,Functional conservation with mechanistic drift: AMP activation in the evolution of archaea,2025-09-05,2026-05-12,2026-05-30,6,53
+42212572,10.1093/molbev/msag128,Mol Biol Evol,Single-cell analyses of tissue regeneration in two true jellyfish.,2025-08-11,2026-05-11,2026-05-29,21,77
+42192201,10.1093/molbev/msag127,Mol Biol Evol,"Ancient but dynamic: structural expansion, massive gene duplication, and transposable elem",2026-01-28,2026-05-11,2026-05-27,9,156
+42192156,10.1093/molbev/msag124,Mol Biol Evol,Retrotransposed gene copies persist under relaxed selection in wild Spodoptera frugiperda.,2025-08-21,2026-05-14,2026-05-27,11,97
+42186845,10.1093/molbev/msag125,Mol Biol Evol,Compensatory evolution facilitates loss of prfB autoregulation in Pseudomonas fluorescens ,2026-03-24,2026-05-11,2026-05-26,4,74
+42172680,10.1093/molbev/msag122,Mol Biol Evol,Quantifying the Influence of Genetic Context on Duplicated Mammalian Genes.,2026-01-22,2026-03-08,2026-05-22,3,73
+42172677,10.1093/molbev/msag123,Mol Biol Evol,Evidence for an early cadherin-catenin interaction network in ctenophores.,2026-02-28,2026-04-28,2026-05-22,4,90
+42126263,10.1093/molbev/msag121,Mol Biol Evol,Beyond genomes: functional signatures reveal evolutionary patterns across the tree of life,2026-01-14,2026-03-30,2026-05-13,2,35
+42165094,10.1093/molbev/msag071,Mol Biol Evol,The evolution of gene functional repertoire in Amorphea: divergent strategies across Amoeb,2025-06-11,2026-03-02,2026-05-21,3,80
+42142336,10.1093/molbev/msag100,Mol Biol Evol,Epistasis and background dependence in the evolution of Omicron variants of the SARS-CoV-2,2025-11-18,2026-03-30,2026-05-17,3,67
+42139541,10.1093/molbev/msag091,Mol Biol Evol,New lineages provide insights into the convergent evolution of extreme salt adaptation wit,2025-08-08,2026-02-26,2026-05-15,6,75
+42135529,10.1093/molbev/msag105,Mol Biol Evol,Genomic insights into the admixture history and adaptive evolution of the Zhuang people.,2025-10-07,2026-03-17,2026-05-15,10,81
+42131897,10.1093/molbev/msag092,Mol Biol Evol,Novel 20th century rotavirus alphagastroenteritidis strains identified in formalin-fixed a,2025-07-31,2026-03-03,2026-05-14,8,127
+42102264,10.1093/molbev/msag120,Mol Biol Evol,Pseudogene revival drives repeated adaptation in fission yeast.,2026-01-14,2026-04-27,2026-05-08,4,82
+42098939,10.1093/molbev/msag119,Mol Biol Evol,Orthologs of an essential orphan gene vary in their capacities for function and subcellula,2025-10-31,2026-04-27,2026-05-08,6,88
+42098915,10.1093/molbev/msag084,Mol Biol Evol,Experimental evolution toward extinction in a molecular host-parasite system.,2026-01-21,2026-03-23,2026-05-08,4,66
+42098914,10.1093/molbev/msag072,Mol Biol Evol,Avian lung single-cell atlas elucidates evolutionary divergence in endothermic respiration,2025-06-09,2026-03-13,2026-05-08,13,60
+42097573,10.1093/molbev/msag118,Mol Biol Evol,"Using drift coefficients as a basis for inferring times, effective population sizes, and g",2025-09-27,2026-04-22,2026-05-08,3,60
+42095269,10.1093/molbev/msag115,Mol Biol Evol,Sequential origin of an alternative colony founding strategy driven by two supergenes in T,2025-10-19,2026-04-20,2026-05-07,6,78
+42093114,10.1093/molbev/msag114,Mol Biol Evol,The genomic basis of independent marine transitions in turtles: convergent episodic adapta,2025-03-20,2026-04-20,2026-05-07,14,162
+42085559,10.1093/molbev/msag117,Mol Biol Evol,IQ-TREE 3: phylogenomic inference software using complex evolutionary models.,2025-04-03,2026-04-23,2026-05-05,16,75
+42060840,10.1093/molbev/msag111,Mol Biol Evol,evo3D R package: a spatial haplotype framework for structure-informed analysis of molecula,2025-12-15,2026-04-13,2026-04-30,2,56
+42052896,10.1093/molbev/msag113,Mol Biol Evol,Divergent cis-regulatory haplotypes at Tlr2 are associated with immune responsiveness.,2026-01-20,2026-04-15,2026-04-29,6,72
+42047107,10.1093/molbev/msag112,Mol Biol Evol,Characterization of de novo germline mutations suggests a strong male mutation bias in cop,2026-01-16,2026-04-07,2026-04-28,4,114
+42047095,10.1093/molbev/msag107,Mol Biol Evol,GAPIT version 4: integration of GWAS into genomic prediction.,2024-08-28,2026-04-06,2026-04-28,2,29
+42041094,10.1093/molbev/msag109,Mol Biol Evol,Evolutionary conservation and divergence of phagocytic and coagulation programs across bil,2025-11-26,2026-04-10,2026-04-27,29,86
+42041085,10.1093/molbev/msag110,Mol Biol Evol,Uncovering viral protein acquisition events and human-specific folds with pairwise compari,2025-12-08,2026-04-17,2026-04-27,4,82
+42012237,10.1093/molbev/msag106,Mol Biol Evol,Environmental and mutational modulation of collateral fitness effects informs their mechan,2026-01-27,2026-03-25,2026-04-21,4,48
+41993021,10.1093/molbev/msag104,Mol Biol Evol,Genome-wide SNP data reveal hidden hierarchical population structure and demographic histo,2025-08-26,2026-03-23,2026-04-17,10,75
+41993015,10.1093/molbev/msag103,Mol Biol Evol,Adaptive evolution of odorant receptors is associated with elaborations of social organiza,2025-09-17,2026-03-13,2026-04-17,6,62
+41988935,10.1093/molbev/msag102,Mol Biol Evol,Multiple losses of ecdysone receptor genes in nematodes: an alternative evolutionary scena,2025-04-17,2026-03-30,2026-04-16,3,126
+41982182,10.1093/molbev/msag101,Mol Biol Evol,Degeneration and adaptive evolution of digits in ratite birds.,2025-10-14,2026-03-30,2026-04-15,3,69
+41968578,10.1093/molbev/msag098,Mol Biol Evol,Evolution in metazoans of the TRPM channel family involves multiple gains and losses of ge,2025-11-12,2026-03-02,2026-04-13,5,125
+41967133,10.1093/molbev/msag090,Mol Biol Evol,Phylogenomic mixture models outperform homogeneous and partitioned models.,2025-08-19,2026-03-13,2026-04-12,6,65
+41967090,10.1093/molbev/msag099,Mol Biol Evol,Pangolin museum genomics reveal the dynamic genetic consequences and extinction risk of th,2025-07-25,2026-04-01,2026-04-12,5,72
+41877653,10.1093/molbev/msag076,Mol Biol Evol,Ancient origin and dynamic evolution of bivalent spider toxins.,2025-10-30,2026-02-19,2026-03-25,7,83
+41876750,10.1093/molbev/msag078,Mol Biol Evol,"Evolutionary trajectories, early diversification, and species-specific amplification of th",2025-04-16,2026-03-09,2026-03-25,10,128
+41873149,10.1093/molbev/msag079,Mol Biol Evol,Phage toxin variants are linked to protection specificity in a defensive symbiont.,2025-11-06,2026-03-02,2026-03-24,7,90
+41810521,10.1093/molbev/msag063,Mol Biol Evol,Genomic incompatibilities are persistent barriers when speciation happens with gene flow i,2025-09-23,2026-02-18,2026-03-11,6,111
+41701624,10.1093/molbev/msag044,Mol Biol Evol,Climate-associated natural selection in the human mitochondrial genome.,2025-05-22,2025-12-11,2026-02-17,5,113
+42050848,10.1093/molbev/msag067,Mol Biol Evol,Sex chromosome identification and genome curation from a single individual with SCINKD.,2025-07-25,2026-02-25,2026-04-29,7,65
+42017302,10.1093/molbev/msag056,Mol Biol Evol,A milestone in C4 carbon concentration mechanism evolution: structural remodeling of NADP-,2025-02-20,2026-01-27,2026-04-22,14,66
+41978338,10.1093/molbev/msag093,Mol Biol Evol,DiagnoDating: diagnostics for dated phylogenies in microbial population genetics.,2025-09-24,2026-03-05,2026-04-14,4,84
+41968576,10.1093/molbev/msag095,Mol Biol Evol,Segmental copy number amplifications are more stable than aneuploidies in the absence of s,2025-08-15,2026-03-17,2026-04-13,8,85
+41967463,10.1093/molbev/msag097,Mol Biol Evol,AliFilter: a machine learning approach to alignment filtering.,2025-09-26,2026-03-13,2026-04-13,4,92
+41967458,10.1093/molbev/msag094,Mol Biol Evol,Benchmarking imputation accuracy in the presence or absence of a reference panel.,2025-10-15,2026-03-23,2026-04-13,11,101
+41967125,10.1093/molbev/msag096,Mol Biol Evol,Comparative phenotypic analysis of rhodopsin supports stepwise evolution of dim-light visi,2025-09-10,2026-04-01,2026-04-12,12,70
+41964531,10.1093/molbev/msag086,Mol Biol Evol,Deep learning reveals genomic regions introgressed between two recurrently hybridizing lyn,2025-06-18,2026-04-01,2026-04-12,6,100
+41964527,10.1093/molbev/msag089,Mol Biol Evol,Wnt signaling patterns a central-peripheral body axis in the early-diverging metazoan Tric,2025-11-21,2026-03-02,2026-04-12,6,62
+41950502,10.1093/molbev/msag088,Mol Biol Evol,Revealing deep evolutionary relationships between RNA viruses using predicted structural m,2025-11-04,2026-03-31,2026-04-08,5,48
+41950494,10.1093/molbev/msag085,Mol Biol Evol,Integrated conjugative elements drive the formation of pandemic clones of Escherichia coli,2025-12-08,2026-03-31,2026-04-08,8,66
+41949280,10.1093/molbev/msag075,Mol Biol Evol,A new super-pangenome pipeline reveals domestication signatures of conserved noncoding seq,2025-09-10,2026-02-27,2026-04-08,4,112
+41949279,10.1093/molbev/msag069,Mol Biol Evol,Transgenerational effects of heat shock on gene regulation and fitness-related traits in n,2025-12-12,2026-02-16,2026-04-08,2,115
+41947595,10.1093/molbev/msag081,Mol Biol Evol,Conservation and divergence of sex-biased gene expression across 50 million years of Droso,2025-10-11,2026-03-30,2026-04-08,2,78
+41947593,10.1093/molbev/msag082,Mol Biol Evol,A key regulator of missing-self innate immunity is polymorphic and under diversifying sele,2025-12-18,2026-03-13,2026-04-08,8,106
+41886597,10.1093/molbev/msag074,Mol Biol Evol,Replicated hybrid zones reveal genomic patterns of local adaptation and introgression in s,2025-08-13,2026-02-24,2026-03-26,7,85
+41883176,10.1093/molbev/msag080,Mol Biol Evol,Age-dependent Phylodynamics with Application to Single-cell Lineage Trees.,2025-10-25,2026-03-18,2026-03-26,4,50
+41877660,10.1093/molbev/msag070,Mol Biol Evol,Genomic erosion across avian lineages in the context of their evolutionary history.,2025-04-25,2026-02-02,2026-03-25,9,127
+41870206,10.1093/molbev/msag073,Mol Biol Evol,WASTER: Practical de novo Phylogenomics from Low-coverage Short Reads.,2025-06-10,2026-02-18,2026-03-23,2,47
+41866796,10.1093/molbev/msag077,Mol Biol Evol,Reshaping organellar translation and tRNA metabolism: the consequences of photosynthesis l,2026-01-08,2026-03-12,2026-03-23,12,98
+41821518,10.1093/molbev/msag065,Mol Biol Evol,Forecasting Multitrait Resistance Evolution under Antibiotic Stress.,2025-10-20,2026-02-17,2026-03-13,3,86
+41818228,10.1093/molbev/msag068,Mol Biol Evol,Soft Selective Sweeps Predominate in the Yellow Fever Mosquito Aedes aegypti.,2025-08-28,2026-02-23,2026-03-12,3,153
+41793117,10.1093/molbev/msag058,Mol Biol Evol,Conflict in ant phylogeny results from complex interaction between multiple evolutionary s,2025-08-08,2026-01-21,2026-03-07,7,55
+41821294,10.1093/molbev/msag064,Mol Biol Evol,Comparing Neanderthal Introgression Maps Reveals Core Agreement But Substantial Heterogene,2025-09-23,2026-03-02,2026-03-13,3,52
+41812157,10.1093/molbev/msag047,Mol Biol Evol,Innovations in Silicon Transport Shaped the Rise of Biosilicification and Skeletal Evoluti,2025-10-09,2026-01-15,2026-03-11,2,89
+41807123,10.1093/molbev/msag066,Mol Biol Evol,Displacement-Optimized Tanglegrams for Trees and Networks.,2025-11-25,2026-02-09,2026-03-11,1,21
+41806853,10.1093/molbev/msag057,Mol Biol Evol,Ancient genomes uncover dynamic cultural and genetic interplay in the eastern Tianshan.,2025-08-02,2026-01-20,2026-03-11,10,89
+41806037,10.1093/molbev/msag051,Mol Biol Evol,Intraspecific genome size variation is attributed to adaptive silencing of transposable el,2025-10-09,2026-02-09,2026-03-10,4,111
+41802886,10.1093/molbev/msag060,Mol Biol Evol,Evolutionary genomic basis of mimicry diversity of Epicopeiidae moths.,2025-12-14,2026-02-09,2026-03-10,8,112
+41802268,10.1093/molbev/msag061,Mol Biol Evol,piqtree: a python package for seamless phylogenetic inference with IQ-TREE.,2025-08-06,2026-02-17,2026-03-09,8,47
+41794051,10.1093/molbev/msag062,Mol Biol Evol,Stoichiometry-induced differential selection on codon optimization among ribosomal protein,2025-10-16,2026-02-26,2026-03-08,1,115
+41779147,10.1093/molbev/msag055,Mol Biol Evol,From Adam's rib: the Siberian moth's female W chromosome is derived from its Z counterpart,2025-09-18,2026-02-20,2026-03-04,9,81
+41755752,10.1093/molbev/msag053,Mol Biol Evol,OrthoGarden: a pipeline for propagating phylogenetic trees for nonmodel organisms from sho,2025-10-14,2026-02-16,2026-02-27,4,37
+41755717,10.1093/molbev/msag052,Mol Biol Evol,HaploThread: a scalable desktop tool for efficient haplotype network inference and interac,2025-08-21,2026-02-09,2026-02-27,6,16
+41744256,10.1093/molbev/msag050,Mol Biol Evol,Escape from X inactivation drives sex differences in gene expression.,2025-08-19,2026-02-02,2026-02-26,3,63
+41744181,10.1093/molbev/msag049,Mol Biol Evol,Large-scale genomic phylogeography provides insights into evolutionary history and conserv,2025-06-13,2025-12-23,2026-02-26,12,104
+41739857,10.1093/molbev/msag048,Mol Biol Evol,The Genetic Architecture of Venom Resistance: A Novel Approach to Target Identification an,2025-08-25,2026-02-09,2026-02-25,12,131
+41739546,10.1093/molbev/msag041,Mol Biol Evol,Genomic perplexity and the evolution of context-dependent function.,2025-11-24,2026-01-26,2026-02-25,1,150
+41707113,10.1093/molbev/msag046,Mol Biol Evol,MitoNGS: an online platform to analyze fish metabarcoding data in high resolution.,2025-10-19,2026-02-09,2026-02-18,6,52
+41703705,10.1093/molbev/msag039,Mol Biol Evol,Molecular clock dating using complex mixture models: applied to ancient symbionts.,2025-07-18,2026-02-04,2026-02-18,2,59
+41693153,10.1093/molbev/msag045,Mol Biol Evol,Defective splicing of Y-chromosome-linked gigantic genes contributes to hybrid male steril,2025-08-01,2026-02-02,2026-02-16,5,73
+41686647,10.1093/molbev/msag043,Mol Biol Evol,Toward a genomic understanding of the tree of life.,2025-12-09,2025-12-15,2026-02-13,2,98
+41684149,10.1093/molbev/msag040,Mol Biol Evol,An enzyme's metal preference evolves through redox modulation driven by the cofactor's sec,2025-08-14,2026-02-04,2026-02-13,6,74
+41664480,10.1093/molbev/msag035,Mol Biol Evol,Mammalian mitochondrial DNA accumulates insertions and deletions with age in energetically,2025-02-21,2026-01-29,2026-02-10,10,56
+41628657,10.1093/molbev/msag030,Mol Biol Evol,Holostean genomes reveal evolutionary novelty in the vertebrate immunoproteasome that have,2024-11-01,2025-06-17,2026-02-03,8,72
+41761781,10.1093/molbev/msag042,Mol Biol Evol,Regulatory features determine the evolutionary fate of laterally acquired genes in plants.,2025-12-01,2026-01-21,2026-02-28,10,71
+41668465,10.1093/molbev/msag036,Mol Biol Evol,RECUR: identifying recurrent amino acid substitutions from multiple sequence alignments.,2025-04-29,2026-01-26,2026-02-11,3,75
+41656994,10.1093/molbev/msag038,Mol Biol Evol,Amhy/Amhr2y-mediated sex determination in two distantly related teleosts relies on the con,2025-11-22,2026-02-02,2026-02-09,8,88
+41656912,10.1093/molbev/msag037,Mol Biol Evol,The mutation landscape of Daphnia obtusa reveals evolutionary forces shaping genome stabil,2025-09-19,2026-01-27,2026-02-09,8,56
+41656862,10.1093/molbev/msag031,Mol Biol Evol,Evolutionary remodeling of the FXR binding pocket drove functional divergence and ligand d,2025-07-13,2025-12-19,2026-02-09,8,53
+41634932,10.1093/molbev/msag033,Mol Biol Evol,Invasion preferences suggest a possible role for Plasmodium falciparum parasites in the ex,2025-07-09,2026-01-13,2026-02-04,9,90
+41632808,10.1093/molbev/msag034,Mol Biol Evol,Genetic formation and regional disparities of Kra-Dai and Hmong-Mien speakers inferred fro,2025-07-22,2026-01-13,2026-02-03,10,49
+41631708,10.1093/molbev/msag023,Mol Biol Evol,Inference and Visualization of Complex Genotype-Phenotype Maps.,2025-08-27,2025-12-19,2026-02-03,6,138
+41630659,10.1093/molbev/msag032,Mol Biol Evol,Genomic insights into chromosomal fusion and its evolutionary implications for zokors.,2025-07-23,2026-01-26,2026-02-03,12,111
+41622621,10.1093/molbev/msag029,Mol Biol Evol,Genomic adaptations for tail-length evolution in arboreal snakes.,2025-07-28,2026-01-26,2026-02-02,8,118
+41622528,10.1093/molbev/msag027,Mol Biol Evol,Dynamic regulation of spermatogenesis and hybrid sterility revealed by single-cell analysi,2025-06-05,2026-01-14,2026-02-02,10,90
+41622429,10.1093/molbev/msag014,Mol Biol Evol,Viral Simulation Reveals Overestimation Bias in Within-Host Phylodynamic Migration Rate Es,2025-01-06,2025-12-02,2026-02-02,6,55
+41622108,10.1093/molbev/msag028,Mol Biol Evol,TreeProfiler: large-scale metadata profiling along gene and species trees.,2025-06-16,2025-12-09,2026-02-02,5,34
+41612673,10.1093/molbev/msag021,Mol Biol Evol,Genomic consequences of domestication and the diversification of body coloration and morph,2025-06-05,2025-12-29,2026-01-30,12,107
+41593459,10.1093/molbev/msag025,Mol Biol Evol,Leveraging low-cost short-read sequencing: revolutionizing complex trait genetics.,2025-10-28,2026-01-12,2026-01-28,2,172
+41589062,10.1093/molbev/msag020,Mol Biol Evol,The evolutionary genomics of meiotic drive.,2025-09-24,2025-12-15,2026-01-27,25,160
+41581085,10.1093/molbev/msag003,Mol Biol Evol,Two independent origins of XY sex chromosomes in Asparagus.,2025-09-22,2025-11-19,2026-01-25,8,104
+41570082,10.1093/molbev/msag011,Mol Biol Evol,PharaohFUN: phylogenomic analysis for plant protein history and function elucidation.,2025-09-09,2025-12-29,2026-01-22,7,82
+41560303,10.1093/molbev/msag018,Mol Biol Evol,Phylogeny of waterfowl (Anseriformes) constructed using genome sequences provides insights,2025-03-17,2026-01-08,2026-01-21,8,85
+41556888,10.1093/molbev/msag019,Mol Biol Evol,Evolutionary innovation within conserved gene regulatory networks underlying biomineralize,2025-09-30,2026-01-09,2026-01-20,10,127
+41543495,10.1093/molbev/msag016,Mol Biol Evol,Population genomics reveals deep diversification in Malayan pangolins.,2024-12-24,2025-12-01,2026-01-16,50,58
+41530943,10.1093/molbev/msag017,Mol Biol Evol,Germline de novo mutation rate of the highly heterozygous amphioxus genome.,2025-08-29,2026-01-07,2026-01-14,6,87
+41527362,10.1093/molbev/msag009,Mol Biol Evol,Pseudogenes document protracted parallel regression of oral anatomy in myrmecophagous mamm,2025-06-17,2025-12-05,2026-01-13,6,157
+41521888,10.1093/molbev/msag010,Mol Biol Evol,When cells rebel: a comparative genomics investigation into marsupial cancer susceptibilit,2025-08-12,2025-12-19,2026-01-12,7,156
+41521784,10.1093/molbev/msag008,Mol Biol Evol,Full spatio-temporal analyses of migration and colonization in evolution-dense 3D mapping ,2025-07-18,2025-12-17,2026-01-12,17,73
+41517999,10.1093/molbev/msag006,Mol Biol Evol,Genomic comparisons and the adaptive basis of brain size plasticity and chromosomal instab,2025-06-17,2025-12-19,2026-01-10,24,125
+41508847,10.1093/molbev/msag005,Mol Biol Evol,"Mitochondrial retrograde control of transcription evolves with respiratory stress, metabol",2025-07-17,2025-12-15,2026-01-09,7,128
+41502013,10.1093/molbev/msag004,Mol Biol Evol,Estimating the Reduction in Genetic Diversity from Background Selection under Non-equilibr,2025-07-03,2025-12-15,2026-01-08,5,69
+41493011,10.1093/molbev/msag002,Mol Biol Evol,Phylodynamics of Somatic Evolution: A Likelihood-Based Approach for Cellular Reproduction.,2025-07-22,2025-11-10,2026-01-06,2,27
+41490039,10.1093/molbev/msag001,Mol Biol Evol,A POMT2 missense substitution contributes to hypoxia adaptation in hibernating mammals.,2024-12-03,2025-12-02,2026-01-06,12,36
+41363149,10.1093/molbev/msaf265,Mol Biol Evol,Phylogenetic Analysis of NEAT1 and MALAT1 Long Non-Coding RNAs Highlights Structure-Functi,2025-04-01,2025-10-06,2025-12-09,2,99
+41604226,10.1093/molbev/msag015,Mol Biol Evol,Estimates of molecular convergence reveal multiple genes with adaptive variation across te,2025-07-22,2025-12-22,2026-01-28,5,95
+41512112,10.1093/molbev/msag007,Mol Biol Evol,Genomic and neurobiological bases of variation in fighting strategies in gamecocks.,2025-03-14,2025-12-17,2026-01-09,16,53
+41498217,10.1093/molbev/msaf333,Mol Biol Evol,Viviparity and beyond: captured endogenous retroviral envelope genes drive teleost physiol,2025-08-16,2025-12-08,2026-01-07,14,79
+41479132,10.1093/molbev/msaf335,Mol Biol Evol,Ancient genomes from the Qing Dynasty reveal unbroken genetic continuity in China's Centra,2025-10-03,2025-12-11,2026-01-02,22,49
+41479018,10.1093/molbev/msaf334,Mol Biol Evol,MicrobeTrace 2.0: the enhanced visualization multitool for molecular epidemiology and bioi,2025-08-28,2025-12-09,2026-01-02,7,9
+41457019,10.1093/molbev/msaf332,Mol Biol Evol,Alternative splicing contributes to plasticity and regulatory divergence in locally adapte,2025-07-03,2025-12-15,2025-12-29,3,110
+41437880,10.1093/molbev/msaf331,Mol Biol Evol,Dorsoventral limb patterning in paired appendages emerged via regulatory repurposing of an,2025-03-29,2025-12-15,2025-12-24,5,60
+41436042,10.1093/molbev/msaf330,Mol Biol Evol,Phylogenetic and functional characterization of Asgard primases.,2025-08-22,2025-11-19,2025-12-24,4,68
+41392554,10.1093/molbev/msaf323,Mol Biol Evol,Macroevolutionary changes in gene expression response to an immune stimulus across the div,2025-04-18,2025-11-03,2025-12-15,5,59
+41388647,10.1093/molbev/msaf327,Mol Biol Evol,On the robustness of Bayesian inference of gene flow to intragenic recombination and natur,2025-09-02,2025-12-02,2025-12-13,3,78
+41381409,10.1093/molbev/msaf326,Mol Biol Evol,The green lacewing venom system and the complex mechanisms underlying its evolution.,2025-09-01,2025-11-19,2025-12-12,8,124
+41381385,10.1093/molbev/msaf325,Mol Biol Evol,Stepwise recombination suppression around the mating-type locus associated with a diploid-,2025-04-18,2025-12-02,2025-12-12,13,81
+41365331,10.1093/molbev/msaf324,Mol Biol Evol,Widespread turnover of a conserved cis-regulatory code across 589 grass species.,2025-05-02,2025-12-01,2025-12-10,18,117
+41364676,10.1093/molbev/msaf322,Mol Biol Evol,Genomic architecture and evolution of heterostyly: new insights from Cordia subcordata (Bo,2025-02-28,2025-11-20,2025-12-09,12,117
+41355291,10.1093/molbev/msaf319,Mol Biol Evol,"Evolution of Insulin, Insulin-like Growth Factors, and Their Cognate Receptors in Vertebra",2025-07-08,2025-11-03,2025-12-08,7,112
+41313720,10.1093/molbev/msaf316,Mol Biol Evol,Social Stratification Without Genetic Differentiation at the Xisima Site in the Late Shang,2025-05-31,2025-11-12,2025-11-28,15,60
+41292177,10.1093/molbev/msaf313,Mol Biol Evol,SLiM 5: Eco-evolutionary Simulations Across Multiple Chromosomes and Full Genomes.,2025-08-13,2025-11-24,2025-11-26,3,43
