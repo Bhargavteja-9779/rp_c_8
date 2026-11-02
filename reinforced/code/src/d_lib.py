@@ -68,7 +68,7 @@ def forecast_rows(items, o, par, use=("F0", "F6", "V", "R", "CV0", "CVb", "CVg",
         ev = lambda yy, h, shift=0.0: {f"p{T}": float(ndtr((np.log(T) - (yy + shift)) / h).mean()) for T in thresholds}
         out = {}
         if "F0" in use: out["F0"] = (q0, {f"p{T}": float((ytr <= np.log(T)).mean()) for T in thresholds})
-        if "F6" in use: out["F6"] = (F.decayed(it["y24"], it["age24"], 182.5, TAUS), None)
+        if "F6" in use: out["F6"] = (np.asarray(F.decayed(it["y24"], it["age24"], 182.5, TAUS).q), None)
         if "V" in use: out["V"] = (q0[4] + par["c"] * (q0 - q0[4]), None)
         if "R" in use:
             lv = [float(np.interp(t, par["G"][1], par["G"][0])) for t in TAUS]; out["R"] = (F.wquantile(ytr, np.ones(n), [min(max(l, .005), .995) for l in lv]), None)

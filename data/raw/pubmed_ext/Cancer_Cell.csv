@@ -1,0 +1,824 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34951957,10.1016/j.ccell.2021.12.001,Cancer Cell,Reuterin in the healthy gut microbiome suppresses colorectal cancer growth through alterin,2021-08-05,2021-11-30,2021-12-25,17,72
+34971569,10.1016/j.ccell.2021.12.005,Cancer Cell,GPC2-CAR T cells tuned for low antigen density mediate potent activity against neuroblasto,2021-02-18,2021-12-06,2022-01-01,41,47
+34971568,10.1016/j.ccell.2021.12.006,Cancer Cell,Proteogenomic characterization identifies clinically relevant subgroups of intrahepatic ch,2021-01-12,2021-12-08,2022-01-01,32,0
+34951955,10.1016/j.ccell.2021.11.012,Cancer Cell,Multiomic profiling of checkpoint inhibitor-treated melanoma: Identifying predictors of re,2020-10-30,2021-11-29,2021-12-25,28,0
+34822775,10.1016/j.ccell.2021.11.002,Cancer Cell,The allergy mediator histamine confers resistance to immunotherapy in cancer patients via ,2020-11-04,2021-11-04,2021-11-26,20,61
+34767762,10.1016/j.ccell.2021.10.009,Cancer Cell,Single-cell analysis of human non-small cell lung cancer lesions refines tumor classificat,2020-05-09,2021-10-18,2021-11-13,33,65
+34739845,10.1016/j.ccell.2021.10.008,Cancer Cell,Myeloid antigen-presenting cell niches sustain antitumor T cells and license PD-1 blockade,2020-12-02,2021-10-15,2021-11-06,36,152
+34739844,10.1016/j.ccell.2021.10.006,Cancer Cell,Effect of ibrutinib with R-CHOP chemotherapy in genetic subtypes of DLBCL.,2021-07-12,2021-10-11,2021-11-06,9,89
+34678150,10.1016/j.ccell.2021.09.011,Cancer Cell,Adoptive cell therapy with tumor-specific Th9 cells induces viral mimicry to eliminate ant,2021-02-18,2021-09-21,2021-10-23,8,67
+34653365,10.1016/j.ccell.2021.09.010,Cancer Cell,Single-cell analyses reveal key immune cell subsets associated with response to PD-L1 bloc,2021-03-24,2021-09-17,2021-10-16,20,0
+34719426,10.1016/j.ccell.2021.09.005,Cancer Cell,Human prostate cancer bone metastases have an actionable immunosuppressive microenvironmen,2021-01-04,2021-09-14,2021-11-02,19,87
+34715028,10.1016/j.ccell.2021.10.001,Cancer Cell,Determinants of anti-PD-1 response and resistance in clear cell renal cell carcinoma.,2021-03-17,2021-10-06,2021-10-30,58,151
+34678152,10.1016/j.ccell.2021.09.012,Cancer Cell,Serial assessment of measurable residual disease in medulloblastoma liquid biopsies.,2021-02-08,2021-09-22,2021-10-23,32,36
+34653364,10.1016/j.ccell.2021.09.008,Cancer Cell,"Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cel",2020-11-30,2021-09-15,2021-10-16,34,108
+34624218,10.1016/j.ccell.2021.09.003,Cancer Cell,Three subtypes of lung cancer fibroblasts define distinct therapeutic paradigms.,2021-01-06,2021-09-03,2021-10-09,28,97
+34597589,10.1016/j.ccell.2021.08.011,Cancer Cell,The landscape of tumor cell states and ecosystems in diffuse large B cell lymphoma.,2020-11-19,2021-08-30,2021-10-02,16,95
+34520734,10.1016/j.ccell.2021.08.009,Cancer Cell,Expanding control of the tumor cell cycle with a CDK2/4/6 inhibitor.,2020-11-02,2021-08-17,2021-09-15,48,0
+34506739,10.1016/j.ccell.2021.08.008,Cancer Cell,Simultaneous targeting of TGF-β/PD-L1 synergizes with radiotherapy by reprogramming the tu,2021-01-06,2021-08-16,2021-09-11,30,0
+34478639,10.1016/j.ccell.2021.08.005,Cancer Cell,Activating a collaborative innate-adaptive immune response to control metastasis.,2020-08-15,2021-08-13,2021-09-04,12,70
+34416167,10.1016/j.ccell.2021.07.023,Cancer Cell,Anti-PD-1/L1 lead-in before MAPK inhibitor combination maximizes antitumor immunity and ef,2021-02-05,2021-07-29,2021-08-21,21,33
+34358448,10.1016/j.ccell.2021.07.007,Cancer Cell,The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancre,2020-12-11,2021-07-12,2021-08-07,24,123
+34388377,10.1016/j.ccell.2021.07.005,Cancer Cell,"Bevacizumab plus erlotinib in Chinese patients with untreated, EGFR-mutated, advanced NSCL",2020-12-08,2021-07-03,2021-08-14,20,0
+34388376,10.1016/j.ccell.2021.07.006,Cancer Cell,Targeting Aurora B kinase prevents and overcomes resistance to EGFR inhibitors in lung can,2020-04-07,2021-07-09,2021-08-14,20,64
+34375612,10.1016/j.ccell.2021.06.018,Cancer Cell,PARP7 negatively regulates the type I interferon response in cancer cells and its inhibiti,2020-08-21,2021-06-25,2021-08-11,28,0
+34329586,10.1016/j.ccell.2021.07.003,Cancer Cell,TRIM8 modulates the EWS/FLI oncoprotein to promote survival in Ewing sarcoma.,2020-08-03,2021-07-01,2021-07-31,21,67
+34329585,10.1016/j.ccell.2021.07.002,Cancer Cell,Commensal bacteria and fungi differentially regulate tumor responses to radiation therapy.,2019-09-09,2021-07-01,2021-07-31,24,63
+34297917,10.1016/j.ccell.2021.06.017,Cancer Cell,Single-cell analysis defines a pancreatic fibroblast lineage that supports anti-tumor immu,2020-07-28,2021-06-25,2021-07-24,27,91
+34270926,10.1016/j.ccell.2021.06.016,Cancer Cell,Binary pan-cancer classes with distinct vulnerabilities defined by pro- or anti-cancer YAP,2020-06-10,2021-06-24,2021-07-17,26,128
+34214473,10.1016/j.ccell.2021.06.009,Cancer Cell,Immunogenicity of SARS-CoV-2 messenger RNA vaccines in patients with cancer.,2021-05-28,2021-06-15,2021-07-03,20,26
+34171264,10.1016/j.ccell.2021.06.001,Cancer Cell,"Co-occurring gain-of-function mutations in HER2 and HER3 modulate HER2/HER3 activation, on",2020-09-09,2021-06-02,2021-06-26,18,81
+34143978,10.1016/j.ccell.2021.05.015,Cancer Cell,Evolutionary predictability of genetic versus nongenetic resistance to anticancer drugs in,2020-01-17,2021-05-20,2021-06-19,25,0
+34133951,10.1016/j.ccell.2021.06.002,Cancer Cell,Seroconversion rates following COVID-19 vaccination among patients with cancer.,2021-05-06,2021-06-02,2021-06-17,23,41
+34115987,10.1016/j.ccell.2021.05.005,Cancer Cell,Single-cell lineage tracing of metastatic cancer reveals selection of hybrid EMT states.,2020-09-24,2021-05-13,2021-06-12,9,66
+34171263,10.1016/j.ccell.2021.06.003,Cancer Cell,The AML microenvironment catalyzes a stepwise evolution to gilteritinib resistance.,2020-11-25,2021-06-03,2021-06-26,32,103
+34143979,10.1016/j.ccell.2021.05.009,Cancer Cell,Durvalumab with olaparib and paclitaxel for high-risk HER2-negative stage II/III breast ca,2020-12-07,2021-05-17,2021-06-19,45,32
+34115989,10.1016/j.ccell.2021.05.006,Cancer Cell,Tim-4+ cavity-resident macrophages impair anti-tumor CD8+ T cell immunity.,2020-11-30,2021-05-14,2021-06-12,41,49
+34048709,10.1016/j.ccell.2021.04.017,Cancer Cell,N6-Methyladenosine on mRNA facilitates a phase-separated nuclear body that suppresses myel,2020-09-22,2021-04-28,2021-05-29,15,57
+34019807,10.1016/j.ccell.2021.04.016,Cancer Cell,The loss of RNA N6-adenosine methyltransferase Mettl14 in tumor-associated macrophages pro,2020-10-20,2021-04-28,2021-05-22,19,0
+33961783,10.1016/j.ccell.2021.04.004,Cancer Cell,Single-cell dissection of cellular components and interactions shaping the tumor immune ph,2020-07-09,2021-04-06,2021-05-08,17,0
+34129824,10.1016/j.ccell.2021.05.007,Cancer Cell,STAG2 loss rewires oncogenic and developmental programs to promote metastasis in Ewing sar,2019-07-16,2021-05-13,2021-06-16,28,84
+34129823,10.1016/j.ccell.2021.05.008,Cancer Cell,Molecular classification and diagnostics of upper urinary tract urothelial carcinoma.,2020-06-29,2021-05-14,2021-06-16,38,74
+34087162,10.1016/j.ccell.2021.05.002,Cancer Cell,Interactions between cancer cells and immune cells drive transitions to mesenchymal-like s,2020-08-06,2021-05-05,2021-06-05,21,61
+34019806,10.1016/j.ccell.2021.04.014,Cancer Cell,Conserved pan-cancer microenvironment subtypes predict response to immunotherapy.,2020-05-20,2021-04-23,2021-05-22,14,0
+33930311,10.1016/j.ccell.2021.04.001,Cancer Cell,"STAG2 mutations alter CTCF-anchored loop extrusion, reduce cis-regulatory interactions and",2019-12-02,2021-04-02,2021-05-01,14,0
+33930309,10.1016/j.ccell.2021.03.012,Cancer Cell,Promotion of cholangiocarcinoma growth by diverse cancer-associated fibroblast subpopulati,2020-07-30,2021-03-29,2021-05-01,37,75
+33861994,10.1016/j.ccell.2021.03.007,Cancer Cell,Single-cell sequencing links multiregional immune landscapes and tissue-resident T cells i,2020-06-30,2021-03-22,2021-04-17,33,103
+33836152,10.1016/j.ccell.2021.03.006,Cancer Cell,Oncogenic extrachromosomal DNA functions as mobile enhancers to globally amplify chromosom,2020-07-14,2021-03-12,2021-04-10,19,53
+33798472,10.1016/j.ccell.2021.03.004,Cancer Cell,Gut vascular barrier impairment leads to intestinal bacteria dissemination and colorectal ,2020-09-15,2021-03-08,2021-04-03,32,0
+33740421,10.1016/j.ccell.2021.02.016,Cancer Cell,Cancer cells escape autophagy inhibition via NRF2-induced macropinocytosis.,2020-09-08,2021-02-19,2021-03-20,20,62
+33711273,10.1016/j.ccell.2021.02.013,Cancer Cell,Progressive immune dysfunction with advancing disease stage in renal cell carcinoma.,2020-07-17,2021-02-17,2021-03-13,35,89
+33711272,10.1016/j.ccell.2021.02.015,Cancer Cell,Tumor and immune reprogramming during immunotherapy in advanced renal cell carcinoma.,2020-07-20,2021-02-19,2021-03-13,30,64
+33848478,10.1016/j.ccell.2021.02.014,Cancer Cell,Therapeutic targeting of ATR yields durable regressions in small cell lung cancers with hi,2020-06-12,2021-02-19,2021-04-14,41,71
+33667385,10.1016/j.ccell.2021.02.007,Cancer Cell,Type I collagen deletion in αSMA+ myofibroblasts augments immune suppression and accelerat,2020-08-09,2021-02-10,2021-03-06,8,98
+33667384,10.1016/j.ccell.2021.02.006,Cancer Cell,MDMX acts as a pervasive preleukemic-to-acute myeloid leukemia transition mechanism.,2020-05-12,2021-02-08,2021-03-06,23,86
+33577785,10.1016/j.ccell.2021.01.006,Cancer Cell,Proteogenomic and metabolomic characterization of human glioblastoma.,2020-02-03,2021-01-11,2021-02-13,89,144
+33545063,10.1016/j.ccell.2021.01.003,Cancer Cell,Mutant p53 suppresses innate immune signaling to promote tumorigenesis.,2020-02-26,2021-01-08,2021-02-06,8,48
+33513345,10.1016/j.ccell.2020.12.023,Cancer Cell,Stanniocalcin 1 is a phagocytosis checkpoint driving tumor immune resistance.,2020-06-05,2020-12-23,2021-01-30,26,62
+33689703,10.1016/j.ccell.2021.02.003,Cancer Cell,A hotspot mutation in transcription factor IKZF3 drives B cell neoplasia via transcription,2020-04-29,2021-02-04,2021-03-11,29,62
+33545065,10.1016/j.ccell.2021.01.005,Cancer Cell,H3.3-K27M drives neural stem cell-specific gliomagenesis in a human iPSC-derived model.,2019-07-08,2021-01-11,2021-02-06,12,0
+33482123,10.1016/j.ccell.2020.12.022,Cancer Cell,Oncolytic virotherapy-mediated anti-tumor response: a single-cell perspective.,2020-06-02,2020-12-21,2021-01-23,11,0
+33482121,10.1016/j.ccell.2020.12.014,Cancer Cell,Patterns of transcription factor programs and immune pathway activation define four major ,2020-06-15,2020-12-14,2021-01-23,30,65
+33450198,10.1016/j.ccell.2020.12.012,Cancer Cell,Cathepsin C promotes breast cancer lung metastasis by modulating neutrophil infiltration a,2020-06-12,2020-12-10,2021-01-16,27,0
+33417831,10.1016/j.ccell.2020.12.007,Cancer Cell,Proteogenomic insights into the biology and treatment of HPV-negative head and neck squamo,2020-05-12,2020-12-07,2021-01-09,70,152
+33508216,10.1016/j.ccell.2021.01.007,Cancer Cell,Inflammatory Leptomeningeal Cytokines Mediate COVID-19 Neurologic Symptoms in Cancer Patie,2020-10-07,2021-01-12,2021-01-29,12,45
+33476581,10.1016/j.ccell.2021.01.001,Cancer Cell,Acute Immune Signatures and Their Legacies in Severe Acute Respiratory Syndrome Coronaviru,2020-09-30,2020-12-30,2021-01-22,51,47
+33450196,10.1016/j.ccell.2020.12.010,Cancer Cell,MAT2A Inhibition Blocks the Growth of MTAP-Deleted Cancer Cells by Reducing PRMT5-Dependen,2020-02-11,2020-12-10,2021-01-16,31,0
+33417832,10.1016/j.ccell.2020.12.002,Cancer Cell,An Embryonic Diapause-like Adaptation with Suppressed Myc Activity Enables Tumor Treatment,2020-01-31,2020-12-02,2021-01-09,31,63
+33357454,10.1016/j.ccell.2020.11.013,Cancer Cell,Arsenic Trioxide Rescues Structural p53 Mutations through a Cryptic Allosteric Site.,2019-12-18,2020-11-18,2020-12-29,14,0
+33357452,10.1016/j.ccell.2020.11.005,Cancer Cell,Immunogenic Chemotherapy Enhances Recruitment of CAR-T Cells to Lung Tumors and Improves A,2020-05-13,2020-11-13,2020-12-29,20,62
+33434514,10.1016/j.ccell.2020.12.011,Cancer Cell,Exploration of Coding and Non-coding Variants in Cancer Using GenomePaint.,2020-02-21,2020-12-10,2021-01-13,20,38
+33385331,10.1016/j.ccell.2020.12.001,Cancer Cell,Integrin αvβ6-TGFβ-SOX4 Pathway Drives Immune Evasion in Triple-Negative Breast Cancer.,2020-03-30,2020-12-01,2021-01-02,16,54
+33338427,10.1016/j.ccell.2020.11.004,Cancer Cell,MLH1 Deficiency-Triggered DNA Hyperexcision by Exonuclease 1 Activates the cGAS-STING Path,2020-05-07,2020-11-13,2020-12-19,17,58
+33338425,10.1016/j.ccell.2020.11.006,Cancer Cell,DNA Sensing in Mismatch Repair-Deficient Tumor Cells Is Essential for Anti-tumor Immunity.,2020-05-07,2020-11-13,2020-12-19,26,57
+33217343,10.1016/j.ccell.2020.10.015,Cancer Cell,Molecular Features of Cancers Exhibiting Exceptional Responses to Treatment.,2020-06-23,2020-10-13,2020-11-21,46,77
+33186519,10.1016/j.ccell.2020.10.012,Cancer Cell,Senescence Reprogramming by TIMP1 Deficiency Promotes Prostate Cancer Metastasis.,2020-02-25,2020-10-09,2020-11-14,26,0
+36525970,10.1016/j.ccell.2022.11.016,Cancer Cell,Hyaluronan driven by epithelial aPKC deficiency remodels the microenvironment and creates ,2022-07-07,2022-11-22,2022-12-17,23,76
+36584674,10.1016/j.ccell.2022.12.003,Cancer Cell,Genetic and pharmacological modulation of DNA mismatch repair heterogeneous tumors promote,2022-01-08,2022-12-06,2022-12-31,19,45
+36584673,10.1016/j.ccell.2022.12.005,Cancer Cell,Determinants of resistance to engineered T cell therapies targeting CD19 in large B cell l,2021-12-18,2022-12-06,2022-12-31,36,67
+36584672,10.1016/j.ccell.2022.12.004,Cancer Cell,Integrated multi-omics profiling yields a clinically relevant molecular classification for,2022-02-07,2022-12-06,2022-12-31,37,0
+36563682,10.1016/j.ccell.2022.12.002,Cancer Cell,Modulation of RNA splicing enhances response to BCL2 inhibition in leukemia.,2022-05-02,2022-12-05,2022-12-24,27,108
+36563681,10.1016/j.ccell.2022.12.001,Cancer Cell,Histopathologic and proteogenomic heterogeneity reveals features of clear cell renal cell ,2022-03-18,2022-11-30,2022-12-24,69,169
+36563680,10.1016/j.ccell.2022.11.013,Cancer Cell,Gut microbiota-mediated nucleotide synthesis attenuates the response to neoadjuvant chemor,2022-01-21,2022-11-23,2022-12-24,20,0
+36525973,10.1016/j.ccell.2022.11.015,Cancer Cell,KMT2D deficiency drives lung squamous cell carcinoma and hypersensitivity to RTK-RAS inhib,2022-04-13,2022-11-22,2022-12-17,33,80
+36525971,10.1016/j.ccell.2022.11.014,Cancer Cell,IL-5-producing CD4+ T cells and eosinophils cooperate to enhance response to immune checkp,2022-03-01,2022-11-23,2022-12-17,29,0
+36332625,10.1016/j.ccell.2022.10.002,Cancer Cell,Selective advantage of epigenetically disrupted cancer cells via phenotypic inertia.,2022-05-07,2022-10-04,2022-11-05,15,0
+36513049,10.1016/j.ccell.2022.11.006,Cancer Cell,Expression of inducible factors reprograms CAR-T cells for enhanced function and safety.,2021-04-26,2022-11-10,2022-12-14,26,59
+36459995,10.1016/j.ccell.2022.11.005,Cancer Cell,Interferon-dependent SLC14A1+ cancer-associated fibroblasts promote cancer stemness via WN,2021-11-30,2022-11-09,2022-12-03,9,0
+36423636,10.1016/j.ccell.2022.11.001,Cancer Cell,Mapping single-cell transcriptomes in the intra-tumoral and associated territories of kidn,2022-05-20,2022-11-04,2022-11-25,30,69
+36423635,10.1016/j.ccell.2022.11.002,Cancer Cell,Cancer immunotherapies transition endothelial cells into HEVs that generate TCF1+ T lympho,2021-12-23,2022-11-04,2022-11-25,23,68
+36400020,10.1016/j.ccell.2022.10.021,Cancer Cell,Molecular classification and biomarkers of clinical outcome in breast ductal carcinoma in ,2022-06-09,2022-10-24,2022-11-19,52,49
+36400018,10.1016/j.ccell.2022.10.022,Cancer Cell,Evaluation of cell-free DNA approaches for multi-cancer early detection.,2021-10-06,2022-10-26,2022-11-19,49,0
+36368321,10.1016/j.ccell.2022.10.009,Cancer Cell,Cancer-selective metabolic vulnerabilities in MYC-amplified medulloblastoma.,2022-06-26,2022-10-06,2022-11-12,26,0
+36368318,10.1016/j.ccell.2022.10.008,Cancer Cell,High-resolution single-cell atlas reveals diversity and plasticity of tissue-resident neut,2022-05-09,2022-10-06,2022-11-12,21,133
+36306790,10.1016/j.ccell.2022.10.004,Cancer Cell,The m6A reader IGF2BP2 regulates glutamine metabolism and represents a therapeutic target ,2022-04-02,2022-10-05,2022-10-29,34,76
+36379208,10.1016/j.ccell.2022.10.017,Cancer Cell,Immune biomarkers of response to immunotherapy in patients with high-risk smoldering myelo,2021-06-26,2022-10-18,2022-11-16,39,47
+36379207,10.1016/j.ccell.2022.10.015,Cancer Cell,CD16+ fibroblasts foster a trastuzumab-refractory microenvironment that is reversed by VAV,2021-11-08,2022-10-17,2022-11-16,15,0
+36332624,10.1016/j.ccell.2022.10.012,Cancer Cell,Tumor-intrinsic SIRPA promotes sensitivity to checkpoint inhibition immunotherapy in melan,2021-10-07,2022-10-10,2022-11-05,10,80
+36332622,10.1016/j.ccell.2022.10.011,Cancer Cell,FOXA2 drives lineage plasticity and KIT pathway activation in neuroendocrine prostate canc,2022-02-08,2022-10-07,2022-11-05,11,0
+36306792,10.1016/j.ccell.2022.10.001,Cancer Cell,Multi-omic analyses of changes in the tumor microenvironment of pancreatic adenocarcinoma ,2022-03-07,2022-10-04,2022-10-29,31,81
+36270275,10.1016/j.ccell.2022.09.015,Cancer Cell,Multiomic analysis reveals conservation of cancer-associated fibroblast phenotypes across ,2021-10-20,2022-09-26,2022-10-22,36,50
+36240778,10.1016/j.ccell.2022.09.014,Cancer Cell,Spatial epitope barcoding reveals clonal tumor patch behaviors.,2021-05-29,2022-09-21,2022-10-15,20,55
+36240777,10.1016/j.ccell.2022.09.013,Cancer Cell,Depletion of BATF in CAR-T cells enhances antitumor activity by inducing resistance agains,2021-06-10,2022-09-20,2022-10-15,13,0
+36084652,10.1016/j.ccell.2022.08.008,Cancer Cell,High-performance multiplex drug-gated CAR circuits.,2022-06-28,2022-08-10,2022-09-10,6,51
+36220074,10.1016/j.ccell.2022.09.009,Cancer Cell,Tumor microbiome links cellular programs and immunity in pancreatic cancer.,2021-11-22,2022-09-09,2022-10-12,7,83
+36220073,10.1016/j.ccell.2022.09.001,Cancer Cell,Peroxynitrite in the tumor microenvironment changes the profile of antigens allowing escap,2021-10-05,2022-08-31,2022-10-12,31,45
+36179686,10.1016/j.ccell.2022.09.007,Cancer Cell,Inhibition of the CtBP complex and FBXO11 enhances MHC class II expression and anti-cancer,2021-12-13,2022-09-04,2022-10-01,26,81
+36179682,10.1016/j.ccell.2022.08.022,Cancer Cell,Ancestry-driven recalibration of tumor mutational burden and disparate clinical outcomes i,2022-02-03,2022-08-18,2022-10-01,32,53
+36150391,10.1016/j.ccell.2022.08.015,Cancer Cell,MPS1 inhibition primes immunogenicity of KRAS-LKB1 mutant lung cancer.,2021-08-20,2022-08-15,2022-09-24,28,64
+36150390,10.1016/j.ccell.2022.08.016,Cancer Cell,Ablation of the endoplasmic reticulum stress kinase PERK induces paraptosis and type I int,2022-02-03,2022-08-16,2022-09-24,22,53
+36113478,10.1016/j.ccell.2022.08.014,Cancer Cell,"Cancer cell autophagy, reprogrammed macrophages, and remodeled vasculature in glioblastoma",2021-11-03,2022-08-15,2022-09-17,8,79
+36113475,10.1016/j.ccell.2022.08.013,Cancer Cell,"Analyses of rare predisposing variants of lung cancer in 6,004 whole genomes in Chinese.",2022-03-10,2022-08-15,2022-09-17,30,0
+36084651,10.1016/j.ccell.2022.08.012,Cancer Cell,Increased glucose metabolism in TAMs fuels O-GlcNAcylation of lysosomal Cathepsin B to pro,2022-02-07,2022-08-15,2022-09-10,13,0
+36099883,10.1016/j.ccell.2022.07.005,Cancer Cell,A covalent inhibitor of K-Ras(G12C) induces MHC class I presentation of haptenated peptide,2021-12-06,2022-07-11,2022-09-14,10,41
+36099882,10.1016/j.ccell.2022.08.010,Cancer Cell,Acquired semi-squamatization during chemotherapy suggests differentiation as a therapeutic,2022-01-05,2022-08-11,2022-09-14,48,0
+36099881,10.1016/j.ccell.2022.08.005,Cancer Cell,NKG2A and HLA-E define an alternative immune checkpoint axis in bladder cancer.,2021-12-16,2022-08-05,2022-09-14,51,65
+36055228,10.1016/j.ccell.2022.08.006,Cancer Cell,Detection and localization of early- and late-stage cancers using platelet RNA.,2021-12-06,2022-08-08,2022-09-03,116,0
+36055226,10.1016/j.ccell.2022.08.004,Cancer Cell,Platelets control liver tumor growth through P2Y12-dependent CD40L release in NAFLD.,2021-09-10,2022-08-05,2022-09-03,22,53
+36027916,10.1016/j.ccell.2022.08.003,Cancer Cell,Personalized neoantigen vaccine NEO-PV-01 with chemotherapy and anti-PD-1 as first-line tr,2022-02-14,2022-08-02,2022-08-27,24,0
+36027915,10.1016/j.ccell.2022.08.001,Cancer Cell,Induction of tumor cell autosis by myxoma virus-infected CAR-T and TCR-T cells to overcome,2021-11-02,2022-08-01,2022-08-27,10,48
+35985343,10.1016/j.ccell.2022.07.011,Cancer Cell,De novo pyrimidine synthesis is a targetable vulnerability in IDH mutant glioma.,2021-11-30,2022-07-26,2022-08-20,51,67
+35985342,10.1016/j.ccell.2022.07.012,Cancer Cell,A druggable addiction to de novo pyrimidine biosynthesis in diffuse midline glioma.,2021-11-30,2022-07-26,2022-08-20,22,53
+35944503,10.1016/j.ccell.2022.07.006,Cancer Cell,Precise reconstruction of the TME using bulk RNA-seq and a machine learning algorithm trai,2021-12-01,2022-07-12,2022-08-10,37,0
+35944502,10.1016/j.ccell.2022.07.004,Cancer Cell,Pan-cancer integrative histology-genomic analysis via multimodal deep learning.,2021-06-24,2022-07-11,2022-08-10,11,74
+35868307,10.1016/j.ccell.2022.06.011,Cancer Cell,Oncogenic collagen I homotrimers from cancer cells bind to α3β1 integrin and impact tumor ,2021-12-16,2022-06-27,2022-07-23,13,62
+35868306,10.1016/j.ccell.2022.07.002,Cancer Cell,Integrative analysis of drug response and clinical outcome in acute myeloid leukemia.,2022-02-01,2022-06-30,2022-07-23,94,86
+35839778,10.1016/j.ccell.2022.06.010,Cancer Cell,Pan-cancer proteomic map of 949 human cell lines.,2021-12-14,2022-06-21,2022-07-16,32,81
+35820397,10.1016/j.ccell.2022.06.006,Cancer Cell,"Poziotinib for EGFR exon 20-mutant NSCLC: Clinical efficacy, resistance mechanisms, and im",2021-09-21,2022-06-14,2022-07-13,27,61
+35750052,10.1016/j.ccell.2022.06.001,Cancer Cell,Genome-wide CRISPR screens of T cell exhaustion identify chromatin remodeling factors that,2021-07-23,2022-06-01,2022-06-25,20,73
+35679859,10.1016/j.ccell.2022.05.013,Cancer Cell,Impaired humoral immunity is associated with prolonged COVID-19 despite robust CD8 T cell ,2022-02-18,2022-05-23,2022-06-10,20,51
+35660135,10.1016/j.ccell.2022.05.006,Cancer Cell,Exercise-induced engagement of the IL-15/IL-15Rα axis promotes anti-tumor immunity in panc,2021-08-03,2022-05-10,2022-06-07,19,77
+35700707,10.1016/j.ccell.2022.05.009,Cancer Cell,Spatially resolved multi-omics deciphers bidirectional tumor-host interdependence in gliob,2021-06-04,2022-05-13,2022-06-15,35,0
+35623342,10.1016/j.ccell.2022.05.004,Cancer Cell,Spatiotemporal co-dependency between macrophages and exhausted CD8+ T cells in cancer.,2021-10-08,2022-05-04,2022-05-28,15,77
+35623341,10.1016/j.ccell.2022.05.005,Cancer Cell,Redefining breast cancer subtypes to guide treatment prioritization and maximize response:,2021-11-11,2022-05-06,2022-05-28,34,52
+35594863,10.1016/j.ccell.2022.04.018,Cancer Cell,Tumor-induced erythroid precursor-differentiated myeloid cells mediate immunosuppression a,2021-09-14,2022-04-29,2022-05-21,26,0
+35523176,10.1016/j.ccell.2022.04.011,Cancer Cell,Mesothelial cell-derived antigen-presenting cancer-associated fibroblasts induce expansion,2021-02-04,2022-04-14,2022-05-07,13,54
+35537413,10.1016/j.ccell.2022.04.005,Cancer Cell,An activation to memory differentiation trajectory of tumor-infiltrating lymphocytes infor,2021-09-10,2022-04-11,2022-05-11,20,119
+35537412,10.1016/j.ccell.2022.04.004,Cancer Cell,Interleukin-6 blockade abrogates immunotherapy toxicity and promotes tumor immunity.,2021-03-17,2022-04-11,2022-05-11,37,47
+35452604,10.1016/j.ccell.2022.03.012,Cancer Cell,A phenotypic signature that identifies neoantigen-reactive T cells in fresh human lung can,2021-09-24,2022-03-29,2022-04-23,17,59
+35452603,10.1016/j.ccell.2022.04.001,Cancer Cell,Non-cleavable hinge enhances avidity and expansion of CAR-T cells for acute myeloid leukem,2021-08-27,2022-04-01,2022-04-23,16,82
+35427494,10.1016/j.ccell.2022.03.008,Cancer Cell,Ovarian cancer immunogenicity is governed by a narrow subset of progenitor tissue-resident,2021-10-26,2022-03-23,2022-04-16,25,82
+35413272,10.1016/j.ccell.2022.03.005,Cancer Cell,Transcriptomic profiles of neoantigen-reactive T cells in human gastrointestinal cancers.,2021-09-12,2022-03-11,2022-04-13,14,0
+35413271,10.1016/j.ccell.2022.03.006,Cancer Cell,Neoantigen-specific CD4+ T cells in human melanoma have diverse differentiation states and,2021-08-31,2022-03-14,2022-04-13,22,79
+35303421,10.1016/j.ccell.2022.02.013,Cancer Cell,Immune phenotypic linkage between colorectal cancer and liver metastasis.,2021-08-17,2022-02-19,2022-03-19,11,0
+35303420,10.1016/j.ccell.2022.02.016,Cancer Cell,Single-cell landscapes of primary glioblastomas and matched explants and cell lines show v,2021-04-26,2022-02-23,2022-03-19,12,0
+35216678,10.1016/j.ccell.2022.02.003,Cancer Cell,CD8+ T cells and fatty acids orchestrate tumor ferroptosis and immunity via ACSL4.,2021-07-22,2022-02-02,2022-02-27,14,49
+35245447,10.1016/j.ccell.2022.02.006,Cancer Cell,The proteogenomic subtypes of acute myeloid leukemia.,2021-04-21,2022-02-07,2022-03-05,44,73
+35245446,10.1016/j.ccell.2022.02.007,Cancer Cell,"Toripalimab plus chemotherapy in treatment-naïve, advanced esophageal squamous cell carcin",2021-11-02,2022-02-06,2022-03-05,81,0
+35216676,10.1016/j.ccell.2022.02.002,Cancer Cell,Intratumoral plasma cells predict outcomes to PD-L1 blockade in non-small cell lung cancer,2021-01-26,2022-02-02,2022-02-27,21,0
+35120598,10.1016/j.ccell.2022.01.002,Cancer Cell,Tumor-associated high endothelial venules mediate lymphocyte entry into tumors and predict,2021-04-09,2022-01-07,2022-02-06,19,0
+35120601,10.1016/j.ccell.2022.01.003,Cancer Cell,Fungal mycobiome drives IL-33 secretion and type 2 immunity in pancreatic cancer.,2021-05-06,2022-01-06,2022-02-06,24,65
+35120600,10.1016/j.ccell.2022.01.004,Cancer Cell,Inflammatory fibroblasts mediate resistance to neoadjuvant therapy in rectal cancer.,2021-09-29,2022-01-11,2022-02-06,26,0
+35090594,10.1016/j.ccell.2022.01.001,Cancer Cell,Lactic acid promotes PD-1 expression in regulatory T cells in highly glycolytic tumor micr,2021-08-01,2022-01-05,2022-01-30,46,0
+35051357,10.1016/j.ccell.2021.12.009,Cancer Cell,MEK inhibition overcomes chemoimmunotherapy resistance by inducing CXCL10 in cancer cells.,2021-05-11,2021-12-10,2022-01-21,27,0
+34951957,10.1016/j.ccell.2021.12.001,Cancer Cell,Reuterin in the healthy gut microbiome suppresses colorectal cancer growth through alterin,2021-08-05,2021-11-30,2021-12-25,17,72
+34990570,10.1016/j.ccell.2021.12.002,Cancer Cell,Neutralization breadth of SARS-CoV-2 viral variants following primary series and booster S,2021-11-03,2021-12-01,2022-01-07,11,20
+34971569,10.1016/j.ccell.2021.12.005,Cancer Cell,GPC2-CAR T cells tuned for low antigen density mediate potent activity against neuroblasto,2021-02-18,2021-12-06,2022-01-01,41,47
+34971568,10.1016/j.ccell.2021.12.006,Cancer Cell,Proteogenomic characterization identifies clinically relevant subgroups of intrahepatic ch,2021-01-12,2021-12-08,2022-01-01,32,0
+34951955,10.1016/j.ccell.2021.11.012,Cancer Cell,Multiomic profiling of checkpoint inhibitor-treated melanoma: Identifying predictors of re,2020-10-30,2021-11-29,2021-12-25,28,0
+34822775,10.1016/j.ccell.2021.11.002,Cancer Cell,The allergy mediator histamine confers resistance to immunotherapy in cancer patients via ,2020-11-04,2021-11-04,2021-11-26,20,61
+38157865,10.1016/j.ccell.2023.12.006,Cancer Cell,Gut epithelial Interleukin-17 receptor A signaling can modulate distant tumors growth thro,2022-06-30,2023-12-07,2024-01-02,16,103
+38157863,10.1016/j.ccell.2023.12.002,Cancer Cell,EGFR-activated myofibroblasts promote metastasis of pancreatic cancer.,2022-12-05,2023-12-04,2024-01-02,14,0
+38134937,10.1016/j.ccell.2023.11.012,Cancer Cell,GD2-CAR CAR T cells in patients with osteosarcoma and neuroblastoma-it's not only the T ce,2023-11-20,2023-11-22,2023-12-23,2,0
+38134936,10.1016/j.ccell.2023.11.011,Cancer Cell,Immune determinants of CAR-T cell expansion in solid tumor patients receiving GD2 CAR-T ce,2023-01-10,2023-11-22,2023-12-23,44,83
+38101410,10.1016/j.ccell.2023.11.010,Cancer Cell,Integrated multi-omics profiling to dissect the spatiotemporal evolution of metastatic hep,2023-02-16,2023-11-21,2023-12-16,35,0
+38065100,10.1016/j.ccell.2023.11.008,Cancer Cell,B3GALT6 promotes dormant breast cancer cell survival and recurrence by enabling heparan su,2023-02-10,2023-11-14,2023-12-09,14,63
+38039965,10.1016/j.ccell.2023.11.002,Cancer Cell,A road map for the treatment of pediatric diffuse midline glioma.,2023-10-12,2023-11-04,2023-12-02,75,15
+38086335,10.1016/j.ccell.2023.11.007,Cancer Cell,Druggable growth dependencies and tumor evolution analysis in patient-derived organoids of,2022-08-11,2023-11-08,2023-12-13,36,0
+38086334,10.1016/j.ccell.2023.11.009,Cancer Cell,ALKemy to enhance chimeric antigen receptor T cell immunotherapy for neuroblastoma.,2023-11-15,2023-11-17,2023-12-13,1,0
+38086333,10.1016/j.ccell.2023.11.006,Cancer Cell,NEN in a dish: A patient-derived organoid biobank illuminates potential novel therapeutic ,2023-11-07,2023-11-08,2023-12-13,2,0
+38039964,10.1016/j.ccell.2023.11.004,Cancer Cell,ALK inhibitors increase ALK expression and sensitize neuroblastoma cells to ALK.CAR-T cell,2022-07-13,2023-11-06,2023-12-02,21,76
+38039963,10.1016/j.ccell.2023.11.005,Cancer Cell,Phenotypic signatures of circulating neoantigen-reactive CD8+ T cells in patients with met,2022-09-29,2023-11-07,2023-12-02,25,57
+38039962,10.1016/j.ccell.2023.11.003,Cancer Cell,Genomic alterations driving precancerous to cancerous lesions in esophageal cancer develop,2023-04-12,2023-11-04,2023-12-02,11,0
+37995683,10.1016/j.ccell.2023.10.009,Cancer Cell,Temporal evolution reveals bifurcated lineages in aggressive neuroendocrine small cell pro,2023-03-15,2023-10-30,2023-11-24,25,95
+37995682,10.1016/j.ccell.2023.11.001,Cancer Cell,Therapeutic targeting of EP300/CBP by bromodomain inhibition in hematologic malignancies.,2022-07-08,2023-11-01,2023-11-24,23,0
+37977148,10.1016/j.ccell.2023.10.008,Cancer Cell,A longitudinal single-cell atlas of treatment response in pediatric AML.,2023-04-17,2023-10-26,2023-11-18,15,0
+37977147,10.1016/j.ccell.2023.10.007,Cancer Cell,The antitumor activities of anti-CD47 antibodies require Fc-FcγR interactions.,2023-04-21,2023-10-26,2023-11-18,4,75
+37890493,10.1016/j.ccell.2023.10.004,Cancer Cell,Spatiotemporal genomic profiling of intestinal metaplasia reveals clonal dynamics of gastr,2023-03-17,2023-10-06,2023-10-28,34,95
+37890491,10.1016/j.ccell.2023.10.005,Cancer Cell,From intestinal metaplasia to gastric cancer: Witnessing the rise of evil over time and sp,2023-10-06,2023-10-09,2023-10-28,3,0
+37890490,10.1016/j.ccell.2023.10.002,Cancer Cell,Bringing CAR T cell therapy trials to underserved populations.,2023-09-29,2023-10-02,2023-10-28,6,15
+37922910,10.1016/j.ccell.2023.10.006,Cancer Cell,Anti-PD-1 immunotherapy with androgen deprivation therapy induces robust immune infiltrati,2023-02-06,2023-10-10,2023-11-06,21,93
+37890494,10.1016/j.ccell.2023.10.001,Cancer Cell,Mitochondrial control of antigen presentation in cancer cells.,2023-09-29,2023-10-01,2023-10-28,3,0
+37890492,10.1016/j.ccell.2023.10.003,Cancer Cell,Tumor sequencing of African ancestry reveals differences in clinically relevant alteration,2022-10-25,2023-10-04,2023-10-28,26,46
+37863068,10.1016/j.ccell.2023.09.014,Cancer Cell,In vivo macrophage engineering reshapes the tumor microenvironment leading to eradication ,2023-02-17,2023-09-27,2023-10-21,24,0
+37863067,10.1016/j.ccell.2023.09.016,Cancer Cell,The one-two punch: TIM-3 blockade targets immune and tumor cells to knock out pediatric br,2023-09-27,2023-09-28,2023-10-21,2,0
+37863066,10.1016/j.ccell.2023.09.012,Cancer Cell,Tumor-resident Lactobacillus iners confer chemoradiation resistance through lactate-induce,2022-11-10,2023-09-25,2023-10-21,45,122
+37863064,10.1016/j.ccell.2023.09.013,Cancer Cell,Tumor-reactive T helper cells in the context of vaccination against glioma.,2023-05-21,2023-09-26,2023-10-21,5,0
+37832554,10.1016/j.ccell.2023.09.011,Cancer Cell,Progenitor-like exhausted SPRY1+CD8+ T cells potentiate responsiveness to neoadjuvant PD-1,2023-01-03,2023-09-18,2023-10-14,20,0
+37832553,10.1016/j.ccell.2023.09.015,Cancer Cell,Co-op CARs for targeting acute myeloid leukemia.,2023-09-19,2023-09-27,2023-10-14,2,0
+37802055,10.1016/j.ccell.2023.09.008,Cancer Cell,Single-cell mapping identifies MSI+ cells as a common origin for diverse subtypes of pancr,2022-02-16,2023-09-08,2023-10-07,23,88
+37802054,10.1016/j.ccell.2023.09.010,Cancer Cell,Cooperative CAR targeting to selectively eliminate AML and minimize escape.,2023-03-22,2023-09-15,2023-10-07,14,99
+37802053,10.1016/j.ccell.2023.09.001,Cancer Cell,TIM-3 blockade in diffuse intrinsic pontine glioma models promotes tumor regression and an,2023-02-07,2023-09-05,2023-10-07,34,57
+37774700,10.1016/j.ccell.2023.09.002,Cancer Cell,Beyond bacteria: How the intratumor mycobiome modulates lung adenocarcinoma progression.,2023-08-31,2023-09-05,2023-09-30,2,8
+37738973,10.1016/j.ccell.2023.08.012,Cancer Cell,The intratumor mycobiome promotes lung cancer progression via myeloid-derived suppressor c,2023-02-02,2023-08-28,2023-09-23,25,0
+37816332,10.1016/j.ccell.2023.09.003,Cancer Cell,Systematic investigation of mitochondrial transfer between cancer cells and T cells at sin,2023-01-24,2023-09-05,2023-10-11,16,78
+37816331,10.1016/j.ccell.2023.09.007,Cancer Cell,Dynamic circulating tumor DNA during chemoradiotherapy predicts clinical outcomes for loca,2023-05-08,2023-09-06,2023-10-11,31,0
+37816330,10.1016/j.ccell.2023.09.009,Cancer Cell,Integrating minimal residual disease monitoring into clinical practice for NSCLC: Is the e,2023-09-06,2023-09-12,2023-10-11,2,0
+37774699,10.1016/j.ccell.2023.09.005,Cancer Cell,Enzyme-mediated depletion of methylthioadenosine restores T cell function in MTAP-deficien,2023-01-10,2023-09-05,2023-09-30,21,79
+37774698,10.1016/j.ccell.2023.09.006,Cancer Cell,Loss of p53 and mutational heterogeneity drives immune resistance in an autochthonous mous,2023-02-12,2023-09-06,2023-09-30,17,71
+37774697,10.1016/j.ccell.2023.09.004,Cancer Cell,Genetic subtype-guided immunochemotherapy in diffuse large B cell lymphoma: The randomized,2023-02-28,2023-09-05,2023-09-30,19,0
+37774696,10.1016/j.ccell.2023.08.005,Cancer Cell,Genetically informed therapy for lymphoma: the discomfiting benefit of lumping splits.,2023-08-05,2023-08-09,2023-09-30,3,0
+37738976,10.1016/j.ccell.2023.08.014,Cancer Cell,Sensitizing cancer cells to immune checkpoint inhibitors by microbiota-mediated upregulati,2022-08-13,2023-08-31,2023-09-23,12,0
+37738974,10.1016/j.ccell.2023.08.013,Cancer Cell,ZNF683 marks a CD8+ T cell population associated with anti-tumor immunity following anti-P,2022-07-14,2023-08-30,2023-09-23,35,71
+37714150,10.1016/j.ccell.2023.08.011,Cancer Cell,Building smart CAR T cell therapies: The path to overcome current challenges.,2023-08-22,2023-08-25,2023-09-16,10,0
+37683640,10.1016/j.ccell.2023.08.009,Cancer Cell,PD-L1 and CD58 co-regulated by CMTM6 play yin and yang to shape anti-tumor immunity.,2023-08-14,2023-08-17,2023-09-09,2,0
+37683639,10.1016/j.ccell.2023.08.008,Cancer Cell,CMTM6 shapes antitumor T cell response through modulating protein expression of CD58 and P,2022-06-02,2023-08-15,2023-09-09,40,60
+37683638,10.1016/j.ccell.2023.08.010,Cancer Cell,Individualized tumor-informed circulating tumor DNA analysis for postoperative monitoring ,2023-02-02,2023-08-17,2023-09-09,16,0
+37699333,10.1016/j.ccell.2023.08.004,Cancer Cell,Tumor dynamics in patients with solid tumors treated with pembrolizumab beyond disease pro,2022-12-15,2023-08-08,2023-09-13,8,20
+37699332,10.1016/j.ccell.2023.08.003,Cancer Cell,Peeling the I-Onion to Demystify Pseudoprogression.,2023-08-07,2023-08-08,2023-09-13,2,0
+37699331,10.1016/j.ccell.2023.08.007,Cancer Cell,Unfolding the secrets of small cell lung cancer progression: Novel approaches and insights,2023-08-14,2023-08-14,2023-09-13,21,15
+37652007,10.1016/j.ccell.2023.07.010,Cancer Cell,Machine learning identifies experimental brain metastasis subtypes based on their influenc,2022-11-10,2023-07-26,2023-09-01,16,70
+37652006,10.1016/j.ccell.2023.08.002,Cancer Cell,Transformer-based biomarker prediction from colorectal cancer histology: A large-scale mul,2023-01-04,2023-08-07,2023-09-01,49,72
+37652005,10.1016/j.ccell.2023.08.006,Cancer Cell,Deep learning transforms colorectal cancer biomarker prediction from histopathology images,2023-08-10,2023-08-11,2023-09-01,3,0
+37652004,10.1016/j.ccell.2023.07.009,Cancer Cell,Tumors on different wavelengths.,2023-07-17,2023-07-24,2023-09-01,2,0
+37625402,10.1016/j.ccell.2023.08.001,Cancer Cell,Tumor immunogenicity dictates reliance on TCF1 in CD8+ T cells for response to immunothera,2022-11-09,2023-08-04,2023-08-26,16,57
+37625401,10.1016/j.ccell.2023.07.002,Cancer Cell,KRASG12D inhibition reprograms the microenvironment of early and advanced pancreatic cance,2023-02-17,2023-07-10,2023-08-26,24,42
+37595587,10.1016/j.ccell.2023.07.012,Cancer Cell,CD44+ lung cancer stem cell-derived pericyte-like cells cause brain metastases through GPR,2022-12-16,2023-07-28,2023-08-19,12,0
+37595585,10.1016/j.ccell.2023.07.008,Cancer Cell,Deciphering the landscape of transcriptional heterogeneity across cancer.,2023-07-20,2023-07-21,2023-08-19,2,0
+37582362,10.1016/j.ccell.2023.07.013,Cancer Cell,Integrative multi-omic cancer profiling reveals DNA methylation patterns associated with t,2022-07-12,2023-07-31,2023-08-16,26,127
+37567170,10.1016/j.ccell.2023.07.007,Cancer Cell,Proteogenomic insights suggest druggable pathways in endometrial carcinoma.,2022-07-14,2023-07-18,2023-08-12,94,123
+37541246,10.1016/j.ccell.2023.07.003,Cancer Cell,The winner takes it all: Competition drives clonal selection in gliomagenesis.,2023-07-10,2023-07-10,2023-08-05,1,0
+37541245,10.1016/j.ccell.2023.07.006,Cancer Cell,Chromophobe renal cell carcinoma.,2023-06-02,2023-07-13,2023-08-05,5,0
+37541244,10.1016/j.ccell.2023.07.005,Cancer Cell,Mammalian SWI/SNF chromatin remodeling complexes promote tyrosine kinase inhibitor resista,2022-05-13,2023-07-11,2023-08-05,26,104
+37541243,10.1016/j.ccell.2023.07.001,Cancer Cell,Early clonal extinction in glioblastoma progression revealed by genetic barcoding.,2022-03-03,2023-07-07,2023-08-05,10,0
+37541242,10.1016/j.ccell.2023.07.004,Cancer Cell,Gut microbiota: Guardians of the female gut health.,2023-07-06,2023-07-10,2023-08-05,2,0
+37478851,10.1016/j.ccell.2023.06.011,Cancer Cell,Carnobacterium maltaromaticum boosts intestinal vitamin D production to suppress colorecta,2022-04-11,2023-06-29,2023-07-22,26,0
+37478850,10.1016/j.ccell.2023.06.010,Cancer Cell,"Loss of SYNCRIP unleashes APOBEC-driven mutagenesis, tumor heterogeneity, and AR-targeted ",2022-10-02,2023-06-29,2023-07-22,31,176
+37451272,10.1016/j.ccell.2023.06.007,Cancer Cell,Tissue factor is a critical regulator of radiation therapy-induced glioblastoma remodeling,2022-05-26,2023-06-20,2023-07-15,23,95
+37451271,10.1016/j.ccell.2023.06.008,Cancer Cell,A distinct stimulatory cDC1 subpopulation amplifies CD8+ T cell responses in tumors for pr,2022-08-08,2023-06-22,2023-07-15,23,0
+37419119,10.1016/j.ccell.2023.06.005,Cancer Cell,Evolution of immune and stromal cell states and ecotypes during gastric adenocarcinoma pro,2022-11-13,2023-06-12,2023-07-08,39,117
+37433281,10.1016/j.ccell.2023.06.006,Cancer Cell,Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma.,2022-08-02,2023-06-14,2023-07-12,32,106
+37433280,10.1016/j.ccell.2023.06.004,Cancer Cell,Precise patient stratification in esophageal cancer: Biomarkers for immunochemotherapy.,2023-05-22,2023-06-12,2023-07-12,3,0
+37352863,10.1016/j.ccell.2023.05.016,Cancer Cell,Antiandrogen treatment induces stromal cell reprogramming to promote castration resistance,2022-09-22,2023-05-26,2023-06-24,25,0
+37352862,10.1016/j.ccell.2023.06.001,Cancer Cell,An integrated cellular and molecular model of gastric neuroendocrine cancer evolution high,2022-09-20,2023-06-01,2023-06-24,36,0
+37327789,10.1016/j.ccell.2023.05.014,Cancer Cell,The CD58-CD2 axis is co-regulated with PD-L1 via CMTM6 and shapes anti-tumor immunity.,2022-03-18,2023-05-22,2023-06-17,33,68
+37327788,10.1016/j.ccell.2023.05.015,Cancer Cell,MCT4-dependent lactate secretion suppresses antitumor immunity in LKB1-deficient lung aden,2022-08-24,2023-05-24,2023-06-17,26,94
+37295428,10.1016/j.ccell.2023.05.002,Cancer Cell,Circular RNAs drive oncogenic chromosomal translocations within the MLL recombinome in leu,2023-01-11,2023-05-03,2023-06-10,29,0
+37267954,10.1016/j.ccell.2023.05.006,Cancer Cell,Senescent alveolar macrophages promote early-stage lung tumorigenesis.,2022-06-10,2023-05-05,2023-06-03,9,56
+37267953,10.1016/j.ccell.2023.05.004,Cancer Cell,Clearance of senescent macrophages ameliorates tumorigenesis in KRAS-driven lung cancer.,2022-06-13,2023-05-05,2023-06-03,28,0
+37267952,10.1016/j.ccell.2023.05.008,Cancer Cell,"Senescent macrophages: A new ""old"" player in lung cancer development.",2023-05-10,2023-05-12,2023-06-03,2,10
+37244259,10.1016/j.ccell.2023.04.016,Cancer Cell,Exhaustion-associated cholesterol deficiency dampens the cytotoxic arm of antitumor immuni,2022-05-29,2023-04-25,2023-05-28,19,0
+37244258,10.1016/j.ccell.2023.05.013,Cancer Cell,Cholesterol atlas of tumor microenvironment provides route to improved CAR-T therapy.,2023-05-10,2023-05-16,2023-05-28,2,0
+37236197,10.1016/j.ccell.2023.04.019,Cancer Cell,YTHDF2 inhibition potentiates radiotherapy antitumor efficacy.,2022-08-30,2023-04-28,2023-05-27,22,92
+37311415,10.1016/j.ccell.2023.05.010,Cancer Cell,Adiposity and sex-specific cancer risk.,2022-08-09,2023-05-15,2023-06-14,6,0
+37311414,10.1016/j.ccell.2023.05.009,Cancer Cell,Taxanes trigger cancer cell killing in vivo by inducing non-canonical T cell cytotoxicity.,2022-04-11,2023-05-11,2023-06-14,27,0
+37311413,10.1016/j.ccell.2023.05.007,Cancer Cell,Single cell clonotypic and transcriptional evolution of multiple myeloma precursor disease,2022-10-24,2023-05-09,2023-06-14,30,56
+37311412,10.1016/j.ccell.2023.05.012,Cancer Cell,Taxanes directly induce T cell cytotoxic extracellular vesicles to eradicate tumor cells.,2023-05-16,2023-05-16,2023-06-14,3,0
+37311411,10.1016/j.ccell.2023.05.011,Cancer Cell,Decoding evolutionary trajectories of ovarian cancer metastasis.,2023-05-07,2023-05-15,2023-06-14,2,10
+37267951,10.1016/j.ccell.2023.05.005,Cancer Cell,Methionine restriction promotes cGAS activation and chromatin untethering through demethyl,2021-10-08,2023-05-08,2023-06-03,29,0
+37236196,10.1016/j.ccell.2023.05.001,Cancer Cell,CDKN2A deletion remodels lipid metabolism to prime glioblastoma for ferroptosis.,2022-09-20,2023-05-02,2023-05-27,18,74
+37236195,10.1016/j.ccell.2023.04.018,Cancer Cell,Context-dependent activation of STING-interferon signaling by CD11b agonists enhances anti,2022-05-26,2023-04-27,2023-05-27,20,80
+37207656,10.1016/j.ccell.2023.04.015,Cancer Cell,Calreticulin exposure orchestrates innate immunosurveillance.,2023-04-14,2023-04-25,2023-05-20,3,0
+37207655,10.1016/j.ccell.2023.04.017,Cancer Cell,Evolutionary states and trajectories characterized by distinct pathways stratify patients ,2022-08-23,2023-04-25,2023-05-20,22,0
+37207654,10.1016/j.ccell.2023.04.014,Cancer Cell,Tislelizumab plus chemotherapy as first-line treatment for recurrent or metastatic nasopha,2022-08-25,2023-04-24,2023-05-20,30,0
+37207653,10.1016/j.ccell.2023.04.013,Cancer Cell,Hot on the trail in the TME: Clues from a trilogy of checkpoint inhibitor trials in nasoph,2023-04-07,2023-04-20,2023-05-20,2,0
+37172581,10.1016/j.ccell.2023.04.010,Cancer Cell,Tailoring vascular phenotype through AAV therapy promotes anti-tumor immunity in glioma.,2022-06-10,2023-04-18,2023-05-13,20,0
+37172580,10.1016/j.ccell.2023.04.011,Cancer Cell,Remodeling of the immune and stromal cell compartment by PD-1 blockade in mismatch repair-,2022-07-08,2023-04-18,2023-05-13,18,0
+37172579,10.1016/j.ccell.2023.04.012,Cancer Cell,RECISTv1.1 progression in oncology: Shades of gray.,2023-04-18,2023-04-20,2023-05-13,3,0
+37146605,10.1016/j.ccell.2023.04.008,Cancer Cell,Clinical significance and biology of circulating tumor DNA in high-risk early-stage HER2-n,2022-09-12,2023-04-12,2023-05-06,31,56
+37146604,10.1016/j.ccell.2023.04.006,Cancer Cell,"Evolutionary landscape of clonal hematopoiesis in 3,359 individuals from the general popul",2022-08-23,2023-04-07,2023-05-06,10,0
+37160102,10.1016/j.ccell.2023.04.004,Cancer Cell,A genetic portrait of metastatic seeds in lung adenocarcinoma.,2023-04-04,2023-04-07,2023-05-10,2,0
+37160101,10.1016/j.ccell.2023.04.007,Cancer Cell,B cell-rich niches support stem-like CD8+ T cells in cancer microenvironment.,2023-04-07,2023-04-11,2023-05-10,1,0
+37116492,10.1016/j.ccell.2023.04.002,Cancer Cell,A living biobank of patient-derived ductal carcinoma in situ mouse-intraductal xenografts ,2022-08-16,2023-04-04,2023-04-29,29,81
+37116491,10.1016/j.ccell.2023.04.003,Cancer Cell,Systematic elucidation and pharmacological targeting of tumor-infiltrating regulatory T ce,2022-04-01,2023-04-06,2023-04-29,21,75
+37116489,10.1016/j.ccell.2023.04.001,Cancer Cell,Simultaneous targeting of PD-1 and IL-2Rβγ with radiation therapy inhibits pancreatic canc,2022-09-26,2023-03-31,2023-04-29,26,73
+37086716,10.1016/j.ccell.2023.03.019,Cancer Cell,Early immune pressure initiated by tissue-resident memory T cells sculpts tumor evolution ,2022-07-18,2023-03-24,2023-04-23,29,0
+37084736,10.1016/j.ccell.2023.03.018,Cancer Cell,Genomic mapping of metastatic organotropism in lung adenocarcinoma.,2022-08-24,2023-03-22,2023-04-22,27,62
+37084735,10.1016/j.ccell.2023.03.021,Cancer Cell,Transcriptional-translational conflict is a barrier to cellular transformation and cancer ,2022-07-27,2023-03-24,2023-04-22,25,89
+37059106,10.1016/j.ccell.2023.03.016,Cancer Cell,An immunogenic and oncogenic feature-based classification for chemotherapy plus PD-1 block,2022-07-22,2023-03-22,2023-04-15,20,0
+37059105,10.1016/j.ccell.2023.03.015,Cancer Cell,Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of ,2022-07-31,2023-03-22,2023-04-15,18,60
+37059104,10.1016/j.ccell.2023.03.014,Cancer Cell,Phenotypic plasticity and reduced tissue retention of exhausted tumor-infiltrating T cells,2022-08-24,2023-03-21,2023-04-15,13,60
+37059102,10.1016/j.ccell.2023.03.013,Cancer Cell,No rest for the wicked: Tumor cell senescence reshapes the immune microenvironment.,2023-02-22,2023-03-20,2023-04-15,2,0
+37054715,10.1016/j.ccell.2023.03.020,Cancer Cell,Insights into the co-evolution of epithelial cells and fibroblasts in the esophageal tumor,2023-03-23,2023-03-27,2023-04-14,2,0
+36963399,10.1016/j.ccell.2023.03.001,Cancer Cell,Epithelial cells activate fibroblasts to promote esophageal cancer development.,2022-08-29,2023-02-28,2023-03-25,15,0
+37037617,10.1016/j.ccell.2023.03.005,Cancer Cell,T cell immune deficiency rather than chromosome instability predisposes patients with shor,2022-10-15,2023-03-06,2023-04-11,14,67
+37037616,10.1016/j.ccell.2023.03.010,Cancer Cell,Prior anti-CTLA-4 therapy impacts molecular characteristics associated with anti-PD-1 resp,2022-08-21,2023-03-08,2023-04-11,19,69
+37037615,10.1016/j.ccell.2023.03.008,Cancer Cell,Neutrophil extracellular traps formed during chemotherapy confer treatment resistance via ,2022-03-24,2023-03-07,2023-04-11,20,74
+37037614,10.1016/j.ccell.2023.03.011,Cancer Cell,ChemoNETosis: A road to tumor therapeutic resistance.,2022-09-20,2023-03-13,2023-04-11,3,0
+37001528,10.1016/j.ccell.2023.03.006,Cancer Cell,Challenges and opportunities for modeling aging and cancer.,2023-02-22,2023-03-06,2023-04-01,16,15
+37001527,10.1016/j.ccell.2023.03.007,Cancer Cell,Generation and multi-dimensional profiling of a childhood cancer cell line atlas defines n,2022-09-28,2023-03-07,2023-04-01,56,0
+37001526,10.1016/j.ccell.2023.03.009,Cancer Cell,Lineage tracing reveals clonal progenitors and long-term persistence of tumor-specific T c,2022-03-07,2023-03-07,2023-04-01,33,50
+37001525,10.1016/j.ccell.2023.02.020,Cancer Cell,A progressive T cell exhaustion program mapped across tissues in patients with lung cancer,2023-02-17,2023-02-23,2023-04-01,2,0
+36963401,10.1016/j.ccell.2023.03.002,Cancer Cell,Targeting the mevalonate pathway suppresses ARID1A-inactivated cancers by promoting pyropt,2022-06-03,2023-02-28,2023-03-25,21,74
+36963400,10.1016/j.ccell.2023.03.004,Cancer Cell,Neutralizing IL-8 potentiates immune checkpoint blockade efficacy for glioma.,2022-05-12,2023-03-02,2023-03-25,39,0
+36898380,10.1016/j.ccell.2023.02.010,Cancer Cell,Dual IKZF2 and CK1α degrader targets acute myeloid leukemia cells.,2022-07-26,2023-02-09,2023-03-11,13,39
+36898379,10.1016/j.ccell.2023.02.019,Cancer Cell,Transcriptome analysis reveals tumor microenvironment changes in glioblastoma.,2022-06-02,2023-02-14,2023-03-11,31,0
+36898378,10.1016/j.ccell.2023.02.008,Cancer Cell,The pre-existing T cell landscape determines the response to bispecific T cell engagers in,2022-05-20,2023-02-08,2023-03-11,20,0
+36917954,10.1016/j.ccell.2023.02.005,Cancer Cell,Tumor PD-L1 engages myeloid PD-1 to suppress type I interferon to impair cytotoxic T lymph,2022-02-03,2023-02-07,2023-03-15,11,84
+36868226,10.1016/j.ccell.2023.02.004,Cancer Cell,Apolipoprotein E induces pathogenic senescent-like myeloid cells in prostate cancer.,2022-04-12,2023-02-06,2023-03-04,31,0
+36827978,10.1016/j.ccell.2023.01.004,Cancer Cell,Intratumoral CD8+ T cells with a tissue-resident memory phenotype mediate local immunity a,2022-05-04,2023-01-13,2023-02-25,26,0
+36787696,10.1016/j.ccell.2023.01.007,Cancer Cell,CD70 is a therapeutic target upregulated in EMT-associated EGFR tyrosine kinase inhibitor ,2022-04-27,2023-01-17,2023-02-15,27,75
+36736318,10.1016/j.ccell.2023.01.003,Cancer Cell,IDH2 and TET2 mutations synergize to modulate T Follicular Helper cell functional interact,2022-02-24,2023-01-11,2023-02-04,21,0
+36706761,10.1016/j.ccell.2023.01.001,Cancer Cell,Immune checkpoint HLA-E:CD94-NKG2A mediates evasion of circulating tumor cells from NK cel,2022-03-25,2023-01-04,2023-01-28,16,0
+36706760,10.1016/j.ccell.2023.01.002,Cancer Cell,Neutrophil-activating therapy for the treatment of cancer.,2021-12-01,2023-01-05,2023-01-28,14,81
+36669486,10.1016/j.ccell.2022.12.009,Cancer Cell,Base editing screens map mutations affecting interferon-γ signaling in cancer.,2022-07-01,2022-12-22,2023-01-21,22,86
+36638785,10.1016/j.ccell.2022.12.007,Cancer Cell,MHC class II-restricted antigen presentation is required to prevent dysfunction of cytotox,2022-05-10,2022-12-16,2023-01-14,21,0
+36638784,10.1016/j.ccell.2022.12.008,Cancer Cell,Intersection of immune and oncometabolic pathways drives cancer hyperprogression during im,2022-07-08,2022-12-20,2023-01-14,27,88
+36525970,10.1016/j.ccell.2022.11.016,Cancer Cell,Hyaluronan driven by epithelial aPKC deficiency remodels the microenvironment and creates ,2022-07-07,2022-11-22,2022-12-17,23,76
+36584674,10.1016/j.ccell.2022.12.003,Cancer Cell,Genetic and pharmacological modulation of DNA mismatch repair heterogeneous tumors promote,2022-01-08,2022-12-06,2022-12-31,19,45
+36584673,10.1016/j.ccell.2022.12.005,Cancer Cell,Determinants of resistance to engineered T cell therapies targeting CD19 in large B cell l,2021-12-18,2022-12-06,2022-12-31,36,67
+36584672,10.1016/j.ccell.2022.12.004,Cancer Cell,Integrated multi-omics profiling yields a clinically relevant molecular classification for,2022-02-07,2022-12-06,2022-12-31,37,0
+36563682,10.1016/j.ccell.2022.12.002,Cancer Cell,Modulation of RNA splicing enhances response to BCL2 inhibition in leukemia.,2022-05-02,2022-12-05,2022-12-24,27,108
+36563681,10.1016/j.ccell.2022.12.001,Cancer Cell,Histopathologic and proteogenomic heterogeneity reveals features of clear cell renal cell ,2022-03-18,2022-11-30,2022-12-24,69,169
+36563680,10.1016/j.ccell.2022.11.013,Cancer Cell,Gut microbiota-mediated nucleotide synthesis attenuates the response to neoadjuvant chemor,2022-01-21,2022-11-23,2022-12-24,20,0
+36525973,10.1016/j.ccell.2022.11.015,Cancer Cell,KMT2D deficiency drives lung squamous cell carcinoma and hypersensitivity to RTK-RAS inhib,2022-04-13,2022-11-22,2022-12-17,33,80
+36525971,10.1016/j.ccell.2022.11.014,Cancer Cell,IL-5-producing CD4+ T cells and eosinophils cooperate to enhance response to immune checkp,2022-03-01,2022-11-23,2022-12-17,29,0
+36332625,10.1016/j.ccell.2022.10.002,Cancer Cell,Selective advantage of epigenetically disrupted cancer cells via phenotypic inertia.,2022-05-07,2022-10-04,2022-11-05,15,0
+39729997,10.1016/j.ccell.2024.12.001,Cancer Cell,Targeting P4HA1 promotes CD8+ T cell progenitor expansion toward immune memory and systemi,2024-05-10,2024-12-05,2024-12-28,13,0
+39672169,10.1016/j.ccell.2024.11.013,Cancer Cell,Commensal papillomavirus immunity preserves the homeostasis of highly mutated normal skin.,2024-08-29,2024-11-21,2024-12-14,24,71
+39672168,10.1016/j.ccell.2024.11.012,Cancer Cell,Daily glucocorticoids promote glioblastoma growth and circadian synchrony to the host.,2024-05-28,2024-11-19,2024-12-14,9,105
+39672167,10.1016/j.ccell.2024.11.014,Cancer Cell,A metabolic pathway for improving adoptive cellular therapy.,2024-11-11,2024-11-21,2024-12-14,3,0
+39672166,10.1016/j.ccell.2024.11.008,Cancer Cell,Inhibiting intracellular CD28 in cancer cells enhances antitumor immunity and overcomes an,2024-02-24,2024-11-12,2024-12-14,12,0
+39672164,10.1016/j.ccell.2024.11.004,Cancer Cell,Stressing the importance of circadian time in treatment responses.,2024-10-25,2024-11-07,2024-12-14,1,10
+39642889,10.1016/j.ccell.2024.11.006,Cancer Cell,EZH2 inhibition enhances T cell immunotherapies by inducing lymphoma immunogenicity and im,2024-03-21,2024-11-13,2024-12-07,25,79
+39642888,10.1016/j.ccell.2024.11.003,Cancer Cell,Mannose metabolism reshapes T cell differentiation to enhance anti-tumor immunity.,2024-01-27,2024-11-06,2024-12-07,12,106
+39423816,10.1016/j.ccell.2024.09.014,Cancer Cell,Integrating priorities at the intersection of cancer and neuroscience.,2024-09-17,2024-09-23,2024-10-19,32,15
+39658541,10.1016/j.ccell.2024.11.005,Cancer Cell,Chemotherapy induces myeloid-driven spatially confined T cell exhaustion in ovarian cancer,2024-03-18,2024-11-07,2024-12-11,26,119
+39658540,10.1016/j.ccell.2024.11.002,Cancer Cell,Myeloid effector cells in cancer.,2024-08-08,2024-11-06,2024-12-11,7,0
+39658539,10.1016/j.ccell.2024.11.001,Cancer Cell,Molecular subtyping in urothelial carcinoma treatment.,2024-10-22,2024-11-06,2024-12-11,2,0
+39577423,10.1016/j.ccell.2024.10.018,Cancer Cell,Unraveling the tumor-initiating cells in hepatocellular carcinoma.,2024-10-09,2024-10-30,2024-11-23,3,0
+39577422,10.1016/j.ccell.2024.10.015,Cancer Cell,Elucidating acquired PARP inhibitor resistance in advanced prostate cancer.,2024-04-12,2024-10-28,2024-11-23,36,37
+39577421,10.1016/j.ccell.2024.10.016,Cancer Cell,Molecular heterogeneity in urothelial carcinoma and determinants of clinical benefit to PD,2024-01-16,2024-10-29,2024-11-23,33,0
+39577420,10.1016/j.ccell.2024.10.014,Cancer Cell,Interleukin-1α release during necrotic-like cell death generates myeloid-driven immunosupp,2024-04-05,2024-10-25,2024-11-23,17,77
+39547232,10.1016/j.ccell.2024.10.011,Cancer Cell,Itaconate promotes an unexpected tumor immune escape mechanism.,2024-10-14,2024-10-21,2024-11-16,2,0
+39547231,10.1016/j.ccell.2024.10.012,Cancer Cell,Pericancerous cross-presentation to cytotoxic T lymphocytes impairs immunotherapeutic effi,2024-06-11,2024-10-21,2024-11-16,14,0
+39515328,10.1016/j.ccell.2024.10.008,Cancer Cell,Targeting the immune privilege of tumor-initiating cells to enhance cancer immunotherapy.,2024-05-02,2024-10-11,2024-11-13,38,0
+39515327,10.1016/j.ccell.2024.10.010,Cancer Cell,Itaconate transporter SLC13A3 impairs tumor immunity via endowing ferroptosis resistance.,2024-05-21,2024-10-16,2024-11-13,25,57
+39532065,10.1016/j.ccell.2024.10.009,Cancer Cell,In vivo models of subclonal oncogenesis and dependency in hematopoietic malignancy.,2023-02-14,2024-10-15,2024-11-13,35,84
+39486413,10.1016/j.ccell.2024.10.006,Cancer Cell,Targeting DLK1 in neuroblastoma.,2024-09-09,2024-10-09,2024-11-02,1,0
+39486411,10.1016/j.ccell.2024.10.007,Cancer Cell,Neoadjuvant vidutolimod and nivolumab in high-risk resectable melanoma: A prospective phas,2024-06-13,2024-10-10,2024-11-02,53,110
+39486410,10.1016/j.ccell.2024.10.001,Cancer Cell,Intratumoral vidutolimod in combination with PD-1 blockade in locoregionally advanced mela,2024-09-27,2024-10-01,2024-11-02,2,0
+39486409,10.1016/j.ccell.2024.10.004,Cancer Cell,Finding the right friends: Stromal composition influences TLS formation in ovarian cancer.,2024-10-04,2024-10-04,2024-11-02,1,0
+39454578,10.1016/j.ccell.2024.10.002,Cancer Cell,GDF15 research from bench to bedside.,2024-09-29,2024-10-02,2024-10-26,3,0
+39454577,10.1016/j.ccell.2024.10.003,Cancer Cell,A proteogenomic surfaceome study identifies DLK1 as an immunotherapeutic target in neurobl,2024-02-28,2024-10-03,2024-10-26,38,83
+39423817,10.1016/j.ccell.2024.09.012,Cancer Cell,Overcoming tyrosine kinase inhibitor resistance in lung cancer brain metastasis with CTLA4,2023-12-18,2024-09-17,2024-10-19,22,0
+39423815,10.1016/j.ccell.2024.09.015,Cancer Cell,IL-1 signaling in aging and cancer: An inflammaging feedback loop unveiled.,2024-09-23,2024-09-23,2024-10-19,3,0
+39393358,10.1016/j.ccell.2024.09.005,Cancer Cell,Accelerated approvals: Early-phase success or premature authorization?,2024-07-12,2024-09-13,2024-10-12,3,0
+39393357,10.1016/j.ccell.2024.09.007,Cancer Cell,The activity of tertiary lymphoid structures in high grade serous ovarian cancer is govern,2023-07-03,2024-09-16,2024-10-12,13,70
+39393354,10.1016/j.ccell.2024.09.009,Cancer Cell,Long-term breast cancer response to CDK4/6 inhibition defined by TP53-mediated geroconvers,2023-11-09,2024-09-16,2024-10-12,28,86
+39366375,10.1016/j.ccell.2024.09.002,Cancer Cell,Midkine as a driver of age-related changes and increase in mammary tumorigenesis.,2024-01-17,2024-09-11,2024-10-06,13,98
+39366374,10.1016/j.ccell.2024.09.003,Cancer Cell,Midkine links aging with breast cancer-A new predictor of cancer risk.,2024-09-07,2024-09-11,2024-10-06,1,0
+39406187,10.1016/j.ccell.2024.09.011,Cancer Cell,A pan-cancer single-cell RNA-seq atlas of intratumoral B cells.,2023-11-15,2024-09-17,2024-10-16,8,0
+39406186,10.1016/j.ccell.2024.09.008,Cancer Cell,A prospective study of neoadjuvant pembrolizumab plus chemotherapy for resectable esophage,2023-11-18,2024-09-16,2024-10-16,31,0
+39406185,10.1016/j.ccell.2024.09.013,Cancer Cell,B cell heterogeneity in cancer comes of age.,2024-09-14,2024-09-18,2024-10-16,2,10
+39366373,10.1016/j.ccell.2024.09.004,Cancer Cell,Spark in the darkness: Discovering action potentials in brain tumors.,2024-09-05,2024-09-12,2024-10-06,3,0
+39332398,10.1016/j.ccell.2024.08.021,Cancer Cell,Architecture sets the path: Breast cancer subtypes differently shape the early brain metas,2024-08-23,2024-08-29,2024-09-28,2,0
+39332397,10.1016/j.ccell.2024.08.022,Cancer Cell,Universal and tissue-specific fibroblasts in chronic inflammation and cancer.,2024-08-19,2024-08-30,2024-09-28,2,0
+39303726,10.1016/j.ccell.2024.08.018,Cancer Cell,Coagulation factor X promotes resistance to androgen-deprivation therapy in prostate cance,2023-12-06,2024-08-22,2024-09-21,45,0
+39303725,10.1016/j.ccell.2024.08.020,Cancer Cell,Cross-tissue human fibroblast atlas reveals myofibroblast subtypes with distinct roles in ,2023-10-28,2024-08-28,2024-09-21,17,0
+39303724,10.1016/j.ccell.2024.08.019,Cancer Cell,Fusobacterium nucleatum facilitates anti-PD-1 therapy in microsatellite stable colorectal ,2023-12-14,2024-08-23,2024-09-21,24,0
+39270646,10.1016/j.ccell.2024.08.015,Cancer Cell,Distinct tumor architectures and microenvironments for the initiation of breast cancer met,2023-01-20,2024-08-20,2024-09-14,21,137
+39241781,10.1016/j.ccell.2024.08.009,Cancer Cell,Integrated electrophysiological and genomic profiles of single cells reveal spiking tumor ,2023-08-04,2024-08-08,2024-09-07,17,79
+39255777,10.1016/j.ccell.2024.08.013,Cancer Cell,Circulating tumor DNA-based stratification strategy for chemotherapy plus PD-1 inhibitor i,2024-01-03,2024-08-14,2024-09-11,69,0
+39255776,10.1016/j.ccell.2024.08.008,Cancer Cell,"Glioblastoma induces the recruitment and differentiation of dendritic-like ""hybrid"" neutro",2023-03-08,2024-08-08,2024-09-11,19,73
+39255775,10.1016/j.ccell.2024.08.012,Cancer Cell,Fibrotic response to anti-CSF-1R therapy potentiates glioblastoma recurrence.,2023-06-21,2024-08-12,2024-09-11,20,0
+39255774,10.1016/j.ccell.2024.08.014,Cancer Cell,Assessing clonal changes in T cells over time following immunotherapy is a breeze with Cyc,2024-08-08,2024-08-16,2024-09-11,2,0
+39255773,10.1016/j.ccell.2024.08.011,Cancer Cell,"Classifying cancer-associated fibroblasts-The good, the bad, and the target.",2024-05-09,2024-08-09,2024-09-11,3,0
+39214097,10.1016/j.ccell.2024.08.007,Cancer Cell,Combination anti-PD-1 and anti-CTLA-4 therapy generates waves of clonal responses that inc,2024-04-11,2024-08-08,2024-08-31,38,97
+39214094,10.1016/j.ccell.2024.08.002,Cancer Cell,Distinct clinical outcomes and biological features of specific KRAS mutants in human pancr,2023-12-01,2024-08-05,2024-08-31,31,58
+39214093,10.1016/j.ccell.2024.08.001,Cancer Cell,The KRAS mutational spectrum and its clinical implications in pancreatic cancer.,2024-07-31,2024-08-01,2024-08-31,3,0
+39214092,10.1016/j.ccell.2024.08.003,Cancer Cell,PD-1 blockade is a promising therapeutic addition to neoadjuvant chemoradiation in locally,2024-08-05,2024-08-05,2024-08-31,2,10
+39094560,10.1016/j.ccell.2024.07.004,Cancer Cell,Effect of neoadjuvant chemoradiotherapy with or without PD-1 antibody sintilimab in pMMR l,2023-12-24,2024-07-08,2024-08-03,20,0
+39232581,10.1016/j.ccell.2024.08.006,Cancer Cell,GABAergic neuronal lineage development determines clinically actionable targets in diffuse,2023-07-11,2024-08-07,2024-09-05,71,119
+39137729,10.1016/j.ccell.2024.07.007,Cancer Cell,Interleukin-21 engineering enhances NK cell activity against glioblastoma via CEBPD.,2024-02-26,2024-07-17,2024-08-14,34,74
+39137728,10.1016/j.ccell.2024.07.008,Cancer Cell,Thyroid hormone suppresses medulloblastoma progression through promoting terminal differen,2023-11-17,2024-07-17,2024-08-14,17,57
+39137727,10.1016/j.ccell.2024.07.005,Cancer Cell,Integrative plasma and fecal metabolomics identify functional metabolites in adenoma-color,2023-04-12,2024-07-17,2024-08-14,24,0
+39137726,10.1016/j.ccell.2024.07.006,Cancer Cell,CCL19-producing fibroblasts promote tertiary lymphoid structure formation enhancing anti-t,2023-08-12,2024-07-17,2024-08-14,16,0
+39137725,10.1016/j.ccell.2024.07.003,Cancer Cell,"When playing the NK cell therapy card in glioblastoma, you can't beat interleukin-21.",2024-06-25,2024-07-02,2024-08-14,1,0
+39137724,10.1016/j.ccell.2024.07.011,Cancer Cell,Leading medulloblastoma to a differentiation end.,2024-07-10,2024-07-19,2024-08-14,2,0
+39059389,10.1016/j.ccell.2024.07.001,Cancer Cell,Longitudinal on-treatment circulating tumor DNA as a biomarker for real-time dynamic risk ,2024-01-11,2024-07-01,2024-07-27,22,0
+39029467,10.1016/j.ccell.2024.06.016,Cancer Cell,Perilymphatic regulatory T cell-dendritic cell interactions represent a novel axis of immu,2024-06-21,2024-06-24,2024-07-20,2,0
+39029466,10.1016/j.ccell.2024.06.014,Cancer Cell,Lymphatic-localized Treg-mregDC crosstalk limits antigen trafficking and restrains anti-tu,2023-10-02,2024-06-23,2024-07-20,23,0
+39029465,10.1016/j.ccell.2024.06.013,Cancer Cell,Transcription factor dependencies identify BAF-dependent cancers.,2024-06-14,2024-06-21,2024-07-20,2,0
+39029464,10.1016/j.ccell.2024.06.012,Cancer Cell,Mammalian SWI/SNF complex activity regulates POU2F3 and constitutes a targetable dependenc,2023-12-19,2024-06-21,2024-07-20,29,73
+39029462,10.1016/j.ccell.2024.06.006,Cancer Cell,Targeting the mSWI/SNF complex in POU2F-POU2AF transcription factor-driven malignancies.,2023-12-05,2024-06-11,2024-07-20,32,79
+38981440,10.1016/j.ccell.2024.06.003,Cancer Cell,Circulating tumor extracellular vesicles to monitor metastatic prostate cancer genomics an,2023-08-24,2024-06-07,2024-07-10,31,0
+38981439,10.1016/j.ccell.2024.06.009,Cancer Cell,Spatiotemporal single-cell analysis decodes cellular dynamics underlying different respons,2023-07-12,2024-06-14,2024-07-10,17,0
+38981438,10.1016/j.ccell.2024.06.004,Cancer Cell,Multi-scale signaling and tumor evolution in high-grade gliomas.,2023-11-20,2024-06-10,2024-07-10,76,123
+38981437,10.1016/j.ccell.2024.06.007,Cancer Cell,Casting a wider net: The clinical potential of EV transcriptomics in multi-analyte liquid ,2024-05-31,2024-06-11,2024-07-10,3,0
+38981436,10.1016/j.ccell.2024.06.005,Cancer Cell,HRS-4642: The next piece of the puzzle to keep KRAS in check.,2024-06-03,2024-06-10,2024-07-10,2,0
+38981435,10.1016/j.ccell.2024.06.011,Cancer Cell,Medulloblastoma subgrouping at first sight.,2024-06-04,2024-06-18,2024-07-10,2,0
+38981434,10.1016/j.ccell.2024.06.010,Cancer Cell,Immune cell triads reprogram exhausted CD8+ T cells for effective tumor elimination.,2024-06-14,2024-06-17,2024-07-10,4,0
+38942026,10.1016/j.ccell.2024.06.001,Cancer Cell,Anti-tumor efficacy of HRS-4642 and its potential combination with proteasome inhibition i,2023-11-18,2024-06-04,2024-06-29,29,0
+38942025,10.1016/j.ccell.2024.06.002,Cancer Cell,Advancing presurgical non-invasive molecular subgroup prediction in medulloblastoma using ,2023-08-18,2024-06-05,2024-06-29,26,77
+38906157,10.1016/j.ccell.2024.05.024,Cancer Cell,Neoadjuvant SHR-1701 with or without chemotherapy in unresectable stage III non-small-cell,2024-01-07,2024-05-28,2024-06-22,21,0
+38906156,10.1016/j.ccell.2024.05.026,Cancer Cell,IRF4 requires ARID1A to establish plasma cell identity in multiple myeloma.,2024-01-12,2024-05-30,2024-06-22,21,78
+38906155,10.1016/j.ccell.2024.05.025,Cancer Cell,Intratumoral immune triads are required for immunotherapy-mediated elimination of solid tu,2023-07-01,2024-05-29,2024-06-22,12,100
+38906154,10.1016/j.ccell.2024.05.023,Cancer Cell,How can we integrate the biology of breast cancer cell dormancy into clinical practice?,2024-04-10,2024-05-28,2024-06-22,4,0
+38848721,10.1016/j.ccell.2024.05.017,Cancer Cell,Engineering cancer's end: An interdisciplinary approach to confront the complexities of ca,2024-05-06,2024-05-15,2024-06-08,2,0
+38848719,10.1016/j.ccell.2024.04.013,Cancer Cell,Engineering focusing on cancer.,2024-04-24,2024-04-29,2024-06-08,6,16
+38861932,10.1016/j.ccell.2024.05.020,Cancer Cell,Finding the sweet spot: Targeting RAS in tumors while sparing normal tissue.,2024-05-16,2024-05-20,2024-06-12,2,0
+38861931,10.1016/j.ccell.2024.05.016,Cancer Cell,Breaking up the CD8+ T cell: Treg pas de deux.,2024-05-01,2024-05-15,2024-06-12,3,0
+38861930,10.1016/j.ccell.2024.05.012,Cancer Cell,Hand in hand to successful immunotherapy: CD8+ T cells and M1-like macrophages swap the ba,2024-05-02,2024-05-10,2024-06-12,4,0
+38861929,10.1016/j.ccell.2024.05.018,Cancer Cell,Mapping myeloid cell function: Spatial diversity in tumor and neuronal microenvironment.,2024-05-11,2024-05-20,2024-06-12,3,0
+38861926,10.1016/j.ccell.2024.05.021,Cancer Cell,Artificial intelligence.,2024-04-04,2024-05-21,2024-06-12,8,0
+38861924,10.1016/j.ccell.2024.05.013,Cancer Cell,Interruption of the intratumor CD8+ T cell:Treg crosstalk improves the efficacy of PD-1 im,2023-05-16,2024-05-14,2024-06-12,17,83
+38861923,10.1016/j.ccell.2024.05.011,Cancer Cell,Integrated single cell analysis reveals co-evolution of malignant B cells and tumor micro-,2023-04-04,2024-05-09,2024-06-12,20,0
+38821062,10.1016/j.ccell.2024.05.007,Cancer Cell,Neural deception: Breast cancer co-opts neuronal mechanisms to evade the immune system.,2024-04-24,2024-05-06,2024-06-01,3,0
+38821061,10.1016/j.ccell.2024.05.006,Cancer Cell,Tumor cells impair immunological synapse formation via central nervous system-enriched met,2023-07-04,2024-05-06,2024-06-01,13,0
+38821060,10.1016/j.ccell.2024.05.004,Cancer Cell,The temporal progression of lung immune remodeling during breast cancer metastasis.,2023-05-09,2024-05-06,2024-06-01,8,102
+38788721,10.1016/j.ccell.2024.04.014,Cancer Cell,The case for therapeutic overactivation of oncogenic signaling as a potential cancer treat,2024-03-11,2024-04-29,2024-05-25,3,0
+38788720,10.1016/j.ccell.2024.05.003,Cancer Cell,Olfactory neuroblastoma mimics molecular heterogeneity and lineage trajectories of small-c,2023-12-01,2024-05-02,2024-05-25,12,132
+38788719,10.1016/j.ccell.2024.05.001,Cancer Cell,Distinct roles of TREM2 in central nervous system cancers and peripheral cancers.,2023-10-02,2024-05-01,2024-05-25,14,0
+38788718,10.1016/j.ccell.2024.05.002,Cancer Cell,Molecular subtypes of neuroendocrine carcinomas: A cross-tissue classification framework b,2023-06-27,2024-05-01,2024-05-25,20,0
+38759656,10.1016/j.ccell.2024.04.011,Cancer Cell,Immunotherapy-activated T cells recruit and skew late-stage activated M1-like macrophages ,2023-09-29,2024-04-24,2024-05-18,15,0
+38759655,10.1016/j.ccell.2024.04.012,Cancer Cell,Integrative molecular and spatial analysis reveals evolutionary dynamics and tumor-immune ,2022-11-10,2024-04-26,2024-05-18,17,0
+38744246,10.1016/j.ccell.2024.04.010,Cancer Cell,Tracking in situ checkpoint inhibitor-bound target T cells in patients with checkpoint-ind,2023-05-23,2024-04-17,2024-05-15,30,93
+38744245,10.1016/j.ccell.2024.04.008,Cancer Cell,Comprehensive peripheral blood immunoprofiling reveals five immunotypes with immunotherapy,2023-08-31,2024-04-15,2024-05-15,55,0
+38701793,10.1016/j.ccell.2024.04.006,Cancer Cell,Career trajectories of MD-PhD physician scientists: The loss of women investigators.,2024-03-25,2024-04-07,2024-05-04,6,0
+38701792,10.1016/j.ccell.2024.04.007,Cancer Cell,Molecular targets of glucocorticoids that elucidate their therapeutic efficacy in aggressi,2023-12-04,2024-04-09,2024-05-04,24,108
+38701791,10.1016/j.ccell.2024.04.005,Cancer Cell,Immunotherapy in resectable NSCLC: Answering the question or questioning the answer?,2024-02-05,2024-04-05,2024-05-04,3,0
+38670092,10.1016/j.ccell.2024.04.003,Cancer Cell,Molecular subtypes as potential biomarkers in renal cell carcinoma.,2024-03-23,2024-04-04,2024-04-27,2,0
+38670091,10.1016/j.ccell.2024.04.004,Cancer Cell,Putting the STING back into BH3-mimetic drugs for TP53-mutant blood cancers.,2023-07-23,2024-04-04,2024-04-27,17,0
+38670090,10.1016/j.ccell.2024.04.002,Cancer Cell,A temporal perspective for tumor-associated macrophage identities and functions.,2023-07-17,2024-04-04,2024-04-27,4,0
+38670089,10.1016/j.ccell.2024.04.001,Cancer Cell,Tumor cell-intrinsic epigenetic SETpoint of cancer-associated fibroblasts.,2024-03-18,2024-04-01,2024-04-27,2,10
+38640932,10.1016/j.ccell.2024.03.013,Cancer Cell,Identification of hypoxic macrophages in glioblastoma with therapeutic potential for vascu,2023-08-01,2024-03-25,2024-04-20,41,0
+38608702,10.1016/j.ccell.2024.03.009,Cancer Cell,The crosstalk between macrophages and cancer cells potentiates pancreatic cancer cachexia.,2023-08-26,2024-03-15,2024-04-13,17,82
+38579726,10.1016/j.ccell.2024.02.008,Cancer Cell,Shifting the landscape: The role of IDH inhibitors in glioma cell fate.,2024-02-09,2024-02-14,2024-04-06,2,0
+38579725,10.1016/j.ccell.2024.03.005,Cancer Cell,Tumor cell-intrinsic epigenetic dysregulation shapes cancer-associated fibroblasts heterog,2023-08-15,2024-03-11,2024-04-06,18,0
+38579724,10.1016/j.ccell.2024.03.008,Cancer Cell,Mutant IDH inhibitors induce lineage differentiation in IDH-mutant oligodendroglioma.,2023-02-02,2024-03-13,2024-04-06,30,49
+38579723,10.1016/j.ccell.2024.03.007,Cancer Cell,Having the cake and eating it? Clofazimine boosts immunotherapy while limiting side effect,2024-03-11,2024-03-13,2024-04-06,4,0
+38518774,10.1016/j.ccell.2024.03.001,Cancer Cell,Clinical drug screening reveals clofazimine potentiates the efficacy while reducing the to,2023-06-05,2024-03-01,2024-03-23,13,75
+38593782,10.1016/j.ccell.2024.03.006,Cancer Cell,Genetic interactions reveal distinct biological and therapeutic implications in breast can,2023-07-26,2024-03-13,2024-04-10,14,0
+38593781,10.1016/j.ccell.2024.03.003,Cancer Cell,Single-cell systems pharmacology identifies development-driven drug response and combinati,2023-08-17,2024-03-11,2024-04-10,26,92
+38593780,10.1016/j.ccell.2024.03.004,Cancer Cell,Pharmacogenomic profiling of intra-tumor heterogeneity using a large organoid biobank of l,2023-01-12,2024-03-11,2024-04-10,17,0
+38593778,10.1016/j.ccell.2024.03.010,Cancer Cell,Targeting APOBECs in cancer: It's about timing.,2024-02-05,2024-03-15,2024-04-10,2,15
+38518775,10.1016/j.ccell.2024.02.017,Cancer Cell,Mapping functional to morphological variation reveals the basis of regional extracellular ,2022-12-21,2024-02-27,2024-03-23,19,0
+38490214,10.1016/j.ccell.2024.02.015,Cancer Cell,The liver as a cytokine factory working on mRNA blueprints for cancer immunotherapy.,2024-02-09,2024-02-16,2024-03-16,3,0
+38490213,10.1016/j.ccell.2024.02.013,Cancer Cell,Long-lasting mRNA-encoded interleukin-2 restores CD8+ T cell neoantigen immunity in MHC cl,2023-07-25,2024-02-15,2024-03-16,15,0
+38490212,10.1016/j.ccell.2024.02.016,Cancer Cell,Multimodal stimulation screens reveal unique and shared genes limiting T cell fitness.,2023-07-07,2024-02-22,2024-03-16,34,232
+38458188,10.1016/j.ccell.2024.02.011,Cancer Cell,SMARCA4 is a haploinsufficient B cell lymphoma tumor suppressor that fine-tunes centrocyte,2023-07-31,2024-02-14,2024-03-09,29,65
+38458187,10.1016/j.ccell.2024.02.010,Cancer Cell,ARID1A orchestrates SWI/SNF-mediated sequential binding of transcription factors with ARID,2023-07-19,2024-02-14,2024-03-09,24,111
+38458186,10.1016/j.ccell.2024.02.007,Cancer Cell,Unraveling a hidden player in lymphovascular invasion in bladder cancer.,2024-02-06,2024-02-14,2024-03-09,2,0
+38458185,10.1016/j.ccell.2024.02.006,Cancer Cell,SWI/SNF regulation of germinal center fate and lymphomagenesis.,2024-02-09,2024-02-12,2024-03-09,2,8
+38428412,10.1016/j.ccell.2024.02.004,Cancer Cell,Retinoic acid receptor activation reprograms senescence response and enhances anti-tumor a,2023-05-17,2024-02-07,2024-03-02,36,77
+38428411,10.1016/j.ccell.2024.02.003,Cancer Cell,Unleashing a safe and potent pro-senescence anti-tumor strategy.,2024-02-02,2024-02-05,2024-03-02,3,0
+38428409,10.1016/j.ccell.2024.02.002,Cancer Cell,PDGFRα+ITGA11+ fibroblasts foster early-stage cancer lymphovascular invasion and lymphatic,2023-07-17,2024-02-05,2024-03-02,16,0
+38471458,10.1016/j.ccell.2024.02.009,Cancer Cell,Improved detection of colibactin-induced mutations by genotoxic E. coli in organoids and c,2022-09-21,2024-02-14,2024-03-13,17,0
+38471456,10.1016/j.ccell.2024.02.005,Cancer Cell,Stress-induced metastasis: The NET effect.,2024-02-06,2024-02-09,2024-03-13,1,0
+38471455,10.1016/j.ccell.2024.02.014,Cancer Cell,Insights into how adeno-squamous transition drives KRAS inhibitor resistance.,2024-02-16,2024-02-19,2024-03-13,2,0
+38428410,10.1016/j.ccell.2024.02.001,Cancer Cell,Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enh,2022-07-19,2024-02-05,2024-03-02,41,111
+38402611,10.1016/j.ccell.2024.01.014,Cancer Cell,Revisiting TNM staging for EBV-related nasopharyngeal carcinoma.,2024-01-29,2024-01-31,2024-02-25,2,0
+38402610,10.1016/j.ccell.2024.01.013,Cancer Cell,Chronic stress increases metastasis via neutrophil-mediated changes to the microenvironmen,2023-01-13,2024-01-29,2024-02-25,20,89
+38402609,10.1016/j.ccell.2024.01.012,Cancer Cell,Adeno-to-squamous transition drives resistance to KRAS inhibition in LKB1 mutant lung canc,2023-06-27,2024-01-29,2024-02-25,40,0
+38366590,10.1016/j.ccell.2024.01.011,Cancer Cell,Vascular characterization reveals immunomodulatory targets for brain metastases.,2024-01-24,2024-01-25,2024-02-17,2,0
+38366589,10.1016/j.ccell.2024.01.010,Cancer Cell,Immune heterogeneity in small-cell lung cancer and vulnerability to immune checkpoint bloc,2023-07-10,2024-01-23,2024-02-17,27,0
+38242126,10.1016/j.ccell.2023.12.018,Cancer Cell,Interrogation of endothelial and mural cells in brain metastasis reveals key immune-regula,2023-04-03,2023-12-20,2024-01-20,17,0
+38242125,10.1016/j.ccell.2023.12.020,Cancer Cell,Refining the 8th edition TNM classification for EBV related nasopharyngeal carcinoma.,2023-08-17,2023-12-21,2024-01-20,34,0
+38242124,10.1016/j.ccell.2023.12.021,Cancer Cell,Cancer-associated fibroblast phenotypes are associated with patient outcome in non-small c,2023-03-29,2023-12-21,2024-01-20,7,81
+38215747,10.1016/j.ccell.2023.12.015,Cancer Cell,Integrated proteogenomic characterization of glioblastoma evolution.,2022-11-15,2023-12-14,2024-01-13,39,106
+38350420,10.1016/j.ccell.2024.01.006,Cancer Cell,Envision the future of precision medicine in pediatric cancer.,2024-01-15,2024-01-17,2024-02-14,1,0
+38350419,10.1016/j.ccell.2024.01.004,Cancer Cell,Re-inventing a better wheel? Serplulimab for squamous cell lung cancer.,2024-01-06,2024-01-09,2024-02-14,2,0
+38278150,10.1016/j.ccell.2024.01.002,Cancer Cell,Inosine induces stemness features in CAR-T cells and enhances potency.,2023-05-29,2024-01-05,2024-01-27,27,72
+38278149,10.1016/j.ccell.2024.01.001,Cancer Cell,Tumor- and circulating-free DNA methylation identifies clinically relevant small cell lung,2023-03-17,2024-01-04,2024-01-27,42,77
+38278148,10.1016/j.ccell.2024.01.003,Cancer Cell,Unlocking CAR T cell potential: Inosine-induced stemness and enhanced potency.,2023-12-20,2024-01-05,2024-01-27,2,0
+38215750,10.1016/j.ccell.2023.12.016,Cancer Cell,A comprehensive clinically informed map of dependencies in cancer cells and framework for ,2023-07-05,2023-12-15,2024-01-13,23,0
+38215749,10.1016/j.ccell.2023.12.019,Cancer Cell,Response to Bruton's tyrosine kinase inhibitors in aggressive lymphomas linked to chronic ,2023-04-06,2023-12-20,2024-01-13,33,94
+38215748,10.1016/j.ccell.2023.12.013,Cancer Cell,Clinical and molecular features of acquired resistance to immunotherapy in non-small cell ,2021-11-11,2023-12-13,2024-01-13,33,87
+38181798,10.1016/j.ccell.2023.12.005,Cancer Cell,Interferon-stimulated neutrophils as a predictor of immunotherapy response.,2022-08-19,2023-12-07,2024-01-06,21,80
+38181797,10.1016/j.ccell.2023.12.008,Cancer Cell,Integrative analysis of neuroblastoma by single-cell RNA sequencing identifies the NECTIN2,2023-02-15,2023-12-11,2024-01-06,48,104
+38181795,10.1016/j.ccell.2023.12.004,Cancer Cell,A global phase 3 study of serplulimab plus chemotherapy as first-line treatment for advanc,2023-06-28,2023-12-07,2024-01-06,27,0
+38194915,10.1016/j.ccell.2023.12.012,Cancer Cell,Single-cell and spatial profiling identify three response trajectories to pembrolizumab an,2020-09-08,2023-12-13,2024-01-10,33,0
+38194914,10.1016/j.ccell.2023.12.010,Cancer Cell,Distinct spatiotemporal dynamics of CD8+ T cell-derived cytokines in the tumor microenviro,2022-12-12,2023-12-12,2024-01-10,11,92
+38194913,10.1016/j.ccell.2023.12.017,Cancer Cell,Immune evasion by dormant disseminated cancer cells: A Fermi paradox?,2023-12-14,2023-12-15,2024-01-10,3,10
+38194912,10.1016/j.ccell.2023.12.011,Cancer Cell,Immune evasion of dormant disseminated tumor cells is due to their scarcity and can be ove,2022-11-15,2023-12-12,2024-01-10,17,86
+38194911,10.1016/j.ccell.2023.12.009,Cancer Cell,Neoadjuvant radioimmunotherapy synergy in triple-negative breast cancer: Is microenvironme,2023-11-18,2023-12-11,2024-01-10,2,0
+38157865,10.1016/j.ccell.2023.12.006,Cancer Cell,Gut epithelial Interleukin-17 receptor A signaling can modulate distant tumors growth thro,2022-06-30,2023-12-07,2024-01-02,16,103
+38157863,10.1016/j.ccell.2023.12.002,Cancer Cell,EGFR-activated myofibroblasts promote metastasis of pancreatic cancer.,2022-12-05,2023-12-04,2024-01-02,14,0
+38134937,10.1016/j.ccell.2023.11.012,Cancer Cell,GD2-CAR CAR T cells in patients with osteosarcoma and neuroblastoma-it's not only the T ce,2023-11-20,2023-11-22,2023-12-23,2,0
+38134936,10.1016/j.ccell.2023.11.011,Cancer Cell,Immune determinants of CAR-T cell expansion in solid tumor patients receiving GD2 CAR-T ce,2023-01-10,2023-11-22,2023-12-23,44,83
+38101410,10.1016/j.ccell.2023.11.010,Cancer Cell,Integrated multi-omics profiling to dissect the spatiotemporal evolution of metastatic hep,2023-02-16,2023-11-21,2023-12-16,35,0
+38065100,10.1016/j.ccell.2023.11.008,Cancer Cell,B3GALT6 promotes dormant breast cancer cell survival and recurrence by enabling heparan su,2023-02-10,2023-11-14,2023-12-09,14,63
+38039965,10.1016/j.ccell.2023.11.002,Cancer Cell,A road map for the treatment of pediatric diffuse midline glioma.,2023-10-12,2023-11-04,2023-12-02,75,15
+41349540,10.1016/j.ccell.2025.10.014,Cancer Cell,A longitudinal single-cell atlas to predict outcome and toxicity after BCMA-directed CAR T,2025-05-05,2025-10-31,2025-12-06,36,0
+41478274,10.1016/j.ccell.2025.12.006,Cancer Cell,When the methylome becomes the microscope.,2025-11-05,2025-12-09,2026-01-02,1,0
+41386225,10.1016/j.ccell.2025.11.007,Cancer Cell,IL-36γ armored CAR T cells reprogram neutrophils to induce endogenous antitumor immunity.,2025-04-29,2025-11-17,2025-12-13,21,60
+41386222,10.1016/j.ccell.2025.11.005,Cancer Cell,Mapping the inflammatory origins of lung cancer.,2025-11-06,2025-11-09,2025-12-13,3,0
+41349543,10.1016/j.ccell.2025.11.003,Cancer Cell,Precision treatment with artificial intelligence assisted subtyping enhances therapeutic e,2025-03-08,2025-11-07,2025-12-06,49,0
+41349541,10.1016/j.ccell.2025.11.002,Cancer Cell,Advancing CNS tumor diagnostics with expanded DNA methylation-based classification.,2025-05-06,2025-11-07,2025-12-06,121,0
+41202811,10.1016/j.ccell.2025.10.004,Cancer Cell,Multimodal spatial-omics reveal co-evolution of alveolar progenitors and proinflammatory n,2025-04-20,2025-10-15,2025-11-08,49,73
+41478278,10.1016/j.ccell.2025.12.004,Cancer Cell,Antigen-specific profiling identifies T-bet+ melanoma-specific CD8+ T cells associated wit,2025-01-19,2025-12-05,2026-01-02,30,0
+41478275,10.1016/j.ccell.2025.12.007,Cancer Cell,Adaptive plasticity in targeted therapy.,2025-11-30,2025-12-05,2026-01-02,3,0
+41386224,10.1016/j.ccell.2025.11.006,Cancer Cell,Multi-omic landscape of human gliomas from diagnosis to treatment and recurrence.,2025-02-17,2025-11-12,2025-12-13,40,105
+41349544,10.1016/j.ccell.2025.11.004,Cancer Cell,When blood mutations turn beneficial.,2025-11-05,2025-11-07,2025-12-06,3,0
+41349542,10.1016/j.ccell.2025.11.001,Cancer Cell,Tumor-initiating stem cells fine-tune the plasticity of neutrophils to sculpt a protective,2024-12-11,2025-11-07,2025-12-06,20,86
+41349539,10.1016/j.ccell.2025.10.012,Cancer Cell,Tumor-initiating stem cells engineer immunity.,2025-10-24,2025-10-29,2025-12-06,2,0
+41237766,10.1016/j.ccell.2025.10.010,Cancer Cell,Paneth-like transition drives resistance to dual targeting of KRAS and EGFR in colorectal ,2025-02-21,2025-10-22,2025-11-15,28,71
+41172999,10.1016/j.ccell.2025.10.002,Cancer Cell,"Fusobacterium, quiescent niches, and therapy response in colorectal cancer.",2025-09-24,2025-10-10,2025-11-01,3,0
+41135521,10.1016/j.ccell.2025.09.014,Cancer Cell,RAF-independent MEK mutations drive refractory histiocytic neoplasms but respond to ERK in,2024-11-22,2025-09-30,2025-10-25,45,59
+41106380,10.1016/j.ccell.2025.09.010,Cancer Cell,Tumor-infiltrating bacteria disrupt cancer epithelial cell interactions and induce cell-cy,2024-07-18,2025-09-16,2025-10-18,21,120
+41106379,10.1016/j.ccell.2025.09.011,Cancer Cell,TET2-mutant clonal hematopoiesis enhances macrophage antigen presentation and improves imm,2024-12-23,2025-09-23,2025-10-18,10,0
+41270754,10.1016/j.ccell.2025.10.013,Cancer Cell,Spatial patterns of glioblastoma.,2025-10-24,2025-10-31,2025-11-22,2,0
+41237767,10.1016/j.ccell.2025.10.011,Cancer Cell,MED1-driven ecDNA super-enhancers in cancer.,2025-10-23,2025-10-23,2025-11-15,4,0
+41237765,10.1016/j.ccell.2025.10.009,Cancer Cell,Exercising through cancer: Physical activity as medicine for cancer care.,2025-06-23,2025-10-21,2025-11-15,3,0
+41202810,10.1016/j.ccell.2025.10.008,Cancer Cell,Remodeling of T and endothelial cells during total neoadjuvant therapy in rectal cancer.,2024-02-08,2025-10-17,2025-11-08,24,0
+41202808,10.1016/j.ccell.2025.10.003,Cancer Cell,Toward a new standard: Sequential multi-agent neoadjuvant chemotherapy in resectable pancr,2025-10-13,2025-10-14,2025-11-08,3,0
+41135519,10.1016/j.ccell.2025.09.012,Cancer Cell,TROP-2-targeted antibody-drug conjugate SHR-A1921 for advanced or metastatic solid tumors:,2025-04-29,2025-09-29,2025-10-25,33,0
+41135518,10.1016/j.ccell.2025.10.001,Cancer Cell,Functional pseudo-synapses: A new nexus in extracranial cancer.,2025-09-26,2025-10-01,2025-10-25,3,0
+41072417,10.1016/j.ccell.2025.09.009,Cancer Cell,Neoadjuvant nab-paclitaxel plus gemcitabine followed by modified FOLFIRINOX for resectable,2025-05-21,2025-09-15,2025-10-11,17,0
+41072416,10.1016/j.ccell.2025.09.007,Cancer Cell,Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple my,2024-10-31,2025-09-15,2025-10-11,24,45
+41043437,10.1016/j.ccell.2025.09.005,Cancer Cell,Distinct T cell functions enable efficient immunoediting and prevent tumor emergence of de,2024-02-13,2025-09-11,2025-10-04,18,50
+41005304,10.1016/j.ccell.2025.09.003,Cancer Cell,Sensory neurons drive pancreatic cancer progression through glutamatergic neuron-cancer ps,2024-08-24,2025-09-08,2025-09-27,38,0
+41005303,10.1016/j.ccell.2025.09.001,Cancer Cell,Single-cell resolution spatial analysis of antigen-presenting cancer-associated fibroblast,2024-08-06,2025-09-03,2025-09-27,14,64
+40972572,10.1016/j.ccell.2025.08.009,Cancer Cell,Restraint of cancer cell plasticity by spatial homotypic clustering.,2024-10-08,2025-08-25,2025-09-20,17,100
+40972571,10.1016/j.ccell.2025.08.008,Cancer Cell,Extrachromosomal DNA associates with nuclear condensates and reorganizes chromatin structu,2024-09-16,2025-08-25,2025-09-20,12,78
+41072415,10.1016/j.ccell.2025.09.008,Cancer Cell,Hidden spark: From cold to hot in BRAF colorectal cancer.,2025-09-02,2025-09-15,2025-10-11,1,0
+41005305,10.1016/j.ccell.2025.09.002,Cancer Cell,Ketogenic diet inhibits glioma progression by promoting gut microbiota-derived butyrate pr,2024-03-20,2025-09-04,2025-09-27,24,0
+40972573,10.1016/j.ccell.2025.08.007,Cancer Cell,Rewiring natural killer cells for next-generation cancer therapies.,2025-08-22,2025-08-25,2025-09-20,2,0
+40939590,10.1016/j.ccell.2025.08.006,Cancer Cell,Protein-based classification reveals an immune-hot subtype in IDH mutant astrocytoma with ,2025-01-15,2025-08-25,2025-09-13,29,0
+40882637,10.1016/j.ccell.2025.08.002,Cancer Cell,"Phase 1/2 trial of encorafenib, cetuximab, and nivolumab in microsatellite stable BRAFV600",2024-11-11,2025-08-04,2025-08-30,33,49
+40882636,10.1016/j.ccell.2025.08.003,Cancer Cell,Glioblastoma hijacks cholinergic networks.,2025-07-29,2025-08-07,2025-08-30,2,0
+40882635,10.1016/j.ccell.2025.08.001,Cancer Cell,Multi-omic profiling of intraductal papillary neoplasms of the pancreas reveals distinct p,2024-07-18,2025-08-01,2025-08-30,25,101
+40882634,10.1016/j.ccell.2025.07.015,Cancer Cell,Safety and efficacy of a STAT3-targeted cyclic oligonucleotide: From murine models to a ph,2025-01-29,2025-07-15,2025-08-30,20,96
+40845844,10.1016/j.ccell.2025.07.021,Cancer Cell,Genome-wide CRISPR screens identify critical targets to enhance CAR-NK cell antitumor pote,2024-12-02,2025-07-21,2025-08-30,36,85
+40829591,10.1016/j.ccell.2025.07.024,Cancer Cell,Long-range cholinergic input promotes glioblastoma progression.,2025-01-16,2025-07-29,2025-08-20,35,0
+40780212,10.1016/j.ccell.2025.07.010,Cancer Cell,Comprehensive tumor-immune profiling reveals mediators of paradoxical immune sensitivity i,2024-12-16,2025-07-10,2025-08-09,31,99
+40513576,10.1016/j.ccell.2025.05.011,Cancer Cell,Enhancing anti-tumor immunity of natural killer cells through targeting IL-15R signaling.,2024-11-01,2025-05-20,2025-06-14,22,0
+41043438,10.1016/j.ccell.2025.09.004,Cancer Cell,Neoadjuvant treatment of IBI310 plus sintilimab in locally advanced MSI-H/dMMR colon cance,2024-11-28,2025-09-09,2025-10-04,45,0
+41043436,10.1016/j.ccell.2025.08.010,Cancer Cell,Bringing immunotherapy to clinical practice in dMMR/MSI-high colon cancer.,2025-08-21,2025-08-29,2025-10-04,3,0
+40845845,10.1016/j.ccell.2025.07.023,Cancer Cell,Lymphoma accelerates T cell and tissue aging.,2024-02-29,2025-07-25,2025-08-23,26,111
+40845843,10.1016/j.ccell.2025.07.009,Cancer Cell,Unraveling lymphoma-induced immune senescence.,2025-07-07,2025-07-09,2025-08-23,2,0
+40816292,10.1016/j.ccell.2025.07.013,Cancer Cell,Fc-optimized CD40 agonistic antibody elicits tertiary lymphoid structure formation and sys,2024-10-10,2025-07-10,2025-08-16,15,57
+40780217,10.1016/j.ccell.2025.07.016,Cancer Cell,T's to the rescue: Expanding the follicular T cell universe in follicular lymphoma.,2025-06-26,2025-07-15,2025-08-09,2,0
+40780216,10.1016/j.ccell.2025.07.012,Cancer Cell,Tumor-resident probiotic Clostridium butyricum improves aPD-1 efficacy in colorectal cance,2024-10-10,2025-07-10,2025-08-09,14,0
+40780215,10.1016/j.ccell.2025.07.007,Cancer Cell,CHI3L3+ immature neutrophils inhibit anti-tumor immunity and impede immune checkpoint bloc,2024-07-28,2025-07-07,2025-08-09,23,0
+40780213,10.1016/j.ccell.2025.07.006,Cancer Cell,A pan-KRAS inhibitor and its derived degrader elicit multifaceted anti-tumor efficacy in K,2024-10-05,2025-07-07,2025-08-09,34,0
+40680744,10.1016/j.ccell.2025.06.018,Cancer Cell,Decoding subclonal anti-tumor immunity.,2025-06-10,2025-06-26,2025-07-19,2,0
+40614739,10.1016/j.ccell.2025.06.012,Cancer Cell,Subclonal immune evasion in non-small cell lung cancer.,2024-06-15,2025-06-15,2025-07-05,36,0
+40614737,10.1016/j.ccell.2025.06.013,Cancer Cell,Distinct follicular T cell subsets regulate lymphoma progression and outcomes.,2024-07-25,2025-06-15,2025-07-05,28,0
+40541192,10.1016/j.ccell.2025.05.016,Cancer Cell,A first-in-class EGFR-directed KRAS G12V selective inhibitor.,2024-08-30,2025-05-26,2025-06-21,25,87
+40845846,10.1016/j.ccell.2025.07.025,Cancer Cell,From gene lists to context drift.,2025-07-30,2025-07-31,2025-08-23,2,0
+40816293,10.1016/j.ccell.2025.07.014,Cancer Cell,DNASE1L3-expressing dendritic cells promote CD8+ T cell function and anti-PD-(L)1 therapy ,2024-11-12,2025-07-14,2025-08-16,23,0
+40816291,10.1016/j.ccell.2025.07.003,Cancer Cell,Dendritic cells function beyond antigen presentation.,2025-06-21,2025-07-02,2025-08-16,1,0
+40749670,10.1016/j.ccell.2025.07.011,Cancer Cell,Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures.,2024-07-19,2025-07-10,2025-08-02,96,188
+40712568,10.1016/j.ccell.2025.06.021,Cancer Cell,Macropinocytosis maintains CAF subtype identity under metabolic stress in pancreatic cance,2024-04-10,2025-06-30,2025-07-28,18,93
+40712567,10.1016/j.ccell.2025.07.002,Cancer Cell,Alistipes finegoldii augments the efficacy of immunotherapy against solid tumors.,2024-08-09,2025-07-01,2025-07-28,26,0
+40712566,10.1016/j.ccell.2025.07.004,Cancer Cell,When human cancer goes neural.,2025-06-24,2025-07-03,2025-07-28,3,0
+40712565,10.1016/j.ccell.2025.07.001,Cancer Cell,Adoptively transferred Th17 cells cooperate with host B cells to achieve durable tumor imm,2024-08-13,2025-07-01,2025-07-28,15,98
+40680743,10.1016/j.ccell.2025.06.020,Cancer Cell,Integrated single-cell and spatial transcriptomics uncover distinct cellular subtypes invo,2024-10-07,2025-06-26,2025-07-19,16,0
+40680742,10.1016/j.ccell.2025.06.019,Cancer Cell,A stratification system for breast cancer based on basoluminal tumor cells and spatial tum,2024-10-09,2025-06-26,2025-07-19,13,0
+40680741,10.1016/j.ccell.2025.06.017,Cancer Cell,TNBC's compass: Navigating prognosis with a cellular map.,2025-06-23,2025-06-25,2025-07-19,3,0
+40614736,10.1016/j.ccell.2025.06.007,Cancer Cell,Chemotherapy awakens dormant cancer cells in lung by inducing neutrophil extracellular tra,2023-07-03,2025-06-07,2025-07-05,20,0
+40578362,10.1016/j.ccell.2025.06.005,Cancer Cell,Gene context drift identifies drug targets to mitigate cancer treatment resistance.,2024-03-19,2025-06-05,2025-06-28,30,55
+40749673,10.1016/j.ccell.2025.05.001,Cancer Cell,Immune memory shapes ovarian cancer recurrence.,2025-04-24,2025-05-02,2025-08-02,1,0
+40749672,10.1016/j.ccell.2025.07.005,Cancer Cell,Myeloid cell networks govern re-establishment of original immune landscapes in recurrent o,2024-05-07,2025-07-03,2025-08-02,42,85
+40645187,10.1016/j.ccell.2025.06.015,Cancer Cell,TIM3+ breast cancer cells license immune evasion during micrometastasis outbreak.,2024-04-17,2025-06-15,2025-07-12,27,96
+40645186,10.1016/j.ccell.2025.06.016,Cancer Cell,Blood TCRs go to town with early NPC detection.,2025-06-10,2025-06-19,2025-07-12,2,0
+40645185,10.1016/j.ccell.2025.06.011,Cancer Cell,KEAP1 and STK11/LKB1 alterations enhance vulnerability to ATR inhibition in KRAS mutant no,2024-08-08,2025-06-13,2025-07-12,39,0
+40614740,10.1016/j.ccell.2025.06.010,Cancer Cell,Central trained immunity in the context of bladder cancer immunotherapy.,2025-06-07,2025-06-11,2025-07-05,3,0
+40614735,10.1016/j.ccell.2025.06.008,Cancer Cell,The dark side of radiotherapy.,2025-05-17,2025-06-10,2025-07-05,3,0
+40578361,10.1016/j.ccell.2025.05.017,Cancer Cell,Bile acids activate cancer-associated fibroblasts and induce an immunosuppressive microenv,2024-09-02,2025-05-30,2025-06-28,18,0
+40578360,10.1016/j.ccell.2025.06.006,Cancer Cell,A CXCR4 partial agonist improves immunotherapy by targeting immunosuppressive neutrophils ,2024-10-23,2025-06-06,2025-06-28,22,99
+40578359,10.1016/j.ccell.2025.06.004,Cancer Cell,Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovar,2024-07-01,2025-06-03,2025-06-28,26,68
+40578358,10.1016/j.ccell.2025.06.003,Cancer Cell,Disarming myeloid resistance in CAR T therapy.,2025-05-14,2025-06-03,2025-06-28,2,0
+40513575,10.1016/j.ccell.2025.05.013,Cancer Cell,CSF1R+ myeloid-monocytic cells drive CAR-T cell resistance in aggressive B cell lymphoma.,2024-08-25,2025-05-22,2025-06-14,56,0
+40446799,10.1016/j.ccell.2025.05.002,Cancer Cell,Microbial cancer immunotherapy reprograms hematopoiesis to enhance myeloid-driven anti-tum,2024-05-31,2025-05-05,2025-05-31,21,120
+40345188,10.1016/j.ccell.2025.04.009,Cancer Cell,Immunosequencing identifies signatures of T cell responses for early detection of nasophar,2024-06-22,2025-04-19,2025-05-10,17,0
+40920660,10.1016/j.ccell.2025.06.002,Cancer Cell,Large B cell lymphoma microenvironment archetype profiles.,2024-11-15,2025-06-02,2025-09-08,32,86
+40513578,10.1016/j.ccell.2025.05.014,Cancer Cell,Cisplatin and temozolomide combinatorial treatment triggers hypermutability and immune sur,2023-04-25,2025-05-23,2025-06-14,22,0
+40513574,10.1016/j.ccell.2025.05.012,Cancer Cell,A unified pan-cancer proteome atlas.,2025-05-12,2025-05-22,2025-06-14,2,0
+40513573,10.1016/j.ccell.2025.05.010,Cancer Cell,Induction of a mismatch repair deficient genotype by tailored chemical mutagenesis in expe,2024-02-23,2025-05-19,2025-06-14,50,51
+40513572,10.1016/j.ccell.2025.05.004,Cancer Cell,Drug-induced mismatch repair deficiency: Mixed prospects.,2025-05-05,2025-05-09,2025-06-14,3,0
+40480232,10.1016/j.ccell.2025.05.006,Cancer Cell,Mutant KRAS peptide targeted CAR-T cells engineered for cancer therapy.,2024-06-17,2025-05-15,2025-06-07,12,59
+40480231,10.1016/j.ccell.2025.05.005,Cancer Cell,Tumor neutrophils rewired from birth.,2025-05-02,2025-05-13,2025-06-07,2,0
+40446800,10.1016/j.ccell.2025.05.003,Cancer Cell,"The pan-cancer proteome atlas, a mass spectrometry-based landscape for discovering tumor b",2024-09-02,2025-05-08,2025-05-31,48,0
+40345191,10.1016/j.ccell.2025.04.011,Cancer Cell,Brain metastasis: From etiology to ecotypes.,2025-04-21,2025-04-21,2025-05-10,2,0
+40345190,10.1016/j.ccell.2025.04.007,Cancer Cell,Understanding and reversing mammary tumor-driven reprogramming of myelopoiesis to reduce m,2024-04-16,2025-04-15,2025-05-10,11,126
+40345187,10.1016/j.ccell.2025.04.006,Cancer Cell,Regulating the fate of tumor-associated macrophages.,2025-04-08,2025-04-14,2025-05-10,2,0
+40280125,10.1016/j.ccell.2025.04.002,Cancer Cell,KMT2C deficiency drives transdifferentiation of double-negative prostate cancer and confer,2024-05-29,2025-04-03,2025-04-26,24,0
+40215981,10.1016/j.ccell.2025.03.021,Cancer Cell,ZEB2 is a master switch controlling the tumor-associated macrophage program.,2024-07-15,2025-03-17,2025-04-12,24,0
+40215980,10.1016/j.ccell.2025.03.025,Cancer Cell,Pan-cancer human brain metastases atlas at single-cell resolution.,2024-08-11,2025-03-20,2025-04-12,28,101
+40378837,10.1016/j.ccell.2025.04.013,Cancer Cell,Isocitrate dehydrogenase 1 primes group-3 medulloblastomas for cuproptosis.,2024-02-20,2025-04-22,2025-05-17,45,77
+40378836,10.1016/j.ccell.2025.04.014,Cancer Cell,Genetic modeling of ELP1-associated Sonic hedgehog medulloblastoma identifies MDM2 as a se,2024-03-10,2025-04-28,2025-05-17,37,136
+40345189,10.1016/j.ccell.2025.04.003,Cancer Cell,Spatial and multiomics analysis of human and mouse lung adenocarcinoma precursors reveals ,2024-09-12,2025-04-08,2025-05-10,52,88
+40345186,10.1016/j.ccell.2025.04.005,Cancer Cell,Immune evolution in pre-invasive lung adenocarcinoma.,2025-04-02,2025-04-14,2025-05-10,2,0
+40315841,10.1016/j.ccell.2025.04.004,Cancer Cell,TAMing immunity through an unexpected source.,2025-03-25,2025-04-10,2025-05-03,2,0
+40280124,10.1016/j.ccell.2025.04.001,Cancer Cell,Stromal lipid species dictate melanoma metastasis and tropism.,2022-12-19,2025-04-01,2025-04-26,27,52
+40280123,10.1016/j.ccell.2025.03.036,Cancer Cell,Bone metastases diminish extraosseous response to checkpoint blockade immunotherapy throug,2024-06-30,2025-03-31,2025-04-26,28,0
+40215979,10.1016/j.ccell.2025.03.017,Cancer Cell,Spatial determinants of antibody-drug conjugate SHR-A1811 efficacy in neoadjuvant treatmen,2024-08-09,2025-03-12,2025-04-12,16,0
+40215978,10.1016/j.ccell.2025.03.031,Cancer Cell,Radiotherapy promotes cuproptosis and synergizes with cuproptosis inducers to overcome tum,2024-08-01,2025-03-27,2025-04-12,26,50
+40215976,10.1016/j.ccell.2025.03.020,Cancer Cell,AI-driven biomarkers for antibody-drug conjugates.,2025-03-14,2025-03-15,2025-04-12,2,0
+40185095,10.1016/j.ccell.2025.03.015,Cancer Cell,Cancer cell-derived arginine fuels polyamine biosynthesis in tumor-associated macrophages ,2024-05-13,2025-03-12,2025-04-05,17,0
+40185093,10.1016/j.ccell.2025.03.011,Cancer Cell,Spatial transcriptomics reveals tryptophan metabolism restricting maturation of intratumor,2024-06-27,2025-03-10,2025-04-05,21,0
+40154481,10.1016/j.ccell.2025.03.007,Cancer Cell,A niche driven mechanism determines response and a mutation-independent therapeutic approa,2024-04-15,2025-03-05,2025-03-29,34,98
+40154480,10.1016/j.ccell.2025.03.008,Cancer Cell,All-trans retinoic acid beyond acute promyelocytic leukemia.,2025-02-17,2025-03-05,2025-03-29,2,0
+40359907,10.1016/j.ccell.2025.04.008,Cancer Cell,Stromal barriers to the abscopal effect.,2025-04-11,2025-04-16,2025-05-14,2,0
+40280126,10.1016/j.ccell.2025.03.035,Cancer Cell,Ribosomal rebellion: When protein factories drive cancer progression.,2025-03-29,2025-03-31,2025-04-26,2,0
+40280122,10.1016/j.ccell.2025.03.034,Cancer Cell,Easing cisplatin's toll in nasopharyngeal carcinoma.,2025-03-26,2025-03-31,2025-04-26,2,0
+40250446,10.1016/j.ccell.2025.03.029,Cancer Cell,AI-driven predictive biomarker discovery with contrastive learning to improve clinical tri,2024-08-06,2025-03-26,2025-04-19,8,0
+40250444,10.1016/j.ccell.2025.03.027,Cancer Cell,Circular RMST cooperates with lineage-driving transcription factors to govern neuroendocri,2023-10-04,2025-03-21,2025-04-19,31,77
+40250442,10.1016/j.ccell.2025.03.028,Cancer Cell,A circular RNA in neuroendocrine carcinomas.,2025-03-09,2025-03-25,2025-04-19,2,0
+40215977,10.1016/j.ccell.2025.03.023,Cancer Cell,Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally,2024-08-18,2025-03-18,2025-04-12,36,0
+40154487,10.1016/j.ccell.2025.03.004,Cancer Cell,Conserved spatial subtypes and cellular neighborhoods of cancer-associated fibroblasts rev,2024-03-19,2025-03-03,2025-03-29,30,119
+40154482,10.1016/j.ccell.2025.03.003,Cancer Cell,Translation dysregulation in cancer as a source for targetable antigens.,2024-06-19,2025-03-03,2025-03-29,47,137
+40118050,10.1016/j.ccell.2025.03.002,Cancer Cell,Horizontal mitochondrial transfer in cancer biology: Potential clinical relevance.,2025-01-28,2025-03-02,2025-03-22,6,0
+40118049,10.1016/j.ccell.2025.02.027,Cancer Cell,Small-molecule RNA therapeutics to target prostate cancer.,2024-05-05,2025-02-28,2025-03-22,15,60
+40118047,10.1016/j.ccell.2025.03.001,Cancer Cell,Of HIFs and hERVs: Neoantigen generation in kidney cancer.,2025-03-02,2025-03-02,2025-03-22,3,0
+40086438,10.1016/j.ccell.2025.02.024,Cancer Cell,PAI-1-driven SFRP2high cancer-associated fibroblasts hijack the abscopal effect of radioim,2024-06-21,2025-02-20,2025-03-15,34,0
+40054467,10.1016/j.ccell.2025.02.015,Cancer Cell,Hypoxia inducible factor-1α drives cancer resistance to cuproptosis.,2024-01-23,2025-02-11,2025-03-09,26,0
+40054466,10.1016/j.ccell.2025.02.017,Cancer Cell,Lymph node macrophages drive immune tolerance and resistance to cancer therapy by inductio,2024-06-07,2025-02-12,2025-03-09,20,69
+40020668,10.1016/j.ccell.2025.01.014,Cancer Cell,Nivolumab combined with induction chemotherapy and radiotherapy in nasopharyngeal carcinom,2024-08-27,2025-01-31,2025-03-01,26,0
+40233717,10.1016/j.ccell.2025.03.022,Cancer Cell,Precision oncology and genetic ancestry: The science behind population-based cancer dispar,2025-03-13,2025-03-17,2025-04-16,2,0
+40233716,10.1016/j.ccell.2025.03.026,Cancer Cell,"Many paths, one destination: Bridging the gap in cancer care.",2025-03-20,2025-03-20,2025-04-16,8,0
+40185092,10.1016/j.ccell.2025.03.016,Cancer Cell,Proteogenomic characterization of non-functional pancreatic neuroendocrine tumors unravels,2024-06-11,2025-03-12,2025-04-05,43,0
+40154485,10.1016/j.ccell.2025.03.009,Cancer Cell,Advocating for change-Integration of efforts across the drug discovery and development con,2025-03-05,2025-03-05,2025-03-29,2,0
+40086439,10.1016/j.ccell.2025.02.019,Cancer Cell,Turning the kaleidoscope: Innovations shaping the future of clinical trial design.,2024-12-15,2025-02-17,2025-03-15,3,0
+40086437,10.1016/j.ccell.2025.02.026,Cancer Cell,Distinct CD8+ T cell dynamics associate with response to neoadjuvant cancer immunotherapie,2024-03-06,2025-02-24,2025-03-15,24,75
+40086436,10.1016/j.ccell.2025.02.018,Cancer Cell,Effective targeting of PDGFRA-altered high-grade glioma with avapritinib.,2024-07-30,2025-02-12,2025-03-15,83,71
+40054465,10.1016/j.ccell.2025.02.002,Cancer Cell,Fragmentomics profiling and quantification of plasma Epstein-Barr virus DNA enhance predic,2024-06-11,2025-02-04,2025-03-09,15,0
+40020671,10.1016/j.ccell.2025.02.005,Cancer Cell,Global alliances in translational cancer research.,2024-12-20,2025-02-06,2025-03-01,5,0
+40068600,10.1016/j.ccell.2025.02.014,Cancer Cell,Targeting tumor monocyte-intrinsic PD-L1 by rewiring STING signaling and enhancing STING a,2024-07-30,2025-02-11,2025-03-12,18,0
+40068599,10.1016/j.ccell.2025.02.008,Cancer Cell,Restoration of LAT activity improves CAR T cell sensitivity and persistence in response to,2024-02-21,2025-02-07,2025-03-12,9,109
+40068598,10.1016/j.ccell.2025.02.006,Cancer Cell,CDK4 selective inhibition improves preclinical anti-tumor efficacy and safety.,2024-07-29,2025-02-06,2025-03-12,52,0
+40068597,10.1016/j.ccell.2025.02.011,Cancer Cell,Multimodal integration of liquid biopsy and radiology for the noninvasive diagnosis of gal,2023-11-09,2025-02-11,2025-03-12,40,0
+40068596,10.1016/j.ccell.2025.02.009,Cancer Cell,Single-cell multi-stage spatial evolutional map of esophageal carcinogenesis.,2024-06-04,2025-02-10,2025-03-12,29,0
+40068595,10.1016/j.ccell.2025.02.010,Cancer Cell,Low-dose irradiation of the gut improves the efficacy of PD-L1 blockade in metastatic canc,2024-01-27,2025-02-11,2025-03-12,61,90
+40068593,10.1016/j.ccell.2025.02.022,Cancer Cell,Epigenetic enhancement of adoptive T cell immunotherapy.,2025-02-19,2025-02-19,2025-03-12,2,0
+40068592,10.1016/j.ccell.2025.02.021,Cancer Cell,An innovative ALA-CART platform exhibits high efficacy against cancers.,2025-02-18,2025-02-18,2025-03-12,2,0
+40068591,10.1016/j.ccell.2025.02.007,Cancer Cell,A CDK4-selective inhibitor puts the brakes on cancer cells.,2025-01-31,2025-02-06,2025-03-12,2,10
+40068590,10.1016/j.ccell.2025.02.016,Cancer Cell,"Exploring the ""chemo"" in chemoimmunotherapy for triple-negative breast cancer.",2025-01-25,2025-02-11,2025-03-12,2,0
+40068589,10.1016/j.ccell.2025.02.012,Cancer Cell,Overcoming melanoma therapy resistance with RAF-MEK and FAK inhibition.,2025-02-04,2025-02-11,2025-03-12,2,0
+40068588,10.1016/j.ccell.2025.02.020,Cancer Cell,Targeting brain macrophages: NF-κB as a therapeutic gateway in melanoma brain metastasis.,2025-02-16,2025-02-17,2025-03-12,2,0
+40020672,10.1016/j.ccell.2025.02.004,Cancer Cell,Metabolic engineering to facilitate anti-tumor immunity.,2024-04-15,2025-02-05,2025-03-01,15,50
+40020669,10.1016/j.ccell.2025.02.001,Cancer Cell,FAK inhibition combined with the RAF-MEK clamp avutometinib overcomes resistance to target,2024-03-23,2025-02-04,2025-03-01,20,72
+39983726,10.1016/j.ccell.2025.01.012,Cancer Cell,Integrative spatial analysis reveals tumor heterogeneity and immune colony niche related t,2024-07-04,2025-01-29,2025-02-22,25,0
+39983725,10.1016/j.ccell.2025.01.013,Cancer Cell,EZH1/EZH2 inhibition enhances adoptive T cell immunotherapy against multiple cancer models,2024-04-26,2025-01-29,2025-02-22,30,85
+39919737,10.1016/j.ccell.2025.01.007,Cancer Cell,Distinct cellular mechanisms underlie chemotherapies and PD-L1 blockade combinations in tr,2024-06-01,2025-01-13,2025-02-08,11,0
+39919736,10.1016/j.ccell.2025.01.008,Cancer Cell,Microglial reprogramming enhances antitumor immunity and immunotherapy response in melanom,2024-04-11,2025-01-13,2025-02-08,8,0
+39933900,10.1016/j.ccell.2025.01.009,Cancer Cell,Genomic mediators of acquired resistance to immunotherapy in metastatic melanoma.,2024-03-13,2025-01-13,2025-02-12,15,56
+39933899,10.1016/j.ccell.2025.01.004,Cancer Cell,Adiponectin reduces immune checkpoint inhibitor-induced inflammation without blocking anti,2024-07-01,2025-01-10,2025-02-12,60,0
+39933898,10.1016/j.ccell.2025.01.002,Cancer Cell,Dynamics of molecular heterogeneity in high-risk luminal breast cancer-From intrinsic to a,2024-04-26,2025-01-09,2025-02-12,40,0
+39933896,10.1016/j.ccell.2025.01.010,Cancer Cell,Immunosensitivity cuts across mismatch repair status in colorectal cancer.,2025-01-15,2025-01-16,2025-02-12,3,0
+39933895,10.1016/j.ccell.2025.01.006,Cancer Cell,From intrinsic to adaptive clusters in breast cancer.,2024-12-19,2025-01-13,2025-02-12,3,0
+39933894,10.1016/j.ccell.2025.01.005,Cancer Cell,Mitochondrial succinate feeds T cell exhaustion in cancer.,2025-01-09,2025-01-10,2025-02-12,3,0
+39889706,10.1016/j.ccell.2024.12.003,Cancer Cell,Circulating T cells fuel anti-PD-1 and lenvatinib efficacy.,2024-11-22,2024-12-06,2025-02-01,2,0
+39889705,10.1016/j.ccell.2025.01.001,Cancer Cell,Contrasting cytotoxic and regulatory T cell responses underlying distinct clinical outcome,2023-11-20,2025-01-06,2025-02-01,20,0
+39824178,10.1016/j.ccell.2024.12.008,Cancer Cell,A constitutive interferon-high immunophenotype defines response to immunotherapy in colore,2024-04-05,2024-12-19,2025-01-18,37,0
+39824177,10.1016/j.ccell.2024.12.009,Cancer Cell,Simplifying clinical use of TCGA molecular subtypes through machine learning models.,2024-12-18,2024-12-20,2025-01-18,2,0
+39753139,10.1016/j.ccell.2024.12.002,Cancer Cell,Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature,2024-08-16,2024-12-05,2025-01-04,30,95
+39729997,10.1016/j.ccell.2024.12.001,Cancer Cell,Targeting P4HA1 promotes CD8+ T cell progenitor expansion toward immune memory and systemi,2024-05-10,2024-12-05,2024-12-28,13,0
+39753140,10.1016/j.ccell.2024.12.006,Cancer Cell,Infiltrating plasma cells maintain glioblastoma stem cells through IgG-Tumor binding.,2024-05-10,2024-12-11,2025-01-04,47,0
+39753138,10.1016/j.ccell.2024.12.004,Cancer Cell,Neutrophil extracellular traps promote pre-metastatic niche formation in the omentum by ex,2023-09-04,2024-12-06,2025-01-04,6,78
+39753137,10.1016/j.ccell.2024.12.007,Cancer Cell,Plasma cell and cancer stem cell crosstalk in glioblastoma.,2024-12-05,2024-12-11,2025-01-04,2,0
+39753136,10.1016/j.ccell.2024.12.005,Cancer Cell,Beta papillomaviruses: From foe to friend in skin cancer immunity.,2024-11-26,2024-12-10,2025-01-04,2,0
+39672169,10.1016/j.ccell.2024.11.013,Cancer Cell,Commensal papillomavirus immunity preserves the homeostasis of highly mutated normal skin.,2024-08-29,2024-11-21,2024-12-14,24,71
+39672168,10.1016/j.ccell.2024.11.012,Cancer Cell,Daily glucocorticoids promote glioblastoma growth and circadian synchrony to the host.,2024-05-28,2024-11-19,2024-12-14,9,105
+39672167,10.1016/j.ccell.2024.11.014,Cancer Cell,A metabolic pathway for improving adoptive cellular therapy.,2024-11-11,2024-11-21,2024-12-14,3,0
+39672166,10.1016/j.ccell.2024.11.008,Cancer Cell,Inhibiting intracellular CD28 in cancer cells enhances antitumor immunity and overcomes an,2024-02-24,2024-11-12,2024-12-14,12,0
+39672164,10.1016/j.ccell.2024.11.004,Cancer Cell,Stressing the importance of circadian time in treatment responses.,2024-10-25,2024-11-07,2024-12-14,1,10
+39642889,10.1016/j.ccell.2024.11.006,Cancer Cell,EZH2 inhibition enhances T cell immunotherapies by inducing lymphoma immunogenicity and im,2024-03-21,2024-11-13,2024-12-07,25,79
+39642888,10.1016/j.ccell.2024.11.003,Cancer Cell,Mannose metabolism reshapes T cell differentiation to enhance anti-tumor immunity.,2024-01-27,2024-11-06,2024-12-07,12,106
+39423816,10.1016/j.ccell.2024.09.014,Cancer Cell,Integrating priorities at the intersection of cancer and neuroscience.,2024-09-17,2024-09-23,2024-10-19,32,15
+42956743,10.1016/j.ccell.2026.10.003,Cancer Cell,KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancre,2025-10-27,2026-10-05,2026-10-29,19,0
+42956742,10.1016/j.ccell.2026.10.004,Cancer Cell,A sex-specific platelet switch controls anti-tumor immunity in glioblastoma.,2025-06-12,2026-10-07,2026-10-29,47,0
+42956741,10.1016/j.ccell.2026.10.001,Cancer Cell,Intrinsic resistance to KRAS inhibition: Interfering with interferon.,2026-09-23,2026-10-01,2026-10-29,2,0
+42945961,10.1016/j.ccell.2026.10.002,Cancer Cell,CPS + EG and Neo-Bioscore predict individual outcomes but not trial results after neoadjuv,2026-06-05,2026-10-02,2026-10-27,33,0
+42945959,10.1016/j.ccell.2026.10.006,Cancer Cell,Macrophage lipid signaling drives glioblastoma invasion and represents a therapeutic vulne,2026-03-26,2026-10-07,2026-10-27,20,0
+42933392,10.1016/j.ccell.2026.09.015,Cancer Cell,Finding MES: A hidden cell state in neuroblastoma.,2026-09-15,2026-09-29,2026-10-26,2,0
+42913635,10.1016/j.ccell.2026.09.016,Cancer Cell,Lung neuroendocrine cancer induces immunosuppressive macrophages via serotonin to drive re,2025-11-29,2026-09-29,2026-10-23,40,0
+42913634,10.1016/j.ccell.2026.09.001,Cancer Cell,How far are we from multi-omics states to therapeutic targets in microsatellite-stable col,2026-08-14,2026-09-01,2026-10-23,3,0
+42913633,10.1016/j.ccell.2026.09.014,Cancer Cell,Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct bio,2025-06-20,2026-09-28,2026-10-23,52,0
+42913632,10.1016/j.ccell.2026.09.013,Cancer Cell,The neoantigen quality model: Is closer to self more non-self?,2026-06-11,2026-09-28,2026-10-23,3,0
+42887497,10.1016/j.ccell.2026.09.011,Cancer Cell,Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor,2026-02-13,2026-09-21,2026-10-16,39,0
+42887496,10.1016/j.ccell.2026.08.003,Cancer Cell,"One structural class, one treatment? Firmonertinib in PACC-mutant NSCLC.",2026-07-30,2026-08-03,2026-10-16,2,0
+42863460,10.1016/j.ccell.2026.09.009,Cancer Cell,Hitting KRAS G12D without the gut punch: Can immunotherapy make it last?,2026-09-17,2026-09-17,2026-10-13,2,0
+42863459,10.1016/j.ccell.2026.08.020,Cancer Cell,Microbial cues for a stem-like lymphoid niche.,2026-08-25,2026-08-31,2026-10-13,1,0
+42826713,10.1016/j.ccell.2026.09.006,Cancer Cell,Chemotherapy enhances cancer vaccine efficacy and expands stem-like TCF1+CD8+ T cells.,2026-03-31,2026-09-11,2026-10-02,19,0
+42815460,10.1016/j.ccell.2026.08.019,Cancer Cell,Beyond BMI: The diet-microbiome context of the obesity paradox.,2026-08-24,2026-08-27,2026-09-30,3,0
+42805171,10.1016/j.ccell.2026.09.007,Cancer Cell,The wu wei of brain metastases: When the gift of a pause is also a vulnerability.,2026-09-11,2026-09-11,2026-09-28,3,0
+42805170,10.1016/j.ccell.2026.09.002,Cancer Cell,A transient MXD4-dependent proliferative pause enables survival of brain micrometastases.,2025-04-29,2026-09-02,2026-09-28,48,0
+42759517,10.1016/j.ccell.2026.08.015,Cancer Cell,γδ T cells modulate anti-tumor immunity in small cell lung cancer.,2025-09-04,2026-08-20,2026-09-18,26,0
+42759516,10.1016/j.ccell.2026.08.016,Cancer Cell,γδ T cells BiTE back at small cell lung cancer.,2026-08-18,2026-08-20,2026-09-18,3,0
+42753737,10.1016/j.ccell.2026.08.009,Cancer Cell,Beyond genes and hotspots: Protein-informed interpretation of cancer mutations.,2026-08-17,2026-08-17,2026-09-17,2,0
+42753736,10.1016/j.ccell.2026.08.017,Cancer Cell,Myeloid reprogramming generates myeloid-derived activating cells to potentiate radiotherap,2025-10-02,2026-08-20,2026-09-17,24,86
+42748921,10.1016/j.ccell.2026.08.012,Cancer Cell,Chemotherapy-free phase 1/2 trial of HRS-4642 plus adebrelimab in previously treated metas,2026-05-26,2026-08-20,2026-09-16,10,0
+42743928,10.1016/j.ccell.2026.08.010,Cancer Cell,"Chronotherapy with immune checkpoint inhibitors: The knowns, the unknowns, and the contest",2026-06-05,2026-08-18,2026-09-15,4,0
+42721960,10.1016/j.ccell.2026.08.013,Cancer Cell,Teamwork makes the dream work? Ensemble learning in computational pathology.,2026-08-11,2026-08-20,2026-09-10,2,0
+42721959,10.1016/j.ccell.2026.08.008,Cancer Cell,Ensemble learning of pathology foundation models for precision oncology.,2026-01-08,2026-08-07,2026-09-10,27,88
+42716007,10.1016/j.ccell.2026.07.010,Cancer Cell,UniCure: A multi-modal model for predicting personalized cancer therapy response.,2025-10-14,2026-07-16,2026-09-09,23,0
+42628524,10.1016/j.ccell.2026.07.017,Cancer Cell,Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.,2025-09-28,2026-07-23,2026-08-21,4,98
+42624109,10.1016/j.ccell.2026.07.015,Cancer Cell,Tumor cells recruit macrophage bodyguards to outlast chemotherapy.,2026-07-15,2026-07-23,2026-08-20,4,0
+42607676,10.1016/j.ccell.2026.07.016,Cancer Cell,Intratumoral Bacillus cereus orchestrates stem-like lymphoid niches to potentiate immunoth,2025-07-03,2026-07-23,2026-08-17,14,0
+42849441,10.1016/j.ccell.2026.09.008,Cancer Cell,Spatial omics resolves adrenergic and mesenchymal cell states in neuroblastoma.,2026-02-08,2026-09-16,2026-10-08,70,0
+42843336,10.1016/j.ccell.2026.09.010,Cancer Cell,Chromatin plasticity and lineage repurposing: When gastric identity turns acidic.,2026-09-15,2026-09-21,2026-10-07,5,0
+42838052,10.1016/j.ccell.2026.09.004,Cancer Cell,Chromatin accessibility trajectories reveal pre-cancerous epigenetic priming and an acid-d,2026-04-29,2026-09-03,2026-10-06,44,0
+42735681,10.1016/j.ccell.2026.08.005,Cancer Cell,Spatial analysis reveals the evolving organization of IDH-mutant glioma.,2026-01-26,2026-08-04,2026-09-15,23,40
+42735680,10.1016/j.ccell.2026.08.002,Cancer Cell,"Scherer's map, remapped.",2026-07-27,2026-08-02,2026-09-15,3,0
+42735679,10.1016/j.ccell.2026.07.014,Cancer Cell,Pancreatic ductal adenocarcinoma: The Vision of Heracles.,2026-07-20,2026-07-22,2026-09-15,36,0
+42735678,10.1016/j.ccell.2026.08.001,Cancer Cell,Molecular residual disease: Charting a new path for treating resectable solid tumors.,2026-04-29,2026-08-01,2026-09-15,9,0
+42679812,10.1016/j.ccell.2026.08.007,Cancer Cell,Tumor immune microenvironment remodeling predicts response to checkpoint inhibitor therapy,2025-11-24,2026-08-07,2026-09-01,6,0
+42679811,10.1016/j.ccell.2026.08.004,Cancer Cell,Integrated clinicogenomic analysis reveals the evolution and metastatic tropisms of advanc,2025-09-18,2026-08-03,2026-09-01,38,57
+42679810,10.1016/j.ccell.2026.07.013,Cancer Cell,Tumor evolution shapes metastatic competence in colorectal cancer.,2026-07-14,2026-07-21,2026-09-01,2,0
+42679809,10.1016/j.ccell.2026.06.016,Cancer Cell,TIME in motion: How response takes shape.,2026-06-11,2026-06-24,2026-09-01,2,0
+42612635,10.1016/j.ccell.2026.07.018,Cancer Cell,Biological aging and the hidden architecture of early-onset cancer risk.,2026-07-27,2026-07-29,2026-08-18,2,0
+42594872,10.1016/j.ccell.2026.07.006,Cancer Cell,EGFR-targeting ADCs: From oncogene addiction to antigen-guided drug delivery.,2026-06-27,2026-07-09,2026-08-13,3,0
+42594871,10.1016/j.ccell.2026.07.012,Cancer Cell,"SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced n",2025-11-25,2026-07-20,2026-08-13,36,0
+42575100,10.1016/j.ccell.2026.06.021,Cancer Cell,Latent tumor killers awakened.,2026-06-16,2026-06-27,2026-08-11,2,0
+42575099,10.1016/j.ccell.2026.07.011,Cancer Cell,Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironmen,2025-07-23,2026-07-17,2026-08-11,53,0
+42546705,10.1016/j.ccell.2026.07.003,Cancer Cell,A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine pr,2025-08-13,2026-07-03,2026-08-04,29,91
+42526444,10.1016/j.ccell.2026.06.017,Cancer Cell,Depletion of an immature cord blood NK subset reverses trogocytosis-driven CAR NK dysfunct,2026-01-26,2026-06-25,2026-07-30,24,66
+42508409,10.1016/j.ccell.2026.06.020,Cancer Cell,Tumor-infiltrating plasma cell targets as a source for immunotherapies.,2026-06-11,2026-06-26,2026-07-28,2,7
+42508408,10.1016/j.ccell.2026.07.001,Cancer Cell,Tumor-infiltrating plasma cell profiling after PD-1 blockade reveals tumor-specific antibo,2025-07-19,2026-07-01,2026-07-28,26,87
+42497870,10.1016/j.ccell.2026.06.018,Cancer Cell,A self-amplifying nerve-fibroblast circuit drives colorectal cancer progression.,2025-11-29,2026-06-26,2026-07-25,26,128
+42537651,10.1016/j.ccell.2026.07.007,Cancer Cell,Mapping micrometastatic seeds of relapse.,2026-07-06,2026-07-09,2026-08-01,2,0
+42526445,10.1016/j.ccell.2026.06.022,Cancer Cell,Subclinical cholestasis is a hallmark of gut dysbiosis causing resistance to cancer immuno,2025-09-01,2026-06-29,2026-07-30,55,74
+42526443,10.1016/j.ccell.2026.06.013,Cancer Cell,Dysbiosis-associated bile acids slam the brakes on immune checkpoint therapy.,2026-06-08,2026-06-18,2026-07-30,2,0
+42462708,10.1016/j.ccell.2026.06.010,Cancer Cell,PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatoc,2025-10-14,2026-06-15,2026-07-17,21,0
+42456653,10.1016/j.ccell.2026.06.015,Cancer Cell,Perioperative tislelizumab plus chemotherapy for locally advanced gastric cancer: A random,2025-10-14,2026-06-23,2026-07-16,26,0
+42425077,10.1016/j.ccell.2026.06.012,Cancer Cell,Menin in normal and malignant megakaryopoiesis.,2026-05-31,2026-06-17,2026-07-10,2,0
+42425076,10.1016/j.ccell.2026.06.006,Cancer Cell,GABA promotes resistance to immunotherapy in patients with TLS-positive tumors.,2025-07-10,2026-06-13,2026-07-10,27,0
+42425075,10.1016/j.ccell.2026.06.008,Cancer Cell,Menin-dependent megakaryocyte proliferation and fibrosis in myeloproliferative neoplasms.,2025-09-30,2026-06-15,2026-07-10,16,36
+42425074,10.1016/j.ccell.2026.06.009,Cancer Cell,Spatial multi-omics landscape of colorectal cancer macro- and micrometastases.,2025-04-16,2026-06-15,2026-07-10,46,90
+42425073,10.1016/j.ccell.2026.06.011,Cancer Cell,Your neighbors matter: Adjacent cancer cells dampen TLS function.,2026-06-15,2026-06-16,2026-07-10,2,0
+42425072,10.1016/j.ccell.2026.06.007,Cancer Cell,Stressed bones and glioblastoma.,2026-05-31,2026-06-15,2026-07-10,1,0
+42349427,10.1016/j.ccell.2026.06.003,Cancer Cell,From prediction to interpretation in computational pathology.,2026-06-01,2026-06-03,2026-06-26,2,0
+42314665,10.1016/j.ccell.2026.05.018,Cancer Cell,Macrophage-mediated brain-bone marrow crosstalk promotes chronic stress-induced glioma gro,2024-08-23,2026-05-26,2026-06-19,22,0
+42276049,10.1016/j.ccell.2026.05.014,Cancer Cell,Spatial biomarker discovery via interpretable semantic learning in histopathology.,2025-09-20,2026-05-21,2026-06-12,40,0
+42276047,10.1016/j.ccell.2026.05.012,Cancer Cell,Mapping cell type-resolved transcriptomic profiles to patient survival in pancreatic cance,2025-09-16,2026-05-19,2026-06-12,20,0
+42442342,10.1016/j.ccell.2026.06.005,Cancer Cell,Starved of oxygen and fueled by macrophages: Path to progression in RCC.,2026-06-11,2026-06-12,2026-07-14,3,0
+42349431,10.1016/j.ccell.2026.05.015,Cancer Cell,Intratumoral B cells under stress.,2026-05-20,2026-05-21,2026-06-26,1,0
+42349430,10.1016/j.ccell.2026.06.004,Cancer Cell,Chronic stress unleashes an intratumor phage-fibroblast-B cell circuit to promote tumor gr,2025-05-09,2026-06-04,2026-06-26,22,104
+42349428,10.1016/j.ccell.2026.06.002,Cancer Cell,OpenIO: An open framework for AI-native immunotherapy.,2026-01-05,2026-06-02,2026-06-26,23,0
+42314666,10.1016/j.ccell.2026.05.019,Cancer Cell,Targeting drug-tolerant persister cells: Let's bring on the TROPs!,2026-05-22,2026-05-28,2026-06-19,3,0
+42314664,10.1016/j.ccell.2026.05.020,Cancer Cell,Targeting TROP2 in drug-tolerant persister cells delays EGFR tyrosine kinase inhibitor res,2025-08-01,2026-05-28,2026-06-19,33,0
+42314663,10.1016/j.ccell.2026.05.016,Cancer Cell,Context dependency in cancer neuroscience.,2026-05-07,2026-05-22,2026-06-19,4,0
+42276051,10.1016/j.ccell.2026.05.011,Cancer Cell,High-plasticity oncofetal cell states in early pre-metastatic colorectal cancer.,2026-05-14,2026-05-19,2026-06-12,4,0
+42276050,10.1016/j.ccell.2026.05.017,Cancer Cell,An epigenetic four-lane route to camouflage for cancer cells.,2026-05-12,2026-05-22,2026-06-12,3,0
+42276048,10.1016/j.ccell.2026.05.013,Cancer Cell,Attack of the clones: Tracing the dynamics of innate immune cells in human cancer.,2026-05-09,2026-05-19,2026-06-12,2,0
+42276046,10.1016/j.ccell.2026.05.010,Cancer Cell,The cartography of KRAS inhibitor resistance in colorectal cancer.,2026-05-05,2026-05-19,2026-06-12,3,0
+42276045,10.1016/j.ccell.2026.05.009,Cancer Cell,STING unlocks CD4⁺ T cell immunity in pancreatic cancer.,2026-04-02,2026-05-19,2026-06-12,3,0
+42242233,10.1016/j.ccell.2026.05.006,Cancer Cell,Clonal lineage tracing of innate immune cells in human cancer.,2025-07-16,2026-05-08,2026-06-05,18,84
+42242232,10.1016/j.ccell.2026.05.007,Cancer Cell,Hypoxia shapes both therapeutic response and resistance in metastatic clear cell renal cel,2025-04-09,2026-05-11,2026-06-05,40,119
+42242231,10.1016/j.ccell.2026.05.008,Cancer Cell,Pathogenesis of diffuse large B cell lymphoma proteogenotypes.,2024-12-03,2026-05-11,2026-06-05,44,0
+42208540,10.1016/j.ccell.2026.05.001,Cancer Cell,Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigorat,2025-08-21,2026-05-01,2026-05-29,20,0
+42167227,10.1016/j.ccell.2026.04.009,Cancer Cell,Concurrent genetic and non-genetic resistance mechanisms to KRAS inhibition in colorectal ,2025-04-09,2026-04-27,2026-05-22,9,60
+42102812,10.1016/j.ccell.2026.04.005,Cancer Cell,Dendritic cell redundancy enables priming of anti-tumor CD4+ T cells in pancreatic cancer.,2025-04-14,2026-04-09,2026-05-09,36,100
+42102810,10.1016/j.ccell.2026.04.007,Cancer Cell,Whole-genome doubling drives immune evasion by silencing antigen presentation.,2025-02-10,2026-04-15,2026-05-09,36,84
+42259249,10.1016/j.ccell.2026.05.005,Cancer Cell,Tumor cells metabolically resist immune-checkpoint therapy by macrophage efferocytosis-med,2025-03-22,2026-05-08,2026-06-09,42,0
+42208541,10.1016/j.ccell.2026.05.003,Cancer Cell,When more target antigen expression is less.,2026-05-04,2026-05-05,2026-05-29,1,0
+42167230,10.1016/j.ccell.2026.04.010,Cancer Cell,Endocytic evasion confers resistance to antibody-drug conjugates therapy in cancer.,2025-08-11,2026-04-29,2026-05-22,7,0
+42167228,10.1016/j.ccell.2026.04.008,Cancer Cell,Engineered enhancers: Using tumor switches for precision therapy.,2026-04-24,2026-04-24,2026-05-22,3,0
+42102811,10.1016/j.ccell.2026.04.004,Cancer Cell,Cancer stem cells orchestrate immune evasion through extracellular vesicle-mediated non-ca,2025-06-04,2026-04-09,2026-05-09,26,0
+42102809,10.1016/j.ccell.2026.04.003,Cancer Cell,RAS-ing the bar in the treatment of KRAS-mutant cholangiocarcinoma.,2026-03-31,2026-04-09,2026-05-09,2,0
+42102808,10.1016/j.ccell.2026.03.010,Cancer Cell,Extracellular vesicles: Whisperers of tumor immune evasion.,2026-03-09,2026-03-15,2026-05-09,2,0
+42066763,10.1016/j.ccell.2026.04.001,Cancer Cell,When tissue tension creates a mutagenic niche.,2026-03-21,2026-04-01,2026-05-02,2,0
+42066761,10.1016/j.ccell.2026.03.022,Cancer Cell,Tissue tension fosters macrophage-driven lipid peroxidation-induced DNA damage.,2025-06-25,2026-03-30,2026-05-02,12,86
+42066759,10.1016/j.ccell.2026.03.021,Cancer Cell,A conserved re-epithelialization program underlies malignancy in pancreatic ductal adenoca,2025-05-25,2026-03-27,2026-05-02,28,0
+42049023,10.1016/j.ccell.2026.03.016,Cancer Cell,Dissecting the cellular architecture of breast cancer brain metastases reveals prognostica,2025-09-08,2026-03-25,2026-04-29,43,0
+42030930,10.1016/j.ccell.2026.03.020,Cancer Cell,Anticancer activity of RAS-GTP inhibition in cholangiocarcinoma.,2025-06-18,2026-03-26,2026-04-25,30,0
+42030929,10.1016/j.ccell.2026.03.019,Cancer Cell,Rethinking immune states in brain metastasis.,2026-03-24,2026-03-26,2026-04-25,2,0
+41999748,10.1016/j.ccell.2026.03.001,Cancer Cell,"Targeting internalization, resistance, and response: Insights from ICARUS-LUNG01.",2026-02-27,2026-03-02,2026-04-19,4,0
+41999747,10.1016/j.ccell.2026.03.017,Cancer Cell,"Efficacy, safety, and biomarker analysis of datopotamab deruxtecan in advanced non-small c",2025-07-07,2026-03-25,2026-04-19,47,0
+41997138,10.1016/j.ccell.2026.03.015,Cancer Cell,Identification of cycling regulatory T cell precursors as conductors of immune escape duri,2025-03-20,2026-03-23,2026-04-18,35,90
+42066762,10.1016/j.ccell.2026.03.023,Cancer Cell,Activated T cell extracellular vesicle DNA transfer enhances antigen presentation and anti,2024-07-24,2026-03-31,2026-05-02,45,84
+42066760,10.1016/j.ccell.2026.03.013,Cancer Cell,T cell extracellular vesicles go nuclear to turn cold tumors hot.,2026-03-13,2026-03-23,2026-05-02,2,0
+42030931,10.1016/j.ccell.2026.03.018,Cancer Cell,"JYP0322, a highly selective and brain-penetrant ROS1 inhibitor, overcomes ROS1G2032R resis",2025-08-01,2026-03-25,2026-04-25,34,0
+41997139,10.1016/j.ccell.2026.03.014,Cancer Cell,Precancerous niches as gatekeepers of tumor initiation.,2026-03-20,2026-03-23,2026-04-18,3,0
+41932332,10.1016/j.ccell.2026.03.007,Cancer Cell,Redefining cancer drivers with tissue-specific context.,2026-02-25,2026-03-06,2026-04-04,2,0
+41932330,10.1016/j.ccell.2026.03.008,Cancer Cell,A snapshot of the earliest stages of hepatocellular carcinoma.,2026-02-26,2026-03-10,2026-04-04,2,0
+41895280,10.1016/j.ccell.2026.03.003,Cancer Cell,"Cancer type-specific variation in patterns of driver alterations across 50,000 tumors.",2024-04-26,2026-03-03,2026-03-28,89,92
+41895279,10.1016/j.ccell.2026.03.005,Cancer Cell,Molecular insights into early malignant transition of hepatocellular carcinoma.,2025-06-15,2026-03-04,2026-03-28,22,93
+41895277,10.1016/j.ccell.2026.03.004,Cancer Cell,Myofibroblast programming blocks differentiation of TLS-organizing fibroblastic reticular ,2025-05-14,2026-03-03,2026-03-28,13,101
+41895276,10.1016/j.ccell.2026.03.006,Cancer Cell,A cross-kingdom alliance driving colorectal cancer.,2026-02-17,2026-03-04,2026-03-28,1,0
+41875889,10.1016/j.ccell.2026.02.013,Cancer Cell,Radiotherapy synergizes with an inducible AAV-based immunotherapy platform to program loca,2024-12-17,2026-02-25,2026-03-25,31,0
+41825442,10.1016/j.ccell.2026.02.012,Cancer Cell,The landscape of structural variation in pediatric cancer.,2025-07-14,2026-02-12,2026-03-14,17,126
+41791377,10.1016/j.ccell.2026.02.007,Cancer Cell,A closed tumor-immune-brain circuit in cancer cachexia.,2026-02-05,2026-02-07,2026-03-07,3,0
+41759520,10.1016/j.ccell.2026.02.001,Cancer Cell,Candida albicans synergizes with Fusobacterium nucleatum in colorectal cancer progression ,2025-04-15,2026-02-03,2026-02-28,27,0
+41687610,10.1016/j.ccell.2026.01.014,Cancer Cell,Tumor-immune-neural circuit disrupts energy homeostasis in cancer cachexia.,2025-07-18,2026-01-16,2026-02-14,25,63
+41932331,10.1016/j.ccell.2026.03.009,Cancer Cell,Reactivating p53 mutants selectively in patients.,2026-03-08,2026-03-12,2026-04-04,3,0
+41861823,10.1016/j.ccell.2026.02.014,Cancer Cell,A photoreceptor state links aggressive brain tumors in children.,2026-02-10,2026-02-25,2026-03-21,2,0
+41791381,10.1016/j.ccell.2026.02.006,Cancer Cell,"HS-20093, a B7-H3-targeted antibody-drug conjugate in lung cancer: Results from the ARTEMI",2025-04-23,2026-02-05,2026-03-07,28,0
+41791380,10.1016/j.ccell.2026.02.008,Cancer Cell,Vascular STING activation facilitates NK cell anti-tumor immunity in small cell lung cance,2024-09-05,2026-02-10,2026-03-07,63,94
+41791379,10.1016/j.ccell.2026.02.010,Cancer Cell,A tumor-associated photoreceptor signature unifies distinct central nervous system maligna,2025-08-26,2026-02-11,2026-03-07,31,95
+41791378,10.1016/j.ccell.2026.02.009,Cancer Cell,Tumor-restraining fibroblasts emerge after chemotherapy specifically in responders.,2026-02-10,2026-02-11,2026-03-07,2,0
+41759518,10.1016/j.ccell.2026.02.003,Cancer Cell,Intratumoral lymphatics: When less is more.,2026-02-02,2026-02-03,2026-02-28,2,0
+41759517,10.1016/j.ccell.2026.02.005,Cancer Cell,Detecting microbial footprints in cancer sequencing.,2026-01-29,2026-02-04,2026-02-28,3,0
+41759516,10.1016/j.ccell.2026.02.004,Cancer Cell,Structuring pathology foundation models with domain knowledge.,2026-02-03,2026-02-04,2026-02-28,2,0
+41720086,10.1016/j.ccell.2026.01.015,Cancer Cell,Dissecting genetic and immune drivers of heterogeneous responses to neoadjuvant immunochem,2025-06-01,2026-01-19,2026-02-21,27,0
+41720085,10.1016/j.ccell.2026.01.019,Cancer Cell,Knowledge-enhanced pretraining for vision-language pathology foundation model on cancer di,2025-07-21,2026-01-27,2026-02-21,13,0
+41687608,10.1016/j.ccell.2026.01.012,Cancer Cell,Lipid oxidation reprogramming in cancer-associated fibroblasts enhances CD8+ T cell cytoto,2025-03-11,2026-01-14,2026-02-14,16,0
+41650974,10.1016/j.ccell.2026.01.007,Cancer Cell,Reliable detection of Host-Microbe Signatures in cancer using PRISM.,2025-01-24,2026-01-08,2026-02-07,3,86
+41650973,10.1016/j.ccell.2026.01.005,Cancer Cell,Male-biased Yap1-Cd276/B7-H3 axis for immune evasion in medulloblastoma.,2024-09-23,2026-01-07,2026-02-07,17,64
+41576931,10.1016/j.ccell.2025.12.019,Cancer Cell,"IFNγ-dependent metabolic reprogramming restrains an immature, pro-metastatic lymphatic sta",2024-12-06,2025-12-16,2026-01-24,26,114
+41687609,10.1016/j.ccell.2026.01.017,Cancer Cell,The cellular orchestra of CAR T success.,2025-12-31,2026-01-21,2026-02-14,2,10
+41687607,10.1016/j.ccell.2026.01.016,Cancer Cell,"A conserved, terminal, pro-tumor neutrophil population.",2026-01-16,2026-01-19,2026-02-14,3,0
+41687606,10.1016/j.ccell.2026.01.010,Cancer Cell,Chemotherapy triggers immune evasion by fostering LEPR+ Kupffer cell differentiation in li,2025-03-22,2026-01-12,2026-02-14,24,0
+41650972,10.1016/j.ccell.2026.01.006,Cancer Cell,CCL3 is produced by aged neutrophils across cancers and promotes tumor growth.,2025-07-09,2026-01-08,2026-02-07,31,88
+41650971,10.1016/j.ccell.2026.01.008,Cancer Cell,Turn CAR T against TAMs.,2026-01-07,2026-01-09,2026-02-07,2,0
+41616773,10.1016/j.ccell.2026.01.003,Cancer Cell,Lymph node colonization induces tissue remodeling via immunosuppressive fibroblast-myeloid,2025-02-17,2026-01-06,2026-01-31,21,60
+41616772,10.1016/j.ccell.2026.01.002,Cancer Cell,AI for cancer treatment information: Can academia stay in the game?,2025-12-22,2026-01-06,2026-01-31,2,0
+41576930,10.1016/j.ccell.2025.12.020,Cancer Cell,IGSF11-VISTA is a critical and targetable immune checkpoint axis in diffuse midline glioma,2025-02-18,2025-12-23,2026-01-24,27,93
+41576929,10.1016/j.ccell.2025.12.021,Cancer Cell,Armored macrophage-targeted CAR-T cells reset and reprogram the tumor microenvironment and,2025-03-27,2025-12-24,2026-01-24,21,80
+41576928,10.1016/j.ccell.2025.11.009,Cancer Cell,Tumor-antigen-independent targeting of solid tumors by armored macrophage-directed anti-TR,2025-06-09,2025-11-20,2026-01-24,14,0
+41544629,10.1016/j.ccell.2025.12.015,Cancer Cell,Axes of biological variation in diffuse large B cell lymphoma.,2025-01-06,2025-12-15,2026-01-17,18,117
+41544626,10.1016/j.ccell.2025.12.017,Cancer Cell,A context-augmented large language model for accurate precision oncology medicine recommen,2025-07-15,2025-12-16,2026-01-17,20,62
+41512871,10.1016/j.ccell.2025.12.008,Cancer Cell,The ADAPT learning cancer treatment system: ARPA-H's initiative to revolutionize cancer th,2025-12-08,2025-12-10,2026-01-10,20,13
+41512869,10.1016/j.ccell.2025.12.016,Cancer Cell,Framework for cancer evolution profiling and interception in colorectal cancer: ASCEND-CRC,2025-09-18,2025-12-15,2026-01-10,31,0
+41512868,10.1016/j.ccell.2025.12.011,Cancer Cell,B cells disrupt tertiary lymphoid structure formation and suppress anti-tumor immunity.,2025-05-26,2025-12-12,2026-01-10,17,0
+41349540,10.1016/j.ccell.2025.10.014,Cancer Cell,A longitudinal single-cell atlas to predict outcome and toxicity after BCMA-directed CAR T,2025-05-05,2025-10-31,2025-12-06,36,0
+41666875,10.1016/j.ccell.2026.01.009,Cancer Cell,Ubiquitin control of cytosolic DNA sets immune responses to DNA damage.,2025-12-19,2026-01-12,2026-02-11,2,0
+41666874,10.1016/j.ccell.2026.01.004,Cancer Cell,"Enhancing therapeutic outcomes with artificial intelligence for HR-positive, HER2-negative",2026-01-07,2026-01-07,2026-02-11,5,0
+41544628,10.1016/j.ccell.2025.12.018,Cancer Cell,Single-cell screens identify ADAM12 as a fibroblast checkpoint impeding anti-tumor immunit,2025-01-21,2025-12-16,2026-01-17,25,0
+41544627,10.1016/j.ccell.2025.12.012,Cancer Cell,Multiomic integration reveals tumoral heterogeneity of lipid dependence within lethal grou,2025-01-16,2025-12-12,2026-01-17,85,97
+41512870,10.1016/j.ccell.2025.12.014,Cancer Cell,Integrative proteogenomic analysis provides molecular insights and clinical significance i,2025-04-19,2025-12-15,2026-01-10,20,0
+41512867,10.1016/j.ccell.2025.12.013,Cancer Cell,Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune respo,2025-04-25,2025-12-13,2026-01-10,27,0
+41478274,10.1016/j.ccell.2025.12.006,Cancer Cell,When the methylome becomes the microscope.,2025-11-05,2025-12-09,2026-01-02,1,0
+41386225,10.1016/j.ccell.2025.11.007,Cancer Cell,IL-36γ armored CAR T cells reprogram neutrophils to induce endogenous antitumor immunity.,2025-04-29,2025-11-17,2025-12-13,21,60
+41386222,10.1016/j.ccell.2025.11.005,Cancer Cell,Mapping the inflammatory origins of lung cancer.,2025-11-06,2025-11-09,2025-12-13,3,0
+41349543,10.1016/j.ccell.2025.11.003,Cancer Cell,Precision treatment with artificial intelligence assisted subtyping enhances therapeutic e,2025-03-08,2025-11-07,2025-12-06,49,0
+41349541,10.1016/j.ccell.2025.11.002,Cancer Cell,Advancing CNS tumor diagnostics with expanded DNA methylation-based classification.,2025-05-06,2025-11-07,2025-12-06,121,0
+41202811,10.1016/j.ccell.2025.10.004,Cancer Cell,Multimodal spatial-omics reveal co-evolution of alveolar progenitors and proinflammatory n,2025-04-20,2025-10-15,2025-11-08,49,73
+41529665,10.1016/j.ccell.2025.12.003,Cancer Cell,Single-cell integration and multi-modal profiling reveals phenotypes and spatial organizat,2025-02-25,2025-12-04,2026-01-14,47,0
+41529664,10.1016/j.ccell.2025.12.010,Cancer Cell,Characterization of a pathogenic subpopulation of human glioma associated macrophages link,2025-02-21,2025-12-10,2026-01-14,17,81
+41478278,10.1016/j.ccell.2025.12.004,Cancer Cell,Antigen-specific profiling identifies T-bet+ melanoma-specific CD8+ T cells associated wit,2025-01-19,2025-12-05,2026-01-02,30,0
+41478275,10.1016/j.ccell.2025.12.007,Cancer Cell,Adaptive plasticity in targeted therapy.,2025-11-30,2025-12-05,2026-01-02,3,0
+41386224,10.1016/j.ccell.2025.11.006,Cancer Cell,Multi-omic landscape of human gliomas from diagnosis to treatment and recurrence.,2025-02-17,2025-11-12,2025-12-13,40,105
+41349544,10.1016/j.ccell.2025.11.004,Cancer Cell,When blood mutations turn beneficial.,2025-11-05,2025-11-07,2025-12-06,3,0
+41349542,10.1016/j.ccell.2025.11.001,Cancer Cell,Tumor-initiating stem cells fine-tune the plasticity of neutrophils to sculpt a protective,2024-12-11,2025-11-07,2025-12-06,20,86
+41349539,10.1016/j.ccell.2025.10.012,Cancer Cell,Tumor-initiating stem cells engineer immunity.,2025-10-24,2025-10-29,2025-12-06,2,0
+41237766,10.1016/j.ccell.2025.10.010,Cancer Cell,Paneth-like transition drives resistance to dual targeting of KRAS and EGFR in colorectal ,2025-02-21,2025-10-22,2025-11-15,28,71
+41172999,10.1016/j.ccell.2025.10.002,Cancer Cell,"Fusobacterium, quiescent niches, and therapy response in colorectal cancer.",2025-09-24,2025-10-10,2025-11-01,3,0
+41135521,10.1016/j.ccell.2025.09.014,Cancer Cell,RAF-independent MEK mutations drive refractory histiocytic neoplasms but respond to ERK in,2024-11-22,2025-09-30,2025-10-25,45,59
+41106380,10.1016/j.ccell.2025.09.010,Cancer Cell,Tumor-infiltrating bacteria disrupt cancer epithelial cell interactions and induce cell-cy,2024-07-18,2025-09-16,2025-10-18,21,120
+41106379,10.1016/j.ccell.2025.09.011,Cancer Cell,TET2-mutant clonal hematopoiesis enhances macrophage antigen presentation and improves imm,2024-12-23,2025-09-23,2025-10-18,10,0

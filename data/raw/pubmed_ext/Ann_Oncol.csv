@@ -1,0 +1,611 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34958894,10.1016/j.annonc.2021.12.006,Ann Oncol,COVID-19 vaccination and breakthrough infections in patients with cancer.,2021-09-21,2021-12-16,2021-12-28,32,29
+34954044,10.1016/j.annonc.2021.12.005,Ann Oncol,Tucatinib versus placebo added to trastuzumab and capecitabine for patients with pretreate,2021-09-28,2021-12-14,2021-12-27,20,0
+34921960,10.1016/j.annonc.2021.12.002,Ann Oncol,"The ECHELON-2 Trial: 5-year results of a randomized, phase III study of brentuximab vedoti",2021-08-26,2021-12-07,2021-12-19,30,37
+34861376,10.1016/j.annonc.2021.11.014,Ann Oncol,Outcome without any adjuvant systemic treatment in stage I ER+/HER2- breast cancer patient,2021-05-07,2021-11-22,2021-12-04,11,0
+34861374,10.1016/j.annonc.2021.11.018,Ann Oncol,Veliparib monotherapy following carboplatin/paclitaxel plus veliparib combination therapy ,2021-04-19,2021-11-23,2021-12-04,15,0
+34843940,10.1016/j.annonc.2021.11.009,Ann Oncol,Open-label phase II study of the efficacy of nivolumab for cancer of unknown primary.,2021-07-23,2021-11-21,2021-11-30,18,0
+34839016,10.1016/j.annonc.2021.11.010,Ann Oncol,A randomised phase II study of osimertinib and bevacizumab versus osimertinib alone as sec,2021-08-23,2021-11-18,2021-11-29,30,0
+34800678,10.1016/j.annonc.2021.11.002,Ann Oncol,First-in-human phase 1 study of the anti-TIGIT antibody vibostolimab as monotherapy or wit,2021-08-09,2021-11-05,2021-11-21,19,0
+34710571,10.1016/j.annonc.2021.10.010,Ann Oncol,Antitumor activity of ipilimumab or BRAF ± MEK inhibition after pembrolizumab treatment in,2021-06-29,2021-10-14,2021-10-29,21,0
+34710570,10.1016/j.annonc.2021.10.009,Ann Oncol,Phase II study of ceralasertib (AZD6738) in combination with durvalumab in patients with a,2021-09-28,2021-10-15,2021-10-29,13,0
+34756513,10.1016/j.annonc.2021.09.007,Ann Oncol,Improved breast cancer histological grading using deep learning.,2020-08-10,2021-09-12,2021-11-11,8,0
+34736925,10.1016/j.annonc.2021.10.213,Ann Oncol,89Zr-pembrolizumab imaging as a non-invasive approach to assess clinical response to PD-1 ,2021-08-24,2021-10-25,2021-11-06,20,0
+34687894,10.1016/j.annonc.2021.10.003,Ann Oncol,FDG-PET to predict long-term outcome from anti-PD-1 therapy in metastatic melanoma.,2021-06-29,2021-10-06,2021-10-24,8,0
+34653632,10.1016/j.annonc.2021.09.021,Ann Oncol,Distinct tumor-infiltrating lymphocyte landscapes are associated with clinical outcomes in,2021-04-11,2021-09-30,2021-10-16,37,59
+34624497,10.1016/j.annonc.2021.09.017,Ann Oncol,"International Tailored Chemotherapy Adjuvant (ITACA) trial, a phase III multicenter random",2021-06-14,2021-09-26,2021-10-09,36,0
+34562610,10.1016/j.annonc.2021.09.011,Ann Oncol,Consolidation nivolumab and ipilimumab versus observation in limited-disease small-cell lu,2021-04-27,2021-09-12,2021-09-26,30,0
+34690007,10.1016/j.annonc.2021.09.004,Ann Oncol,The TeloDIAG: how telomeric parameters can help in glioma rapid diagnosis and liquid biops,2021-05-06,2021-09-05,2021-10-26,19,0
+34656740,10.1016/j.annonc.2021.09.015,Ann Oncol,Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: up,2021-07-15,2021-09-27,2021-10-18,36,0
+34606929,10.1016/j.annonc.2021.09.016,Ann Oncol,Aligning tumor mutational burden (TMB) quantification across diagnostic platforms: phase I,2021-05-09,2021-09-26,2021-10-05,51,0
+34543717,10.1016/j.annonc.2021.09.006,Ann Oncol,Lesion-level heterogeneity of radiologic progression in patients treated with pembrolizuma,2021-05-26,2021-09-09,2021-09-21,5,0
+34520831,10.1016/j.annonc.2021.09.003,Ann Oncol,Association of RAD51 with homologous recombination deficiency (HRD) and clinical outcomes ,2021-04-14,2021-09-06,2021-09-15,21,0
+34500047,10.1016/j.annonc.2021.08.2154,Ann Oncol,Analysis of mutation status and homologous recombination deficiency in tumors of patients ,2021-04-21,2021-08-27,2021-09-10,12,0
+34487855,10.1016/j.annonc.2021.08.2151,Ann Oncol,Clinical definition of acquired resistance to immunotherapy in patients with metastatic no,2021-06-04,2021-08-26,2021-09-07,18,69
+34438040,10.1016/j.annonc.2021.08.1991,Ann Oncol,SPARC-positive macrophages are the superior prognostic factor in the microenvironment of d,2021-06-28,2021-08-16,2021-08-27,17,0
+34419555,10.1016/j.annonc.2021.08.1988,Ann Oncol,Outcome of breast cancer patients with low hormone receptor positivity: analysis of a 15-y,2021-02-17,2021-08-10,2021-08-23,17,0
+34416362,10.1016/j.annonc.2021.08.1748,Ann Oncol,Plasma proteomics identifies leukemia inhibitory factor (LIF) as a novel predictive biomar,2021-06-08,2021-08-06,2021-08-21,19,0
+34400292,10.1016/j.annonc.2021.08.1744,Ann Oncol,Antibiotic-exposed patients with non-small-cell lung cancer preserve efficacy outcomes fol,2021-03-23,2021-08-04,2021-08-18,26,0
+34391895,10.1016/j.annonc.2021.08.1745,Ann Oncol,Large-scale prospective genome-wide association study of oxaliplatin in stage II/III colon,2021-04-06,2021-08-04,2021-08-16,20,0
+34390828,10.1016/j.annonc.2021.08.1746,Ann Oncol,A multigenomic liquid biopsy biomarker for neuroendocrine tumor disease outperforms CgA an,2021-04-28,2021-08-06,2021-08-15,11,26
+34384882,10.1016/j.annonc.2021.07.017,Ann Oncol,Continuous versus intermittent extended adjuvant letrozole for breast cancer: final result,2021-03-12,2021-07-29,2021-08-14,33,0
+34293461,10.1016/j.annonc.2021.07.009,Ann Oncol,Combining tumor deposits with the number of lymph node metastases to improve the prognosti,2021-06-15,2021-07-15,2021-07-23,20,20
+34293460,10.1016/j.annonc.2021.07.008,Ann Oncol,Pembrolizumab for locally advanced and recurrent/metastatic cutaneous squamous cell carcin,2021-05-13,2021-07-16,2021-07-23,17,0
+34284099,10.1016/j.annonc.2021.07.005,Ann Oncol,CYP2D6 genotype predicts tamoxifen discontinuation and drug response: a secondary analysis,2021-04-06,2021-07-13,2021-07-21,13,0
+34224826,10.1016/j.annonc.2021.06.024,Ann Oncol,Final results from the PERUSE study of first-line pertuzumab plus trastuzumab plus a taxan,2021-04-06,2021-06-27,2021-07-06,19,0
+34176681,10.1016/j.annonc.2021.05.806,Ann Oncol,Clinical validation of a targeted methylation-based multi-cancer early detection test usin,2021-05-19,2021-05-30,2021-06-29,15,0
+34139273,10.1016/j.annonc.2021.06.007,Ann Oncol,Deep learning for diagnosis and survival prediction in soft tissue sarcoma.,2021-02-12,2021-06-06,2021-06-18,14,0
+34139272,10.1016/j.annonc.2021.06.004,Ann Oncol,"Nivolumab with carboplatin, paclitaxel, and bevacizumab for first-line treatment of advanc",2021-02-13,2021-06-10,2021-06-18,19,0
+34129855,10.1016/j.annonc.2021.06.003,Ann Oncol,Transcriptional profiling of primary prostate tumor in metastatic hormone-sensitive prosta,2021-04-19,2021-06-06,2021-06-16,16,29
+34116144,10.1016/j.annonc.2021.06.002,Ann Oncol,Biomarker analyses in the phase III ASCENT study of sacituzumab govitecan versus chemother,2021-04-23,2021-06-02,2021-06-12,27,0
+34082019,10.1016/j.annonc.2021.05.803,Ann Oncol,Molecular determinants of clinical outcomes with pembrolizumab versus paclitaxel in a rand,2021-02-12,2021-05-26,2021-06-04,18,0
+34272041,10.1016/j.annonc.2021.05.355,Ann Oncol,"First-line atezolizumab plus nab-paclitaxel for unresectable, locally advanced, or metasta",2021-04-23,2021-05-10,2021-07-18,17,0
+34219000,10.1016/j.annonc.2021.05.801,Ann Oncol,"Primary results from IMpassion131, a double-blind, placebo-controlled, randomised phase II",2021-04-27,2021-05-25,2021-07-06,20,0
+34102253,10.1016/j.annonc.2021.05.353,Ann Oncol,"Ribociclib plus fulvestrant for postmenopausal women with hormone receptor-positive, human",2021-04-21,2021-05-07,2021-06-09,20,0
+34022376,10.1016/j.annonc.2021.05.793,Ann Oncol,Nutritional support during the hospital stay reduces mortality in patients with different ,2021-03-09,2021-05-14,2021-05-23,24,0
+33932507,10.1016/j.annonc.2021.04.014,Ann Oncol,A randomized phase III trial comparing trabectedin to best supportive care in patients wit,2021-02-16,2021-04-22,2021-05-02,24,0
+33932503,10.1016/j.annonc.2021.04.011,Ann Oncol,Adjuvant T-DM1 versus trastuzumab in patients with residual invasive disease after neoadju,2020-11-02,2021-04-20,2021-05-02,30,0
+33894335,10.1016/j.annonc.2021.04.008,Ann Oncol,Pemetrexed plus platinum with or without pembrolizumab in patients with previously untreat,2021-03-09,2021-04-18,2021-04-25,21,0
+33862157,10.1016/j.annonc.2021.04.003,Ann Oncol,Updated estimates of eligibility for and response to genome-targeted oncology drugs among ,2021-01-04,2021-04-06,2021-04-17,3,0
+33836265,10.1016/j.annonc.2021.03.205,Ann Oncol,Cabazitaxel versus abiraterone or enzalutamide in poor prognosis metastatic castration-res,2020-12-09,2021-03-29,2021-04-10,28,0
+33798657,10.1016/j.annonc.2021.03.204,Ann Oncol,Delayed immune-related adverse events with anti-PD-1-based immunotherapy in melanoma.,2020-11-01,2021-03-28,2021-04-03,36,0
+33798656,10.1016/j.annonc.2021.03.203,Ann Oncol,Distinct genomic landscapes of gastroesophageal adenocarcinoma depending on PD-L1 expressi,2020-12-06,2021-03-28,2021-04-03,22,0
+33812017,10.1016/j.annonc.2021.03.200,Ann Oncol,Prospective evaluation of dietary and lifestyle pattern indices with risk of colorectal ca,2021-01-22,2021-03-23,2021-04-04,14,51
+33794293,10.1016/j.annonc.2021.03.196,Ann Oncol,Plasma tumor gene conversions after one cycle abiraterone acetate for metastatic castratio,2020-12-15,2021-03-12,2021-04-02,18,0
+33746047,10.1016/j.annonc.2021.02.024,Ann Oncol,Association of clinical factors and recent anticancer therapy with COVID-19 severity among,2020-12-30,2021-02-28,2021-03-23,128,51
+33744385,10.1016/j.annonc.2021.03.006,Ann Oncol,Pathological response and tumour bed histopathological features correlate with survival fo,2020-12-06,2021-03-10,2021-03-22,30,0
+33741442,10.1016/j.annonc.2021.03.005,Ann Oncol,"Sacituzumab govitecan, a Trop-2-directed antibody-drug conjugate, for patients with epithe",2020-12-24,2021-03-06,2021-03-21,23,0
+33667670,10.1016/j.annonc.2021.02.017,Ann Oncol,"Phase III, randomized trial of mirvetuximab soravtansine versus chemotherapy in patients w",2020-12-18,2021-02-25,2021-03-06,20,0
+33667669,10.1016/j.annonc.2021.02.016,Ann Oncol,IgE blockade with omalizumab reduces pruritus related to immune checkpoint inhibitors and ,2020-04-25,2021-02-24,2021-03-06,22,28
+33736924,10.1016/j.annonc.2021.02.006,Ann Oncol,High tumor mutation burden fails to predict immune checkpoint blockade response across all,2020-11-05,2021-02-06,2021-03-20,16,61
+33639216,10.1016/j.annonc.2021.02.012,Ann Oncol,Intracranial and extracranial efficacy of lorlatinib in patients with ALK-positive non-sma,2020-08-07,2021-02-16,2021-02-28,14,0
+33617937,10.1016/j.annonc.2021.02.011,Ann Oncol,Predicted sensitivity to endocrine therapy for stage II-III hormone receptor-positive and ,2020-08-18,2021-02-13,2021-02-23,32,31
+33610734,10.1016/j.annonc.2021.02.005,Ann Oncol,FAST: a randomised phase II study of zolbetuximab (IMAB362) plus EOX versus EOX alone for ,2020-08-24,2021-02-03,2021-02-22,18,0
+33539946,10.1016/j.annonc.2021.01.071,Ann Oncol,Second-line nivolumab in relapsed small-cell lung cancer: CheckMate 331☆.,2020-07-31,2021-01-17,2021-02-05,22,0
+33539945,10.1016/j.annonc.2021.01.070,Ann Oncol,Ibrutinib in combination with nab-paclitaxel and gemcitabine for first-line treatment of p,2020-07-14,2021-01-20,2021-02-05,19,0
+33539944,10.1016/j.annonc.2021.01.065,Ann Oncol,"A phase II randomized trial of cobimetinib plus chemotherapy, with or without atezolizumab",2020-06-10,2021-01-23,2021-02-05,13,0
+33626377,10.1016/j.annonc.2021.01.006,Ann Oncol,European cancer mortality predictions for the year 2021 with focus on pancreatic and femal,2020-12-11,2021-01-11,2021-02-25,7,0
+33482247,10.1016/j.annonc.2021.01.004,Ann Oncol,Final analysis of the randomized trial on imatinib as an adjuvant in localized gastrointes,2020-03-06,2021-01-10,2021-01-23,21,0
+33453391,10.1016/j.annonc.2020.12.018,Ann Oncol,Niraparib maintenance therapy in patients with platinum-sensitive recurrent ovarian cancer,2020-09-16,2020-12-24,2021-01-17,34,0
+33418062,10.1016/j.annonc.2020.12.016,Ann Oncol,Reconstructing tumor history in breast cancer: signatures of mutational processes and resp,2020-09-04,2020-12-20,2021-01-09,28,0
+33388384,10.1016/j.annonc.2020.12.015,Ann Oncol,Access to essential anticancer medicines for children and adolescents in Europe.,2020-06-02,2020-12-20,2021-01-04,13,0
+33385521,10.1016/j.annonc.2020.12.013,Ann Oncol,Palbociclib in combination with endocrine therapy versus capecitabine in hormonal receptor,2020-09-01,2020-12-17,2021-01-02,33,0
+33385520,10.1016/j.annonc.2020.12.012,Ann Oncol,Relevance of body mass index as a predictor of systemic therapy outcomes in metastatic mel,2020-09-23,2020-12-14,2021-01-02,26,0
+33359547,10.1016/j.annonc.2020.12.010,Ann Oncol,Longitudinal tracking of 97 esophageal adenocarcinomas using liquid biopsy sampling.,2020-09-13,2020-12-16,2020-12-29,16,0
+33352201,10.1016/j.annonc.2020.12.009,Ann Oncol,Combination treatment of copanlisib and gemcitabine in relapsed/refractory PTCL (COSMOS): ,2020-10-01,2020-12-15,2020-12-23,11,0
+33516778,10.1016/j.annonc.2020.12.008,Ann Oncol,"A prospective study of type 2 diabetes, metformin use, and risk of breast cancer.",2020-07-07,2020-12-14,2021-02-01,6,55
+33309774,10.1016/j.annonc.2020.12.004,Ann Oncol,Cobimetinib plus atezolizumab in BRAFV600 wild-type melanoma: primary results from the ran,2020-10-05,2020-12-02,2020-12-15,20,0
+33307203,10.1016/j.annonc.2020.11.023,Ann Oncol,The effect of age on the acquisition and selection of cancer driver mutations in sun-expos,2020-07-09,2020-11-29,2020-12-12,9,35
+33278600,10.1016/j.annonc.2020.11.019,Ann Oncol,Risk stratification in diffuse large B-cell lymphoma using lesion dissemination and metabo,2020-08-27,2020-11-17,2020-12-06,10,0
+33278599,10.1016/j.annonc.2020.11.017,Ann Oncol,"A randomized phase III trial comparing adjuvant single-agent S1, S-1 with oxaliplatin, and",2020-10-11,2020-11-23,2020-12-06,24,0
+33276076,10.1016/j.annonc.2020.11.020,Ann Oncol,"Safety and efficacy of quavonlimab, a novel anti-CTLA-4 antibody (MK-1308), in combination",2020-06-04,2020-11-20,2020-12-05,20,0
+33253862,10.1016/j.annonc.2020.11.015,Ann Oncol,Sentinel node biopsy in patients with melanoma improves the accuracy of staging when added,2020-09-15,2020-11-16,2020-12-01,12,0
+33227408,10.1016/j.annonc.2020.11.004,Ann Oncol,Adjuvant chemotherapy is superior to chemoradiation after D2 surgery for gastric cancer in,2020-08-17,2020-11-09,2020-11-24,21,0
+33246021,10.1016/j.annonc.2020.11.011,Ann Oncol,"Alpelisib plus fulvestrant for PIK3CA-mutated, hormone receptor-positive, human epidermal ",2020-10-06,2020-11-13,2020-11-28,20,0
+33242536,10.1016/j.annonc.2020.11.009,Ann Oncol,Olaparib monotherapy as primary treatment in unselected triple negative breast cancer.,2020-04-30,2020-11-12,2020-11-27,22,0
+33232761,10.1016/j.annonc.2020.11.007,Ann Oncol,Circulating tumor DNA in neoadjuvant-treated breast cancer reflects response and survival.,2020-08-27,2020-11-08,2020-11-25,24,53
+33188874,10.1016/j.annonc.2020.10.600,Ann Oncol,"Efficacy of utidelone plus capecitabine versus capecitabine for heavily pretreated, anthra",2020-07-22,2020-10-31,2020-11-15,30,0
+33188873,10.1016/j.annonc.2020.10.601,Ann Oncol,A transcriptomic signature to predict adjuvant gemcitabine sensitivity in pancreatic adeno,2020-07-29,2020-10-29,2020-11-15,27,0
+33186740,10.1016/j.annonc.2020.10.596,Ann Oncol,Phase III randomized study of taselisib or placebo with fulvestrant in estrogen receptor-p,2020-06-18,2020-10-26,2020-11-14,15,24
+33161056,10.1016/j.annonc.2020.10.599,Ann Oncol,Structural basis of acquired resistance to selpercatinib and pralsetinib mediated by non-g,2020-10-12,2020-10-29,2020-11-09,13,30
+33130216,10.1016/j.annonc.2020.10.483,Ann Oncol,"The paradox-breaking panRAF plus SRC family kinase inhibitor, CCT3833, is effective in mut",2020-06-15,2020-10-18,2020-11-02,23,35
+33130217,10.1016/j.annonc.2020.10.479,Ann Oncol,Comparing nanoparticle polymeric micellar paclitaxel and solvent-based paclitaxel as first,2020-05-02,2020-10-15,2020-11-02,32,0
+33121997,10.1016/j.annonc.2020.10.480,Ann Oncol,Oxaliplatin-based adjuvant chemotherapy duration (3 versus 6 months) for high-risk stage I,2020-07-23,2020-10-16,2020-10-31,20,0
+33098997,10.1016/j.annonc.2020.10.477,Ann Oncol,Overall survival with 3 or 6 months of adjuvant chemotherapy in Italian TOSCA phase 3 rand,2020-09-12,2020-10-14,2020-10-26,22,0
+33098995,10.1016/j.annonc.2020.10.471,Ann Oncol,Neoadjuvant paclitaxel/olaparib in comparison to paclitaxel/carboplatinum in patients with,2020-07-27,2020-10-12,2020-10-26,25,0
+33098994,10.1016/j.annonc.2020.10.473,Ann Oncol,Seroconversion in patients with cancer and oncology health care workers infected by SARS-C,2020-05-18,2020-10-04,2020-10-26,10,39
+33098992,10.1016/j.annonc.2020.10.475,Ann Oncol,Assessment of structural chromosomal instability phenotypes as biomarkers of carboplatin r,2020-03-23,2020-10-13,2020-10-26,18,25
+33010459,10.1016/j.annonc.2020.09.021,Ann Oncol,TiNivo: safety and efficacy of tivozanib-nivolumab combination therapy in patients with me,2020-06-18,2020-09-25,2020-10-04,6,0
+36549587,10.1016/j.annonc.2022.12.004,Ann Oncol,Methodological and reporting standards for quality-of-life data eligible for European Soci,2022-05-02,2022-12-10,2022-12-23,16,0
+36535566,10.1016/j.annonc.2022.12.007,Ann Oncol,"Pembrolizumab monotherapy versus chemotherapy in platinum-pretreated, recurrent or metasta",2022-09-01,2022-12-12,2022-12-20,26,0
+36535565,10.1016/j.annonc.2022.12.008,Ann Oncol,Durvalumab with or without tremelimumab versus the EXTREME regimen as first-line treatment,2022-08-12,2022-12-13,2022-12-20,29,0
+36529447,10.1016/j.annonc.2022.12.003,Ann Oncol,"Germline-focused analysis of tumour-detected variants in 49,264 cancer patients: ESMO Prec",2022-10-07,2022-12-11,2022-12-19,20,0
+36526124,10.1016/j.annonc.2022.12.002,Ann Oncol,Clonal KEAP1 mutations with loss of heterozygosity share reduced immunotherapy efficacy an,2022-09-09,2022-12-06,2022-12-17,32,0
+36494006,10.1016/j.annonc.2022.11.012,Ann Oncol,Efficacy and safety of pembrolizumab in metastatic urothelial carcinoma: results from KEYN,2022-07-27,2022-11-23,2022-12-10,20,0
+36494005,10.1016/j.annonc.2022.11.008,Ann Oncol,"Identification, validation and biological characterisation of novel glioblastoma tumour mi",2022-05-05,2022-11-15,2022-12-10,45,0
+36564284,10.1016/j.annonc.2022.11.003,Ann Oncol,Association of location of BRCA1 and BRCA2 mutations with benefit from olaparib and bevaci,2022-04-19,2022-11-08,2022-12-24,20,0
+36423745,10.1016/j.annonc.2022.11.005,Ann Oncol,Results of the c-TRAK TN trial: a clinical trial utilising ctDNA mutation tracking to dete,2022-07-14,2022-11-08,2022-11-25,29,0
+36414192,10.1016/j.annonc.2022.11.006,Ann Oncol,Long-term survival with first-line nivolumab plus ipilimumab in patients with advanced non,2022-02-18,2022-11-11,2022-11-23,23,0
+36402300,10.1016/j.annonc.2022.11.002,Ann Oncol,Molecular and clinical diversity in primary central nervous system lymphoma.,2022-08-31,2022-11-08,2022-11-20,38,0
+36400384,10.1016/j.annonc.2022.10.508,Ann Oncol,Neoadjuvant chemoradiotherapy versus neoadjuvant chemotherapy followed by minimally invasi,2022-05-08,2022-10-13,2022-11-19,27,0
+36522816,10.1016/j.annonc.2022.10.006,Ann Oncol,Pembrolizumab versus cetuximab concurrent with radiotherapy in patients with locally advan,2022-06-28,2022-10-13,2022-12-17,25,0
+36220461,10.1016/j.annonc.2022.09.160,Ann Oncol,Short-term outcomes of chemoradiotherapy and local excision versus total mesorectal excisi,2022-08-01,2022-09-27,2022-10-12,17,0
+36209982,10.1016/j.annonc.2022.09.162,Ann Oncol,Streamlining clinical research: an ESMO awareness call to improve sponsoring and monitorin,2022-07-08,2022-09-28,2022-10-10,15,0
+36209981,10.1016/j.annonc.2022.09.161,Ann Oncol,Perioperative or only adjuvant gemcitabine plus nab-paclitaxel for resectable pancreatic c,2022-07-15,2022-09-27,2022-10-10,35,0
+36208697,10.1016/j.annonc.2022.09.163,Ann Oncol,Prognostic value of plasma circulating tumor DNA fraction across four common cancer types:,2022-05-18,2022-09-23,2022-10-09,11,36
+36228963,10.1016/j.annonc.2022.09.159,Ann Oncol,Overall survival in the OlympiA phase III trial of adjuvant olaparib in patients with germ,2022-09-14,2022-09-22,2022-10-14,77,31
+36122798,10.1016/j.annonc.2022.09.152,Ann Oncol,Analysis of rare disruptive germline mutations in 2135 enriched BRCA-negative breast cance,2022-03-03,2022-09-01,2022-09-20,33,0
+36089135,10.1016/j.annonc.2022.09.150,Ann Oncol,The clinical landscape of cell-free DNA alterations in 1671 patients with advanced biliary,2022-08-09,2022-09-01,2022-09-12,29,0
+36089134,10.1016/j.annonc.2022.09.151,Ann Oncol,"APOBEC mutagenesis, kataegis, chromothripsis in EGFR-mutant osimertinib-resistant lung ade",2021-11-02,2022-09-01,2022-09-12,19,46
+36055465,10.1016/j.annonc.2022.08.083,Ann Oncol,"An international, open-label, randomised trial comparing a two-step approach versus the st",2022-01-20,2022-08-22,2022-09-03,18,0
+35988656,10.1016/j.annonc.2022.07.008,Ann Oncol,Comprehensive cancer predisposition testing within the prospective MASTER trial identifies,2022-03-06,2022-07-18,2022-08-22,78,0
+35973665,10.1016/j.annonc.2022.08.002,Ann Oncol,Safety and efficacy of pralsetinib in RET fusion-positive non-small-cell lung cancer inclu,2022-03-25,2022-08-01,2022-08-17,26,0
+35963480,10.1016/j.annonc.2022.07.1942,Ann Oncol,Association of tumor-infiltrating lymphocytes with survival depends on primary tumor sided,2022-06-02,2022-07-31,2022-08-14,7,41
+35961599,10.1016/j.annonc.2022.07.1940,Ann Oncol,Neoadjuvant durvalumab improves survival in early triple-negative breast cancer independen,2022-02-18,2022-07-27,2022-08-13,20,0
+35926813,10.1016/j.annonc.2022.07.011,Ann Oncol,First-line avelumab for patients with PD-L1-positive metastatic or locally advanced urothe,2022-05-19,2022-07-23,2022-08-05,21,0
+35872166,10.1016/j.annonc.2022.07.005,Ann Oncol,"Dissecting the clinicopathologic, genomic, and immunophenotypic correlates of KRASG12D-mut",2022-04-17,2022-07-14,2022-07-26,32,26
+35850444,10.1016/j.annonc.2022.07.001,Ann Oncol,Circulating L-arginine predicts the survival of cancer patients treated with immune checkp,2022-04-17,2022-07-01,2022-07-20,23,0
+35842199,10.1016/j.annonc.2022.07.002,Ann Oncol,Toripalimab (anti-PD-1) versus high-dose interferon-α2b as adjuvant therapy in resected mu,2022-02-21,2022-07-06,2022-07-17,20,0
+35777707,10.1016/j.annonc.2022.06.010,Ann Oncol,Therapeutic drug monitoring-based precision dosing of oral targeted therapies in oncology:,2021-12-15,2022-06-20,2022-07-02,19,0
+35772665,10.1016/j.annonc.2022.06.011,Ann Oncol,Efficacy of subsequent chemotherapy for patients with BRCA1/2-mutated recurrent epithelial,2022-02-13,2022-06-20,2022-07-01,20,0
+35764271,10.1016/j.annonc.2022.06.008,Ann Oncol,Nivolumab plus low-dose ipilimumab in previously treated patients with microsatellite inst,2022-04-08,2022-06-17,2022-06-29,19,0
+35716907,10.1016/j.annonc.2022.06.004,Ann Oncol,Single-agent anti-PD-1 or combined with ipilimumab in patients with mucosal melanoma: an i,2022-03-09,2022-06-07,2022-06-19,46,0
+35691590,10.1016/j.annonc.2022.05.522,Ann Oncol,Whole-genome and transcriptome analysis enhances precision cancer treatment options.,2021-12-02,2022-05-31,2022-06-13,50,0
+35690221,10.1016/j.annonc.2022.05.521,Ann Oncol,Bendamustine is safe and effective for lymphodepletion before tisagenlecleucel in patients,2022-03-05,2022-05-30,2022-06-12,26,31
+35688358,10.1016/j.annonc.2022.05.518,Ann Oncol,Pimitespib in patients with advanced gastrointestinal stromal tumor (CHAPTER-GIST-301): a ,2022-01-15,2022-05-29,2022-06-11,9,0
+35680043,10.1016/j.annonc.2022.05.519,Ann Oncol,Pembrolizumab in microsatellite instability high or mismatch repair deficient cancers: upd,2021-12-14,2022-05-29,2022-06-10,17,0
+35654248,10.1016/j.annonc.2022.05.010,Ann Oncol,Impact of acetaminophen on the efficacy of immunotherapy in cancer patients.,2022-03-31,2022-05-24,2022-06-03,17,0
+35636621,10.1016/j.annonc.2022.05.007,Ann Oncol,Validation of the Decipher genomic classifier in patients receiving salvage radiotherapy w,2022-02-07,2022-05-19,2022-06-01,21,0
+35809752,10.1016/j.annonc.2022.05.520,Ann Oncol,ESMO recommendations on the use of circulating tumour DNA assays for patients with cancer:,2022-02-21,2022-05-31,2022-07-10,20,0
+35715285,10.1016/j.annonc.2022.04.071,Ann Oncol,Oncology clinical trial disruption during the COVID-19 pandemic: a COVID-19 and cancer out,2021-05-15,2022-04-18,2022-06-18,36,15
+35525376,10.1016/j.annonc.2022.04.074,Ann Oncol,Prognostic stratification of HPV-associated oropharyngeal cancer based on CD103+ immune ce,2022-02-09,2022-04-18,2022-05-08,15,0
+35513244,10.1016/j.annonc.2022.04.072,Ann Oncol,Treatment Efficacy Score-continuous residual cancer burden-based metric to compare neoadju,2021-12-15,2022-04-18,2022-05-06,32,0
+35491007,10.1016/j.annonc.2022.04.068,Ann Oncol,Improved risk stratification of nasopharyngeal cancer by targeted sequencing of Epstein-Ba,2021-12-14,2022-04-04,2022-05-02,17,0
+35550723,10.1016/j.annonc.2022.03.273,Ann Oncol,Risk-adapted modulation through de-intensification of cancer treatments: an ESMO classific,2022-01-09,2022-03-28,2022-05-14,17,0
+35430370,10.1016/j.annonc.2022.04.006,Ann Oncol,Cancer risk in individuals with autism spectrum disorder.,2022-01-18,2022-04-04,2022-04-18,10,0
+35398288,10.1016/j.annonc.2022.03.276,Ann Oncol,The age-dependent association of risk factors with pancreatic cancer.,2021-12-07,2022-03-31,2022-04-11,19,42
+35395383,10.1016/j.annonc.2022.03.274,Ann Oncol,Modified Glasgow prognostic score (mGPS) is correlated with sarcopenia and dominates the p,2021-12-06,2022-03-31,2022-04-09,9,0
+35339649,10.1016/j.annonc.2022.03.012,Ann Oncol,Phase II single-arm study of nivolumab and ipilimumab (Nivo/Ipi) in previously treated cla,2022-01-22,2022-03-14,2022-03-28,19,0
+35339648,10.1016/j.annonc.2022.03.013,Ann Oncol,HLA class II immunogenic mutation burden predicts response to immune checkpoint blockade.,2021-06-23,2022-03-11,2022-03-28,9,57
+35337972,10.1016/j.annonc.2022.03.006,Ann Oncol,Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: sa,2022-01-18,2022-03-11,2022-03-27,23,0
+35306156,10.1016/j.annonc.2022.03.002,Ann Oncol,Tumor budding is an independent prognostic factor in stage III colon cancer patients: a po,2021-11-04,2022-03-11,2022-03-21,17,0
+35306154,10.1016/j.annonc.2022.03.005,Ann Oncol,Genetic variation within the human papillomavirus type 16 genome is associated with oropha,2022-01-04,2022-03-11,2022-03-21,19,74
+35276334,10.1016/j.annonc.2022.02.226,Ann Oncol,Inflammatory bowel disease and risk of adenocarcinoma and neuroendocrine tumors in the sma,2022-01-10,2022-02-24,2022-03-12,11,0
+35263633,10.1016/j.annonc.2022.02.225,Ann Oncol,Treatment outcome of atypical EGFR mutations in the German National Network Genomic Medici,2021-12-26,2022-02-22,2022-03-10,31,0
+35219776,10.1016/j.annonc.2022.02.222,Ann Oncol,The impact of olaparib dose reduction and treatment interruption on treatment outcome in t,2021-11-09,2022-02-16,2022-02-28,20,0
+35306155,10.1016/j.annonc.2022.02.007,Ann Oncol,Residual ctDNA after treatment predicts early relapse in patients with early-stage non-sma,2021-10-12,2022-02-14,2022-03-21,22,40
+35218887,10.1016/j.annonc.2022.02.008,Ann Oncol,Effectiveness of PD-(L)1 inhibitors alone or in combination with platinum-doublet chemothe,2021-11-15,2022-02-14,2022-02-27,11,0
+35182721,10.1016/j.annonc.2022.02.004,Ann Oncol,Pathologic complete response (pCR) to neoadjuvant treatment with or without atezolizumab i,2022-01-18,2022-02-08,2022-02-20,20,0
+35176457,10.1016/j.annonc.2022.02.001,Ann Oncol,"FIGHT-101, a first-in-human study of potent and selective FGFR 1-3 inhibitor pemigatinib i",2022-01-18,2022-02-04,2022-02-18,10,30
+35131452,10.1016/j.annonc.2022.01.076,Ann Oncol,Biomarkers of treatment benefit with atezolizumab plus vemurafenib plus cobimetinib in BRA,2021-08-24,2022-01-25,2022-02-09,17,0
+35124183,10.1016/j.annonc.2022.01.074,Ann Oncol,First-line nivolumab plus ipilimumab versus chemotherapy in patients with unresectable mal,2021-12-21,2022-01-24,2022-02-07,20,0
+35093516,10.1016/j.annonc.2022.01.009,Ann Oncol,Long-term efficacy and safety of addition of carboplatin with or without veliparib to stan,2021-09-07,2022-01-20,2022-01-31,21,0
+35091076,10.1016/j.annonc.2022.01.008,Ann Oncol,Baseline computed tomography screening and blood microRNA predict lung cancer risk and def,2021-08-11,2022-01-19,2022-01-30,13,0
+35074424,10.1016/j.annonc.2022.01.006,Ann Oncol,Comprehensive assessment of germline pathogenic variant detection in tumor-only sequencing,2021-08-04,2022-01-13,2022-01-26,21,28
+35066105,10.1016/j.annonc.2022.01.004,Ann Oncol,Single-cell DNA-seq depicts clonal evolution of multiple driver alterations in osimertinib,2021-07-23,2022-01-11,2022-01-24,22,0
+35026412,10.1016/j.annonc.2021.12.012,Ann Oncol,"Safety, pharmacokinetics, and antitumor activity of the anti-CEACAM5-DM4 antibody-drug con",2021-07-23,2021-12-31,2022-01-14,12,0
+35026411,10.1016/j.annonc.2021.12.014,Ann Oncol,Dabrafenib plus trametinib in patients with BRAF V600E-mutant anaplastic thyroid cancer: u,2021-09-20,2021-12-20,2022-01-14,14,50
+35090748,10.1016/j.annonc.2021.12.007,Ann Oncol,European cancer mortality predictions for the year 2022 with focus on ovarian cancer.,2021-11-19,2021-12-15,2022-01-30,7,0
+34958894,10.1016/j.annonc.2021.12.006,Ann Oncol,COVID-19 vaccination and breakthrough infections in patients with cancer.,2021-09-21,2021-12-16,2021-12-28,32,29
+34954044,10.1016/j.annonc.2021.12.005,Ann Oncol,Tucatinib versus placebo added to trastuzumab and capecitabine for patients with pretreate,2021-09-28,2021-12-14,2021-12-27,20,0
+34921960,10.1016/j.annonc.2021.12.002,Ann Oncol,"The ECHELON-2 Trial: 5-year results of a randomized, phase III study of brentuximab vedoti",2021-08-26,2021-12-07,2021-12-19,30,37
+34861376,10.1016/j.annonc.2021.11.014,Ann Oncol,Outcome without any adjuvant systemic treatment in stage I ER+/HER2- breast cancer patient,2021-05-07,2021-11-22,2021-12-04,11,0
+34861374,10.1016/j.annonc.2021.11.018,Ann Oncol,Veliparib monotherapy following carboplatin/paclitaxel plus veliparib combination therapy ,2021-04-19,2021-11-23,2021-12-04,15,0
+34843940,10.1016/j.annonc.2021.11.009,Ann Oncol,Open-label phase II study of the efficacy of nivolumab for cancer of unknown primary.,2021-07-23,2021-11-21,2021-11-30,18,0
+34839016,10.1016/j.annonc.2021.11.010,Ann Oncol,A randomised phase II study of osimertinib and bevacizumab versus osimertinib alone as sec,2021-08-23,2021-11-18,2021-11-29,30,0
+34800678,10.1016/j.annonc.2021.11.002,Ann Oncol,First-in-human phase 1 study of the anti-TIGIT antibody vibostolimab as monotherapy or wit,2021-08-09,2021-11-05,2021-11-21,19,0
+34710571,10.1016/j.annonc.2021.10.010,Ann Oncol,Antitumor activity of ipilimumab or BRAF ± MEK inhibition after pembrolizumab treatment in,2021-06-29,2021-10-14,2021-10-29,21,0
+34710570,10.1016/j.annonc.2021.10.009,Ann Oncol,Phase II study of ceralasertib (AZD6738) in combination with durvalumab in patients with a,2021-09-28,2021-10-15,2021-10-29,13,0
+34756513,10.1016/j.annonc.2021.09.007,Ann Oncol,Improved breast cancer histological grading using deep learning.,2020-08-10,2021-09-12,2021-11-11,8,0
+34736925,10.1016/j.annonc.2021.10.213,Ann Oncol,89Zr-pembrolizumab imaging as a non-invasive approach to assess clinical response to PD-1 ,2021-08-24,2021-10-25,2021-11-06,20,0
+34687894,10.1016/j.annonc.2021.10.003,Ann Oncol,FDG-PET to predict long-term outcome from anti-PD-1 therapy in metastatic melanoma.,2021-06-29,2021-10-06,2021-10-24,8,0
+34653632,10.1016/j.annonc.2021.09.021,Ann Oncol,Distinct tumor-infiltrating lymphocyte landscapes are associated with clinical outcomes in,2021-04-11,2021-09-30,2021-10-16,37,59
+34624497,10.1016/j.annonc.2021.09.017,Ann Oncol,"International Tailored Chemotherapy Adjuvant (ITACA) trial, a phase III multicenter random",2021-06-14,2021-09-26,2021-10-09,36,0
+34562610,10.1016/j.annonc.2021.09.011,Ann Oncol,Consolidation nivolumab and ipilimumab versus observation in limited-disease small-cell lu,2021-04-27,2021-09-12,2021-09-26,30,0
+38142939,10.1016/j.annonc.2023.12.006,Ann Oncol,ctDNA quantification improves estimation of outcomes in patients with high-grade osteosarc,2023-10-13,2023-12-13,2023-12-25,25,0
+38159908,10.1016/j.annonc.2023.12.011,Ann Oncol,B-cell infiltration is associated with survival outcomes following programmed cell death p,2023-11-06,2023-12-19,2024-01-02,20,0
+38151184,10.1016/j.annonc.2023.12.008,Ann Oncol,Nivolumab in sorafenib-naive and sorafenib-experienced patients with advanced hepatocellul,2023-05-30,2023-12-11,2023-12-28,18,0
+38092229,10.1016/j.annonc.2023.12.001,Ann Oncol,Trastuzumab deruxtecan in previously treated patients with HER2-positive metastatic breast,2023-04-27,2023-12-04,2023-12-14,14,15
+38092228,10.1016/j.annonc.2023.11.018,Ann Oncol,Response-guided neoadjuvant sacituzumab govitecan for localized triple-negative breast can,2023-08-29,2023-11-30,2023-12-14,23,0
+38061428,10.1016/j.annonc.2023.11.014,Ann Oncol,Impact of individualized treatment on recovery from fatigue and return to work in survivor,2023-09-18,2023-11-29,2023-12-08,21,0
+38061427,10.1016/j.annonc.2023.11.017,Ann Oncol,Validation of metastasis-free survival as a surrogate endpoint for overall survival in loc,2023-09-18,2023-11-29,2023-12-08,19,24
+38048850,10.1016/j.annonc.2023.11.013,Ann Oncol,Overall survival from tebentafusp versus nivolumab plus ipilimumab in first-line metastati,2023-08-11,2023-11-27,2023-12-05,16,0
+38072158,10.1016/j.annonc.2023.10.123,Ann Oncol,Final analysis of phase II results with cemiplimab in metastatic basal cell carcinoma afte,2023-04-03,2023-10-10,2023-12-11,25,0
+37992872,10.1016/j.annonc.2023.11.009,Ann Oncol,Unraveling the potential clinical utility of circulating tumor DNA detection in colorectal,2023-06-19,2023-11-13,2023-11-23,21,0
+37992871,10.1016/j.annonc.2023.11.008,Ann Oncol,Circulating tumor DNA and radiological tumor volume identify patients at risk for relapse ,2023-09-08,2023-11-15,2023-11-23,15,24
+37956739,10.1016/j.annonc.2023.10.793,Ann Oncol,Phase II clinical trial of neoadjuvant anti-PD-1 (toripalimab) combined with axitinib in r,2023-09-06,2023-10-19,2023-11-14,20,0
+37956738,10.1016/j.annonc.2023.10.794,Ann Oncol,Pemigatinib for metastatic or surgically unresectable urothelial carcinoma with FGF/FGFR g,2023-06-26,2023-10-26,2023-11-14,15,0
+37872020,10.1016/j.annonc.2023.09.3108,Ann Oncol,Toripalimab plus axitinib versus sunitinib as first-line treatment for advanced renal cell,2023-09-03,2023-09-21,2023-10-24,55,0
+37922989,10.1016/j.annonc.2023.10.095,Ann Oncol,Radioimmunotherapy versus autologous hematopoietic stem cell transplantation in relapsed/r,2023-07-19,2023-10-03,2023-11-06,34,0
+37898239,10.1016/j.annonc.2023.10.121,Ann Oncol,Metabolic tumor volume predicts outcome in patients with advanced stage follicular lymphom,2023-07-15,2023-10-13,2023-10-29,17,0
+37879444,10.1016/j.annonc.2023.10.117,Ann Oncol,Amivantamab plus chemotherapy with and without lazertinib in EGFR-mutant advanced NSCLC af,2023-09-22,2023-10-12,2023-10-26,43,0
+37871703,10.1016/j.annonc.2023.09.3114,Ann Oncol,The Double Antibody Drug Conjugate (DAD) phase I trial: sacituzumab govitecan plus enfortu,2023-09-08,2023-09-28,2023-10-24,14,0
+37871702,10.1016/j.annonc.2023.10.003,Ann Oncol,Erdafitinib versus pembrolizumab in pretreated patients with advanced or metastatic urothe,2023-09-19,2023-10-05,2023-10-24,16,0
+37871701,10.1016/j.annonc.2023.09.3116,Ann Oncol,Erdafitinib in BCG-treated high-risk non-muscle-invasive bladder cancer.,2023-09-19,2023-09-29,2023-10-24,19,0
+37866811,10.1016/j.annonc.2023.10.004,Ann Oncol,SAPPHIRE: phase III study of sitravatinib plus nivolumab versus docetaxel in advanced nons,2023-08-17,2023-10-05,2023-10-23,21,0
+38072514,10.1016/j.annonc.2023.09.3104,Ann Oncol,Lasofoxifene versus fulvestrant for ER+/HER2- metastatic breast cancer with an ESR1 mutati,2023-04-25,2023-09-13,2023-12-11,27,0
+38072513,10.1016/j.annonc.2023.09.3103,Ann Oncol,"Open-label, phase II, multicenter study of lasofoxifene plus abemaciclib for treating wome",2023-04-25,2023-09-08,2023-12-11,12,0
+37879442,10.1016/j.annonc.2023.09.3102,Ann Oncol,Tumor-agnostic plasma assay for circulating tumor DNA detects minimal residual disease and,2023-06-15,2023-09-11,2023-10-26,15,0
+37805131,10.1016/j.annonc.2023.09.3113,Ann Oncol,High accuracy of a blood ctDNA-based multimodal test to detect colorectal cancer.,2023-07-09,2023-09-22,2023-10-08,13,0
+37797734,10.1016/j.annonc.2023.09.3110,Ann Oncol,Maintenance olaparib rechallenge in patients with platinum-sensitive relapsed ovarian canc,2023-04-19,2023-09-25,2023-10-06,24,0
+37774795,10.1016/j.annonc.2023.09.3107,Ann Oncol,Diversity in clinical trials in Europe and the USA: a review of a pharmaceutical company's,2023-07-27,2023-09-15,2023-09-30,8,0
+37739265,10.1016/j.annonc.2023.09.3101,Ann Oncol,Adverse health outcomes and global quality of life in long-term testicular cancer survivor,2023-04-14,2023-09-05,2023-09-23,7,0
+37678672,10.1016/j.annonc.2023.08.016,Ann Oncol,EV-301 long-term outcomes: 24-month findings from the phase III trial of enfortumab vedoti,2023-04-14,2023-08-29,2023-09-08,14,0
+37673211,10.1016/j.annonc.2023.08.011,Ann Oncol,Pooled ctDNA analysis of MONALEESA phase III advanced breast cancer trials.,2022-10-05,2023-08-28,2023-09-07,14,0
+37673210,10.1016/j.annonc.2023.08.013,Ann Oncol,"Phase I dose escalation and expansion study of golidocitinib, a highly selective JAK1 inhi",2023-06-26,2023-08-22,2023-09-07,17,0
+37657554,10.1016/j.annonc.2023.08.010,Ann Oncol,Oncological outcomes of standard versus prolonged time to surgery after neoadjuvant chemor,2023-06-01,2023-08-14,2023-09-02,23,0
+37619847,10.1016/j.annonc.2023.08.005,Ann Oncol,HER2-low expression in patients with advanced or metastatic solid tumors.,2023-03-24,2023-08-09,2023-08-25,25,54
+37619846,10.1016/j.annonc.2023.08.006,Ann Oncol,Different prognostic values of KRAS exon 2 submutations and BRAF V600E mutation in microsa,2023-06-27,2023-08-10,2023-08-25,16,27
+37871699,10.1016/j.annonc.2023.10.122,Ann Oncol,"WITHDRAWN: Efficacy of Oral SERDs in the treatment of ER+, HER2 - metastatic breast cancer",2023-06-09,2023-10-16,2023-10-24,9,0
+37704166,10.1016/j.annonc.2023.07.006,Ann Oncol,Randomized open-label controlled study of cancer vaccine OSE2101 versus chemotherapy in HL,2023-04-04,2023-07-05,2023-09-14,28,0
+37597579,10.1016/j.annonc.2023.08.004,Ann Oncol,Circulating tumor DNA association with residual cancer burden after neoadjuvant chemothera,2023-03-17,2023-08-09,2023-08-20,29,20
+37597578,10.1016/j.annonc.2023.08.003,Ann Oncol,"Neratinib + fulvestrant + trastuzumab for HR-positive, HER2-negative, HER2-mutant metastat",2023-05-21,2023-08-08,2023-08-20,42,40
+37467930,10.1016/j.annonc.2023.07.001,Ann Oncol,Overall survival with adjuvant atezolizumab after chemotherapy in resected stage II-IIIA n,2023-04-17,2023-07-03,2023-07-20,16,0
+37406812,10.1016/j.annonc.2023.06.011,Ann Oncol,ESMO study on the availability and accessibility of biomolecular technologies in oncology ,2023-03-13,2023-06-26,2023-07-06,10,0
+37414216,10.1016/j.annonc.2023.06.007,Ann Oncol,Efficacy of immune checkpoint inhibitors for the treatment of advanced melanoma in patient,2023-03-20,2023-06-20,2023-07-07,33,30
+37414215,10.1016/j.annonc.2023.06.006,Ann Oncol,Long-term outcomes to neoadjuvant pembrolizumab based on pathological response for patient,2023-03-09,2023-06-20,2023-07-07,15,20
+37399894,10.1016/j.annonc.2023.06.009,Ann Oncol,Niraparib plus abiraterone acetate with prednisone in patients with metastatic castration-,2023-04-25,2023-06-22,2023-07-04,22,45
+37343663,10.1016/j.annonc.2023.06.002,Ann Oncol,ESMO-Magnitude of Clinical Benefit Scale for haematological malignancies (ESMO-MCBS:H) ver,2023-05-03,2023-06-12,2023-06-22,24,0
+37330052,10.1016/j.annonc.2023.06.001,Ann Oncol,Fragmentomic analysis of circulating tumor DNA-targeted cancer panels.,2022-12-09,2023-06-06,2023-06-18,34,53
+37302750,10.1016/j.annonc.2023.05.012,Ann Oncol,Association of HER2DX with pathological complete response and survival outcomes in HER2-po,2023-04-19,2023-05-25,2023-06-12,35,37
+37269904,10.1016/j.annonc.2023.05.010,Ann Oncol,Prediction of response to immune checkpoint blockade in patients with metastatic colorecta,2023-02-06,2023-05-16,2023-06-04,34,0
+37268157,10.1016/j.annonc.2023.05.009,Ann Oncol,"IMscin001 Part 2: a randomised phase III, open-label, multicentre study examining the phar",2023-01-27,2023-05-22,2023-06-03,13,0
+37211045,10.1016/j.annonc.2023.05.005,Ann Oncol,Olaparib plus bevacizumab first-line maintenance in ovarian cancer: final overall survival,2023-03-09,2023-05-10,2023-05-22,31,0
+37211044,10.1016/j.annonc.2023.05.004,Ann Oncol,Patritumab deruxtecan in untreated hormone receptor-positive/HER2-negative early breast ca,2023-04-04,2023-05-07,2023-05-22,28,0
+37201751,10.1016/j.annonc.2023.05.003,Ann Oncol,Significantly longer time to deterioration of quality of life due to CANKADO PRO-React eHe,2023-04-21,2023-05-07,2023-05-19,18,0
+37182801,10.1016/j.annonc.2023.05.002,Ann Oncol,"A multicenter, open-label, randomized, phase II study of cediranib with or without lenalid",2023-03-13,2023-05-01,2023-05-15,17,23
+37179020,10.1016/j.annonc.2023.04.516,Ann Oncol,Patient-reported outcomes and hospitalization data in patients with HER2-positive metastat,2023-04-04,2023-04-21,2023-05-14,8,0
+37164128,10.1016/j.annonc.2023.04.515,Ann Oncol,Transcriptomic and clinical heterogeneity of metastatic disease timing within metastatic c,2023-03-06,2023-04-27,2023-05-11,32,36
+37121400,10.1016/j.annonc.2023.04.514,Ann Oncol,Molecular markers of metastatic disease in KRAS-mutant lung adenocarcinoma.,2023-02-03,2023-04-19,2023-05-01,13,62
+37105265,10.1016/j.annonc.2023.04.006,Ann Oncol,Circulating tumor DNA analysis of the phase III VOYAGER trial: KIT mutational landscape an,2023-03-20,2023-04-06,2023-04-28,18,25
+37100205,10.1016/j.annonc.2023.04.005,Ann Oncol,Machine learning-based immune phenotypes correlate with STK11/KEAP1 co-mutations and progn,2023-02-05,2023-04-13,2023-04-27,25,0
+37062416,10.1016/j.annonc.2023.04.002,Ann Oncol,Nab-paclitaxel weekly versus dose-dense solvent-based paclitaxel followed by dose-dense ep,2022-12-02,2023-04-06,2023-04-17,22,0
+36921693,10.1016/j.annonc.2023.02.016,Ann Oncol,Plasmatic BRAF-V600E allele fraction as a prognostic factor in metastatic colorectal cance,2022-11-18,2023-02-24,2023-03-16,20,0
+36863483,10.1016/j.annonc.2023.02.011,Ann Oncol,First-in-class Microbial Ecosystem Therapeutic 4 (MET4) in combination with immune checkpo,2022-12-11,2023-02-21,2023-03-03,18,0
+36863484,10.1016/j.annonc.2023.02.012,Ann Oncol,Osimertinib treatment based on plasma T790M monitoring in patients with EGFR-mutant non-sm,2022-08-21,2023-02-21,2023-03-03,22,0
+36858151,10.1016/j.annonc.2023.02.009,Ann Oncol,"Deep, rapid, and durable prostate-specific antigen decline with apalutamide plus androgen ",2022-08-18,2023-02-20,2023-03-02,18,0
+36849097,10.1016/j.annonc.2023.02.010,Ann Oncol,Unintrusive multi-cancer detection by circulating cell-free DNA methylation sequencing (TH,2022-05-30,2023-02-20,2023-02-28,32,0
+36882139,10.1016/j.annonc.2023.01.010,Ann Oncol,European cancer mortality predictions for the year 2023 with focus on lung cancer.,2022-12-11,2023-01-19,2023-03-08,7,0
+36709040,10.1016/j.annonc.2023.01.009,Ann Oncol,Genomic characterisation of hormone receptor-positive breast cancer arising in very young ,2022-08-09,2023-01-15,2023-01-29,38,38
+36709039,10.1016/j.annonc.2023.01.008,Ann Oncol,Clinical utility of circulating tumor DNA sequencing with a large panel: a National Center,2022-10-31,2023-01-17,2023-01-29,34,0
+36709038,10.1016/j.annonc.2023.01.011,Ann Oncol,Associations of tissue tumor mutational burden and mutational status with clinical outcome,2022-06-30,2023-01-18,2023-01-29,17,0
+36681299,10.1016/j.annonc.2023.01.004,Ann Oncol,Survival update of neoadjuvant ipilimumab plus nivolumab in macroscopic stage III melanoma,2022-11-04,2023-01-10,2023-01-22,23,0
+36549587,10.1016/j.annonc.2022.12.004,Ann Oncol,Methodological and reporting standards for quality-of-life data eligible for European Soci,2022-05-02,2022-12-10,2022-12-23,16,0
+36535566,10.1016/j.annonc.2022.12.007,Ann Oncol,"Pembrolizumab monotherapy versus chemotherapy in platinum-pretreated, recurrent or metasta",2022-09-01,2022-12-12,2022-12-20,26,0
+36535565,10.1016/j.annonc.2022.12.008,Ann Oncol,Durvalumab with or without tremelimumab versus the EXTREME regimen as first-line treatment,2022-08-12,2022-12-13,2022-12-20,29,0
+36529447,10.1016/j.annonc.2022.12.003,Ann Oncol,"Germline-focused analysis of tumour-detected variants in 49,264 cancer patients: ESMO Prec",2022-10-07,2022-12-11,2022-12-19,20,0
+36526124,10.1016/j.annonc.2022.12.002,Ann Oncol,Clonal KEAP1 mutations with loss of heterozygosity share reduced immunotherapy efficacy an,2022-09-09,2022-12-06,2022-12-17,32,0
+36494006,10.1016/j.annonc.2022.11.012,Ann Oncol,Efficacy and safety of pembrolizumab in metastatic urothelial carcinoma: results from KEYN,2022-07-27,2022-11-23,2022-12-10,20,0
+36494005,10.1016/j.annonc.2022.11.008,Ann Oncol,"Identification, validation and biological characterisation of novel glioblastoma tumour mi",2022-05-05,2022-11-15,2022-12-10,45,0
+36564284,10.1016/j.annonc.2022.11.003,Ann Oncol,Association of location of BRCA1 and BRCA2 mutations with benefit from olaparib and bevaci,2022-04-19,2022-11-08,2022-12-24,20,0
+36423745,10.1016/j.annonc.2022.11.005,Ann Oncol,Results of the c-TRAK TN trial: a clinical trial utilising ctDNA mutation tracking to dete,2022-07-14,2022-11-08,2022-11-25,29,0
+36414192,10.1016/j.annonc.2022.11.006,Ann Oncol,Long-term survival with first-line nivolumab plus ipilimumab in patients with advanced non,2022-02-18,2022-11-11,2022-11-23,23,0
+36402300,10.1016/j.annonc.2022.11.002,Ann Oncol,Molecular and clinical diversity in primary central nervous system lymphoma.,2022-08-31,2022-11-08,2022-11-20,38,0
+36400384,10.1016/j.annonc.2022.10.508,Ann Oncol,Neoadjuvant chemoradiotherapy versus neoadjuvant chemotherapy followed by minimally invasi,2022-05-08,2022-10-13,2022-11-19,27,0
+36522816,10.1016/j.annonc.2022.10.006,Ann Oncol,Pembrolizumab versus cetuximab concurrent with radiotherapy in patients with locally advan,2022-06-28,2022-10-13,2022-12-17,25,0
+36220461,10.1016/j.annonc.2022.09.160,Ann Oncol,Short-term outcomes of chemoradiotherapy and local excision versus total mesorectal excisi,2022-08-01,2022-09-27,2022-10-12,17,0
+36209982,10.1016/j.annonc.2022.09.162,Ann Oncol,Streamlining clinical research: an ESMO awareness call to improve sponsoring and monitorin,2022-07-08,2022-09-28,2022-10-10,15,0
+36209981,10.1016/j.annonc.2022.09.161,Ann Oncol,Perioperative or only adjuvant gemcitabine plus nab-paclitaxel for resectable pancreatic c,2022-07-15,2022-09-27,2022-10-10,35,0
+36208697,10.1016/j.annonc.2022.09.163,Ann Oncol,Prognostic value of plasma circulating tumor DNA fraction across four common cancer types:,2022-05-18,2022-09-23,2022-10-09,11,36
+39706338,10.1016/j.annonc.2024.12.010,Ann Oncol,Prognostic value of residual disease (RD) biology and gene expression changes during the n,2024-10-04,2024-12-11,2024-12-21,23,50
+39706337,10.1016/j.annonc.2024.12.009,Ann Oncol,Correlation between progression-free and overall survival in patients with Hodgkin lymphom,2024-06-04,2024-12-11,2024-12-21,19,0
+39706336,10.1016/j.annonc.2024.12.011,Ann Oncol,A model for decoding resistance in precision oncology: acquired resistance to FGFR inhibit,2024-11-05,2024-12-12,2024-12-21,55,0
+39706335,10.1016/j.annonc.2024.12.008,Ann Oncol,Avelumab + axitinib versus sunitinib as first-line treatment for patients with advanced re,2024-10-11,2024-12-06,2024-12-21,27,11
+39701282,10.1016/j.annonc.2024.12.004,Ann Oncol,Tocilizumab and immune signatures for targeted management of cytokine release syndrome in ,2024-10-09,2024-12-04,2024-12-20,24,0
+39672383,10.1016/j.annonc.2024.11.017,Ann Oncol,Genomic correlates of response and resistance to the irreversible FGFR1-4 inhibitor futiba,2024-09-05,2024-11-28,2024-12-14,11,0
+39672382,10.1016/j.annonc.2024.12.003,Ann Oncol,Biomarker analyses from the phase III randomized CLEAR trial: lenvatinib plus pembrolizuma,2024-10-09,2024-12-02,2024-12-14,20,27
+39662628,10.1016/j.annonc.2024.12.002,Ann Oncol,Disitamab vedotin plus toripalimab in patients with locally advanced or metastatic urothel,2024-09-14,2024-12-02,2024-12-12,16,0
+39637944,10.1016/j.annonc.2024.11.016,Ann Oncol,Tremelimumab and durvalumab as neoadjuvant or non-operative management strategy of patient,2024-10-15,2024-11-27,2024-12-06,50,0
+39637943,10.1016/j.annonc.2024.11.014,Ann Oncol,"Lung adenocarcinomas with mucinous histology: clinical, genomic, and immune microenvironme",2024-10-08,2024-11-26,2024-12-06,48,33
+39631622,10.1016/j.annonc.2024.11.012,Ann Oncol,Pembrolizumab versus chemotherapy in microsatellite instability-high or mismatch repair-de,2024-08-30,2024-11-26,2024-12-05,19,0
+39617145,10.1016/j.annonc.2024.11.011,Ann Oncol,"The efficacy and safety of mirvetuximab soravtansine in FRα-positive, third-line and later",2024-09-27,2024-11-23,2024-12-02,17,0
+39551185,10.1016/j.annonc.2024.11.008,Ann Oncol,Tumor and blood B-cell abundance outperforms established immune checkpoint blockade respon,2024-07-19,2024-11-08,2024-11-18,24,59
+39542422,10.1016/j.annonc.2024.10.829,Ann Oncol,Adjuvant immunotherapy in patients with resected gastric and oesophagogastric junction can,2024-09-29,2024-10-31,2024-11-15,30,0
+39532203,10.1016/j.annonc.2024.10.827,Ann Oncol,A phase III randomised trial on the addition of a contact X-ray brachytherapy boost to sta,2024-07-26,2024-10-28,2024-11-13,21,0
+39528049,10.1016/j.annonc.2024.10.828,Ann Oncol,Efficacy of subsequent therapies in patients with advanced ovarian cancer who relapse afte,2024-08-05,2024-10-31,2024-11-13,31,0
+39477071,10.1016/j.annonc.2024.10.018,Ann Oncol,"Pathologic complete response (pCR) rates for patients with HR+/HER2- high-risk, early-stag",2024-04-19,2024-10-22,2024-10-31,20,42
+39442617,10.1016/j.annonc.2024.10.015,Ann Oncol,A phase III trial of adjuvant ribociclib plus endocrine therapy versus endocrine therapy a,2024-07-01,2024-10-11,2024-10-24,29,0
+39419289,10.1016/j.annonc.2024.10.012,Ann Oncol,TNBC-DX genomic test in early-stage triple-negative breast cancer treated with neoadjuvant,2024-07-20,2024-10-07,2024-10-18,47,0
+39393777,10.1016/j.annonc.2024.10.002,Ann Oncol,Pembrolizumab plus chemotherapy for advanced and recurrent cervical cancer: final analysis,2024-07-23,2024-10-01,2024-10-12,18,0
+39389887,10.1016/j.annonc.2024.08.2348,Ann Oncol,Clinical validation of a tissue-agnostic genome-wide methylome enrichment molecular residu,2024-08-09,2024-08-29,2024-10-11,23,0
+39313156,10.1016/j.annonc.2024.09.010,Ann Oncol,Acquired gene alterations in patients treated with ribociclib plus endocrine therapy or en,2024-03-22,2024-09-14,2024-09-24,15,0
+39299443,10.1016/j.annonc.2024.09.008,Ann Oncol,Basal/squamous and mixed subtype bladder cancers present poor outcomes after neoadjuvant c,2024-02-06,2024-09-10,2024-09-20,13,0
+39293515,10.1016/j.annonc.2024.09.005,Ann Oncol,"Safety and clinical activity of BMS-986365 (CC-94676), a dual androgen receptor ligand-dir",2024-07-29,2024-09-06,2024-09-19,22,52
+39288844,10.1016/j.annonc.2024.09.002,Ann Oncol,Subcutaneous versus intravenous nivolumab for renal cell carcinoma.,2024-07-25,2024-09-03,2024-09-18,25,0
+39284382,10.1016/j.annonc.2024.09.001,Ann Oncol,"A randomized, double-blind, placebo-controlled phase II study of olanzapine-based prophyla",2024-07-29,2024-09-03,2024-09-17,20,0
+39241964,10.1016/j.annonc.2024.08.2340,Ann Oncol,Tocilizumab provides dual benefits in treating immune checkpoint inhibitor-associated arth,2024-07-10,2024-08-19,2024-09-07,16,0
+39306585,10.1016/j.annonc.2024.08.2330,Ann Oncol,Pembrolizumab versus ipilimumab for advanced melanoma: 10-year follow-up of the phase III ,2024-08-12,2024-08-21,2024-09-22,19,0
+39293516,10.1016/j.annonc.2024.08.2339,Ann Oncol,"First-in-human study of AMG 193, an MTA-cooperative PRMT5 inhibitor, in patients with MTAP",2024-07-31,2024-08-27,2024-09-19,18,0
+39293514,10.1016/j.annonc.2024.09.004,Ann Oncol,Ipilimumab with nivolumab in molecularly selected patients with castration-resistant prost,2024-08-13,2024-09-04,2024-09-19,18,0
+39289145,10.1016/j.annonc.2024.08.2243,Ann Oncol,Osimertinib after definitive chemoradiotherapy in unresectable stage III epidermal growth ,2024-07-05,2024-08-20,2024-09-18,19,0
+39241963,10.1016/j.annonc.2024.08.2344,Ann Oncol,"Gemcitabine, carboplatin, and Epstein-Barr virus-specific autologous cytotoxic T lymphocyt",2023-12-27,2024-08-22,2024-09-07,30,0
+39241960,10.1016/j.annonc.2024.08.2347,Ann Oncol,A pooled analysis of trastuzumab deruxtecan in patients with human epidermal growth factor,2024-05-21,2024-08-28,2024-09-07,19,0
+39241959,10.1016/j.annonc.2024.08.2343,Ann Oncol,A randomized study of 6 versus 3 years of adjuvant imatinib in patients with localized GIS,2024-07-19,2024-08-27,2024-09-07,29,0
+39233312,10.1016/j.annonc.2024.08.2338,Ann Oncol,Randomized phase II dose comparison LITESPARK-013 study of belzutifan in patients with adv,2024-05-30,2024-08-19,2024-09-05,19,31
+39214459,10.1016/j.annonc.2024.08.2334,Ann Oncol,Comprehensive genomic profiling by liquid biopsy captures tumor heterogeneity and identifi,2024-06-28,2024-08-15,2024-08-31,26,0
+39293512,10.1016/j.annonc.2024.08.2240,Ann Oncol,Survival benefit of adjuvant chemotherapy based on molecular residual disease detection in,2024-07-25,2024-08-14,2024-09-19,29,0
+39284383,10.1016/j.annonc.2024.08.2242,Ann Oncol,"ENGOT-en11/GOG-3053/KEYNOTE-B21: a randomised, double-blind, phase III study of pembrolizu",2024-07-29,2024-08-19,2024-09-17,31,0
+39284381,10.1016/j.annonc.2024.08.2241,Ann Oncol,Niraparib first-line maintenance therapy in patients with newly diagnosed advanced ovarian,2024-07-29,2024-08-12,2024-09-17,30,39
+39266364,10.1016/j.annonc.2024.07.729,Ann Oncol,Organ preservation after neoadjuvant long-course chemoradiotherapy versus short-course rad,2024-04-23,2024-07-22,2024-09-13,39,54
+39187421,10.1016/j.annonc.2024.07.730,Ann Oncol,The ESMO Tumour-Agnostic Classifier and Screener (ETAC-S): a tool for assessing tumour-agn,2024-05-03,2024-07-29,2024-08-27,24,0
+39147364,10.1016/j.annonc.2024.08.2239,Ann Oncol,Safety and efficacy of odronextamab in patients with relapsed or refractory follicular lym,2024-07-05,2024-08-06,2024-08-16,32,0
+39098455,10.1016/j.annonc.2024.07.727,Ann Oncol,Nivolumab plus ipilimumab versus sunitinib for first-line treatment of advanced renal cell,2024-06-06,2024-07-25,2024-08-05,25,24
+39098454,10.1016/j.annonc.2024.07.728,Ann Oncol,A bio-behavioral model of systemic inflammation at breast cancer diagnosis and fatigue of ,2023-12-03,2024-07-29,2024-08-05,26,0
+38977064,10.1016/j.annonc.2024.07.245,Ann Oncol,Neratinib and ado-trastuzumab emtansine for pretreated and untreated human epidermal growt,2024-03-22,2024-07-02,2024-07-09,28,0
+38986769,10.1016/j.annonc.2024.06.019,Ann Oncol,Total neoadjuvant therapy with mFOLFIRINOX versus preoperative chemoradiotherapy in patien,2024-02-05,2024-06-28,2024-07-11,20,0
+38964714,10.1016/j.annonc.2024.06.015,Ann Oncol,Neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy in locally,2024-02-23,2024-06-19,2024-07-05,23,0
+38950679,10.1016/j.annonc.2024.06.014,Ann Oncol,Intrapatient variation in PD-L1 expression and tumor mutational burden and the impact on o,2023-12-20,2024-06-18,2024-07-02,19,0
+38942080,10.1016/j.annonc.2024.05.541,Ann Oncol,Amivantamab plus lazertinib versus osimertinib in first-line EGFR-mutant advanced non-smal,2024-04-05,2024-05-22,2024-06-29,50,0
+38908482,10.1016/j.annonc.2024.06.009,Ann Oncol,Impact of hormone receptor status and tumor subtypes of breast cancer in young BRCA carrie,2024-04-08,2024-06-11,2024-06-23,46,0
+38906254,10.1016/j.annonc.2024.06.010,Ann Oncol,Development and validation of AI-assisted transcriptomic signatures to personalize adjuvan,2024-02-26,2024-06-10,2024-06-22,25,0
+38857846,10.1016/j.annonc.2024.06.002,Ann Oncol,Efficacy and safety of ramucirumab plus carboplatin and paclitaxel in untreated metastatic,2023-11-28,2024-06-03,2024-06-11,43,0
+38852675,10.1016/j.annonc.2024.06.001,Ann Oncol,Upfront resection versus no resection of the primary tumor in patients with synchronous me,2024-02-05,2024-06-02,2024-06-10,30,0
+38866180,10.1016/j.annonc.2024.05.546,Ann Oncol,Overall survival in patients with endometrial cancer treated with dostarlimab plus carbopl,2024-03-03,2024-05-28,2024-06-13,31,0
+38754780,10.1016/j.annonc.2024.05.002,Ann Oncol,Five-year analysis of neoadjuvant dabrafenib and trametinib for stage III melanoma.,2024-03-11,2024-05-07,2024-05-17,18,0
+38729567,10.1016/j.annonc.2024.04.012,Ann Oncol,A phase I dose escalation and expansion trial of the next-generation oral SERD camizestran,2024-01-22,2024-04-29,2024-05-11,21,0
+38729566,10.1016/j.annonc.2024.04.013,Ann Oncol,"Abemaciclib plus a nonsteroidal aromatase inhibitor as initial therapy for HR+, HER2- adva",2024-03-06,2024-04-30,2024-05-11,22,0
+38777726,10.1016/j.annonc.2024.03.009,Ann Oncol,Immune checkpoint inhibitors for POLE or POLD1 proofreading-deficient metastatic colorecta,2024-02-09,2024-03-21,2024-05-23,39,0
+38755096,10.1016/j.annonc.2024.04.001,Ann Oncol,IMpassion132 double-blind randomised phase III trial of chemotherapy with or without atezo,2024-03-20,2024-04-05,2024-05-17,26,0
+38704093,10.1016/j.annonc.2024.04.007,Ann Oncol,MITO END-3: efficacy of avelumab immunotherapy according to molecular profiling in first-l,2023-08-23,2024-04-25,2024-05-05,31,0
+38583574,10.1016/j.annonc.2024.03.010,Ann Oncol,Timing of radiotherapy (RT) after radical prostatectomy (RP): long-term outcomes in the RA,2023-10-20,2024-03-27,2024-04-08,59,20
+38844309,10.1016/j.annonc.2024.03.005,Ann Oncol,Nivolumab plus ipilimumab combination therapy in patients with advanced hepatocellular car,2023-11-15,2024-03-15,2024-06-07,21,0
+38423389,10.1016/j.annonc.2024.02.007,Ann Oncol,Early prediction of endocrine responsiveness in ER+/HER2-negative metastatic breast cancer,2023-06-20,2024-02-20,2024-03-01,23,0
+38142939,10.1016/j.annonc.2023.12.006,Ann Oncol,ctDNA quantification improves estimation of outcomes in patients with high-grade osteosarc,2023-10-13,2023-12-13,2023-12-25,25,0
+38417742,10.1016/j.annonc.2024.01.011,Ann Oncol,Treatment patterns and outcomes in metastatic castration-resistant prostate cancer patient,2023-10-04,2024-01-31,2024-02-29,15,0
+38382875,10.1016/j.annonc.2024.02.005,Ann Oncol,Four-year overall survival update from the phase III HIMALAYA study of tremelimumab plus d,2023-12-22,2024-02-13,2024-02-22,26,0
+38369015,10.1016/j.annonc.2024.02.002,Ann Oncol,Event-free survival by residual cancer burden with pembrolizumab in early-stage TNBC: expl,2023-11-30,2024-02-08,2024-02-19,19,0
+38369013,10.1016/j.annonc.2024.02.003,Ann Oncol,Translational insights and overall survival in the U31402-A-U102 study of patritumab derux,2023-10-11,2024-02-08,2024-02-19,24,0
+38246351,10.1016/j.annonc.2024.01.001,Ann Oncol,Improved nationwide survival of sarcoma patients with a network of reference centers.,2023-11-01,2024-01-04,2024-01-22,65,0
+38244927,10.1016/j.annonc.2024.01.002,Ann Oncol,"TROPHY-U-01, a phase II open-label study of sacituzumab govitecan in patients with metasta",2023-09-28,2024-01-04,2024-01-21,19,0
+38159908,10.1016/j.annonc.2023.12.011,Ann Oncol,B-cell infiltration is associated with survival outcomes following programmed cell death p,2023-11-06,2023-12-19,2024-01-02,20,0
+38151184,10.1016/j.annonc.2023.12.008,Ann Oncol,Nivolumab in sorafenib-naive and sorafenib-experienced patients with advanced hepatocellul,2023-05-30,2023-12-11,2023-12-28,18,0
+38286716,10.1016/j.annonc.2023.12.003,Ann Oncol,European cancer mortality predictions for the year 2024 with focus on colorectal cancer.,2023-10-16,2023-12-04,2024-01-30,8,0
+38092229,10.1016/j.annonc.2023.12.001,Ann Oncol,Trastuzumab deruxtecan in previously treated patients with HER2-positive metastatic breast,2023-04-27,2023-12-04,2023-12-14,14,15
+38092228,10.1016/j.annonc.2023.11.018,Ann Oncol,Response-guided neoadjuvant sacituzumab govitecan for localized triple-negative breast can,2023-08-29,2023-11-30,2023-12-14,23,0
+38061428,10.1016/j.annonc.2023.11.014,Ann Oncol,Impact of individualized treatment on recovery from fatigue and return to work in survivor,2023-09-18,2023-11-29,2023-12-08,21,0
+38061427,10.1016/j.annonc.2023.11.017,Ann Oncol,Validation of metastasis-free survival as a surrogate endpoint for overall survival in loc,2023-09-18,2023-11-29,2023-12-08,19,24
+38048850,10.1016/j.annonc.2023.11.013,Ann Oncol,Overall survival from tebentafusp versus nivolumab plus ipilimumab in first-line metastati,2023-08-11,2023-11-27,2023-12-05,16,0
+38072158,10.1016/j.annonc.2023.10.123,Ann Oncol,Final analysis of phase II results with cemiplimab in metastatic basal cell carcinoma afte,2023-04-03,2023-10-10,2023-12-11,25,0
+37992872,10.1016/j.annonc.2023.11.009,Ann Oncol,Unraveling the potential clinical utility of circulating tumor DNA detection in colorectal,2023-06-19,2023-11-13,2023-11-23,21,0
+37992871,10.1016/j.annonc.2023.11.008,Ann Oncol,Circulating tumor DNA and radiological tumor volume identify patients at risk for relapse ,2023-09-08,2023-11-15,2023-11-23,15,24
+37956739,10.1016/j.annonc.2023.10.793,Ann Oncol,Phase II clinical trial of neoadjuvant anti-PD-1 (toripalimab) combined with axitinib in r,2023-09-06,2023-10-19,2023-11-14,20,0
+37956738,10.1016/j.annonc.2023.10.794,Ann Oncol,Pemigatinib for metastatic or surgically unresectable urothelial carcinoma with FGF/FGFR g,2023-06-26,2023-10-26,2023-11-14,15,0
+37872020,10.1016/j.annonc.2023.09.3108,Ann Oncol,Toripalimab plus axitinib versus sunitinib as first-line treatment for advanced renal cell,2023-09-03,2023-09-21,2023-10-24,55,0
+37922989,10.1016/j.annonc.2023.10.095,Ann Oncol,Radioimmunotherapy versus autologous hematopoietic stem cell transplantation in relapsed/r,2023-07-19,2023-10-03,2023-11-06,34,0
+37898239,10.1016/j.annonc.2023.10.121,Ann Oncol,Metabolic tumor volume predicts outcome in patients with advanced stage follicular lymphom,2023-07-15,2023-10-13,2023-10-29,17,0
+37879444,10.1016/j.annonc.2023.10.117,Ann Oncol,Amivantamab plus chemotherapy with and without lazertinib in EGFR-mutant advanced NSCLC af,2023-09-22,2023-10-12,2023-10-26,43,0
+37871703,10.1016/j.annonc.2023.09.3114,Ann Oncol,The Double Antibody Drug Conjugate (DAD) phase I trial: sacituzumab govitecan plus enfortu,2023-09-08,2023-09-28,2023-10-24,14,0
+37871702,10.1016/j.annonc.2023.10.003,Ann Oncol,Erdafitinib versus pembrolizumab in pretreated patients with advanced or metastatic urothe,2023-09-19,2023-10-05,2023-10-24,16,0
+37871701,10.1016/j.annonc.2023.09.3116,Ann Oncol,Erdafitinib in BCG-treated high-risk non-muscle-invasive bladder cancer.,2023-09-19,2023-09-29,2023-10-24,19,0
+37866811,10.1016/j.annonc.2023.10.004,Ann Oncol,SAPPHIRE: phase III study of sitravatinib plus nivolumab versus docetaxel in advanced nons,2023-08-17,2023-10-05,2023-10-23,21,0
+41478526,10.1016/j.annonc.2025.12.011,Ann Oncol,PET/CT-guided management of immune checkpoint blockade and multi-modal profiling following,2025-10-08,2025-12-08,2026-01-02,32,0
+41448362,10.1016/j.annonc.2025.12.017,Ann Oncol,Datopotamab deruxtecan versus chemotherapy in previously treated inoperable/metastatic hor,2025-05-30,2025-12-15,2025-12-26,21,0
+41443411,10.1016/j.annonc.2025.12.014,Ann Oncol,Cetuximab rechallenge in molecularly selected metastatic colorectal cancer: the randomized,2025-11-04,2025-12-16,2025-12-25,35,0
+41443410,10.1016/j.annonc.2025.12.015,Ann Oncol,"A phase II, randomized, open-label study to evaluate low-dose pembrolizumab plus chemother",2025-11-10,2025-12-16,2025-12-25,44,0
+41422862,10.1016/j.annonc.2025.12.012,Ann Oncol,Capivasertib plus paclitaxel as first-line treatment for metastatic triple-negative breast,2025-06-12,2025-12-15,2025-12-22,23,0
+41412497,10.1016/j.annonc.2025.12.008,Ann Oncol,Germline alterations in patients with lung cancer.,2024-09-29,2025-12-08,2025-12-19,9,0
+41407195,10.1016/j.annonc.2025.12.006,Ann Oncol,Next-generation multicenter studies: using artificial intelligence to automatically proces,2025-08-23,2025-12-05,2025-12-18,31,0
+41391667,10.1016/j.annonc.2025.11.018,Ann Oncol,Imlunestrant with or without abemaciclib in advanced breast cancer: updated efficacy resul,2025-10-07,2025-11-28,2025-12-15,22,30
+41390119,10.1016/j.annonc.2025.12.003,Ann Oncol,Deep learning discriminates thymic epithelial tumors' histological subtypes using digital ,2025-10-13,2025-12-04,2025-12-14,13,0
+41380962,10.1016/j.annonc.2025.11.020,Ann Oncol,Durvalumab with carboplatin/paclitaxel and bevacizumab followed by durvalumab and bevacizu,2025-05-15,2025-11-17,2025-12-12,31,0
+41354211,10.1016/j.annonc.2025.11.019,Ann Oncol,Trabectedin-olaparib combination or trabectedin in advanced soft tissue sarcomas after fai,2025-09-24,2025-11-27,2025-12-08,26,0
+41344593,10.1016/j.annonc.2025.11.017,Ann Oncol,Perioperative tislelizumab plus neoadjuvant chemotherapy for patients with resectable non-,2025-08-29,2025-11-26,2025-12-05,28,0
+41276258,10.1016/j.annonc.2025.11.013,Ann Oncol,Sacituzumab tirumotecan in participants with advanced or metastatic urothelial carcinoma a,2025-07-18,2025-11-17,2025-11-24,25,0
+41260264,10.1016/j.annonc.2025.11.005,Ann Oncol,Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive loc,2025-03-12,2025-11-10,2025-11-20,30,0
+41260263,10.1016/j.annonc.2025.11.002,Ann Oncol,Kinetics and determinants of ESR1 mutation detection in metastatic breast cancer.,2024-10-03,2025-11-10,2025-11-20,16,0
+41260262,10.1016/j.annonc.2025.11.007,Ann Oncol,Pooled analysis by best confirmed response to trastuzumab deruxtecan and related biomarker,2025-06-03,2025-11-11,2025-11-20,16,0
+41260261,10.1016/j.annonc.2025.11.009,Ann Oncol,ESMO basic requirements for AI-based biomarkers in oncology (EBAI).,2025-09-16,2025-11-13,2025-11-20,37,0
+41260260,10.1016/j.annonc.2025.11.004,Ann Oncol,Association between type and location of germline BRCA1/2 pathogenic or likely pathogenic ,2025-04-19,2025-11-10,2025-11-20,59,0
+41260259,10.1016/j.annonc.2025.11.006,Ann Oncol,Early positron emission tomography response-adapted treatment in low-risk diffuse large B-,2025-05-20,2025-11-10,2025-11-20,23,0
+41161480,10.1016/j.annonc.2025.10.1236,Ann Oncol,Repertoire and clinical hierarchy of AR locus alterations in castration-resistant prostate,2025-06-26,2025-10-15,2025-10-30,57,0
+41183783,10.1016/j.annonc.2025.10.1237,Ann Oncol,Pathological response calculation assessment remains accurate with reduced tumor bed exami,2025-03-05,2025-10-22,2025-11-04,31,0
+41130363,10.1016/j.annonc.2025.10.019,Ann Oncol,"Neoadjuvant trastuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertu",2025-10-15,2025-10-15,2025-10-24,26,0
+41125211,10.1016/j.annonc.2025.10.006,Ann Oncol,Patient-reported outcomes in the SERENA-6 trial of camizestrant plus CDK4/6 inhibitor in p,2025-09-05,2025-10-07,2025-10-23,25,0
+41115469,10.1016/j.annonc.2025.10.007,Ann Oncol,Rucaparib maintenance for newly diagnosed advanced ovarian cancer: interim overall surviva,2024-10-28,2025-10-08,2025-10-21,34,0
+41115468,10.1016/j.annonc.2025.10.010,Ann Oncol,Novel pembrolizumab-based treatments as first-line therapy in advanced clear-cell renal ce,2025-09-07,2025-10-10,2025-10-21,20,22
+41115467,10.1016/j.annonc.2025.10.009,Ann Oncol,A multicenter randomized phase II trial of lenvatinib plus everolimus versus cabozantinib ,2025-09-05,2025-10-10,2025-10-21,16,29
+41110701,10.1016/j.annonc.2025.10.003,Ann Oncol,Palbociclib with adjuvant endocrine therapy in early breast cancer: 5-year follow-up analy,2025-08-27,2025-10-02,2025-10-20,40,0
+41110700,10.1016/j.annonc.2025.10.011,Ann Oncol,Three versus six cycles of platinum-based chemotherapy followed by avelumab maintenance as,2025-09-25,2025-10-10,2025-10-20,21,0
+41110697,10.1016/j.annonc.2025.10.005,Ann Oncol,Overall survival with abemaciclib in early breast cancer.,2025-09-05,2025-10-07,2025-10-20,27,0
+41110696,10.1016/j.annonc.2025.10.017,Ann Oncol,Personalised antiemetic prophylaxis with NEPA for patients at high risk of chemotherapy-in,2025-08-29,2025-10-13,2025-10-20,23,0
+41109527,10.1016/j.annonc.2025.10.016,Ann Oncol,"Palbociclib plus letrozole versus weekly paclitaxel, both in combination with trastuzumab ",2025-06-05,2025-10-07,2025-10-19,23,0
+41125209,10.1016/j.annonc.2025.09.140,Ann Oncol,"The evolving landscape of leptomeningeal metastases from NSCLC: an international, contempo",2025-08-25,2025-09-30,2025-10-23,36,49
+41120017,10.1016/j.annonc.2025.10.004,Ann Oncol,Capivasertib plus abiraterone in PTEN-deficient metastatic hormone-sensitive prostate canc,2025-09-05,2025-10-03,2025-10-22,22,0
+41115464,10.1016/j.annonc.2025.10.002,Ann Oncol,Re-treatment with panitumumab followed by regorafenib versus the reverse sequence in chemo,2025-09-05,2025-10-02,2025-10-21,31,0
+41110695,10.1016/j.annonc.2025.09.141,Ann Oncol,TRADE: a phase II trial to assess the tolerability of abemaciclib dose escalation in early,2025-08-21,2025-09-29,2025-10-20,20,0
+41110694,10.1016/j.annonc.2025.09.139,Ann Oncol,Adjuvant nivolumab versus placebo for high-risk muscle-invasive urothelial carcinoma: 5-ye,2025-09-05,2025-09-29,2025-10-20,21,0
+41110693,10.1016/j.annonc.2025.09.018,Ann Oncol,Alectinib versus crizotinib in previously untreated ALK-positive advanced non-small cell l,2025-08-19,2025-09-24,2025-10-20,21,0
+41110692,10.1016/j.annonc.2025.09.017,Ann Oncol,"ALBAN (GETUG-AFU 37): a phase III, randomized, open-label international trial of intraveno",2025-09-05,2025-09-24,2025-10-20,20,0
+40998092,10.1016/j.annonc.2025.09.006,Ann Oncol,Final analysis of nivolumab plus cabozantinib for advanced renal cell carcinoma from the r,2025-06-19,2025-09-16,2025-09-26,21,23
+41111032,10.1016/j.annonc.2025.09.001,Ann Oncol,ESMO guidance on the use of Large Language Models in Clinical Practice (ELCAP).,2025-04-29,2025-09-01,2025-10-20,21,0
+41111031,10.1016/j.annonc.2025.08.3758,Ann Oncol,177Lu-Dotatate versus high-dose long-acting octreotide for the treatment of patients with ,2025-07-07,2025-08-29,2025-10-20,34,0
+40972947,10.1016/j.annonc.2025.09.004,Ann Oncol,Effect of 5 years of CT-scan and CEA follow-up on survival endpoints in patients with colo,2025-01-02,2025-09-07,2025-09-20,31,0
+40947016,10.1016/j.annonc.2025.09.003,Ann Oncol,Randomized phase III trial of adjuvant radiation versus chemoradiation in intermediate-ris,2025-06-05,2025-09-01,2025-09-15,20,27
+40935292,10.1016/j.annonc.2025.08.3757,Ann Oncol,"Phase Ib and dose-expansion study of GSK3326595, a PRMT5 inhibitor as monotherapy and in c",2025-02-26,2025-08-26,2025-09-12,23,0
+40885530,10.1016/j.annonc.2025.08.005,Ann Oncol,A-BRAVE trial: a phase III randomized trial with anti-PD-L1 avelumab in high-risk triple-n,2025-05-13,2025-08-18,2025-08-31,22,0
+40885529,10.1016/j.annonc.2025.08.008,Ann Oncol,"Randomized, double-blind, phase III LEAP-003 study of first-line lenvatinib plus pembroliz",2025-02-27,2025-08-19,2025-08-31,19,0
+40885527,10.1016/j.annonc.2025.08.007,Ann Oncol,Circulating kidney injury molecule-1 (KIM-1) and association with outcome to adjuvant immu,2025-07-29,2025-08-19,2025-08-31,16,0
+40461381,10.1016/j.annonc.2025.05.009,Ann Oncol,Dostarlimab and niraparib in primary advanced ovarian cancer.,2025-04-11,2025-05-09,2025-06-04,30,0
+40972946,10.1016/j.annonc.2025.08.002,Ann Oncol,"Impact of anthracyclines in genomic high-risk, node-negative, HR-positive/HER2-negative br",2025-04-22,2025-08-13,2025-09-20,10,38
+40854410,10.1016/j.annonc.2025.08.004,Ann Oncol,Ten-year survival rates by PSA nadir in patients with metastatic hormone-sensitive prostat,2025-04-29,2025-08-07,2025-08-26,17,14
+40840710,10.1016/j.annonc.2025.08.001,Ann Oncol,Risk of disease progression in first-line metastatic colorectal cancer therapy to guide di,2025-06-20,2025-08-08,2025-08-22,21,0
+40816336,10.1016/j.annonc.2025.07.019,Ann Oncol,Incidence trends and long-term survival in early-onset colorectal cancer: a nationwide Swe,2025-06-09,2025-07-31,2025-08-16,5,0
+40769278,10.1016/j.annonc.2025.07.016,Ann Oncol,Prediction of survival after de-escalated neoadjuvant therapy in HER2-positive early breas,2025-04-30,2025-07-30,2025-08-07,27,0
+40769277,10.1016/j.annonc.2025.07.015,Ann Oncol,Pooled analysis of trastuzumab deruxtecan retreatment after recovery from grade 1 intersti,2024-12-20,2025-07-29,2025-08-07,17,0
+40680994,10.1016/j.annonc.2025.07.005,Ann Oncol,Fracture-related hospitalisations in newly diagnosed high-risk localised or metastatic hor,2025-03-10,2025-07-07,2025-07-19,21,0
+40680993,10.1016/j.annonc.2025.07.003,Ann Oncol,Final overall survival and safety analyses of the phase III PSMAfore trial of [177Lu]Lu-PS,2025-05-23,2025-07-09,2025-07-19,19,53
+40680992,10.1016/j.annonc.2025.07.004,Ann Oncol,Re-examining post-operative chemoradiotherapy in head and neck cancer: an updated long-ter,2025-05-29,2025-07-06,2025-07-19,17,29
+40623476,10.1016/j.annonc.2025.06.015,Ann Oncol,Prognostic significance of early on-treatment evolution of circulating tumor DNA in advanc,2024-06-20,2025-06-24,2025-07-08,25,0
+40633690,10.1016/j.annonc.2025.06.014,Ann Oncol,Neoadjuvant intralesional targeted immunocytokines (daromun) in stage III melanoma.,2025-03-31,2025-06-18,2025-07-10,37,0
+40543844,10.1016/j.annonc.2025.06.006,Ann Oncol,Efficacy and safety of biweekly single-dose actinomycin D versus multiday methotrexate in ,2025-04-15,2025-06-11,2025-06-22,21,0
+40541864,10.1016/j.annonc.2025.06.003,Ann Oncol,DNA methyltransferase 3A (DNMT3A) mutations and PD-(L)1 blockade efficacy in non-small-cel,2024-12-03,2025-06-07,2025-06-21,27,28
+40541863,10.1016/j.annonc.2025.06.005,Ann Oncol,Health-related quality of life of patients with metastatic melanoma treated with tumor-inf,2024-11-11,2025-06-11,2025-06-21,19,0
+40532851,10.1016/j.annonc.2025.06.001,Ann Oncol,Identifying the genomic landscape of EGFR-mutant lung cancers with central nervous system ,2025-03-22,2025-06-07,2025-06-19,14,63
+40480553,10.1016/j.annonc.2025.05.539,Ann Oncol,Predicting the 10-year risk of cardiomyopathy in long-term survivors of childhood cancer.,2025-01-13,2025-05-23,2025-06-07,26,44
+40480552,10.1016/j.annonc.2025.05.537,Ann Oncol,Enhanced risk stratification for stage II colorectal cancer using deep learning-based CT c,2025-01-10,2025-05-15,2025-06-07,25,0
+40467032,10.1016/j.annonc.2025.05.534,Ann Oncol,BRCA1/2 and homologous recombination repair alterations in high- and low-volume metastatic,2025-04-14,2025-05-16,2025-06-05,30,0
+40460988,10.1016/j.annonc.2025.05.536,Ann Oncol,Enfortumab vedotin plus pembrolizumab in untreated locally advanced or metastatic urotheli,2025-04-22,2025-05-22,2025-06-04,21,0
+40500687,10.1016/j.annonc.2025.05.533,Ann Oncol,Ultrasensitive detection and tracking of circulating tumor DNA to predict relapse and surv,2025-04-23,2025-05-16,2025-06-12,28,0
+40456670,10.1016/j.annonc.2025.05.010,Ann Oncol,Avelumab plus sacituzumab govitecan versus avelumab monotherapy as first-line maintenance ,2025-04-14,2025-05-12,2025-06-03,21,0
+40450503,10.1016/j.annonc.2025.05.011,Ann Oncol,Enzalutamide plus radium-223 in metastatic castration-resistant prostate cancer: results o,2025-04-12,2025-05-12,2025-06-04,25,0
+40447230,10.1016/j.annonc.2025.05.535,Ann Oncol,Twenty-year survival of advanced gastrointestinal stromal tumours treated with imatinib: e,2025-04-05,2025-05-12,2025-05-31,23,0
+40403847,10.1016/j.annonc.2025.05.530,Ann Oncol,Spatiotemporal T-cell tracking for personalized T-cell receptor T-cell therapy designs in ,2025-01-18,2025-05-08,2025-05-23,22,0
+40403846,10.1016/j.annonc.2025.05.529,Ann Oncol,"Association of the circulating lipid panel, PCPro, with clinical outcomes in metastatic ho",2024-12-16,2025-05-07,2025-05-23,24,0
+40339648,10.1016/j.annonc.2025.04.011,Ann Oncol,Long-term development of 12- and 15-year-old offspring after maternal cancer diagnosis dur,2024-12-19,2025-04-23,2025-05-09,22,0
+40246201,10.1016/j.annonc.2025.04.004,Ann Oncol,Copenhagen Prospective Personalized Oncology (CoPPO)-impact of comprehensive genomic profi,2024-11-15,2025-04-08,2025-04-18,15,0
+40461383,10.1016/j.annonc.2025.04.003,Ann Oncol,Savolitinib plus osimertinib in epidermal growth factor receptor (EGFR)-mutated advanced n,2025-02-07,2025-04-07,2025-06-04,32,0
+40383194,10.1016/j.annonc.2025.05.008,Ann Oncol,Pembrolizumab plus enzalutamide and androgen deprivation therapy versus placebo plus enzal,2025-01-23,2025-05-06,2025-05-19,20,0
+40383193,10.1016/j.annonc.2025.05.007,Ann Oncol,Pembrolizumab plus enzalutamide versus placebo plus enzalutamide for chemotherapy-naive me,2025-01-23,2025-05-06,2025-05-19,23,0
+40288679,10.1016/j.annonc.2025.04.009,Ann Oncol,"Bulumtatug Fuvedotin (BFv, 9MW2821), a next-generation Nectin-4 targeting antibody-drug co",2025-02-13,2025-04-15,2025-04-28,32,0
+40288678,10.1016/j.annonc.2025.04.010,Ann Oncol,Association of gene variant type and location with breast cancer risk in the general popul,2024-12-03,2025-04-16,2025-04-28,45,69
+40250528,10.1016/j.annonc.2025.04.005,Ann Oncol,Open versus robotic-assisted partial nephrectomy in patients with intermediate/high-comple,2024-12-18,2025-04-08,2025-04-19,19,0
+40210087,10.1016/j.annonc.2025.03.024,Ann Oncol,Regorafenib as maintenance therapy after first-line doxorubicin-based chemotherapy in adva,2025-02-03,2025-03-31,2025-04-11,20,0
+40204155,10.1016/j.annonc.2025.03.023,Ann Oncol,"Real-world effectiveness comparison of first-line palbociclib, ribociclib or abemaciclib p",2024-10-02,2025-03-31,2025-04-10,38,0
+40204154,10.1016/j.annonc.2025.03.021,Ann Oncol,Efficacy of adjuvant therapy in patients with stage IIIA cutaneous melanoma.,2024-11-26,2025-03-30,2025-04-10,68,0
+40180122,10.1016/j.annonc.2025.03.018,Ann Oncol,Decaffeinated coffee consumption and risk of total and site-specific cancer.,2025-01-06,2025-03-26,2025-04-04,5,37
+40180121,10.1016/j.annonc.2025.03.016,Ann Oncol,Prospective randomized phase-II trial of ipilimumab/nivolumab versus standard of care in n,2025-01-17,2025-03-24,2025-04-04,36,0
+40174676,10.1016/j.annonc.2025.03.013,Ann Oncol,Lung cancer detection by electronic nose analysis of exhaled breath: a multicentre prospec,2025-01-23,2025-03-24,2025-04-03,11,0
+40157574,10.1016/j.annonc.2025.03.012,Ann Oncol,"Subcutaneous versus intravenous pembrolizumab, in combination with chemotherapy, for treat",2025-03-10,2025-03-21,2025-03-30,19,0
+40139460,10.1016/j.annonc.2025.03.010,Ann Oncol,Final survival results from the PENELOPE-B trial investigating palbociclib versus placebo ,2025-02-03,2025-03-14,2025-03-27,25,0
+40132760,10.1016/j.annonc.2025.03.011,Ann Oncol,Enrichment of CD7+CXCR3+ CAR T-cells in infusion products is associated with durable remis,2025-02-07,2025-03-18,2025-03-26,13,0
+40073938,10.1016/j.annonc.2025.03.002,Ann Oncol,Oncologic outcomes of retroperitoneal lymph node dissection following first-line chemother,2024-09-03,2025-03-03,2025-03-13,18,45
+40049447,10.1016/j.annonc.2025.02.011,Ann Oncol,Efficacy and safety of neoadjuvant SHR-A1811 with or without pyrotinib in women with local,2024-11-09,2025-02-25,2025-03-07,16,0
+39978637,10.1016/j.annonc.2025.02.005,Ann Oncol,ctDNA detection in cerebrospinal fluid and plasma and mutational concordance with the prim,2024-09-12,2025-02-03,2025-02-21,16,0
+39914665,10.1016/j.annonc.2025.01.020,Ann Oncol,Genomic landscape of clinically acquired resistance alterations in patients treated with K,2024-12-05,2025-01-27,2025-02-07,24,41
+39914664,10.1016/j.annonc.2025.01.021,Ann Oncol,Whole genome sequencing-powered ctDNA sequencing for breast cancer detection.,2024-09-15,2025-01-28,2025-02-07,19,0
+39986927,10.1016/j.annonc.2025.01.017,Ann Oncol,Predicting dose response to prostate cancer radiotherapy: validation of a radiation signat,2024-11-16,2025-01-20,2025-02-23,33,32
+39934055,10.1016/j.annonc.2025.01.011,Ann Oncol,"Sacituzumab govitecan in advanced urothelial carcinoma: TROPiCS-04, a phase III randomized",2024-12-06,2025-01-20,2025-02-12,21,0
+39894354,10.1016/j.annonc.2025.01.016,Ann Oncol,Results of a phase Ib study of olaparib with concomitant radiotherapy in soft-tissue sarco,2025-01-07,2025-01-20,2025-02-03,12,0
+39848335,10.1016/j.annonc.2025.01.006,Ann Oncol,Survival among patients treated with total mesorectal excision or selective watch-and-wait,2024-11-05,2025-01-14,2025-01-24,26,10
+39814200,10.1016/j.annonc.2024.12.015,Ann Oncol,The impact of neoadjuvant therapy in patients with left-sided resectable pancreatic cancer,2024-09-04,2024-12-23,2025-01-16,176,0
+39814199,10.1016/j.annonc.2024.12.014,Ann Oncol,A randomised phase III study of bevacizumab and carboplatin-pemetrexed chemotherapy with o,2024-10-25,2024-12-22,2025-01-16,26,0
+39805351,10.1016/j.annonc.2025.01.001,Ann Oncol,Results from a phase Ib study of telisotuzumab vedotin in combination with osimertinib in ,2024-08-29,2025-01-02,2025-01-14,13,0
+39805350,10.1016/j.annonc.2024.12.013,Ann Oncol,Neo-adjuvant FOLFOX with and without panitumumab for patients with KRAS-wt locally advance,2024-11-07,2024-12-20,2025-01-14,16,0
+40074664,10.1016/j.annonc.2025.01.014,Ann Oncol,European cancer mortality predictions for the year 2025 with focus on breast cancer.,2024-11-04,2025-01-21,2025-03-13,7,0
+39706338,10.1016/j.annonc.2024.12.010,Ann Oncol,Prognostic value of residual disease (RD) biology and gene expression changes during the n,2024-10-04,2024-12-11,2024-12-21,23,50
+39706337,10.1016/j.annonc.2024.12.009,Ann Oncol,Correlation between progression-free and overall survival in patients with Hodgkin lymphom,2024-06-04,2024-12-11,2024-12-21,19,0
+39706336,10.1016/j.annonc.2024.12.011,Ann Oncol,A model for decoding resistance in precision oncology: acquired resistance to FGFR inhibit,2024-11-05,2024-12-12,2024-12-21,55,0
+39706335,10.1016/j.annonc.2024.12.008,Ann Oncol,Avelumab + axitinib versus sunitinib as first-line treatment for patients with advanced re,2024-10-11,2024-12-06,2024-12-21,27,11
+39701282,10.1016/j.annonc.2024.12.004,Ann Oncol,Tocilizumab and immune signatures for targeted management of cytokine release syndrome in ,2024-10-09,2024-12-04,2024-12-20,24,0
+39672383,10.1016/j.annonc.2024.11.017,Ann Oncol,Genomic correlates of response and resistance to the irreversible FGFR1-4 inhibitor futiba,2024-09-05,2024-11-28,2024-12-14,11,0
+39672382,10.1016/j.annonc.2024.12.003,Ann Oncol,Biomarker analyses from the phase III randomized CLEAR trial: lenvatinib plus pembrolizuma,2024-10-09,2024-12-02,2024-12-14,20,27
+39662628,10.1016/j.annonc.2024.12.002,Ann Oncol,Disitamab vedotin plus toripalimab in patients with locally advanced or metastatic urothel,2024-09-14,2024-12-02,2024-12-12,16,0
+39637944,10.1016/j.annonc.2024.11.016,Ann Oncol,Tremelimumab and durvalumab as neoadjuvant or non-operative management strategy of patient,2024-10-15,2024-11-27,2024-12-06,50,0
+39637943,10.1016/j.annonc.2024.11.014,Ann Oncol,"Lung adenocarcinomas with mucinous histology: clinical, genomic, and immune microenvironme",2024-10-08,2024-11-26,2024-12-06,48,33
+39631622,10.1016/j.annonc.2024.11.012,Ann Oncol,Pembrolizumab versus chemotherapy in microsatellite instability-high or mismatch repair-de,2024-08-30,2024-11-26,2024-12-05,19,0
+39617145,10.1016/j.annonc.2024.11.011,Ann Oncol,"The efficacy and safety of mirvetuximab soravtansine in FRα-positive, third-line and later",2024-09-27,2024-11-23,2024-12-02,17,0
+39551185,10.1016/j.annonc.2024.11.008,Ann Oncol,Tumor and blood B-cell abundance outperforms established immune checkpoint blockade respon,2024-07-19,2024-11-08,2024-11-18,24,59
+39542422,10.1016/j.annonc.2024.10.829,Ann Oncol,Adjuvant immunotherapy in patients with resected gastric and oesophagogastric junction can,2024-09-29,2024-10-31,2024-11-15,30,0
+39532203,10.1016/j.annonc.2024.10.827,Ann Oncol,A phase III randomised trial on the addition of a contact X-ray brachytherapy boost to sta,2024-07-26,2024-10-28,2024-11-13,21,0
+39528049,10.1016/j.annonc.2024.10.828,Ann Oncol,Efficacy of subsequent therapies in patients with advanced ovarian cancer who relapse afte,2024-08-05,2024-10-31,2024-11-13,31,0
+39477071,10.1016/j.annonc.2024.10.018,Ann Oncol,"Pathologic complete response (pCR) rates for patients with HR+/HER2- high-risk, early-stag",2024-04-19,2024-10-22,2024-10-31,20,42
+39442617,10.1016/j.annonc.2024.10.015,Ann Oncol,A phase III trial of adjuvant ribociclib plus endocrine therapy versus endocrine therapy a,2024-07-01,2024-10-11,2024-10-24,29,0
+39419289,10.1016/j.annonc.2024.10.012,Ann Oncol,TNBC-DX genomic test in early-stage triple-negative breast cancer treated with neoadjuvant,2024-07-20,2024-10-07,2024-10-18,47,0
+39393777,10.1016/j.annonc.2024.10.002,Ann Oncol,Pembrolizumab plus chemotherapy for advanced and recurrent cervical cancer: final analysis,2024-07-23,2024-10-01,2024-10-12,18,0
+39389887,10.1016/j.annonc.2024.08.2348,Ann Oncol,Clinical validation of a tissue-agnostic genome-wide methylome enrichment molecular residu,2024-08-09,2024-08-29,2024-10-11,23,0
+39313156,10.1016/j.annonc.2024.09.010,Ann Oncol,Acquired gene alterations in patients treated with ribociclib plus endocrine therapy or en,2024-03-22,2024-09-14,2024-09-24,15,0
+39299443,10.1016/j.annonc.2024.09.008,Ann Oncol,Basal/squamous and mixed subtype bladder cancers present poor outcomes after neoadjuvant c,2024-02-06,2024-09-10,2024-09-20,13,0
+39293515,10.1016/j.annonc.2024.09.005,Ann Oncol,"Safety and clinical activity of BMS-986365 (CC-94676), a dual androgen receptor ligand-dir",2024-07-29,2024-09-06,2024-09-19,22,52
+39288844,10.1016/j.annonc.2024.09.002,Ann Oncol,Subcutaneous versus intravenous nivolumab for renal cell carcinoma.,2024-07-25,2024-09-03,2024-09-18,25,0
+39284382,10.1016/j.annonc.2024.09.001,Ann Oncol,"A randomized, double-blind, placebo-controlled phase II study of olanzapine-based prophyla",2024-07-29,2024-09-03,2024-09-17,20,0
+39241964,10.1016/j.annonc.2024.08.2340,Ann Oncol,Tocilizumab provides dual benefits in treating immune checkpoint inhibitor-associated arth,2024-07-10,2024-08-19,2024-09-07,16,0
+42933638,10.1016/j.annonc.2026.10.098,Ann Oncol,Sacituzumab tirumotecan versus chemotherapy in previously treated locally recurrent or met,2026-08-28,2026-10-06,2026-10-26,19,0
+42918420,10.1016/j.annonc.2026.10.096,Ann Oncol,Neoadjuvant nivolumab plus gemcitabine-cisplatin followed by postsurgical adjuvant nivolum,2026-09-14,2026-10-06,2026-10-23,23,0
+42946309,10.1016/j.annonc.2026.10.1292,Ann Oncol,Prospective circulating tumour DNA surveillance in patients with early high-risk hormone r,2026-07-29,2026-10-22,2026-10-27,22,0
+42933639,10.1016/j.annonc.2026.10.094,Ann Oncol,Final analysis of the Neotorch study: perioperative toripalimab in combination with chemot,2026-08-27,2026-10-05,2026-10-26,60,0
+42933637,10.1016/j.annonc.2026.10.1284,Ann Oncol,Efficacy and safety of risvutatug rezetecan versus gemcitabine plus docetaxel in relapsed/,2026-09-18,2026-10-16,2026-10-26,21,0
+42933636,10.1016/j.annonc.2026.10.095,Ann Oncol,Extended follow-up of tarlatamab in patients with small-cell lung cancer after platinum-ba,2026-09-12,2026-10-05,2026-10-26,20,8
+42927858,10.1016/j.annonc.2026.10.1280,Ann Oncol,Clinical Complete Response with Dostarlimab Monotherapy in dMMR/MSI-H Locally Advanced Rec,2026-09-18,2026-10-16,2026-10-25,35,0
+42927856,10.1016/j.annonc.2026.10.1281,Ann Oncol,Pembrolizumab plus lenvatinib with belzutifan or quavonlimab as first-line therapy for adv,2026-09-14,2026-10-16,2026-10-25,22,0
+42927855,10.1016/j.annonc.2026.10.109,Ann Oncol,Final prespecified analysis of the phase 3 LITESPARK-011 study: belzutifan plus lenvatinib,2026-09-14,2026-10-12,2026-10-25,31,0
+42927854,10.1016/j.annonc.2026.10.108,Ann Oncol,Pembrolizumab with or without platinum-based chemotherapy as first-line treatment in advan,2026-09-10,2026-10-12,2026-10-25,32,0
+42927853,10.1016/j.annonc.2026.10.104,Ann Oncol,A randomised phase III trial of adjuvant treatment intensification with mFOLFIRINOX versus,2026-09-11,2026-10-09,2026-10-25,33,0
+42926111,10.1016/j.annonc.2026.10.1285,Ann Oncol,Pembrolizumab Plus Chemotherapy for HR+/HER2- PD-L1‒Positive Advanced Breast Cancer: Final,2026-09-22,2026-10-16,2026-10-25,20,0
+42926110,10.1016/j.annonc.2026.10.1282,Ann Oncol,Atirmociclib and fulvestrant for patients with HR+/HER2- advanced/metastatic breast cancer,2026-09-11,2026-10-16,2026-10-25,20,0
+42926109,10.1016/j.annonc.2026.10.1278,Ann Oncol,Adjuvant chemotherapy with cisplatin and gemcitabine compared to standard of care after cu,2026-09-14,2026-10-15,2026-10-25,24,0
+42926108,10.1016/j.annonc.2026.10.1283,Ann Oncol,Overall survival from the phase III postMONARCH trial of abemaciclib plus fulvestrant vers,2026-09-14,2026-10-16,2026-10-25,16,0
+42926107,10.1016/j.annonc.2026.10.105,Ann Oncol,"A randomized Phase 1 study of telisotuzumab adizutecan (ABBV-400, Temab-A) in combination ",2026-09-14,2026-10-09,2026-10-25,18,0
+42926106,10.1016/j.annonc.2026.09.009,Ann Oncol,Final results of nivolumab plus ipilimumab versus nivolumab or chemotherapy in microsatell,2025-09-05,2026-09-17,2026-10-25,31,0
+42918424,10.1016/j.annonc.2026.10.097,Ann Oncol,Capivasertib plus abiraterone in PTEN-deficient de novo metastatic hormone-sensitive prost,2026-09-03,2026-10-06,2026-10-23,20,0
+42918423,10.1016/j.annonc.2026.10.1288,Ann Oncol,Overall survival with adjuvant ribociclib plus nonsteroidal aromatase inhibitor in patient,2026-08-24,2026-10-19,2026-10-23,23,0
+42918422,10.1016/j.annonc.2026.10.106,Ann Oncol,Perioperative pembrolizumab or placebo plus neoadjuvant cisplatin and gemcitabine in parti,2026-09-08,2026-10-12,2026-10-23,25,0
+42918421,10.1016/j.annonc.2026.10.1290,Ann Oncol,Active surveillance versus standard surgery after neoadjuvant chemoradiotherapy for oesoph,2026-09-12,2026-10-21,2026-10-23,36,0
+42918419,10.1016/j.annonc.2026.10.103,Ann Oncol,Nivolumab plus relatlimab with platinum-doublet chemotherapy versus nivolumab with platinu,2026-04-14,2026-10-08,2026-10-23,20,0
+42906778,10.1016/j.annonc.2026.09.008,Ann Oncol,"The ESMO Scale for Clinical Actionability of Molecular Targets, version 2 (ESCAT v2): an e",2026-07-01,2026-09-15,2026-10-22,23,0
+42887596,10.1016/j.annonc.2026.10.102,Ann Oncol,Efficacy and safety of camrelizumab plus docetaxel and carboplatin as neoadjuvant therapy ,2026-06-17,2026-10-07,2026-10-16,40,0
+42849725,10.1016/j.annonc.2026.10.001,Ann Oncol,"Sofetabart mipitecan, an antibody drug conjugate targeting folate receptor alpha, in high ",2026-06-22,2026-10-01,2026-10-08,27,0
+42838271,10.1016/j.annonc.2026.09.014,Ann Oncol,Efficacy of cryotherapy in preventing taxane-induced neuropathy: the CryoPac randomised co,2025-11-07,2026-09-29,2026-10-06,16,0
+42641684,10.1016/j.annonc.2026.07.001,Ann Oncol,Thymic radiation is associated with worse outcomes in patients with NSCLC.,2026-02-19,2026-07-02,2026-08-25,24,0
+42463045,10.1016/j.annonc.2026.07.004,Ann Oncol,A multimodal deep learning model for preoperative prediction of post-operative complicatio,2025-08-14,2026-07-10,2026-07-17,21,0
+42323161,10.1016/j.annonc.2026.06.012,Ann Oncol,SACI-IO HR+: a randomized phase II trial of sacituzumab govitecan with or without pembroli,2026-03-20,2026-06-15,2026-06-21,39,0
+42309209,10.1016/j.annonc.2026.06.003,Ann Oncol,Becotatug vedotin for recurrent/metastatic nasopharyngeal carcinoma (Magic-M001): a multic,2026-03-20,2026-06-04,2026-06-18,31,0
+42270078,10.1016/j.annonc.2026.05.709,Ann Oncol,Prompt-directed ambient artificial intelligence for automated multidisciplinary tumor boar,2025-09-29,2026-05-29,2026-06-11,28,19
+42250604,10.1016/j.annonc.2026.05.708,Ann Oncol,Multimodal artificial intelligence prediction of abiraterone efficacy in two STAMPEDE phas,2026-02-06,2026-05-29,2026-06-07,34,0
+42229584,10.1016/j.annonc.2026.05.704,Ann Oncol,Final outcomes of the SOFT and TEXT phase III trials in premenopausal hormone receptor-pos,2026-04-16,2026-05-25,2026-06-03,40,29
+42218963,10.1016/j.annonc.2026.05.703,Ann Oncol,A randomized phase III trial of anthracyclines followed by taxane versus taxane plus carbo,2026-02-08,2026-05-22,2026-06-01,43,0
+42177028,10.1016/j.annonc.2026.05.696,Ann Oncol,Autologous T-cell antigen coupler targeting HER2 (TAC01-HER2) in advanced or metastatic so,2026-04-05,2026-05-18,2026-05-24,17,0
+42810586,10.1016/j.annonc.2026.09.011,Ann Oncol,Final results and predictive biomarkers of response and long-term outcomes with first-line,2025-05-28,2026-09-22,2026-09-29,19,0
+42727637,10.1016/j.annonc.2026.09.002,Ann Oncol,Safety and antitumor activity of the first-in-class EGFR-HER3 bispecific antibody-drug con,2026-02-01,2026-09-02,2026-09-11,26,0
+42613139,10.1016/j.annonc.2026.05.697,Ann Oncol,Ovarian reserve as a measure of adjuvant chemotherapy benefit in hormone receptor positive,2026-01-25,2026-05-18,2026-08-18,27,34
+42217582,10.1016/j.annonc.2026.05.692,Ann Oncol,Lorlatinib versus crizotinib as first-line treatment for advanced ALK-positive non-small-c,2026-04-07,2026-05-12,2026-05-31,16,0
+42214557,10.1016/j.annonc.2026.05.699,Ann Oncol,Updated results of the POSITIVE (Pregnancy Outcome and Safety of Interrupting Therapy for ,2026-01-22,2026-05-19,2026-05-30,40,58
+42203036,10.1016/j.annonc.2026.05.700,Ann Oncol,Predicting neoadjuvant breast cancer therapy response using BRIDGE from tumor transcriptom,2025-10-09,2026-05-20,2026-05-28,21,0
+42162665,10.1016/j.annonc.2026.05.695,Ann Oncol,Five-year survival with tebentafusp in metastatic uveal melanoma.,2026-03-02,2026-05-13,2026-05-21,30,0
+42162664,10.1016/j.annonc.2026.05.694,Ann Oncol,Longitudinal transcriptomic profiling identifies predictors of response to neoadjuvant che,2025-12-09,2026-05-13,2026-05-21,28,0
+42142622,10.1016/j.annonc.2026.05.003,Ann Oncol,"Preclinical characterization and phase I results of TQB2102, a first-in-class HER2 biparat",2025-12-16,2026-05-11,2026-05-17,39,0
+42648402,10.1016/j.annonc.2026.08.006,Ann Oncol,Adjuvant pembrolizumab for the treatment of clear cell renal cell carcinoma: five-year res,2026-04-29,2026-08-20,2026-08-26,19,0
+42636977,10.1016/j.annonc.2026.08.002,Ann Oncol,Sustained benefit of adjuvant olaparib in women with germline BRCA1- and BRCA2-associated ,2026-02-25,2026-08-05,2026-08-24,67,0
+42628840,10.1016/j.annonc.2026.08.005,Ann Oncol,Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Canc,2026-04-21,2026-08-17,2026-08-21,20,0
+42628839,10.1016/j.annonc.2026.07.413,Ann Oncol,Atezolizumab with or without tiragolumab in unresectable esophageal squamous-cell carcinom,2026-02-19,2026-07-27,2026-08-21,22,0
+42612796,10.1016/j.annonc.2026.08.004,Ann Oncol,Therapeutic targeting of RAS-mediated resistance in oncogene-driven lung cancer.,2026-05-24,2026-08-11,2026-08-18,40,0
+42607762,10.1016/j.annonc.2026.07.412,Ann Oncol,Eight-year outcomes of testosterone suppression plus enzalutamide or a nonsteroidal antian,2026-04-01,2026-07-22,2026-08-17,30,0
+42575473,10.1016/j.annonc.2026.08.001,Ann Oncol,Nivolumab plus chemotherapy or ipilimumab versus chemotherapy as first-line treatment for ,2026-03-06,2026-08-03,2026-08-11,23,0
+42562209,10.1016/j.annonc.2026.07.414,Ann Oncol,SKYSCRAPER-03: a phase III study of tiragolumab plus atezolizumab versus durvalumab in loc,2026-05-08,2026-07-31,2026-08-07,22,0
+42252247,10.1016/j.annonc.2026.04.013,Ann Oncol,GLP-1 receptor agonist use and cancer risk in obese nondiabetic adults.,2026-01-12,2026-04-15,2026-06-08,9,0
+42225236,10.1016/j.annonc.2026.05.001,Ann Oncol,"Chemotherapy for patients with circulating tumour DNA-positive, stage II colon cancer (CIR",2026-03-20,2026-05-07,2026-06-02,24,0
+42219860,10.1016/j.annonc.2026.04.017,Ann Oncol,"A randomised study of encorafenib, cetuximab, and FOLFIRI versus FOLFIRI with or without b",2025-10-01,2026-04-29,2026-06-01,20,0
+42167437,10.1016/j.annonc.2026.05.693,Ann Oncol,Datopotamab deruxtecan (Dato-DXd) in combination with durvalumab as first-line treatment f,2026-02-02,2026-05-12,2026-05-22,22,0
+42097353,10.1016/j.annonc.2026.04.016,Ann Oncol,Survival outcomes in POD1UM-303/InterAACT-2: a phase III study of retifanlimab plus carbop,2026-03-10,2026-04-27,2026-05-08,21,0
+42025762,10.1016/j.annonc.2026.04.011,Ann Oncol,Including tumor-infiltrating lymphocytes into the PREDICT prognostic model for triple-nega,2025-09-26,2026-04-14,2026-04-24,68,0
+42025761,10.1016/j.annonc.2026.04.009,Ann Oncol,Colorectal cancer detection using noncontrast CT and deep learning: a multicenter and inte,2025-07-18,2026-04-11,2026-04-24,33,0
+41997295,10.1016/j.annonc.2026.04.004,Ann Oncol,DART (NCI/SWOG S1609): comprehensive final results from dual checkpoint inhibition with CT,2026-02-25,2026-04-07,2026-04-18,14,0
+41967638,10.1016/j.annonc.2026.04.003,Ann Oncol,Genomic determinants of response to alpelisib plus fulvestrant in the SOLAR-1 trial.,2025-03-11,2026-04-03,2026-04-13,17,0
+41937088,10.1016/j.annonc.2026.03.008,Ann Oncol,"Datopotamab deruxtecan in patients with untreated, advanced triple-negative breast cancer ",2026-03-26,2026-03-28,2026-04-06,28,0
+42025759,10.1016/j.annonc.2026.04.010,Ann Oncol,IO102-IO103 immune-modulatory cancer vaccine and pembrolizumab in melanoma.,2025-10-31,2026-04-14,2026-04-24,26,0
+41999978,10.1016/j.annonc.2026.04.007,Ann Oncol,Clinical and molecular biomarkers for prediction of endocrine response after short preoper,2025-07-10,2026-04-09,2026-04-19,33,0
+41833903,10.1016/j.annonc.2026.03.002,Ann Oncol,OPTIMAL: a multinational phase III study of oral paclitaxel (DHP107) versus intravenous we,2025-08-26,2026-03-09,2026-03-16,21,0
+41833902,10.1016/j.annonc.2026.03.001,Ann Oncol,MTAP loss is frequent in oncogene-driven NSCLC and may confer sensitivity to combined PRMT,2026-02-02,2026-03-01,2026-03-16,48,42
+41791652,10.1016/j.annonc.2026.02.018,Ann Oncol,"A confidence-based, artificial intelligence pathology model for diagnosis of intrahepatic ",2025-12-22,2026-02-25,2026-03-07,29,0
+41786248,10.1016/j.annonc.2026.02.017,Ann Oncol,Nivolumab plus ipilimumab versus sunitinib for first-line treatment of advanced renal cell,2025-11-14,2026-02-24,2026-03-06,25,0
+41571044,10.1016/j.annonc.2026.01.005,Ann Oncol,Final overall survival analysis and exploratory biomarker study from JUPITER-06: a randomi,2025-09-24,2026-01-13,2026-01-23,25,0
+42097893,10.1016/j.annonc.2026.01.013,Ann Oncol,"A chemotherapy-free, pathological response-adapted strategy using trastuzumab-pertuzumab a",2025-12-19,2026-01-26,2026-05-08,26,0
+41780642,10.1016/j.annonc.2026.02.015,Ann Oncol,"Trastuzumab deruxtecan in hormone receptor-positive, HER2-low/-ultralow metastatic breast ",2025-08-01,2026-02-23,2026-03-05,17,0
+41780641,10.1016/j.annonc.2026.02.014,Ann Oncol,Osimertinib plus datopotamab deruxtecan in patients with EGFR-mutated advanced NSCLC after,2026-01-19,2026-02-20,2026-03-05,21,0
+41720427,10.1016/j.annonc.2026.02.011,Ann Oncol,"Cabozantinib plus nivolumab and ipilimumab in previously untreated, advanced renal cell ca",2025-12-10,2026-02-12,2026-02-21,22,17
+41687718,10.1016/j.annonc.2026.02.003,Ann Oncol,"Nivolumab plus chemotherapy as first-line treatment for advanced gastric, gastroesophageal",2025-09-24,2026-02-06,2026-02-14,26,0
+41571046,10.1016/j.annonc.2026.01.004,Ann Oncol,Mechanisms of clinical resistance to selective FGFR2 inhibition by lirafugratinib.,2025-07-27,2026-01-07,2026-01-23,20,40
+41571045,10.1016/j.annonc.2026.01.006,Ann Oncol,Anbenitamab in previously treated HER2-positive gastric cancer (KC-WISE): prespecified int,2025-11-05,2026-01-14,2026-01-23,28,0
+41763609,10.1016/j.annonc.2026.02.009,Ann Oncol,Final overall survival results from EORTC 1333/PEACE-3 trial of enzalutamide plus radium-2,2026-02-04,2026-02-11,2026-03-01,25,0
+41638487,10.1016/j.annonc.2026.01.011,Ann Oncol,Pan-tumor harmonization of pathologic response assessment for standardized data collection,2025-11-23,2026-01-23,2026-02-05,23,54
+41544704,10.1016/j.annonc.2025.12.018,Ann Oncol,ctDNA-guided immunotherapy following radical cystectomy for muscle-invasive bladder cancer,2025-11-03,2025-12-24,2026-01-17,23,0
+41478526,10.1016/j.annonc.2025.12.011,Ann Oncol,PET/CT-guided management of immune checkpoint blockade and multi-modal profiling following,2025-10-08,2025-12-08,2026-01-02,32,0
+41448362,10.1016/j.annonc.2025.12.017,Ann Oncol,Datopotamab deruxtecan versus chemotherapy in previously treated inoperable/metastatic hor,2025-05-30,2025-12-15,2025-12-26,21,0
+41443411,10.1016/j.annonc.2025.12.014,Ann Oncol,Cetuximab rechallenge in molecularly selected metastatic colorectal cancer: the randomized,2025-11-04,2025-12-16,2025-12-25,35,0
+41443410,10.1016/j.annonc.2025.12.015,Ann Oncol,"A phase II, randomized, open-label study to evaluate low-dose pembrolizumab plus chemother",2025-11-10,2025-12-16,2025-12-25,44,0
+41422862,10.1016/j.annonc.2025.12.012,Ann Oncol,Capivasertib plus paclitaxel as first-line treatment for metastatic triple-negative breast,2025-06-12,2025-12-15,2025-12-22,23,0
+41412497,10.1016/j.annonc.2025.12.008,Ann Oncol,Germline alterations in patients with lung cancer.,2024-09-29,2025-12-08,2025-12-19,9,0
+41554652,10.1016/j.annonc.2025.12.005,Ann Oncol,European cancer mortality predictions for the year 2026: the levelling of female lung canc,2025-10-21,2025-12-05,2026-01-20,7,0
+41535168,10.1016/j.annonc.2025.11.014,Ann Oncol,Machine learning reveals country-specific drivers of global cancer outcomes.,2025-09-01,2025-11-18,2026-01-15,15,0
+41407195,10.1016/j.annonc.2025.12.006,Ann Oncol,Next-generation multicenter studies: using artificial intelligence to automatically proces,2025-08-23,2025-12-05,2025-12-18,31,0
+41391667,10.1016/j.annonc.2025.11.018,Ann Oncol,Imlunestrant with or without abemaciclib in advanced breast cancer: updated efficacy resul,2025-10-07,2025-11-28,2025-12-15,22,30
+41390119,10.1016/j.annonc.2025.12.003,Ann Oncol,Deep learning discriminates thymic epithelial tumors' histological subtypes using digital ,2025-10-13,2025-12-04,2025-12-14,13,0
+41380962,10.1016/j.annonc.2025.11.020,Ann Oncol,Durvalumab with carboplatin/paclitaxel and bevacizumab followed by durvalumab and bevacizu,2025-05-15,2025-11-17,2025-12-12,31,0
+41354211,10.1016/j.annonc.2025.11.019,Ann Oncol,Trabectedin-olaparib combination or trabectedin in advanced soft tissue sarcomas after fai,2025-09-24,2025-11-27,2025-12-08,26,0
+41344593,10.1016/j.annonc.2025.11.017,Ann Oncol,Perioperative tislelizumab plus neoadjuvant chemotherapy for patients with resectable non-,2025-08-29,2025-11-26,2025-12-05,28,0
+41276258,10.1016/j.annonc.2025.11.013,Ann Oncol,Sacituzumab tirumotecan in participants with advanced or metastatic urothelial carcinoma a,2025-07-18,2025-11-17,2025-11-24,25,0
+41260264,10.1016/j.annonc.2025.11.005,Ann Oncol,Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive loc,2025-03-12,2025-11-10,2025-11-20,30,0
+41260263,10.1016/j.annonc.2025.11.002,Ann Oncol,Kinetics and determinants of ESR1 mutation detection in metastatic breast cancer.,2024-10-03,2025-11-10,2025-11-20,16,0
+41260262,10.1016/j.annonc.2025.11.007,Ann Oncol,Pooled analysis by best confirmed response to trastuzumab deruxtecan and related biomarker,2025-06-03,2025-11-11,2025-11-20,16,0
+41260261,10.1016/j.annonc.2025.11.009,Ann Oncol,ESMO basic requirements for AI-based biomarkers in oncology (EBAI).,2025-09-16,2025-11-13,2025-11-20,37,0
+41260260,10.1016/j.annonc.2025.11.004,Ann Oncol,Association between type and location of germline BRCA1/2 pathogenic or likely pathogenic ,2025-04-19,2025-11-10,2025-11-20,59,0
+41260259,10.1016/j.annonc.2025.11.006,Ann Oncol,Early positron emission tomography response-adapted treatment in low-risk diffuse large B-,2025-05-20,2025-11-10,2025-11-20,23,0
+41161480,10.1016/j.annonc.2025.10.1236,Ann Oncol,Repertoire and clinical hierarchy of AR locus alterations in castration-resistant prostate,2025-06-26,2025-10-15,2025-10-30,57,0
+41183783,10.1016/j.annonc.2025.10.1237,Ann Oncol,Pathological response calculation assessment remains accurate with reduced tumor bed exami,2025-03-05,2025-10-22,2025-11-04,31,0
+41130363,10.1016/j.annonc.2025.10.019,Ann Oncol,"Neoadjuvant trastuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertu",2025-10-15,2025-10-15,2025-10-24,26,0
+41125211,10.1016/j.annonc.2025.10.006,Ann Oncol,Patient-reported outcomes in the SERENA-6 trial of camizestrant plus CDK4/6 inhibitor in p,2025-09-05,2025-10-07,2025-10-23,25,0
+41115469,10.1016/j.annonc.2025.10.007,Ann Oncol,Rucaparib maintenance for newly diagnosed advanced ovarian cancer: interim overall surviva,2024-10-28,2025-10-08,2025-10-21,34,0
+41115468,10.1016/j.annonc.2025.10.010,Ann Oncol,Novel pembrolizumab-based treatments as first-line therapy in advanced clear-cell renal ce,2025-09-07,2025-10-10,2025-10-21,20,22
+41115467,10.1016/j.annonc.2025.10.009,Ann Oncol,A multicenter randomized phase II trial of lenvatinib plus everolimus versus cabozantinib ,2025-09-05,2025-10-10,2025-10-21,16,29
+41110701,10.1016/j.annonc.2025.10.003,Ann Oncol,Palbociclib with adjuvant endocrine therapy in early breast cancer: 5-year follow-up analy,2025-08-27,2025-10-02,2025-10-20,40,0
+41110700,10.1016/j.annonc.2025.10.011,Ann Oncol,Three versus six cycles of platinum-based chemotherapy followed by avelumab maintenance as,2025-09-25,2025-10-10,2025-10-20,21,0
+41110697,10.1016/j.annonc.2025.10.005,Ann Oncol,Overall survival with abemaciclib in early breast cancer.,2025-09-05,2025-10-07,2025-10-20,27,0
+41110696,10.1016/j.annonc.2025.10.017,Ann Oncol,Personalised antiemetic prophylaxis with NEPA for patients at high risk of chemotherapy-in,2025-08-29,2025-10-13,2025-10-20,23,0
+41109527,10.1016/j.annonc.2025.10.016,Ann Oncol,"Palbociclib plus letrozole versus weekly paclitaxel, both in combination with trastuzumab ",2025-06-05,2025-10-07,2025-10-19,23,0
+41125209,10.1016/j.annonc.2025.09.140,Ann Oncol,"The evolving landscape of leptomeningeal metastases from NSCLC: an international, contempo",2025-08-25,2025-09-30,2025-10-23,36,49
+41120017,10.1016/j.annonc.2025.10.004,Ann Oncol,Capivasertib plus abiraterone in PTEN-deficient metastatic hormone-sensitive prostate canc,2025-09-05,2025-10-03,2025-10-22,22,0
+41115464,10.1016/j.annonc.2025.10.002,Ann Oncol,Re-treatment with panitumumab followed by regorafenib versus the reverse sequence in chemo,2025-09-05,2025-10-02,2025-10-21,31,0
+41110695,10.1016/j.annonc.2025.09.141,Ann Oncol,TRADE: a phase II trial to assess the tolerability of abemaciclib dose escalation in early,2025-08-21,2025-09-29,2025-10-20,20,0
+41110694,10.1016/j.annonc.2025.09.139,Ann Oncol,Adjuvant nivolumab versus placebo for high-risk muscle-invasive urothelial carcinoma: 5-ye,2025-09-05,2025-09-29,2025-10-20,21,0
+41110693,10.1016/j.annonc.2025.09.018,Ann Oncol,Alectinib versus crizotinib in previously untreated ALK-positive advanced non-small cell l,2025-08-19,2025-09-24,2025-10-20,21,0
+41110692,10.1016/j.annonc.2025.09.017,Ann Oncol,"ALBAN (GETUG-AFU 37): a phase III, randomized, open-label international trial of intraveno",2025-09-05,2025-09-24,2025-10-20,20,0
+40998092,10.1016/j.annonc.2025.09.006,Ann Oncol,Final analysis of nivolumab plus cabozantinib for advanced renal cell carcinoma from the r,2025-06-19,2025-09-16,2025-09-26,21,23

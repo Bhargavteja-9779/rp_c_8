@@ -1,0 +1,1130 @@
+pmid,doi,journal,title,received,accepted,pubmed_date,n_authors,n_refs
+34800368,10.1016/j.immuni.2021.10.020,Immunity,Type I interferon activates MHC class I-dressed CD11b+ conventional dendritic cells to pro,2021-04-21,2021-10-22,2021-11-21,9,97
+34932944,10.1016/j.immuni.2021.11.017,Immunity,Engagement of the costimulatory molecule ICOS in tissues promotes establishment of CD8+ ti,2020-11-02,2021-11-19,2021-12-22,13,84
+34910930,10.1016/j.immuni.2021.11.008,Immunity,Epithelial colonization by gut dendritic cells promotes their functional diversification.,2021-06-15,2021-11-15,2021-12-16,23,56
+34879222,10.1016/j.immuni.2021.11.005,Immunity,Maternal gut bacteria drive intestinal inflammation in offspring with neurodevelopmental d,2021-04-21,2021-11-10,2021-12-09,8,68
+34847356,10.1016/j.immuni.2021.11.002,Immunity,CXCL10 chemokine regulates heterogeneity of the CD8+ T cell response and viral set point d,2020-07-27,2021-11-02,2021-12-01,9,51
+34767747,10.1016/j.immuni.2021.10.011,Immunity,MTHFD2 is a metabolic checkpoint controlling effector and regulatory T cell fate and funct,2021-01-14,2021-10-13,2021-11-13,24,52
+34879221,10.1016/j.immuni.2021.11.004,Immunity,Interleukin-10 receptor signaling promotes the maintenance of a PD-1int TCF-1+ CD8+ T cell,2021-01-09,2021-11-09,2021-12-09,24,0
+34879220,10.1016/j.immuni.2021.11.006,Immunity,Chronic calcium signaling in IgE+ B cells limits plasma cell differentiation and survival.,2021-02-25,2021-11-12,2021-12-09,2,0
+34861182,10.1016/j.immuni.2021.11.003,Immunity,Microbiota-specific T follicular helper cells drive tertiary lymphoid structures and anti-,2021-01-15,2021-11-04,2021-12-04,9,105
+34852217,10.1016/j.immuni.2021.11.001,Immunity,Lipid nanoparticles enhance the efficacy of mRNA and protein subunit vaccines by inducing ,2021-01-24,2021-10-29,2021-12-02,32,86
+34813775,10.1016/j.immuni.2021.10.021,Immunity,Delayed antiretroviral therapy in HIV-infected individuals leads to irreversible depletion,2021-03-11,2021-10-27,2021-11-24,17,0
+34788602,10.1016/j.immuni.2021.10.005,Immunity,"Indoleamine 2,3-dioxygenase 1 is essential for sustaining durable antibody responses.",2020-09-21,2021-10-06,2021-11-18,9,75
+34788601,10.1016/j.immuni.2021.10.003,Immunity,Ileitis-associated tertiary lymphoid organs arise at lymphatic valves and impede mesenteri,2020-12-21,2021-10-05,2021-11-18,16,80
+34788600,10.1016/j.immuni.2021.10.019,Immunity,Immunizations with diverse sarbecovirus receptor-binding domains elicit SARS-CoV-2 neutral,2021-05-19,2021-10-22,2021-11-18,39,67
+34788599,10.1016/j.immuni.2021.10.017,Immunity,Vaccination in a humanized mouse model elicits highly protective PfCSP-targeting anti-mala,2021-02-10,2021-10-20,2021-11-18,33,55
+34788598,10.1016/j.immuni.2021.10.015,Immunity,A non-classical monocyte-derived macrophage subset provides a splenic replication niche fo,2021-01-26,2021-10-18,2021-11-18,9,63
+34687607,10.1016/j.immuni.2021.09.021,Immunity,Nitric oxide controls proliferation of Leishmania major by inhibiting the recruitment of p,2020-12-03,2021-09-28,2021-10-24,26,69
+34644536,10.1016/j.immuni.2021.09.018,Immunity,Costimulation molecules differentially regulate the ERK-Zfp831 axis to shape T follicular ,2020-12-24,2021-09-20,2021-10-14,8,0
+34626548,10.1016/j.immuni.2021.09.016,Immunity,Early developing B cells undergo negative selection by central nervous system-specific ant,2021-06-14,2021-09-17,2021-10-10,7,0
+34614412,10.1016/j.immuni.2021.09.011,Immunity,mRNA vaccination of naive and COVID-19-recovered individuals elicits potent memory B cells,2021-06-17,2021-09-14,2021-10-07,30,63
+34758338,10.1016/j.immuni.2021.10.006,Immunity,Prenatal interleukin 6 elevation increases glutamatergic synapse density and disrupts hipp,2020-02-18,2021-10-07,2021-11-11,18,174
+34717796,10.1016/j.immuni.2021.10.009,Immunity,Plasmacytoid dendritic cell activation is dependent on coordinated expression of distinct ,2020-08-29,2021-10-12,2021-11-01,17,0
+34717795,10.1016/j.immuni.2021.10.007,Immunity,Resident macrophage-dependent immune cell scaffolds drive anti-bacterial defense in the pe,2021-04-20,2021-10-11,2021-11-01,12,0
+34715018,10.1016/j.immuni.2021.10.004,Immunity,APOL1 risk variants in individuals of African genetic ancestry drive endothelial cell defe,2021-02-26,2021-10-06,2021-10-30,18,58
+34715017,10.1016/j.immuni.2021.10.002,Immunity,Commensal Cryptosporidium colonization elicits a cDC1-dependent Th1 response that promotes,2020-08-04,2021-10-05,2021-10-30,20,97
+34706222,10.1016/j.immuni.2021.10.001,Immunity,DNA methylation signatures reveal that distinct combinations of transcription factors spec,2020-12-10,2021-09-30,2021-10-28,30,55
+34644537,10.1016/j.immuni.2021.09.010,Immunity,IL-33-induced metabolic reprogramming controls the differentiation of alternatively activa,2020-05-24,2021-09-15,2021-10-14,26,52
+34592166,10.1016/j.immuni.2021.09.002,Immunity,Early IFN-α signatures and persistent dysfunction are distinguishing features of NK cells ,2021-02-19,2021-08-31,2021-10-01,49,105
+34582747,10.1016/j.immuni.2021.08.014,Immunity,Cognate recognition of microbial antigens defines constricted CD4+ T cell receptor reperto,2021-01-17,2021-08-12,2021-09-29,11,0
+34562377,10.1016/j.immuni.2021.09.003,Immunity,Brief homogeneous TCR signals instruct common iNKT progenitors whose effector diversificat,2020-07-27,2021-09-02,2021-09-26,17,0
+34534438,10.1016/j.immuni.2021.08.020,Immunity,Antigen and checkpoint receptor engagement recalibrates T cell receptor signal strength.,2021-03-04,2021-08-17,2021-09-18,9,61
+34506733,10.1016/j.immuni.2021.08.009,Immunity,Candida albicans elicits protective allergic responses via platelet mediated T helper 2 an,2021-01-25,2021-08-10,2021-09-11,18,77
+34644558,10.1016/j.immuni.2021.09.004,Immunity,The cholesterol metabolite 25-hydroxycholesterol restrains the transcriptional regulator S,2020-12-14,2021-09-08,2021-10-14,7,53
+34644557,10.1016/j.immuni.2021.09.008,Immunity,Ordered assembly of the cytosolic RNA-sensing MDA5-MAVS signaling complex via binding to u,2021-01-03,2021-09-14,2021-10-14,14,0
+34614413,10.1016/j.immuni.2021.09.005,Immunity,Inhibition of the BTK-IDO-mTOR axis promotes differentiation of monocyte-lineage dendritic,2020-09-08,2021-09-09,2021-10-07,19,68
+34582748,10.1016/j.immuni.2021.09.001,Immunity,Disruption of the endopeptidase ADAM10-Notch signaling axis leads to skin dysbiosis and in,2021-02-16,2021-08-31,2021-09-29,15,70
+34555337,10.1016/j.immuni.2021.08.027,Immunity,Inhibition of viral suppressor of RNAi proteins by designer peptides protects from enterov,2020-05-26,2021-08-23,2021-09-24,17,0
+34555336,10.1016/j.immuni.2021.08.028,Immunity,Follicular dendritic cells restrict interleukin-4 availability in germinal centers and fos,2020-04-19,2021-08-27,2021-09-24,10,92
+34551314,10.1016/j.immuni.2021.08.029,Immunity,A Cre-driven allele-conditioning line to interrogate CD4+ conventional T cells.,2020-10-06,2021-08-30,2021-09-23,12,0
+34534439,10.1016/j.immuni.2021.08.026,Immunity,Conventional type I dendritic cells maintain a reservoir of proliferative tumor-antigen sp,2020-09-28,2021-08-20,2021-09-18,22,52
+34508662,10.1016/j.immuni.2021.08.025,Immunity,A SARS-CoV-2 antibody broadly neutralizes SARS-related coronaviruses and variants by coord,2021-03-24,2021-08-19,2021-09-12,35,76
+34508661,10.1016/j.immuni.2021.08.012,Immunity,Distinct human Langerhans cell subsets orchestrate reciprocal functions and require differ,2020-12-18,2021-08-11,2021-09-12,11,0
+34496223,10.1016/j.immuni.2021.08.007,Immunity,Functional impairment of HIV-specific CD8+ T cells precedes aborted spontaneous control of,2021-04-20,2021-08-09,2021-09-09,20,88
+34481543,10.1016/j.immuni.2021.08.016,Immunity,A potently neutralizing SARS-CoV-2 antibody inhibits variants of concern by utilizing uniq,2021-05-03,2021-08-13,2021-09-06,25,84
+34464595,10.1016/j.immuni.2021.08.003,Immunity,BCL6 controls contact-dependent help delivery during follicular T-B cell interactions.,2020-04-12,2021-08-04,2021-09-01,8,61
+34453879,10.1016/j.immuni.2021.07.019,Immunity,An in vitro platform supports generation of human innate lymphoid cells from CD34+ hematop,2019-12-13,2021-07-29,2021-08-29,8,0
+34437840,10.1016/j.immuni.2021.08.002,Immunity,Fate mapping of single NK cells identifies a type 1 innate lymphoid-like lineage that brid,2020-12-24,2021-08-03,2021-08-27,21,48
+34525340,10.1016/j.immuni.2021.08.019,Immunity,Resident memory CD8+ T cells in regional lymph nodes mediate immunity to metastatic melano,2020-07-09,2021-08-16,2021-09-16,24,74
+34525339,10.1016/j.immuni.2021.08.017,Immunity,Limited access to antigen drives generation of early B cell memory while restraining the p,2020-11-15,2021-07-07,2021-09-16,18,84
+34525338,10.1016/j.immuni.2021.08.022,Immunity,Mutations in the adenosine deaminase ADAR1 that prevent endogenous Z-RNA binding induce Ai,2020-12-22,2021-08-18,2021-09-16,9,0
+34525337,10.1016/j.immuni.2021.08.011,Immunity,Adenosine-to-inosine editing of endogenous Z-form RNA by the deaminase ADAR1 prevents spon,2020-12-04,2021-08-11,2021-09-16,10,100
+34473957,10.1016/j.immuni.2021.08.005,Immunity,Sepsis expands a CD39+ plasmablast population that promotes immunosuppression via adenosin,2020-08-05,2021-08-06,2021-09-03,27,0
+34469775,10.1016/j.immuni.2021.08.006,Immunity,A subset of Kupffer cells regulates metabolism through the expression of CD36.,2020-12-04,2021-08-09,2021-09-02,44,0
+34469774,10.1016/j.immuni.2021.05.005,Immunity,Identification of a Kupffer cell subset capable of reverting the T cell dysfunction induce,2020-12-04,2021-05-05,2021-09-02,23,53
+34464596,10.1016/j.immuni.2021.08.013,Immunity,A vaccine-induced public antibody protects against SARS-CoV-2 and emerging variants.,2021-03-30,2021-08-11,2021-09-01,29,69
+34453881,10.1016/j.immuni.2021.08.015,Immunity,Live imaging of SARS-CoV-2 infection in mice reveals that neutralizing antibodies require ,2021-03-23,2021-08-11,2021-08-29,33,87
+34453880,10.1016/j.immuni.2021.08.001,Immunity,Rapid induction of antigen-specific CD4+ T cells is associated with coordinated humoral an,2021-04-22,2021-08-02,2021-08-29,32,51
+34407391,10.1016/j.immuni.2021.06.008,Immunity,The chemokine CCL1 triggers an AMFR-SPRY1 pathway that promotes differentiation of lung fi,2020-08-28,2021-06-11,2021-08-19,17,0
+34363750,10.1016/j.immuni.2021.07.012,Immunity,Autophagy modulates endothelial junctions to restrain neutrophil diapedesis during inflamm,2020-08-19,2021-07-13,2021-08-08,25,79
+34363749,10.1016/j.immuni.2021.07.006,Immunity,Selective loss of resident macrophage-derived insulin-like growth factor-1 abolishes adapt,2020-05-25,2021-07-09,2021-08-08,15,47
+34343497,10.1016/j.immuni.2021.07.001,Immunity,Protein kinase R and the integrated stress response drive immunopathology caused by mutati,2020-12-07,2021-06-30,2021-08-04,6,58
+34320366,10.1016/j.immuni.2021.07.003,Immunity,Resident cardiac macrophages mediate adaptive myocardial remodeling.,2021-05-20,2021-07-07,2021-07-29,30,77
+34380064,10.1016/j.immuni.2021.07.009,Immunity,Mutations in the transcription factor FOXO1 mimic positive selection signals to promote ge,2020-02-06,2021-07-13,2021-08-12,9,113
+34348118,10.1016/j.immuni.2021.07.005,Immunity,Environmental enteric dysfunction induces regulatory T cells that inhibit local CD4+ T cel,2020-05-18,2021-07-09,2021-08-05,14,99
+34343498,10.1016/j.immuni.2021.07.004,Immunity,Multiomics analyses reveal a critical role of selenium in controlling T cell differentiati,2021-02-25,2021-07-07,2021-08-04,15,0
+34331874,10.1016/j.immuni.2021.07.007,Immunity,Cross-tissue single-cell landscape of human monocytes and macrophages in health and diseas,2020-10-06,2021-07-12,2021-08-01,32,0
+34331873,10.1016/j.immuni.2021.07.008,Immunity,"Affinity maturation of SARS-CoV-2 neutralizing antibodies confers potency, breadth, and re",2021-03-15,2021-07-12,2021-08-01,28,83
+34289378,10.1016/j.immuni.2021.07.002,Immunity,β2-microglobulin triggers NLRP3 inflammasome activation in tumor-associated macrophages to,2021-01-20,2021-06-30,2021-07-22,25,0
+34283971,10.1016/j.immuni.2021.06.014,Immunity,Pannexin 1 channels facilitate communication between T cells to restrict the severity of a,2021-01-25,2021-06-21,2021-07-21,11,49
+34270940,10.1016/j.immuni.2021.06.013,Immunity,Non-terminally exhausted tumor-resident memory HBV-specific T cell responses correlate wit,2020-12-28,2021-06-18,2021-07-17,25,0
+34270939,10.1016/j.immuni.2021.06.018,Immunity,COVID-19 vaccine mRNA-1273 elicits a protective immune profile in mice that is not associa,2021-02-18,2021-06-25,2021-07-17,25,64
+34256013,10.1016/j.immuni.2021.06.009,Immunity,Macrophage and neutrophil death programs differentially confer resistance to tuberculosis.,2020-04-24,2021-06-14,2021-07-14,14,0
+34246326,10.1016/j.immuni.2021.06.015,Immunity,Temporal maturation of neutralizing antibodies in COVID-19 convalescent individuals improv,2021-04-16,2021-06-18,2021-07-12,33,55
+34233154,10.1016/j.immuni.2021.06.007,Immunity,Transforming growth factor-β-regulated mTOR activity preserves cellular metabolism to main,2020-07-22,2021-06-09,2021-07-08,12,0
+34166622,10.1016/j.immuni.2021.05.019,Immunity,Follicular lymphoma triggers phenotypic and functional remodeling of the human lymphoid st,2020-09-25,2021-05-27,2021-06-25,21,0
+34129840,10.1016/j.immuni.2021.05.016,Immunity,A PGE2-MEF2A axis enables context-dependent control of inflammatory gene expression.,2020-08-11,2021-05-19,2021-06-16,17,99
+34107298,10.1016/j.immuni.2021.05.017,Immunity,Microbiota-derived acetate activates intestinal innate immunity via the Tip60 histone acet,2020-03-11,2021-05-24,2021-06-10,3,80
+34260887,10.1016/j.immuni.2021.06.012,Immunity,Homeostatic functions of monocytes and interstitial lung macrophages are regulated via col,2020-03-10,2021-06-14,2021-07-15,20,0
+34216564,10.1016/j.immuni.2021.06.001,Immunity,Structural basis for the constitutive activity and immunomodulatory properties of the Epst,2020-08-19,2021-06-01,2021-07-04,11,71
+34174183,10.1016/j.immuni.2021.06.002,Immunity,Deep spatial profiling of human COVID-19 brains reveals neuroinflammation with distinct mi,2020-12-24,2021-06-03,2021-06-27,26,33
+34166623,10.1016/j.immuni.2021.06.003,Immunity,Analysis of SARS-CoV-2 variant mutations reveals neutralization escape mechanisms and the ,2021-03-13,2021-06-04,2021-06-25,20,69
+34115964,10.1016/j.immuni.2021.05.004,Immunity,Metformin inhibition of mitochondrial ATP and DNA synthesis abrogates NLRP3 inflammasome a,2020-10-01,2021-05-05,2021-06-12,20,94
+34102100,10.1016/j.immuni.2021.05.003,Immunity,Uptake of oxidized lipids by the scavenger receptor CD36 promotes lipid peroxidation and d,2020-08-21,2021-05-04,2021-06-09,28,87
+34062116,10.1016/j.immuni.2021.04.026,Immunity,Megakaryocyte production is sustained by direct differentiation from erythromyeloid progen,2020-11-03,2021-04-28,2021-06-02,6,48
+34051147,10.1016/j.immuni.2021.05.002,Immunity,Distinct immunological signatures discriminate severe COVID-19 from non-SARS-CoV-2-driven ,2020-12-17,2021-05-04,2021-05-30,26,86
+34033752,10.1016/j.immuni.2021.04.025,Immunity,Age-related changes in the local milieu of inflamed tissues cause aberrant neutrophil traf,2020-10-09,2021-04-27,2021-05-26,23,60
+34019797,10.1016/j.immuni.2021.04.024,Immunity,Dipeptidyl peptidase 9 sets a threshold for CARD8 inflammasome formation by sequestering i,2020-11-28,2021-04-26,2021-05-22,7,63
+34015257,10.1016/j.immuni.2021.04.020,Immunity,Viral infection of the ovaries compromises pregnancy and reveals innate immune mechanisms ,2020-09-20,2021-04-16,2021-05-21,14,0
+34015256,10.1016/j.immuni.2021.04.022,Immunity,Treg cell-derived osteopontin promotes microglia-mediated white matter repair after ischem,2020-08-25,2021-04-20,2021-05-21,18,76
+34004142,10.1016/j.immuni.2021.04.015,Immunity,Differential usage of transcriptional repressor Zeb2 enhancers distinguishes adult and emb,2021-01-18,2021-04-14,2021-05-19,23,90
+34004141,10.1016/j.immuni.2021.04.014,Immunity,Signals of pseudo-starvation unveil the amino acid transporter SLC7A11 as key determinant ,2020-06-15,2021-04-14,2021-05-19,28,0
+33979579,10.1016/j.immuni.2021.04.012,Immunity,Virus-mediated inactivation of anti-apoptotic Bcl-2 family members promotes Gasdermin-E-de,2020-06-01,2021-04-13,2021-05-13,6,80
+34107271,10.1016/j.immuni.2021.05.007,Immunity,GPR34-mediated sensing of lysophosphatidylserine released by apoptotic neutrophils activat,2019-11-12,2021-05-05,2021-06-10,9,0
+34051148,10.1016/j.immuni.2021.05.010,Immunity,Longitudinal analysis reveals that delayed bystander CD8+ T cell activation and early immu,2020-12-21,2021-05-11,2021-05-30,38,81
+34051146,10.1016/j.immuni.2021.05.008,Immunity,Dysbiosis exacerbates colitis by promoting ubiquitination and accumulation of the innate i,2020-08-25,2021-05-10,2021-05-30,17,65
+34048708,10.1016/j.immuni.2021.05.006,Immunity,SARS-CoV-2 exacerbates proinflammatory responses in myeloid cells through C-type lectin re,2020-10-14,2021-05-05,2021-05-29,50,93
+34038747,10.1016/j.immuni.2021.04.027,Immunity,The zinc finger protein Miz1 suppresses liver tumorigenesis by restricting hepatocyte-driv,2020-02-27,2021-04-29,2021-05-27,16,0
+34022127,10.1016/j.immuni.2021.05.001,Immunity,Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to ,2021-02-17,2021-04-29,2021-05-23,32,65
+34004140,10.1016/j.immuni.2021.04.023,Immunity,Vaccination reshapes the virus-specific T cell repertoire in unexposed adults.,2020-09-20,2021-04-21,2021-05-19,15,50
+33979578,10.1016/j.immuni.2021.04.019,Immunity,The inhibitory receptor TIM-3 limits activation of the cGAS-STING pathway in intra-tumoral,2020-09-23,2021-04-16,2021-05-13,19,50
+33951416,10.1016/j.immuni.2021.04.001,Immunity,Uncoupling of macrophage inflammation from self-renewal modulates host recovery from respi,2020-07-31,2021-03-31,2021-05-06,30,76
+33945787,10.1016/j.immuni.2021.03.024,Immunity,Multi-tissue single-cell analysis deconstructs the complex programs of mouse natural kille,2020-09-06,2021-03-30,2021-05-05,13,75
+33915109,10.1016/j.immuni.2021.03.025,Immunity,Adrenergic regulation of the vasculature impairs leukocyte interstitial migration and supp,2019-12-04,2021-03-29,2021-04-30,12,0
+33915108,10.1016/j.immuni.2021.04.002,Immunity,Notch4 signaling limits regulatory T-cell-mediated tissue repair and promotes severe lung ,2020-10-21,2021-04-02,2021-04-30,33,64
+33862015,10.1016/j.immuni.2021.03.012,Immunity,Clonal multi-omics reveals Bcor as a negative regulator of emergency dendritic cell develo,2020-08-06,2021-03-17,2021-04-17,26,0
+33836142,10.1016/j.immuni.2021.03.023,Immunity,Neutralization potency of monoclonal antibodies recognizing dominant and subdominant epito,2021-02-03,2021-03-29,2021-04-10,29,86
+33979589,10.1016/j.immuni.2021.04.008,Immunity,Glycolytic ATP fuels phosphoinositide 3-kinase signaling to support effector T helper 17 c,2020-04-02,2021-04-12,2021-05-13,13,64
+33979588,10.1016/j.immuni.2021.04.011,Immunity,Six distinct NFκB signaling codons convey discrete information to distinguish stimuli and ,2020-06-01,2021-04-13,2021-05-13,6,75
+33951417,10.1016/j.immuni.2021.04.009,Immunity,CD8+ T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope display high n,2020-11-24,2021-04-12,2021-05-06,42,48
+33945786,10.1016/j.immuni.2021.04.006,Immunity,CD8+ T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope cross-react wi,2021-01-22,2021-04-09,2021-05-05,26,49
+33932356,10.1016/j.immuni.2021.04.007,Immunity,Optogenetic activation of local colonic sympathetic innervations attenuates colitis by lim,2020-05-12,2021-04-09,2021-05-02,10,95
+33930308,10.1016/j.immuni.2021.04.005,Immunity,"Distinct Foxp3 enhancer elements coordinate development, maintenance, and function of regu",2020-09-19,2021-04-08,2021-05-01,15,0
+33891889,10.1016/j.immuni.2021.04.003,Immunity,Immune dysregulation and autoreactivity correlate with disease severity in SARS-CoV-2-asso,2020-11-20,2021-04-07,2021-04-24,32,60
+33857421,10.1016/j.immuni.2021.03.013,Immunity,Positive selection of IgG+ over IgM+ B cells in the germinal center reaction.,2020-09-21,2021-03-17,2021-04-16,12,0
+33857420,10.1016/j.immuni.2021.03.011,Immunity,Golgi apparatus-synthesized sulfated glycosaminoglycans mediate polymerization and activat,2020-11-16,2021-03-16,2021-04-16,7,0
+33838102,10.1016/j.immuni.2021.03.020,Immunity,A distal Foxp3 enhancer enables interleukin-2 dependent thymic Treg cell lineage commitmen,2020-08-11,2021-03-19,2021-04-11,13,98
+33761330,10.1016/j.immuni.2021.03.003,Immunity,The complement system drives local inflammatory tissue priming by metabolic reprogramming ,2020-04-23,2021-03-05,2021-03-25,50,0
+33756102,10.1016/j.immuni.2021.02.020,Immunity,Cytotoxic lymphocytes target characteristic biophysical vulnerabilities in cancer.,2020-03-31,2021-02-25,2021-03-24,15,112
+33852832,10.1016/j.immuni.2021.03.009,Immunity,A Fc engineering approach to define functional humoral correlates of immunity against Ebol,2020-05-05,2021-03-16,2021-04-15,25,69
+33852831,10.1016/j.immuni.2021.03.018,Immunity,Interleukin-17D regulates group 3 innate lymphoid cell function through its receptor CD93.,2020-10-07,2021-03-19,2021-04-15,14,0
+33852830,10.1016/j.immuni.2021.03.008,Immunity,The tissue protective functions of interleukin-22 can be decoupled from pro-inflammatory a,2020-11-03,2021-03-12,2021-04-15,7,73
+33823129,10.1016/j.immuni.2021.03.004,Immunity,Vaccination with prefusion-stabilized respiratory syncytial virus fusion protein induces g,2020-10-09,2021-03-05,2021-04-07,35,53
+33789089,10.1016/j.immuni.2021.03.007,Immunity,Single-cell chromatin accessibility landscape identifies tissue repair program in human re,2020-08-14,2021-03-10,2021-04-01,29,72
+33773107,10.1016/j.immuni.2021.03.006,Immunity,Two sequential activation modules control the differentiation of protective T helper-1 (Th,2020-05-01,2021-03-08,2021-03-28,8,82
+33765436,10.1016/j.immuni.2021.03.005,Immunity,Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-d,2020-10-12,2021-03-05,2021-03-26,24,87
+33765435,10.1016/j.immuni.2021.03.002,Immunity,Multi-cohort analysis of host immune response identifies conserved protective and detrimen,2020-09-23,2021-03-01,2021-03-26,17,86
+33740418,10.1016/j.immuni.2021.03.001,Immunity,Atypical acute myeloid leukemia-specific transcripts generate shared and immunogenic MHC c,2020-05-23,2021-02-26,2021-03-20,22,0
+33725478,10.1016/j.immuni.2021.02.019,Immunity,Pleiotropic consequences of metabolic stress for the major histocompatibility complex clas,2020-09-09,2021-02-24,2021-03-17,19,88
+33705706,10.1016/j.immuni.2021.02.018,Immunity,Single-cell analysis by mass cytometry reveals metabolic states of early-activated CD8+ T ,2020-06-09,2021-02-17,2021-03-12,11,73
+33675683,10.1016/j.immuni.2021.02.013,Immunity,Functional convergence of a germline-encoded neutralizing antibody response in rhesus maca,2020-06-29,2021-02-10,2021-03-07,20,75
+33667383,10.1016/j.immuni.2021.02.004,Immunity,Post-injury immunosuppression and secondary infections are caused by an AIM2 inflammasome-,2020-07-27,2021-02-08,2021-03-06,21,0
+33667382,10.1016/j.immuni.2021.02.003,Immunity,Cytoplasmic DNA sensing by KU complex in aged CD4+ T cell potentiates T cell activation an,2020-08-08,2021-02-08,2021-03-06,20,0
+33691136,10.1016/j.immuni.2021.02.014,Immunity,Global analysis of shared T cell specificities in human non-small cell lung cancer enables,2020-07-17,2021-02-11,2021-03-11,40,75
+33691135,10.1016/j.immuni.2021.02.002,Immunity,Interleukin-6 produced by enteric neurons regulates the number and phenotype of microbe-re,2020-01-30,2021-02-05,2021-03-11,14,76
+33657395,10.1016/j.immuni.2021.02.015,Immunity,MicroRNA-221 and -222 modulate intestinal inflammatory Th17 cell response as negative feed,2020-07-15,2021-02-12,2021-03-04,18,60
+33631118,10.1016/j.immuni.2021.02.001,Immunity,A modified vaccinia Ankara vector-based vaccine protects macaques from SARS-CoV-2 infectio,2020-10-23,2021-01-29,2021-02-26,32,69
+33581044,10.1016/j.immuni.2021.01.004,Immunity,Dectin-1 limits autoimmune neuroinflammation and promotes myeloid cell-astrocyte crosstalk,2019-05-26,2021-01-12,2021-02-14,9,86
+33577760,10.1016/j.immuni.2021.01.017,Immunity,Leveraging the antiviral type I interferon system as a first line of defense against SARS-,2020-09-18,2021-01-25,2021-02-13,13,75
+33561388,10.1016/j.immuni.2021.01.007,Immunity,Heparin prevents caspase-11-dependent septic lethality independent of anticoagulant proper,2019-12-04,2021-01-13,2021-02-10,17,0
+33515487,10.1016/j.immuni.2021.01.003,Immunity,Early innate and adaptive immune perturbations determine long-term severity of chronic vir,2020-04-23,2021-01-11,2021-01-31,13,79
+33497609,10.1016/j.immuni.2021.01.001,Immunity,In vivo screens using a selective CRISPR antigen removal lentiviral vector system reveal i,2020-05-14,2020-12-30,2021-01-27,20,0
+33484643,10.1016/j.immuni.2020.12.017,Immunity,Directional mast cell degranulation of tumor necrosis factor into blood vessels primes neu,2020-06-26,2020-12-23,2021-01-24,19,0
+33567262,10.1016/j.immuni.2021.01.011,Immunity,Germline genetic contribution to the immune landscape of cancer.,2020-01-20,2021-01-13,2021-02-11,26,113
+33567252,10.1016/j.immuni.2021.01.008,Immunity,COVID-19 immune signatures reveal stable antiviral T cell function despite declining humor,2020-07-20,2021-01-13,2021-02-11,25,61
+33484642,10.1016/j.immuni.2020.12.018,Immunity,Rhesus and cynomolgus macaque immunoglobulin heavy-chain genotyping yields comprehensive d,2020-06-29,2020-12-30,2021-01-24,10,0
+33476547,10.1016/j.immuni.2020.12.016,Immunity,Microglial activation elicits a negative affective state through prostaglandin-mediated mo,2019-04-24,2020-12-21,2021-01-22,14,0
+33453152,10.1016/j.immuni.2020.12.014,Immunity,Vaccination induces maturation in a mouse model of diverse unmutated VRC01-class precursor,2020-08-03,2020-12-17,2021-01-17,19,48
+33450188,10.1016/j.immuni.2020.12.013,Immunity,Induction of IL-10-producing type 2 innate lymphoid cells by allergen immunotherapy is ass,2020-05-07,2020-12-17,2021-01-16,22,0
+33444549,10.1016/j.immuni.2020.11.020,Immunity,A class of viral inducer of degradation of the necroptosis adaptor RIPK3 regulates virus-i,2020-02-12,2020-11-23,2021-01-15,7,36
+33434494,10.1016/j.immuni.2020.12.004,Immunity,Group 1 innate lymphoid-cell-derived interferon-γ maintains anti-viral vigilance in the mu,2020-03-11,2020-12-08,2021-01-13,9,62
+33421362,10.1016/j.immuni.2020.12.010,Immunity,The TGF-β superfamily cytokine Activin-A is induced during autoimmune neuroinflammation an,2020-07-13,2020-12-16,2021-01-10,11,59
+33382972,10.1016/j.immuni.2020.12.003,Immunity,Distinct developmental pathways from blood monocytes generate human lung macrophage divers,2020-05-18,2020-12-08,2021-01-01,18,0
+33357409,10.1016/j.immuni.2020.12.001,Immunity,The persistence of interleukin-6 is regulated by a blood buffer system derived from dendri,2020-04-06,2020-12-02,2020-12-29,11,96
+33382973,10.1016/j.immuni.2020.12.011,Immunity,Neurological Manifestations of COVID-19 Feature T Cell Exhaustion and Dedifferentiated Mon,2020-10-28,2020-12-15,2021-01-01,18,85
+33338412,10.1016/j.immuni.2020.12.002,Immunity,"PD-1-Expressing SARS-CoV-2-Specific CD8+ T Cells Are Not Exhausted, but Functional in Pati",2020-08-24,2020-12-03,2020-12-19,25,28
+33333014,10.1016/j.immuni.2020.11.007,Immunity,A Binary Cre Transgenic Approach Dissects Microglia and CNS Border-Associated Macrophages.,2020-06-10,2020-11-16,2020-12-18,15,0
+33271120,10.1016/j.immuni.2020.11.002,Immunity,Genome-wide Screens Identify Lineage- and Tumor-Specific Genes Modulating MHC-I- and MHC-I,2020-04-19,2020-11-06,2020-12-04,19,87
+33271119,10.1016/j.immuni.2020.11.003,Immunity,The SPPL3-Defined Glycosphingolipid Repertoire Orchestrates HLA Class I-Mediated Immune Re,2020-04-19,2020-11-06,2020-12-04,28,124
+33271118,10.1016/j.immuni.2020.11.005,Immunity,Comprehensive Profiling of an Aging Immune System Reveals Clonal GZMK+ CD8+ T Cells as Con,2020-03-03,2020-11-10,2020-12-04,18,0
+33238133,10.1016/j.immuni.2020.11.001,Immunity,Ribosome-Targeting Antibiotics Impair T Cell Effector Function and Ameliorate Autoimmunity,2019-11-10,2020-11-03,2020-11-26,17,82
+33220232,10.1016/j.immuni.2020.10.014,Immunity,Interleukin-33 Promotes Serotonin Release from Enterochromaffin Cells for Intestinal Homeo,2020-06-07,2020-10-20,2020-11-22,13,65
+33212014,10.1016/j.immuni.2020.10.022,Immunity,Competition for Active TGFβ Cytokine Allows for Selective Retention of Antigen-Specific Ti,2020-06-30,2020-10-28,2020-11-20,15,50
+33058782,10.1016/j.immuni.2020.09.011,Immunity,Tetracycline Antibiotics Induce Host-Dependent Disease Tolerance to Infection.,2019-11-10,2020-09-16,2020-10-16,15,57
+36580919,10.1016/j.immuni.2022.12.007,Immunity,Small intestine and colon tissue-resident memory CD8+ T cells exhibit molecular heterogene,2022-05-29,2022-12-07,2022-12-30,21,66
+36580918,10.1016/j.immuni.2022.12.002,Immunity,CD8+ T cell activation in cancer comprises an initial activation phase in lymph nodes foll,2022-04-23,2022-12-05,2022-12-30,18,82
+36574773,10.1016/j.immuni.2022.12.001,Immunity,The ectonucleotidase CD39 identifies tumor-reactive CD8+ T cells predictive of immune chec,2022-01-05,2022-12-02,2022-12-28,41,59
+36574772,10.1016/j.immuni.2022.12.005,Immunity,Immunoglobulin germline gene polymorphisms influence the function of SARS-CoV-2 neutralizi,2022-05-28,2022-12-07,2022-12-28,17,72
+36563676,10.1016/j.immuni.2022.11.014,Immunity,Immune checkpoint therapy-elicited sialylation of IgG antibodies impairs antitumorigenic t,2022-04-01,2022-11-28,2022-12-24,16,0
+36521495,10.1016/j.immuni.2022.11.013,Immunity,Prolonged hypernutrition impairs TREM2-dependent efferocytosis to license chronic liver in,2022-04-26,2022-11-22,2022-12-16,21,107
+36473469,10.1016/j.immuni.2022.11.004,Immunity,Allergenic food protein consumption is associated with systemic IgG antibody responses in ,2021-12-07,2022-11-09,2022-12-07,6,87
+36473468,10.1016/j.immuni.2022.11.003,Immunity,Gut microbiota promotes stem cell differentiation through macrophage and mesenchymal niche,2022-06-08,2022-11-09,2022-12-07,15,0
+36462503,10.1016/j.immuni.2022.11.007,Immunity,Functional proteomic profiling links deficient DNA clearance with increased mortality in i,2022-02-15,2022-11-15,2022-12-04,22,65
+36462502,10.1016/j.immuni.2022.11.002,Immunity,B cell expansion hinders the stroma-epithelium regenerative cross talk during mucosal heal,2021-10-06,2022-10-26,2022-12-04,28,0
+36446385,10.1016/j.immuni.2022.11.001,Immunity,STAT3 gain-of-function mutations connect leukemia with autoimmune disease by pathological ,2022-03-21,2022-11-03,2022-11-30,31,0
+36384135,10.1016/j.immuni.2022.10.021,Immunity,IKKβ primes inflammasome formation by recruiting NLRP3 to the trans-Golgi network.,2022-02-14,2022-10-26,2022-11-18,20,53
+36379210,10.1016/j.immuni.2022.10.018,Immunity,Neuronal signal-regulatory protein alpha drives microglial phagocytosis by limiting microg,2022-04-07,2022-10-21,2022-11-16,9,101
+36370712,10.1016/j.immuni.2022.10.020,Immunity,The transcription factor IRF2 drives interferon-mediated CD8+ T cell exhaustion to restric,2022-02-03,2022-10-24,2022-11-13,20,92
+36370711,10.1016/j.immuni.2022.10.019,Immunity,Neutralizing monoclonal antibodies elicited by mosaic RBD nanoparticles bind conserved sar,2022-07-04,2022-10-24,2022-11-13,14,68
+36356572,10.1016/j.immuni.2022.10.015,Immunity,Co-immunization with hemagglutinin stem immunogens elicits cross-group neutralizing antibo,2022-03-07,2022-10-17,2022-11-11,28,81
+36272417,10.1016/j.immuni.2022.09.016,Immunity,Interleukin-33-activated neuropeptide CGRP-producing memory Th2 cells cooperate with somat,2022-05-22,2022-09-28,2022-10-23,12,0
+36272416,10.1016/j.immuni.2022.10.001,Immunity,"Neutrophil ""plucking"" on megakaryocytes drives platelet production and boosts cardiovascul",2022-03-02,2022-10-03,2022-10-23,32,48
+36351376,10.1016/j.immuni.2022.10.008,Immunity,Single-cell transcriptome analysis of the in vivo response to viral infection in the cave ,2020-12-08,2022-10-12,2022-11-10,16,0
+36351375,10.1016/j.immuni.2022.09.014,Immunity,Expansion of T memory stem cells with superior anti-tumor immunity by Urolithin A-induced ,2022-03-01,2022-09-23,2022-11-10,16,0
+36323312,10.1016/j.immuni.2022.10.004,Immunity,The epigenetic state of IL-4-polarized macrophages enables inflammatory cistromic expansio,2021-08-22,2022-10-06,2022-11-03,20,79
+36323311,10.1016/j.immuni.2022.10.005,Immunity,Meningeal macrophages protect against viral neuroinfection.,2021-12-08,2022-10-07,2022-11-03,23,62
+36306784,10.1016/j.immuni.2022.10.003,Immunity,Epstein-Barr virus gH/gL has multiple sites of vulnerability for virus neutralization and ,2021-09-04,2022-10-06,2022-10-29,21,43
+36288724,10.1016/j.immuni.2022.10.002,Immunity,Tumor-associated macrophages expressing the transcription factor IRF8 promote T cell exhau,2020-03-09,2022-10-03,2022-10-27,22,66
+36243008,10.1016/j.immuni.2022.09.007,Immunity,Excessive negative regulation of type I interferon disrupts viral control in individuals w,2022-03-13,2022-09-12,2022-10-16,6,45
+36243007,10.1016/j.immuni.2022.09.013,Immunity,Transcription factor RORα enforces stability of the Th17 cell effector program by binding ,2022-06-10,2022-09-20,2022-10-16,8,69
+36228615,10.1016/j.immuni.2022.09.005,Immunity,Differential plasticity and fate of brain-resident and recruited macrophages during the on,2021-12-08,2022-09-07,2022-10-14,20,0
+36179690,10.1016/j.immuni.2022.09.003,Immunity,Membrane-bound mRNA immunogens lower the threshold to activate HIV Env V2 apex-directed br,2022-01-13,2022-09-02,2022-10-01,24,91
+36179689,10.1016/j.immuni.2022.09.001,Immunity,Human immunoglobulin repertoire analysis guides design of vaccine priming immunogens targe,2022-01-12,2022-08-31,2022-10-01,30,102
+36137543,10.1016/j.immuni.2022.08.017,Immunity,Mucosal plasma cells are required to protect the upper airway and brain from infection.,2022-03-31,2022-08-24,2022-09-23,9,132
+36223726,10.1016/j.immuni.2022.09.002,Immunity,Spatial maps of T cell receptors and transcriptomes reveal distinct immune niches and inte,2021-10-21,2022-08-31,2022-10-13,16,57
+36174557,10.1016/j.immuni.2022.09.004,Immunity,High-throughput T cell receptor engineering by functional screening identifies candidates ,2022-05-15,2022-09-02,2022-09-30,14,0
+36130603,10.1016/j.immuni.2022.08.019,Immunity,Human anti-smallpox long-lived memory B cells are defined by dynamic interactions in the s,2022-04-01,2022-08-26,2022-09-22,20,110
+36115338,10.1016/j.immuni.2022.08.016,Immunity,The CD4+ T cell response to a commensal-derived epitope transitions from a tolerant to an ,2022-02-11,2022-08-24,2022-09-18,11,90
+36115337,10.1016/j.immuni.2022.08.018,Immunity,A self-sustaining layer of early-life-origin B cells drives steady-state IgA responses in ,2021-09-08,2022-08-24,2022-09-18,17,0
+36108634,10.1016/j.immuni.2022.08.004,Immunity,"Lineage tracing reveals B cell antibody class switching is stochastic, cell-autonomous, an",2022-03-04,2022-08-09,2022-09-16,9,0
+36070769,10.1016/j.immuni.2022.08.006,Immunity,ABCC1 transporter exports the immunostimulatory cyclic dinucleotide cGAMP.,2022-05-11,2022-08-10,2022-09-08,4,75
+36044899,10.1016/j.immuni.2022.08.001,Immunity,Innate type 2 immunity controls hair follicle commensalism by Demodex mites.,2022-03-01,2022-08-02,2022-09-01,22,79
+36002023,10.1016/j.immuni.2022.07.019,Immunity,Lymphatic migration of unconventional T cells promotes site-specific immunity in distinct ,2022-02-04,2022-07-27,2022-08-25,19,0
+35987201,10.1016/j.immuni.2022.07.020,Immunity,Antibodies from primary humoral responses modulate the recruitment of naive B cells during,2022-05-18,2022-07-27,2022-08-21,28,98
+35985324,10.1016/j.immuni.2022.08.003,Immunity,The pre-exposure SARS-CoV-2-specific T cell repertoire determines the quality of the immun,2022-03-14,2022-08-08,2022-08-20,28,75
+36070768,10.1016/j.immuni.2022.08.007,Immunity,Induction of a colitogenic phenotype in Th1-like cells depends on interleukin-23 receptor ,2022-03-09,2022-08-11,2022-09-08,20,91
+36029766,10.1016/j.immuni.2022.07.022,Immunity,Renal NF-κB activation impairs uric acid homeostasis to promote tumor-associated mortality,2021-12-28,2022-07-29,2022-08-28,7,0
+35977543,10.1016/j.immuni.2022.07.014,Immunity,Apolipoprotein E4 impairs the response of neurodegenerative retinal microglia and prevents,2021-10-15,2022-07-18,2022-08-18,17,101
+35977542,10.1016/j.immuni.2022.07.015,Immunity,Vaccination with a structure-based stabilized version of malarial antigen Pfs48/45 elicits,2022-05-12,2022-07-18,2022-08-18,29,62
+35973428,10.1016/j.immuni.2022.07.018,Immunity,Antigenic cartography using sera from sequence-confirmed SARS-CoV-2 variants of concern in,2022-01-07,2022-07-26,2022-08-17,27,23
+35963236,10.1016/j.immuni.2022.07.007,Immunity,The matricellular protein SPARC induces inflammatory interferon-response in macrophages du,2021-09-13,2022-07-14,2022-08-14,7,84
+35961317,10.1016/j.immuni.2022.07.005,Immunity,Immunodeficiency syndromes differentially impact the functional profile of SARS-CoV-2-spec,2021-12-16,2022-07-13,2022-08-13,40,54
+35952670,10.1016/j.immuni.2022.07.006,Immunity,Allelic polymorphism controls autoreactivity and vaccine elicitation of human broadly neut,2021-10-19,2022-07-13,2022-08-12,13,105
+35944529,10.1016/j.immuni.2022.07.003,Immunity,Potently neutralizing and protective anti-human metapneumovirus antibodies target diverse ,2022-01-20,2022-07-06,2022-08-10,11,0
+35882236,10.1016/j.immuni.2022.06.021,Immunity,Keratinocyte-derived defensins activate neutrophil-specific receptors Mrgpra2a/b to preven,2021-07-06,2022-06-24,2022-07-27,20,104
+35931086,10.1016/j.immuni.2022.06.022,Immunity,DNA methyltransferase 3 alpha and TET methylcytosine dioxygenase 2 restrain mitochondrial ,2022-02-25,2022-06-28,2022-08-06,19,89
+35931085,10.1016/j.immuni.2022.07.004,Immunity,Dual ontogeny of disease-associated microglia and disease inflammatory macrophages in agin,2022-02-18,2022-07-07,2022-08-06,30,0
+35926508,10.1016/j.immuni.2022.07.002,Immunity,The transcription factor FoxP3 can fold into two dimerization states with divergent implic,2022-01-24,2022-07-06,2022-08-05,11,69
+35908547,10.1016/j.immuni.2022.07.001,Immunity,Lung fibroblasts facilitate pre-metastatic niche formation by remodeling the local immune ,2021-09-08,2022-07-06,2022-08-01,8,87
+35896116,10.1016/j.immuni.2022.06.020,Immunity,"Interleukin-21, acting beyond the immunological synapse, independently controls T follicul",2021-06-18,2022-06-24,2022-07-28,13,0
+35882235,10.1016/j.immuni.2022.06.019,Immunity,Transcription factors TCF-1 and GATA3 are key factors for the epigenetic priming of early ,2022-04-04,2022-06-23,2022-07-27,13,39
+35863346,10.1016/j.immuni.2022.06.018,Immunity,Microglia-derived PDGFB promotes neuronal potassium currents to suppress basal sympathetic,2021-10-18,2022-06-22,2022-07-22,19,0
+35835107,10.1016/j.immuni.2022.06.007,Immunity,Oxidized DNA fragments exit mitochondria via mPTP- and VDAC-dependent channels to activate,2022-01-24,2022-06-09,2022-07-15,10,73
+35830859,10.1016/j.immuni.2022.06.006,Immunity,"IRF8 deficiency induces the transcriptional, functional, and epigenetic reprogramming of c",2021-03-15,2022-06-07,2022-07-14,11,0
+35777362,10.1016/j.immuni.2022.06.005,Immunity,Atlas of currently available human neutralizing antibodies against SARS-CoV-2 and escape b,2022-04-03,2022-06-05,2022-07-02,27,41
+35779527,10.1016/j.immuni.2022.06.004,Immunity,Mass cytometry reveals a conserved immune trajectory of recovery in hospitalized COVID-19 ,2022-02-03,2022-06-02,2022-07-03,17,42
+35768001,10.1016/j.immuni.2022.06.002,Immunity,Viral infection engenders bona fide and bystander subsets of lung-resident memory B cells ,2021-09-10,2022-06-02,2022-06-30,13,50
+35750048,10.1016/j.immuni.2022.06.003,Immunity,SARS-CoV-2-specific T cell memory with common TCRαβ motifs is established in unvaccinated ,2021-10-29,2022-06-01,2022-06-25,33,60
+35738281,10.1016/j.immuni.2022.06.001,Immunity,Very-low-density lipoprotein receptor-enhanced lipid metabolism in pancreatic stellate cel,2021-10-26,2022-05-31,2022-06-24,12,0
+35709757,10.1016/j.immuni.2022.05.014,Immunity,Small intestinal resident eosinophils maintain gut homeostasis following microbial coloniz,2022-02-08,2022-05-18,2022-06-17,19,0
+35700740,10.1016/j.immuni.2022.05.010,Immunity,Genetic tracing reveals transcription factor Foxp3-dependent and Foxp3-independent functio,2021-09-06,2022-05-13,2022-06-15,12,67
+35700739,10.1016/j.immuni.2022.05.012,Immunity,Androgen receptor-mediated CD8+ T cell stemness programs drive sex differences in antitumo,2021-08-17,2022-05-17,2022-06-15,15,0
+35690062,10.1016/j.immuni.2022.05.018,Immunity,The magnitude and timing of recalled immunity after breakthrough infection is shaped by SA,2022-01-22,2022-05-23,2022-06-12,17,36
+35637103,10.1016/j.immuni.2022.05.003,Immunity,BCL6-dependent TCF-1+ progenitor cells maintain effector and helper CD4+ T cell responses ,2021-08-03,2022-05-04,2022-06-01,16,61
+35617965,10.1016/j.immuni.2022.05.001,Immunity,Newly recruited intraepithelial Ly6A+CCR9+CD4+ T cells protect against enteric viral infec,2021-09-06,2022-05-03,2022-05-27,7,61
+35704993,10.1016/j.immuni.2022.05.013,Immunity,"Indoleamine 2,3-dioxygenase 1 activation in mature cDC1 promotes tolerogenic education of ",2021-08-31,2022-05-17,2022-06-16,30,87
+35659337,10.1016/j.immuni.2022.04.017,Immunity,Leucine-tRNA-synthase-2-expressing B cells contribute to colorectal cancer immunoevasion.,2021-09-06,2022-04-29,2022-06-07,22,0
+35649416,10.1016/j.immuni.2022.05.002,Immunity,Phage display of environmental protein toxins and virulence factors reveals the prevalence,2021-09-03,2022-05-03,2022-06-02,27,77
+35617964,10.1016/j.immuni.2022.04.016,Immunity,Dendritic cells can prime anti-tumor CD8+ T cell responses through major histocompatibilit,2021-04-20,2022-04-28,2022-05-27,10,61
+35588739,10.1016/j.immuni.2022.04.015,Immunity,Activation of the transcription factor NRF2 mediates the anti-inflammatory properties of a,2021-12-23,2022-04-21,2022-05-20,10,98
+35483354,10.1016/j.immuni.2022.04.002,Immunity,Analysis of mRNA vaccination-elicited RBD-specific memory B cells reveals strong but incom,2021-12-21,2022-04-04,2022-04-29,31,37
+35447093,10.1016/j.immuni.2022.03.020,Immunity,Combined protein and nucleic acid imaging reveals virus-dependent B cell and macrophage im,2021-05-18,2022-03-25,2022-04-22,32,66
+35447092,10.1016/j.immuni.2022.04.003,Immunity,Analysis of memory B cells identifies conserved neutralizing epitopes on the N-terminal do,2022-01-27,2022-04-01,2022-04-22,29,82
+35397794,10.1016/j.immuni.2022.03.019,Immunity,A large-scale systematic survey reveals recurring molecular features of public antibody re,2021-11-26,2022-03-23,2022-04-11,6,84
+35320704,10.1016/j.immuni.2022.03.004,Immunity,Single-cell multiomics reveals persistence of HIV-1 in expanded cytotoxic T cell clones.,2021-10-25,2022-03-08,2022-03-24,15,94
+35545033,10.1016/j.immuni.2022.04.006,Immunity,The gut microbiota prime systemic antiviral immunity via the cGAS-STING-IFN-I axis.,2022-01-14,2022-04-08,2022-05-12,9,0
+35508166,10.1016/j.immuni.2022.04.005,Immunity,Colony stimulating factor-1 producing endothelial cells and mesenchymal stromal cells main,2020-04-28,2022-04-08,2022-05-05,25,0
+35483356,10.1016/j.immuni.2022.04.001,Immunity,Tissue remodeling by an opportunistic pathogen triggers allergic inflammation.,2021-04-21,2022-04-04,2022-04-29,11,105
+35483355,10.1016/j.immuni.2022.04.004,Immunity,Multimodal profiling of lung granulomas in macaques reveals cellular correlates of tubercu,2021-10-12,2022-04-07,2022-04-29,43,140
+35443157,10.1016/j.immuni.2022.03.018,Immunity,Concerted type I interferon signaling in microglia and neural cells promotes memory impair,2021-06-02,2022-03-23,2022-04-21,9,78
+35413245,10.1016/j.immuni.2022.03.013,Immunity,Binding of LAG-3 to stable peptide-MHC class II limits T cell function and suppresses auto,2021-03-01,2022-03-16,2022-04-13,12,0
+35417675,10.1016/j.immuni.2022.03.007,Immunity,The interferon-stimulated gene RIPK1 regulates cancer cell intrinsic and extrinsic resista,2021-03-26,2022-03-10,2022-04-14,14,69
+35385697,10.1016/j.immuni.2022.03.009,Immunity,Epithelial STAT6 O-GlcNAcylation drives a concerted anti-helminth alarmin response depende,2021-08-26,2022-03-14,2022-04-07,29,86
+35381213,10.1016/j.immuni.2022.03.005,Immunity,Differential regulation of transcription factor T-bet induction during NK cell development,2021-05-11,2022-03-08,2022-04-06,13,103
+35366396,10.1016/j.immuni.2022.03.006,Immunity,Type 1 conventional dendritic cells maintain and guide the differentiation of precursors o,2021-07-05,2022-03-10,2022-04-03,19,0
+35364006,10.1016/j.immuni.2022.03.008,Immunity,Microbiota-dependent activation of the myeloid calcineurin-NFAT pathway inhibits B7H3- and,2021-12-16,2022-03-11,2022-04-02,31,0
+35358427,10.1016/j.immuni.2022.03.002,Immunity,Fate mapping and scRNA sequencing reveal origin and diversity of lymph node stromal precur,2020-08-04,2022-03-03,2022-04-01,20,0
+35349789,10.1016/j.immuni.2022.03.003,Immunity,Secondary influenza challenge triggers resident memory B cell migration and rapid relocati,2021-09-09,2022-03-07,2022-03-30,15,79
+35320705,10.1016/j.immuni.2022.03.001,Immunity,Intestinal Tuft-2 cells exert antimicrobial immunity via sensing bacterial metabolite N-un,2021-05-17,2022-03-01,2022-03-24,11,0
+35263570,10.1016/j.immuni.2022.02.004,Immunity,Human epigenetic and transcriptional T cell differentiation atlas for identifying function,2021-05-17,2022-02-07,2022-03-10,22,105
+35263569,10.1016/j.immuni.2022.02.005,Immunity,Mechanistic convergence of the TIGIT and PD-1 inhibitory pathways necessitates co-blockade,2021-07-05,2022-02-07,2022-03-10,16,69
+35263568,10.1016/j.immuni.2022.02.003,Immunity,A nonredundant role for T cell-derived interleukin 22 in antibacterial defense of colonic ,2020-06-03,2022-02-04,2022-03-10,19,141
+35231421,10.1016/j.immuni.2022.02.001,Immunity,Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma c,2021-05-17,2022-02-02,2022-03-02,23,0
+35216666,10.1016/j.immuni.2022.01.018,Immunity,Tfh-cell-derived interleukin 21 sustains effector CD8+ T cell responses during chronic vir,2021-03-30,2022-01-27,2022-02-27,13,84
+35182483,10.1016/j.immuni.2022.01.013,Immunity,Bacterial infection disrupts established germinal center reactions through monocyte recrui,2021-06-02,2022-01-18,2022-02-20,19,0
+35180378,10.1016/j.immuni.2022.01.016,Immunity,Clonal lineage tracing reveals shared origin of conventional and plasmacytoid dendritic ce,2021-03-17,2022-01-24,2022-02-19,14,96
+35151371,10.1016/j.immuni.2022.01.017,Immunity,Immuno-proteomic profiling reveals aberrant immune cell regulation in the airways of indiv,2021-08-10,2022-01-21,2022-02-14,18,55
+35148827,10.1016/j.immuni.2022.01.011,Immunity,Interferon-β acts directly on T cells to prolong allograft survival by enhancing regulator,2020-07-29,2022-01-13,2022-02-13,15,90
+35139355,10.1016/j.immuni.2022.01.003,Immunity,Interferon-γ primes macrophages for pathogen ligand-induced killing via a caspase-8 and mi,2021-09-21,2022-01-05,2022-02-10,36,136
+35139353,10.1016/j.immuni.2022.01.006,Immunity,Tryptophan-derived microbial metabolites activate the aryl hydrocarbon receptor in tumor-a,2021-04-05,2022-01-07,2022-02-10,30,68
+35139352,10.1016/j.immuni.2021.12.014,Immunity,Interferon gamma constrains type 2 lymphocyte niche boundaries during mixed inflammation.,2020-12-05,2021-12-20,2022-02-10,16,95
+35090581,10.1016/j.immuni.2022.01.002,Immunity,Development of Tbet- and CD11c-expressing B cells in a viral infection requires T follicul,2021-04-02,2022-01-04,2022-01-30,13,96
+35090580,10.1016/j.immuni.2022.01.001,Immunity,mRNA-1273 vaccine-induced antibodies maintain Fc effector functions across SARS-CoV-2 vari,2021-04-19,2022-01-04,2022-01-30,19,63
+35081372,10.1016/j.immuni.2021.12.015,Immunity,Primary germinal center-resident T follicular helper cells are a physiologically distinct ,2020-10-22,2021-12-21,2022-01-27,5,97
+35081371,10.1016/j.immuni.2021.12.016,Immunity,IL-17RA-signaling in Lgr5+ intestinal stem cells induces expression of transcription facto,2020-12-11,2021-12-20,2022-01-27,29,69
+34995475,10.1016/j.immuni.2021.12.002,Immunity,Inhibition of transcription factor NFAT activity in activated platelets enhances their agg,2021-02-09,2021-12-03,2022-01-08,7,60
+34990590,10.1016/j.immuni.2021.12.003,Immunity,Analysis of antibodies from HCV elite neutralizers identifies genetic determinants of broa,2021-07-16,2021-12-06,2022-01-07,25,78
+34800368,10.1016/j.immuni.2021.10.020,Immunity,Type I interferon activates MHC class I-dressed CD11b+ conventional dendritic cells to pro,2021-04-21,2021-10-22,2021-11-21,9,97
+35021055,10.1016/j.immuni.2021.12.004,Immunity,Analysis of antibody binding specificities in twin and SNP-genotyped cohorts reveals that ,2021-04-30,2021-12-07,2022-01-13,12,73
+35021053,10.1016/j.immuni.2021.12.007,Immunity,TGF-β-mediated silencing of genomic organizer SATB1 promotes Tfh cell differentiation and ,2021-04-08,2021-12-08,2022-01-13,26,52
+34986342,10.1016/j.immuni.2021.12.006,Immunity,Germline HLA landscape does not predict efficacy of pembrolizumab monotherapy across solid,2021-03-24,2021-12-08,2022-01-06,11,0
+34982959,10.1016/j.immuni.2021.12.001,Immunity,Disruption of the IL-33-ST2-AKT signaling axis impairs neurodevelopment by inhibiting micr,2020-06-16,2021-12-03,2022-01-05,20,65
+34932944,10.1016/j.immuni.2021.11.017,Immunity,Engagement of the costimulatory molecule ICOS in tissues promotes establishment of CD8+ ti,2020-11-02,2021-11-19,2021-12-22,13,84
+34910930,10.1016/j.immuni.2021.11.008,Immunity,Epithelial colonization by gut dendritic cells promotes their functional diversification.,2021-06-15,2021-11-15,2021-12-16,23,56
+34879222,10.1016/j.immuni.2021.11.005,Immunity,Maternal gut bacteria drive intestinal inflammation in offspring with neurodevelopmental d,2021-04-21,2021-11-10,2021-12-09,8,68
+34847356,10.1016/j.immuni.2021.11.002,Immunity,CXCL10 chemokine regulates heterogeneity of the CD8+ T cell response and viral set point d,2020-07-27,2021-11-02,2021-12-01,9,51
+34767747,10.1016/j.immuni.2021.10.011,Immunity,MTHFD2 is a metabolic checkpoint controlling effector and regulatory T cell fate and funct,2021-01-14,2021-10-13,2021-11-13,24,52
+38159573,10.1016/j.immuni.2023.12.003,Immunity,Renal macrophages monitor and remove particles from urine to prevent tubule obstruction.,2022-09-15,2023-12-05,2024-01-02,16,0
+38159572,10.1016/j.immuni.2023.12.002,Immunity,Trem2 expression in microglia is required to maintain normal neuronal bioenergetics during,2022-09-15,2023-12-05,2024-01-02,16,120
+38159571,10.1016/j.immuni.2023.12.001,Immunity,An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's,2023-02-23,2023-12-04,2024-01-02,3,103
+38157853,10.1016/j.immuni.2023.11.018,Immunity,Circulating NK cells establish tissue residency upon acute infection of skin and mediate a,2023-02-28,2023-11-28,2024-01-02,16,99
+38141610,10.1016/j.immuni.2023.11.017,Immunity,Tissue factor binds to and inhibits interferon-α receptor 1 signaling.,2022-08-14,2023-11-28,2023-12-24,30,0
+38091996,10.1016/j.immuni.2023.11.006,Immunity,Immunomodulatory leptin receptor+ sympathetic perineurial barrier cells protect against ob,2023-05-31,2023-11-10,2023-12-14,20,0
+38091995,10.1016/j.immuni.2023.11.007,Immunity,trans-Endothelial neutrophil migration activates bactericidal function via Piezo1 mechanos,2023-03-14,2023-11-10,2023-12-14,16,97
+38091953,10.1016/j.immuni.2023.11.008,Immunity,Single-cell functional genomics reveals determinants of sensitivity and resistance to natu,2022-10-31,2023-11-13,2023-12-14,34,0
+38091952,10.1016/j.immuni.2023.11.011,Immunity,Circulating senescent myeloid cells infiltrate the brain and cause neurodegeneration in hi,2023-03-28,2023-11-14,2023-12-14,30,40
+38091951,10.1016/j.immuni.2023.11.005,Immunity,Stat5 opposes the transcription factor Tox and rewires exhausted CD8+ T cells toward durab,2022-08-29,2023-11-10,2023-12-14,21,103
+38091950,10.1016/j.immuni.2023.11.010,Immunity,TCR signaling promotes formation of an STS1-Cbl-b complex with pH-sensitive phosphatase ac,2023-01-23,2023-11-14,2023-12-14,11,101
+38091949,10.1016/j.immuni.2023.11.012,Immunity,Cytotoxic Th1 cells mushroom after fungal exposures in Crohn's disease.,2023-11-13,2023-11-16,2023-12-14,2,0
+38091948,10.1016/j.immuni.2023.11.014,Immunity,A maelstrom of migrating monocytes drives neurodegeneration.,2023-11-20,2023-11-20,2023-12-14,2,0
+38091947,10.1016/j.immuni.2023.11.016,Immunity,Sex-biased gut dopamine signaling in multiple sclerosis.,2023-11-19,2023-11-20,2023-12-14,2,9
+38091946,10.1016/j.immuni.2023.11.015,Immunity,Chi3l1: New kid on the T cell blockade.,2023-11-19,2023-11-20,2023-12-14,2,0
+38091945,10.1016/j.immuni.2023.11.013,Immunity,Stat5a sobers up inTOXicated T cells.,2023-11-20,2023-11-20,2023-12-14,2,0
+38091944,10.1016/j.immuni.2023.11.009,Immunity,RNA vaccines: A transformational advance.,2023-11-10,2023-11-13,2023-12-14,4,0
+38039967,10.1016/j.immuni.2023.11.002,Immunity,The tumor-derived cytokine Chi3l1 induces neutrophil extracellular traps that promote T ce,2023-03-23,2023-11-05,2023-12-02,16,0
+38039966,10.1016/j.immuni.2023.11.003,Immunity,Intestinal microbiota-specific Th17 cells possess regulatory properties and suppress effec,2023-03-13,2023-11-05,2023-12-02,7,69
+38035879,10.1016/j.immuni.2023.11.004,Immunity,Somatic hypermutation introduces bystander mutations that prepare SARS-CoV-2 antibodies fo,2023-04-21,2023-11-06,2023-12-01,13,0
+38016467,10.1016/j.immuni.2023.11.001,Immunity,Nuclear localization of STING1 competes with canonical signaling to activate AHR for comme,2023-01-24,2023-11-01,2023-11-29,9,106
+37992711,10.1016/j.immuni.2023.10.016,Immunity,Intestinal epithelial dopamine receptor signaling drives sex-specific disease exacerbation,2023-03-13,2023-10-27,2023-11-23,20,0
+37963457,10.1016/j.immuni.2023.10.013,Immunity,Single-cell atlas of healthy human blood unveils age-related loss of NKG2C+GZMB-CD8+ memor,2023-04-13,2023-10-19,2023-11-15,15,0
+37967533,10.1016/j.immuni.2023.10.005,Immunity,Leveraging vaccination-induced protective antibodies to define conserved epitopes on influ,2022-11-01,2023-10-10,2023-11-16,21,76
+37967532,10.1016/j.immuni.2023.10.009,Immunity,Single-cell analysis of memory B cells from top neutralizers reveals multiple sites of vul,2023-03-23,2023-10-18,2023-11-16,28,0
+37967531,10.1016/j.immuni.2023.10.010,Immunity,Reprogramming tumor-associated macrophages to outcompete endovascular endothelial progenit,2023-03-11,2023-10-18,2023-11-16,21,64
+37967529,10.1016/j.immuni.2023.10.006,Immunity,Et tu neutrophils? The brain reprograms neutrophils to facilitate tumor progression.,2023-10-10,2023-10-11,2023-11-16,2,0
+37967528,10.1016/j.immuni.2023.10.011,Immunity,Trade-offs inside the black box of neoantigen prediction.,2023-10-14,2023-10-18,2023-11-16,2,0
+37967527,10.1016/j.immuni.2023.10.012,Immunity,Illuminating the dark side of neuraminidase in influenza immunity.,2023-10-17,2023-10-18,2023-11-16,1,0
+37967526,10.1016/j.immuni.2023.10.014,Immunity,Dimeric IgA specifically disables intracellular mutated oncodrivers.,2023-10-11,2023-10-20,2023-11-16,2,0
+37967525,10.1016/j.immuni.2023.10.015,Immunity,SMPDL3A links cholesterol metabolism to the cGAS-STING pathway.,2023-10-20,2023-10-20,2023-11-16,2,10
+37924813,10.1016/j.immuni.2023.10.007,Immunity,Dissecting the intricacies of human antibody responses to SARS-CoV-1 and SARS-CoV-2 infect,2023-03-10,2023-10-11,2023-11-05,21,0
+37924812,10.1016/j.immuni.2023.10.004,Immunity,Gasdermin D permeabilization of mitochondrial inner and outer membranes accelerates and en,2022-12-16,2023-10-06,2023-11-05,27,71
+37922905,10.1016/j.immuni.2023.10.002,Immunity,"Single-cell epigenetic, transcriptional, and protein profiling of latent and active HIV-1 ",2023-03-22,2023-10-04,2023-11-06,9,92
+37909039,10.1016/j.immuni.2023.09.013,Immunity,Targeting intracellular oncoproteins with dimeric IgA promotes expulsion from the cytoplas,2022-10-19,2023-09-27,2023-11-01,22,45
+37890481,10.1016/j.immuni.2023.10.001,Immunity,SMPDL3A is a cGAMP-degrading enzyme induced by LXR-mediated lipid metabolism to restrict c,2023-04-20,2023-10-03,2023-10-28,11,0
+37848037,10.1016/j.immuni.2023.09.012,Immunity,Polyamine metabolism controls B-to-Z DNA transition to orchestrate DNA sensor cGAS activit,2022-12-31,2023-09-19,2023-10-18,11,0
+37816353,10.1016/j.immuni.2023.09.002,Immunity,Machine learning methods and harmonized datasets improve immunogenic neoantigen prediction,2023-03-27,2023-09-05,2023-10-11,15,0
+37714152,10.1016/j.immuni.2023.08.019,Immunity,Retinoid X receptor gamma dictates the activation threshold of group 2 innate lymphoid cel,2022-09-14,2023-08-22,2023-09-16,12,0
+37820581,10.1016/j.immuni.2023.09.007,Immunity,"""Bloody"" good factors for keeping the brain young.",2023-09-12,2023-09-13,2023-10-12,3,0
+37820580,10.1016/j.immuni.2023.09.009,Immunity,Strength in diversity: Widening B cell recruitment for broader vaccine protection.,2023-09-13,2023-09-14,2023-10-12,2,0
+37820579,10.1016/j.immuni.2023.09.006,Immunity,Releasing the brake: CTLA-4 loss turbocharges CAR T cells.,2023-09-11,2023-09-13,2023-10-12,2,0
+37820578,10.1016/j.immuni.2023.09.008,Immunity,Tbx1 orchestrates an immune niche that safeguards a broken heart.,2023-09-05,2023-09-14,2023-10-12,2,0
+37776850,10.1016/j.immuni.2023.09.001,Immunity,Deletion of the inhibitory co-receptor CTLA-4 enhances and invigorates chimeric antigen re,2022-08-09,2023-09-05,2023-10-01,20,99
+37776849,10.1016/j.immuni.2023.09.003,Immunity,Antibodies targeting a quaternary site on SARS-CoV-2 spike glycoprotein prevent viral rece,2023-04-23,2023-09-06,2023-10-01,20,92
+37714151,10.1016/j.immuni.2023.08.018,Immunity,Antigen receptor signaling and cell death resistance controls intestinal humoral response ,2023-02-19,2023-08-21,2023-09-16,9,90
+37699392,10.1016/j.immuni.2023.08.015,Immunity,Interferon-γ production by Tfh cells is required for CXCR3+ pre-memory B cell differentiat,2022-12-16,2023-08-17,2023-09-13,8,57
+37689061,10.1016/j.immuni.2023.08.011,Immunity,Multivalent antigen display on nanoparticle immunogens increases B cell clonotype diversit,2022-10-11,2023-08-16,2023-09-10,27,0
+37652021,10.1016/j.immuni.2023.08.002,Immunity,Mural cell-derived chemokines provide a protective niche to safeguard vascular macrophages,2022-02-22,2023-08-03,2023-09-01,31,134
+37643615,10.1016/j.immuni.2023.08.001,Immunity,Mechanotransduction via endothelial adhesion molecule CD31 initiates transmigration and re,2022-08-31,2023-08-02,2023-08-30,10,56
+37625409,10.1016/j.immuni.2023.07.019,Immunity,Lymphatic endothelial transcription factor Tbx1 promotes an immunosuppressive microenviron,2023-02-21,2023-07-28,2023-08-26,26,0
+37531955,10.1016/j.immuni.2023.07.003,Immunity,Heavy-chain CDR3-engineered B cells facilitate in vivo evaluation of HIV-1 vaccine candida,2022-12-19,2023-07-05,2023-08-03,19,81
+37703829,10.1016/j.immuni.2023.08.010,Immunity,Making good of a tricky start: How IgE and mast cells manage a protective sway in food all,2023-08-16,2023-08-16,2023-09-14,2,0
+37703828,10.1016/j.immuni.2023.08.012,Immunity,Plaque attack by microglial PLCγ2.,2023-08-16,2023-08-16,2023-09-14,2,0
+37703827,10.1016/j.immuni.2023.08.013,Immunity,Astrocytes on steroids binge on synapses to cope with stress.,2023-08-16,2023-08-16,2023-09-14,2,10
+37703826,10.1016/j.immuni.2023.08.016,Immunity,Lymph node sharing is caring for pancreatic immunity.,2023-08-07,2023-08-17,2023-09-14,2,0
+37703825,10.1016/j.immuni.2023.08.007,Immunity,IL-17 receptor goes solo in autoimmune inflammation.,2023-07-26,2023-08-14,2023-09-14,2,0
+37703824,10.1016/j.immuni.2023.08.017,Immunity,A universe of second messengers for cGLR-STING signaling.,2023-08-18,2023-08-21,2023-09-14,2,0
+37659413,10.1016/j.immuni.2023.08.006,Immunity,The virus-induced cyclic dinucleotide 2'3'-c-di-GMP mediates STING-dependent antiviral imm,2023-04-26,2023-08-08,2023-09-03,20,69
+37659412,10.1016/j.immuni.2023.08.008,Immunity,Genetic variants of phospholipase C-γ2 alter the phenotype and function of microglia and c,2022-12-09,2023-08-14,2023-09-03,25,58
+37597518,10.1016/j.immuni.2023.07.017,Immunity,A regulatory circuit controlled by extranuclear and nuclear retinoic acid receptor α deter,2022-10-31,2023-07-25,2023-08-20,19,67
+37582369,10.1016/j.immuni.2023.07.016,Immunity,Human microglia maturation is underpinned by specific gene regulatory networks.,2022-09-13,2023-07-21,2023-08-16,37,138
+37572656,10.1016/j.immuni.2023.07.014,Immunity,Loss of CD4+ T cell-intrinsic arginase 1 accelerates Th1 response kinetics and reduces lun,2022-10-14,2023-07-19,2023-08-13,24,83
+37572655,10.1016/j.immuni.2023.07.015,Immunity,CTLA-4 blockade induces a microglia-Th1 cell partnership that stimulates microglia phagocy,2022-11-14,2023-07-20,2023-08-13,23,97
+37557168,10.1016/j.immuni.2023.07.008,Immunity,"Lymph node sharing between pancreas, gut, and liver leads to immune crosstalk and regulati",2022-08-03,2023-07-12,2023-08-10,5,66
+37543032,10.1016/j.immuni.2023.07.007,Immunity,SARS-CoV-2 Omicron BA.1 breakthrough infection drives late remodeling of the memory B cell,2023-01-27,2023-07-06,2023-08-06,32,0
+37527657,10.1016/j.immuni.2023.07.005,Immunity,Stress induces behavioral abnormalities by increasing expression of phagocytic receptor ME,2022-12-16,2023-07-06,2023-08-02,14,0
+37516105,10.1016/j.immuni.2023.07.002,Immunity,Ketolysis drives CD8+ T cell effector function through effects on histone acetylation.,2022-09-16,2023-07-04,2023-07-30,27,81
+37473759,10.1016/j.immuni.2023.06.012,Immunity,An autonomous activation of interleukin-17 receptor signaling sustains inflammation and pr,2022-03-08,2023-06-15,2023-07-21,12,0
+37557079,10.1016/j.immuni.2023.07.009,Immunity,A gut feeling: The stressed brain drives intestinal inflammation.,2023-07-13,2023-07-13,2023-08-10,2,0
+37557078,10.1016/j.immuni.2023.07.006,Immunity,Hard CiDRE revs up macrophage infectivity in COVID-19.,2023-06-29,2023-07-06,2023-08-10,1,0
+37557077,10.1016/j.immuni.2023.07.010,Immunity,Take my breath away: TAM-ing anti-cancer immunity in hypoxic niches.,2023-07-11,2023-07-14,2023-08-10,2,0
+37557076,10.1016/j.immuni.2023.07.012,Immunity,Cleaning crew: Soluble TREM2 mops up complement.,2023-07-16,2023-07-17,2023-08-10,2,0
+37557075,10.1016/j.immuni.2023.07.013,Immunity,Resident dendritic cell density in the lymph node paracortex is preDC-estined.,2023-07-16,2023-07-18,2023-08-10,2,0
+37506694,10.1016/j.immuni.2023.07.001,Immunity,Dendritic cell type 3 arises from Ly6C+ monocyte-dendritic cell progenitors.,2021-12-22,2023-07-04,2023-07-29,27,0
+37506693,10.1016/j.immuni.2023.07.004,Immunity,Human anti-N1 monoclonal antibodies elicited by pandemic H1N1 virus infection broadly inhi,2022-11-01,2023-07-05,2023-07-29,23,62
+37499656,10.1016/j.immuni.2023.06.026,Immunity,Cell-autonomous regulation of complement C3 by factor H limits macrophage efferocytosis an,2021-03-22,2023-06-30,2023-07-28,24,85
+37490909,10.1016/j.immuni.2023.06.025,Immunity,Graded expression of the chemokine receptor CX3CR1 marks differentiation states of human a,2022-09-22,2023-06-29,2023-07-26,11,0
+37480848,10.1016/j.immuni.2023.06.024,Immunity,Intestinal microbiota controls graft-versus-host disease independent of donor-host genetic,2021-10-04,2023-06-28,2023-07-23,26,57
+37478856,10.1016/j.immuni.2023.06.023,Immunity,Targeted removal of macrophage-secreted interleukin-1 receptor antagonist protects against,2022-09-19,2023-06-27,2023-07-22,15,0
+37478855,10.1016/j.immuni.2023.06.021,Immunity,Obesity-induced dysregulation of skin-resident PPARγ+ Treg cells promotes IL-17A-mediated ,2023-01-27,2023-06-22,2023-07-22,13,82
+37478854,10.1016/j.immuni.2023.06.019,Immunity,Influenza vaccine format mediates distinct cellular and antibody responses in human immune,2022-10-17,2023-06-20,2023-07-22,19,54
+37478853,10.1016/j.immuni.2023.06.022,Immunity,The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by m,2022-06-30,2023-06-27,2023-07-22,31,59
+37463581,10.1016/j.immuni.2023.06.020,Immunity,Lymph node medulla regulates the spatiotemporal unfolding of resident dendritic cell netwo,2022-10-31,2023-06-21,2023-07-19,15,69
+37451265,10.1016/j.immuni.2023.06.017,Immunity,Hypoxic niches attract and sequester tumor-associated macrophages and cytotoxic T cells an,2022-03-01,2023-06-19,2023-07-15,12,81
+37442134,10.1016/j.immuni.2023.06.013,Immunity,Expression of the readthrough transcript CiDRE in alveolar macrophages boosts SARS-CoV-2 s,2022-11-11,2023-06-16,2023-07-14,25,0
+37442133,10.1016/j.immuni.2023.06.016,Immunity,TREM2 receptor protects against complement-mediated synaptic loss by binding to complement,2022-04-27,2023-06-19,2023-07-14,20,0
+37421943,10.1016/j.immuni.2023.06.008,Immunity,Site-specific development and progressive maturation of human tissue-resident memory T cel,2022-10-24,2023-06-13,2023-07-09,23,69
+37379835,10.1016/j.immuni.2023.06.002,Immunity,The nucleotide receptor STING translocates to the phagosomes to negatively regulate anti-f,2022-10-26,2023-06-02,2023-06-29,13,0
+37437538,10.1016/j.immuni.2023.06.004,Immunity,GABAergic signaling between enteric neurons and intestinal smooth muscle promotes innate i,2022-08-16,2023-06-07,2023-07-13,10,0
+37437536,10.1016/j.immuni.2023.06.011,Immunity,Of tenants and nomads: The faces of memory T cells.,2023-06-14,2023-06-14,2023-07-13,2,0
+37437535,10.1016/j.immuni.2023.06.014,Immunity,Th1-like Treg cells are dressed to suppress anti-tumor immunity.,2023-06-16,2023-06-16,2023-07-13,2,11
+37437534,10.1016/j.immuni.2023.06.015,Immunity,Putting a stamp on plasma cells' age certificate.,2023-06-16,2023-06-19,2023-07-13,2,0
+37437533,10.1016/j.immuni.2023.06.009,Immunity,IL-3 finds its home in the brain.,2023-06-09,2023-06-14,2023-07-13,2,0
+37437532,10.1016/j.immuni.2023.06.010,Immunity,Genetics of autoinflammation instructs selective IL-1 targeting.,2023-06-14,2023-06-14,2023-07-13,2,0
+37402364,10.1016/j.immuni.2023.06.006,Immunity,Macrophage-mediated extracellular matrix remodeling controls host Staphylococcus aureus su,2020-06-20,2023-06-08,2023-07-05,13,61
+37392737,10.1016/j.immuni.2023.06.007,Immunity,TCR-independent CD137 (4-1BB) signaling promotes CD8+-exhausted T cell proliferation and t,2022-06-29,2023-06-08,2023-07-02,26,104
+37392736,10.1016/j.immuni.2023.06.005,Immunity,Single-cell protein expression profiling resolves circulating and resident memory T cell d,2022-03-02,2023-06-07,2023-07-02,20,0
+37392735,10.1016/j.immuni.2023.06.003,Immunity,CXCR3 expression in regulatory T cells drives interactions with type I dendritic cells in ,2022-07-19,2023-06-06,2023-07-02,9,103
+37354904,10.1016/j.immuni.2023.06.001,Immunity,Lipids regulate peripheral serotonin release via gut CD1d.,2022-12-20,2023-06-01,2023-06-25,10,86
+37329888,10.1016/j.immuni.2023.05.017,Immunity,Sublethal necroptosis signaling promotes inflammation and liver cancer.,2022-01-14,2023-05-22,2023-06-18,62,0
+37315560,10.1016/j.immuni.2023.05.014,Immunity,Identification of an IL-1 receptor mutation driving autoinflammation directs IL-1-targeted,2022-12-03,2023-05-17,2023-06-15,13,0
+37301199,10.1016/j.immuni.2023.05.009,Immunity,HLA-II immunopeptidome profiling and deep learning reveal features of antigenicity to info,2022-08-25,2023-05-11,2023-06-11,14,108
+37285842,10.1016/j.immuni.2023.05.010,Immunity,Neuroprotective protein ADNP-dependent histone remodeling complex promotes T helper 2 immu,2022-11-16,2023-05-12,2023-06-08,7,74
+37279752,10.1016/j.immuni.2023.05.006,Immunity,Platelets and mast cells promote pathogenic eosinophil recruitment during invasive fungal ,2022-08-18,2023-05-10,2023-06-07,6,68
+37263273,10.1016/j.immuni.2023.05.004,Immunity,Quantitative control of Ets1 dosage by a multi-enhancer hub promotes Th1 cell differentiat,2022-10-22,2023-05-08,2023-06-02,13,89
+37236188,10.1016/j.immuni.2023.04.019,Immunity,Allogeneic immunity clears latent virus following allogeneic stem cell transplantation in ,2022-08-15,2023-04-28,2023-05-27,43,76
+37164016,10.1016/j.immuni.2023.04.015,Immunity,Intrinsically determined turnover underlies broad heterogeneity in plasma-cell lifespan.,2022-10-03,2023-04-14,2023-05-11,14,0
+37160117,10.1016/j.immuni.2023.04.013,Immunity,Interleukin-3 coordinates glial-peripheral immune crosstalk to incite multiple sclerosis.,2022-10-17,2023-04-12,2023-05-10,28,46
+37315536,10.1016/j.immuni.2023.05.011,Immunity,Tumor-derived prostaglandin E2 programs cDC1 dysfunction to impair intratumoral orchestrat,2022-09-29,2023-05-15,2023-06-15,27,0
+37315535,10.1016/j.immuni.2023.05.008,Immunity,The SWI/SNF chromatin remodeling complexes BAF and PBAF differentially regulate epigenetic,2022-08-10,2023-05-11,2023-06-15,20,0
+37315534,10.1016/j.immuni.2023.05.005,Immunity,Canonical BAF complex activity shapes the enhancer landscape that licenses CD8+ T cell eff,2022-08-09,2023-05-10,2023-06-15,12,76
+37315532,10.1016/j.immuni.2023.05.015,Immunity,Cancer immunity derailed: PGE2 misconducts cDC1s.,2023-05-10,2023-05-18,2023-06-15,3,0
+37315531,10.1016/j.immuni.2023.05.018,Immunity,SWI/SNF chromatin remodeling complexes as key regulators of CD8+ T cell fate.,2023-05-22,2023-05-23,2023-06-15,2,0
+37315530,10.1016/j.immuni.2023.05.013,Immunity,Thanks for the memories: Low-avidity T cells shine against escape variants.,2023-05-15,2023-05-17,2023-06-15,2,0
+37315529,10.1016/j.immuni.2023.05.012,Immunity,Older and wiser: The benefits to neonates of aged neutrophils.,2023-05-10,2023-05-16,2023-06-15,2,0
+37315528,10.1016/j.immuni.2023.05.002,Immunity,Curving out a new path: CD28/B7 cis interactions.,2023-04-28,2023-05-05,2023-06-15,3,0
+37269830,10.1016/j.immuni.2023.05.003,Immunity,Human skin-resident CD8+ T cells require RUNX2 and RUNX3 for induction of cytotoxicity and,2022-08-17,2023-05-05,2023-06-04,19,0
+37257450,10.1016/j.immuni.2023.05.007,Immunity,Multi-omics blood atlas reveals unique features of immune and platelet responses to SARS-C,2022-11-30,2023-05-11,2023-06-01,46,92
+37164015,10.1016/j.immuni.2023.04.017,Immunity,Phage-display immunoprecipitation sequencing of the antibody epitope repertoire in inflamm,2021-12-07,2023-04-14,2023-05-11,21,0
+37164014,10.1016/j.immuni.2023.04.010,Immunity,Recruitment of epitope-specific T cell clones with a low-avidity threshold supports effica,2022-11-15,2023-04-13,2023-05-11,10,0
+37164013,10.1016/j.immuni.2023.04.003,Immunity,"Phage display sequencing reveals that genetic, environmental, and intrinsic factors influe",2021-12-07,2023-04-06,2023-05-11,23,132
+37160119,10.1016/j.immuni.2023.04.014,Immunity,A local subset of mesenchymal cells expressing the transcription factor Osr1 orchestrates ,2022-02-17,2023-04-13,2023-05-10,12,0
+37160118,10.1016/j.immuni.2023.04.005,Immunity,cis-B7:CD28 interactions at invaginated synaptic membranes provide CD28 co-stimulation and,2022-05-31,2023-04-07,2023-05-10,10,96
+37130522,10.1016/j.immuni.2023.04.002,Immunity,M cell maturation and cDC activation determine the onset of adaptive immune priming in the,2023-01-02,2023-04-06,2023-05-03,28,113
+37059107,10.1016/j.immuni.2023.03.018,Immunity,Age-dependent differences in efferocytosis determine the outcome of opsonophagocytic prote,2022-09-26,2023-03-21,2023-04-15,11,77
+37028427,10.1016/j.immuni.2023.03.008,Immunity,Long-term tolerance to skin commensals is established neonatally through a specialized den,2022-06-30,2023-03-15,2023-04-08,16,58
+37023751,10.1016/j.immuni.2023.03.009,Immunity,Machine learning predictions of MHC-II specificities reveal alternative binding mode of cl,2022-06-24,2023-03-15,2023-04-07,15,0
+37163991,10.1016/j.immuni.2023.04.016,Immunity,Decoding nociceptor-DC dialogues.,2023-04-12,2023-04-14,2023-05-11,2,0
+37163990,10.1016/j.immuni.2023.04.006,Immunity,Propionate primes the DC pump in neonates.,2023-04-10,2023-04-12,2023-05-11,2,0
+37163989,10.1016/j.immuni.2023.04.007,Immunity,Macrophages show up in style when Th2 lymphocytes organize their homecoming.,2023-04-06,2023-04-11,2023-05-11,2,10
+37163988,10.1016/j.immuni.2023.04.008,Immunity,When SLC46A2 delivers cargo into keratinocytes.,2023-04-10,2023-04-11,2023-05-11,2,0
+37163987,10.1016/j.immuni.2023.04.009,Immunity,To loop or not to loop? CNS-28 is the answer.,2023-04-10,2023-04-12,2023-05-11,2,0
+37116499,10.1016/j.immuni.2023.04.001,Immunity,Methotrexate suppresses psoriatic skin inflammation by inhibiting muropeptide transporter ,2022-08-03,2023-04-03,2023-04-29,19,82
+37100060,10.1016/j.immuni.2023.03.021,Immunity,The RNA editor ADAR2 promotes immune cell trafficking by enhancing endothelial responses t,2022-03-06,2023-03-30,2023-04-27,38,0
+37100059,10.1016/j.immuni.2023.03.020,Immunity,CD4+ T cell-mediated recognition of a conserved cholesterol-dependent cytolysin epitope ge,2022-08-18,2023-03-30,2023-04-27,12,0
+37040762,10.1016/j.immuni.2023.03.017,Immunity,DNA architectural protein CTCF facilitates subset-specific chromatin interactions to limit,2022-05-30,2023-03-20,2023-04-12,13,104
+37040761,10.1016/j.immuni.2023.03.006,Immunity,Restraint of IFN-γ expression through a distal silencer CNS-28 for tissue homeostasis.,2022-06-05,2023-03-13,2023-04-12,12,85
+37030290,10.1016/j.immuni.2023.03.010,Immunity,CD8+ T cells promote HIV latency by remodeling CD4+ T cell metabolism to enhance their sur,2022-06-24,2023-03-15,2023-04-09,16,102
+37003256,10.1016/j.immuni.2023.03.002,Immunity,Maternal diet modulates the infant microbiome and intestinal Flt3L necessary for dendritic,2022-07-19,2023-03-02,2023-04-02,26,0
+36948194,10.1016/j.immuni.2023.02.019,Immunity,Immunoglobulin G-dependent inhibition of inflammatory bone remodeling requires pattern rec,2022-05-09,2023-02-24,2023-03-23,27,0
+36948193,10.1016/j.immuni.2023.02.016,Immunity,T helper 2 cells control monocyte to tissue-resident macrophage differentiation during nem,2021-12-17,2023-02-21,2023-03-23,18,67
+36948192,10.1016/j.immuni.2023.02.014,Immunity,Ribosome-rescuer PELO catalyzes the oligomeric assembly of NOD-like receptor family protei,2022-11-03,2023-02-22,2023-03-23,4,0
+36944334,10.1016/j.immuni.2023.02.015,Immunity,STING activation in platelets aggravates septic thrombosis by enhancing platelet activatio,2022-01-28,2023-02-22,2023-03-22,11,0
+36917985,10.1016/j.immuni.2023.02.018,Immunity,Endoplasmic reticulum stress in the intestinal epithelium initiates purine metabolite synt,2022-09-14,2023-02-24,2023-03-15,34,66
+36791722,10.1016/j.immuni.2023.01.028,Immunity,A Cre-deleter specific for embryo-derived brain macrophages reveals distinct features of m,2022-08-26,2023-01-27,2023-02-16,19,100
+37044065,10.1016/j.immuni.2023.03.013,Immunity,"Old and ""hangry"" monocytes turn from friend to foe under assault.",2023-03-10,2023-03-15,2023-04-13,2,0
+37001519,10.1016/j.immuni.2023.03.003,Immunity,The orphan receptor Nur77 binds cytoplasmic LPS to activate the non-canonical NLRP3 inflam,2022-07-22,2023-03-01,2023-04-01,12,0
+36996809,10.1016/j.immuni.2023.03.005,Immunity,Spheromers reveal robust T cell responses to the Pfizer/BioNTech vaccine and attenuated pe,2022-07-20,2023-03-10,2023-03-31,27,55
+36958335,10.1016/j.immuni.2023.03.001,Immunity,A transcriptionally distinct subset of influenza-specific effector memory B cells predicts,2021-02-18,2023-02-28,2023-03-24,17,62
+36958334,10.1016/j.immuni.2023.02.017,Immunity,SARS-CoV-2 breakthrough infection induces rapid memory and de novo T cell responses.,2022-12-15,2023-02-24,2023-03-24,23,55
+36827982,10.1016/j.immuni.2023.01.024,Immunity,Monocytes re-enter the bone marrow during fasting and alter the host response to infection,2022-08-02,2023-01-19,2023-02-25,25,56
+36822206,10.1016/j.immuni.2023.01.033,Immunity,The gut microbiota promotes distal tissue regeneration via RORγ+ regulatory T cell emissar,2022-01-25,2023-01-30,2023-02-24,10,103
+36809763,10.1016/j.immuni.2023.01.029,Immunity,The alarmin interleukin-33 promotes the expansion and preserves the stemness of Tcf-1+ CD8,2022-08-11,2023-01-27,2023-02-23,27,0
+36804958,10.1016/j.immuni.2023.01.027,Immunity,Non-canonical pattern recognition of a pathogen-derived metabolite by a nuclear hormone re,2022-09-28,2023-01-25,2023-02-23,6,113
+36801011,10.1016/j.immuni.2023.01.023,Immunity,Repression of the aryl-hydrocarbon receptor prevents oxidative stress and ferroptosis of i,2022-07-18,2023-01-18,2023-02-22,13,68
+36921576,10.1016/j.immuni.2023.02.004,Immunity,ARMH3-mediated recruitment of PI4KB directs Golgi-to-endosome trafficking and activation o,2022-09-15,2023-01-26,2023-03-16,4,0
+36889306,10.1016/j.immuni.2023.02.005,Immunity,Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses ,2022-07-06,2023-02-10,2023-03-09,32,117
+36882061,10.1016/j.immuni.2023.02.003,Immunity,B cell receptor signaling in germinal centers prolongs survival and primes B cells for sel,2022-01-27,2023-02-08,2023-03-08,5,96
+36854305,10.1016/j.immuni.2023.02.002,Immunity,Lipopolysaccharide-binding protein expression is increased by stress and inhibits monoamin,2022-04-15,2023-02-01,2023-03-01,13,0
+36842431,10.1016/j.immuni.2023.01.025,Immunity,Skin γδ T cell inflammatory responses are hardwired in the thymus by oxysterol sensing via,2022-09-20,2023-01-24,2023-02-27,13,81
+36822205,10.1016/j.immuni.2023.01.032,Immunity,Dysregulated lung stroma drives emphysema exacerbation by potentiating resident lymphocyte,2022-03-31,2023-01-30,2023-02-24,12,49
+36804959,10.1016/j.immuni.2023.01.031,Immunity,Interplay between liver and blood stages of Plasmodium infection dictates malaria severity,2022-04-29,2023-01-26,2023-02-23,15,0
+36804957,10.1016/j.immuni.2023.01.030,Immunity,HIV rapidly targets a diverse pool of CD4+ T cells to establish productive and latent infe,2022-05-23,2023-01-25,2023-02-23,18,58
+36796364,10.1016/j.immuni.2023.01.026,Immunity,Archaic humans have contributed to large-scale variation in modern human T cell receptor g,2022-08-12,2023-01-23,2023-02-17,13,0
+36773607,10.1016/j.immuni.2023.01.016,Immunity,Infection induces tissue-resident memory NK cells that safeguard tissue health.,2022-03-10,2023-01-17,2023-02-12,18,68
+36750100,10.1016/j.immuni.2023.01.005,Immunity,Circumvention of luteolysis reveals parturition pathways in mice dependent upon innate typ,2021-09-04,2023-01-09,2023-02-08,7,54
+36738738,10.1016/j.immuni.2023.01.011,Immunity,Oxidative phosphorylation selectively orchestrates tissue macrophage homeostasis.,2022-05-20,2023-01-12,2023-02-05,12,0
+36792576,10.1016/j.immuni.2023.01.012,Immunity,A human antibody epitope map of Pfs230D1 derived from analysis of individuals vaccinated w,2022-10-05,2023-01-13,2023-02-16,11,48
+36792575,10.1016/j.immuni.2023.01.013,Immunity,Potent transmission-blocking monoclonal antibodies from naturally exposed individuals targ,2022-08-16,2023-01-12,2023-02-16,25,76
+36792574,10.1016/j.immuni.2023.01.009,Immunity,"Highly potent, naturally acquired human monoclonal antibodies against Pfs48/45 block Plasm",2022-08-15,2023-01-11,2023-02-16,28,52
+36792573,10.1016/j.immuni.2023.01.015,Immunity,Pregnancy-induced changes to the gut microbiota drive macrophage pyroptosis and exacerbate,2022-02-19,2023-01-13,2023-02-16,22,0
+36750099,10.1016/j.immuni.2023.01.014,Immunity,Single-cell and spatial transcriptomics reveal aberrant lymphoid developmental programs dr,2022-03-02,2023-01-13,2023-02-08,18,107
+36736322,10.1016/j.immuni.2023.01.010,Immunity,Tissue-specific abundance of interferon-gamma drives regulatory T cells to restrain DC1-me,2022-05-26,2023-01-11,2023-02-04,13,143
+36736321,10.1016/j.immuni.2023.01.007,Immunity,Ambient oxygen levels regulate intestinal dysbiosis and GVHD severity after allogeneic ste,2022-06-10,2023-01-10,2023-02-04,18,52
+36736320,10.1016/j.immuni.2023.01.008,Immunity,Direct activation of microglia by β-glucosylceramide causes phagocytosis of neurons that e,2022-07-20,2023-01-11,2023-02-04,12,0
+36724787,10.1016/j.immuni.2023.01.001,Immunity,Spermine enhances antiviral and anticancer responses by stabilizing DNA binding with the D,2022-04-05,2023-01-04,2023-02-02,11,0
+36720220,10.1016/j.immuni.2023.01.002,Immunity,The landscape of immune dysregulation in Crohn's disease revealed through single-cell tran,2022-02-17,2023-01-06,2023-02-01,14,74
+36720219,10.1016/j.immuni.2023.01.003,Immunity,Graft-versus-host disease is locally maintained in target tissues by resident progenitor-l,2021-09-07,2023-01-05,2023-02-01,13,62
+36693372,10.1016/j.immuni.2022.12.017,Immunity,Dopamine inhibits group 2 innate lymphoid cell-driven allergic lung inflammation by dampen,2022-01-25,2022-12-29,2023-01-25,26,0
+36630919,10.1016/j.immuni.2022.12.004,Immunity,Role of MR1-driven signals and amphiregulin on the recruitment and repair function of MAIT,2022-06-05,2022-12-06,2023-01-12,18,78
+36630917,10.1016/j.immuni.2022.12.009,Immunity,GATA4 controls regionalization of tissue immunity and commensal-driven immunopathology.,2022-09-15,2022-12-12,2023-01-12,19,91
+36630914,10.1016/j.immuni.2022.12.006,Immunity,Bispecific PD1-IL2v and anti-PD-L1 break tumor immunity resistance by enhancing stem-like ,2022-03-04,2022-12-06,2023-01-12,11,0
+36630913,10.1016/j.immuni.2022.12.010,Immunity,T cell-derived interleukin-22 drives the expression of CD155 by cancer cells to suppress N,2022-08-20,2022-12-13,2023-01-12,36,128
+36630911,10.1016/j.immuni.2022.12.014,Immunity,Tissue resident iNKT17 cells facilitate cancer cell extravasation in liver metastasis via ,2022-08-22,2022-12-14,2023-01-12,75,76
+36580919,10.1016/j.immuni.2022.12.007,Immunity,Small intestine and colon tissue-resident memory CD8+ T cells exhibit molecular heterogene,2022-05-29,2022-12-07,2022-12-30,21,66
+36580918,10.1016/j.immuni.2022.12.002,Immunity,CD8+ T cell activation in cancer comprises an initial activation phase in lymph nodes foll,2022-04-23,2022-12-05,2022-12-30,18,82
+36574773,10.1016/j.immuni.2022.12.001,Immunity,The ectonucleotidase CD39 identifies tumor-reactive CD8+ T cells predictive of immune chec,2022-01-05,2022-12-02,2022-12-28,41,59
+36574772,10.1016/j.immuni.2022.12.005,Immunity,Immunoglobulin germline gene polymorphisms influence the function of SARS-CoV-2 neutralizi,2022-05-28,2022-12-07,2022-12-28,17,72
+36563676,10.1016/j.immuni.2022.11.014,Immunity,Immune checkpoint therapy-elicited sialylation of IgG antibodies impairs antitumorigenic t,2022-04-01,2022-11-28,2022-12-24,16,0
+36521495,10.1016/j.immuni.2022.11.013,Immunity,Prolonged hypernutrition impairs TREM2-dependent efferocytosis to license chronic liver in,2022-04-26,2022-11-22,2022-12-16,21,107
+39719711,10.1016/j.immuni.2024.11.021,Immunity,Durable lymphocyte subset elimination upon a single dose of AAV-delivered depletion antibo,2024-06-19,2024-11-26,2024-12-25,12,0
+39701104,10.1016/j.immuni.2024.11.019,Immunity,The carbonyl nucleobase adduct M3Ade is a potent antigen for adaptive polyclonal MR1-restr,2023-10-06,2024-11-21,2024-12-20,23,0
+39689715,10.1016/j.immuni.2024.11.017,Immunity,The cGAS-STING pathway activates transcription factor TFEB to stimulate lysosome biogenesi,2024-05-24,2024-11-14,2024-12-18,10,0
+39742664,10.1016/j.immuni.2024.12.006,Immunity,Service.,2024-12-15,2024-12-16,2025-01-02,8,0
+39731911,10.1016/j.immuni.2024.11.025,Immunity,Cross-species analyses of thymic mimetic cells reveal evolutionarily ancient origins and b,2024-05-22,2024-11-27,2024-12-29,12,117
+39731910,10.1016/j.immuni.2024.12.003,Immunity,Splenic fibroblasts control marginal zone B cell movement and function via two distinct No,2024-01-09,2024-12-06,2024-12-29,30,99
+39729992,10.1016/j.immuni.2024.11.023,Immunity,Hyperreactive B cells instruct their elimination by T cells to curb autoinflammation and l,2024-02-21,2024-11-26,2024-12-28,39,0
+39724910,10.1016/j.immuni.2024.11.026,Immunity,Antigen presentation by tumor-associated macrophages drives T cells from a progenitor exha,2023-06-29,2024-11-27,2024-12-27,11,0
+39719712,10.1016/j.immuni.2024.11.020,Immunity,Pyrimidine synthesis enzyme CTP synthetase 1 suppresses antiviral interferon induction by ,2024-02-02,2024-11-22,2024-12-25,8,56
+39708817,10.1016/j.immuni.2024.11.007,Immunity,Deep profiling deconstructs features associated with memory CD8+ T cell tissue residence.,2024-05-22,2024-11-06,2024-12-22,18,111
+39657671,10.1016/j.immuni.2024.11.003,Immunity,Microglial lipid phosphatase SHIP1 limits complement-mediated synaptic pruning in the heal,2023-04-25,2024-11-04,2024-12-11,19,0
+39644894,10.1016/j.immuni.2024.11.008,Immunity,Elevated IL-22 as a result of stress-induced gut leakage suppresses septal neuron activati,2024-01-29,2024-11-06,2024-12-08,21,0
+39571574,10.1016/j.immuni.2024.10.012,Immunity,Acute suppression of mitochondrial ATP production prevents apoptosis and provides an essen,2024-02-13,2024-10-24,2024-11-22,57,0
+39541970,10.1016/j.immuni.2024.10.002,Immunity,Sialylated IgG induces the transcription factor REST in alveolar macrophages to protect ag,2024-06-15,2024-10-04,2024-11-15,23,83
+39662091,10.1016/j.immuni.2024.11.010,Immunity,Skin immune-mesenchymal interplay within tertiary lymphoid structures promotes autoimmune ,2024-01-22,2024-11-08,2024-12-12,26,55
+39662089,10.1016/j.immuni.2024.11.013,Immunity,Getting RAMPed up: Neuropeptides boost T helper 1 cell fate.,2024-11-08,2024-11-11,2024-12-12,2,0
+39662088,10.1016/j.immuni.2024.11.014,Immunity,T-switch-ing TCR specificity.,2024-11-09,2024-11-12,2024-12-12,2,0
+39662087,10.1016/j.immuni.2024.11.012,Immunity,DC-T cell power couples in rheumatoid arthritis joints.,2024-11-07,2024-11-11,2024-12-12,2,0
+39662086,10.1016/j.immuni.2024.11.011,Immunity,Hidradenitis suppurativa: TLSs take the center stage.,2024-11-07,2024-11-10,2024-12-12,2,9
+39662085,10.1016/j.immuni.2024.11.015,Immunity,Gasping for air: HIF2α in asthma.,2024-11-10,2024-11-12,2024-12-12,2,8
+39631392,10.1016/j.immuni.2024.11.009,Immunity,T-Switch: A specificity-based engineering platform for developing safe and effective T cel,2023-11-12,2024-11-07,2024-12-05,3,42
+39612916,10.1016/j.immuni.2024.11.002,Immunity,Cognate antigen engagement induces HIV-1 expression in latently infected CD4+ T cells from,2024-03-03,2024-11-04,2024-11-30,16,100
+39612915,10.1016/j.immuni.2024.11.006,Immunity,Interleukin-2-secreting T helper cells promote extra-follicular B cell maturation via intr,2024-04-13,2024-11-06,2024-11-30,19,76
+39609127,10.1016/j.immuni.2024.11.001,Immunity,Hypoxia-inducible factor 2α promotes pathogenic polarization of stem-like Th2 cells via mo,2023-03-10,2024-11-01,2024-11-29,17,0
+39609126,10.1016/j.immuni.2024.11.005,Immunity,Phase separation of chimeric antigen receptor promotes immunological synapse maturation an,2023-12-17,2024-11-06,2024-11-29,13,0
+39609125,10.1016/j.immuni.2024.11.004,Immunity,Synovial tissue myeloid dendritic cell subsets exhibit distinct tissue-niche localization ,2022-08-31,2024-11-05,2024-11-29,36,0
+39603236,10.1016/j.immuni.2024.10.014,Immunity,Impaired development of memory B cells and antibody responses in humans and mice deficient,2023-09-09,2024-10-30,2024-11-28,64,64
+39577413,10.1016/j.immuni.2024.10.015,Immunity,Cancer cells restrict immunogenicity of retrotransposon expression via distinct mechanisms,2023-11-16,2024-10-29,2024-11-23,32,70
+39571575,10.1016/j.immuni.2024.10.010,Immunity,A pan-family screen of nuclear receptors in immunocytes reveals ligand-dependent inflammas,2024-02-28,2024-10-23,2024-11-22,16,130
+39561763,10.1016/j.immuni.2024.10.013,Immunity,Targeting the aminopeptidase ERAP enhances antitumor immunity by disrupting the NKG2A-HLA-,2024-01-18,2024-10-29,2024-11-20,46,0
+39510068,10.1016/j.immuni.2024.10.003,Immunity,Maintenance and functional regulation of immune memory to COVID-19 vaccines in tissues.,2024-03-05,2024-10-08,2024-11-13,22,98
+39488210,10.1016/j.immuni.2024.10.001,Immunity,Isolation and escape mapping of broadly neutralizing antibodies against emerging delta-cor,2024-03-18,2024-10-02,2024-11-03,21,119
+39536715,10.1016/j.immuni.2024.10.009,Immunity,TKI resistance in brain metastasis: A CTLA4 state of mind.,2024-10-15,2024-10-17,2024-11-14,2,0
+39536714,10.1016/j.immuni.2024.10.006,Immunity,T cells standing at the gates of brain metastasis.,2024-10-12,2024-10-15,2024-11-14,2,0
+39536713,10.1016/j.immuni.2024.10.007,Immunity,Navigating the mutation maze: An oncogenic driver's guide to macrophage reprogramming.,2024-10-15,2024-10-16,2024-11-14,2,0
+39536712,10.1016/j.immuni.2024.10.008,Immunity,Home at last: Mixed signals guide memory T cells to residency.,2024-10-17,2024-10-17,2024-11-14,2,0
+39536711,10.1016/j.immuni.2024.10.005,Immunity,"Mx1-ing it up-Mitochondrial relay for interferon-dependent, unconventional IL-1β release i",2024-10-04,2024-10-15,2024-11-14,3,10
+39476842,10.1016/j.immuni.2024.10.004,Immunity,Progressive polyadenylation and m6A modification of Ighg1 mRNA maintain IgG1 antibody home,2024-03-01,2024-10-08,2024-10-31,17,0
+39447575,10.1016/j.immuni.2024.09.017,Immunity,Transcription factor TCF1 binds to RORγt and orchestrates a regulatory network that determ,2023-11-15,2024-09-25,2024-10-25,17,88
+39419029,10.1016/j.immuni.2024.09.014,Immunity,Apolipoprotein E aggregation in microglia initiates Alzheimer's disease pathology by seedi,2023-06-08,2024-09-17,2024-10-18,29,0
+39406246,10.1016/j.immuni.2024.09.013,Immunity,CRISPR screens unveil nutrient-dependent lysosomal and mitochondrial nodes impacting intes,2023-05-13,2024-09-16,2024-10-16,22,116
+39406245,10.1016/j.immuni.2024.09.015,Immunity,Retinoic acid and TGF-β orchestrate organ-specific programs of tissue residency.,2023-05-21,2024-09-21,2024-10-16,34,0
+39396521,10.1016/j.immuni.2024.09.016,Immunity,Autoimmune CD4+ T cells fine-tune TCF1 expression to maintain function and survive persist,2024-05-09,2024-09-25,2024-10-14,10,62
+39395421,10.1016/j.immuni.2024.09.007,Immunity,Microglia and monocyte-derived macrophages drive progression of pediatric high-grade gliom,2023-10-06,2024-09-11,2024-10-13,17,72
+39378884,10.1016/j.immuni.2024.09.004,Immunity,Type I IFN drives unconventional IL-1β secretion in lupus monocytes.,2023-12-05,2024-09-09,2024-10-09,19,72
+39368486,10.1016/j.immuni.2024.09.003,Immunity,T lymphocyte recruitment to melanoma brain tumors depends on distinct venous vessels.,2024-07-11,2024-09-06,2024-10-06,17,0
+39366382,10.1016/j.immuni.2024.09.001,Immunity,Alarmin-loaded extracellular lipid droplets induce airway neutrophil infiltration during t,2023-11-21,2024-09-04,2024-10-06,13,0
+39353439,10.1016/j.immuni.2024.08.018,Immunity,Antiviral innate immune memory in alveolar macrophages following SARS-CoV-2 infection amel,2023-08-02,2024-08-28,2024-10-03,14,92
+39236718,10.1016/j.immuni.2024.08.008,Immunity,Inhibitory co-receptor Lag3 supports Foxp3+ regulatory T cell function by restraining Myc-,2023-10-17,2024-08-07,2024-09-06,14,80
+39383843,10.1016/j.immuni.2024.09.010,Immunity,LAGging behind no more: PD-1 has a new immunotherapy partner.,2024-09-11,2024-09-11,2024-10-10,1,0
+39383842,10.1016/j.immuni.2024.09.008,Immunity,Superficial ice and deep blaze: A defense strategy of the skin.,2024-09-03,2024-09-11,2024-10-10,2,0
+39383841,10.1016/j.immuni.2024.09.012,Immunity,TIL the end: Tracking T cell clonotype dynamics during adoptive cell therapy.,2024-09-10,2024-09-12,2024-10-10,2,0
+39383840,10.1016/j.immuni.2024.09.005,Immunity,An autoreactive T cell's perception of a land of plenty.,2024-09-06,2024-09-10,2024-10-10,1,0
+39383839,10.1016/j.immuni.2024.09.006,Immunity,Oligodendrocytes go with the flow: Meningeal lymphatics promote myelin integrity.,2024-09-07,2024-09-11,2024-10-10,2,0
+39353440,10.1016/j.immuni.2024.09.002,Immunity,The transcription regulators ZNF750 and LSD1/KDM1A dampen inflammation on the skin's surfa,2024-01-10,2024-09-05,2024-10-03,13,49
+39321807,10.1016/j.immuni.2024.08.019,Immunity,"Multidimensional profiling of human T cells reveals high CD38 expression, marking recent t",2024-01-26,2024-08-28,2024-09-26,24,113
+39321806,10.1016/j.immuni.2024.08.015,Immunity,Interleukin-34-orchestrated tumor-associated macrophage reprogramming is required for tumo,2023-09-25,2024-08-22,2024-09-26,12,0
+39317200,10.1016/j.immuni.2024.08.016,Immunity,Notch signaling regulates macrophage-mediated inflammation in metabolic dysfunction-associ,2023-05-12,2024-08-22,2024-09-25,20,0
+39305904,10.1016/j.immuni.2024.08.017,Immunity,Conversion of vaccines from low to high immunogenicity by antibodies with epitope compleme,2023-11-10,2024-08-27,2024-09-22,17,0
+39303723,10.1016/j.immuni.2024.09.009,Immunity,Sensing DNA as danger: The discovery of cGAS.,2024-09-07,2024-09-11,2024-09-21,2,0
+39299238,10.1016/j.immuni.2024.08.013,Immunity,Intestinal immunity in C. elegans is activated by pathogen effector-triggered aggregation ,2024-02-16,2024-08-16,2024-09-20,6,96
+39276771,10.1016/j.immuni.2024.08.014,Immunity,Tumor-reactive T cell clonotype dynamics underlying clinical response to TIL therapy in me,2023-08-18,2024-08-22,2024-09-15,33,0
+39226901,10.1016/j.immuni.2024.08.005,Immunity,Autoantigen-specific CD4+ T cells acquire an exhausted phenotype and persist in human anti,2024-01-26,2024-08-07,2024-09-04,47,0
+39217987,10.1016/j.immuni.2024.08.004,Immunity,Meningeal lymphatic function promotes oligodendrocyte survival and brain myelination.,2023-06-15,2024-08-02,2024-09-02,17,94
+39214091,10.1016/j.immuni.2024.07.024,Immunity,CD4+ T cells reactive to a hybrid peptide from insulin-chromogranin A adopt a distinct eff,2023-11-02,2024-07-30,2024-08-31,16,68
+39214090,10.1016/j.immuni.2024.08.002,Immunity,CD4+ T cells re-wire granuloma cellularity and regulatory networks to promote immunomodula,2023-12-22,2024-08-01,2024-08-31,22,117
+39163866,10.1016/j.immuni.2024.07.022,Immunity,An explainable language model for antibody specificity prediction using curated influenza ,2023-10-18,2024-07-24,2024-08-21,13,96
+39260354,10.1016/j.immuni.2024.08.010,Immunity,The inflammaging clock strikes IL-11!,2024-08-05,2024-08-14,2024-09-12,3,10
+39260353,10.1016/j.immuni.2024.08.009,Immunity,The epigenomic matrix of tissue-specific immune memory.,2024-08-06,2024-08-09,2024-09-12,2,0
+39260352,10.1016/j.immuni.2024.08.001,Immunity,An anti-aging vaccine: BCG turns back the clock on remyelination failure.,2024-07-25,2024-08-01,2024-09-12,2,0
+39260351,10.1016/j.immuni.2024.08.012,Immunity,Neighbor's feedback helps macrophages learn tolerance in the gut.,2024-08-08,2024-08-15,2024-09-12,2,10
+39260350,10.1016/j.immuni.2024.08.006,Immunity,Microglia bridge brain activity and blood pressure.,2024-07-31,2024-08-07,2024-09-12,2,0
+39226900,10.1016/j.immuni.2024.08.007,Immunity,Antibodies and complement are key drivers of thrombosis.,2024-05-07,2024-08-07,2024-09-04,36,0
+39208806,10.1016/j.immuni.2024.08.003,Immunity,PD-1 signaling limits expression of phospholipid phosphatase 1 and promotes intratumoral C,2023-03-28,2024-08-01,2024-08-31,18,0
+39168129,10.1016/j.immuni.2024.07.023,Immunity,Affinity-independent memory B cell origin of the early antibody-secreting cell response in,2023-12-18,2024-07-24,2024-08-22,10,0
+39153479,10.1016/j.immuni.2024.07.021,Immunity,BCG vaccination alters the epigenetic landscape of progenitor cells in human bone marrow t,2023-11-24,2024-07-22,2024-08-18,11,53
+39151426,10.1016/j.immuni.2024.07.019,Immunity,Rapid phagosome isolation enables unbiased multiomic analysis of human microglial phagosom,2023-09-17,2024-07-19,2024-08-17,22,0
+39137779,10.1016/j.immuni.2024.07.016,Immunity,Interleukin-2 immunotherapy reveals human regulatory T cell subsets with distinct function,2023-12-27,2024-07-18,2024-08-14,11,0
+39116878,10.1016/j.immuni.2024.07.011,Immunity,Microglia in the hypothalamic paraventricular nucleus sense hemodynamic disturbance and pr,2023-09-06,2024-07-16,2024-08-09,19,0
+39111316,10.1016/j.immuni.2024.07.010,Immunity,Transcription factor Ikzf1 associates with Foxp3 to repress gene expression in Treg cells ,2023-08-10,2024-07-15,2024-08-08,9,0
+39089257,10.1016/j.immuni.2024.07.005,Immunity,Non-classical monocytes scavenge the growth factor CSF1 from endothelial cells in the peri,2023-09-22,2024-07-09,2024-08-02,13,0
+39079536,10.1016/j.immuni.2024.07.002,Immunity,Brain ischemia causes systemic Notch1 activity in endothelial cells to drive atheroscleros,2023-11-28,2024-07-03,2024-07-31,15,0
+39053462,10.1016/j.immuni.2024.07.001,Immunity,Innate immune training restores pro-reparative myeloid functions to promote remyelination ,2023-04-26,2024-07-01,2024-07-26,19,0
+39043184,10.1016/j.immuni.2024.06.014,Immunity,Distinct epigenomic landscapes underlie tissue-specific memory T cell differentiation.,2023-12-18,2024-06-27,2024-07-24,20,0
+39013466,10.1016/j.immuni.2024.06.013,Immunity,Deep mutational scanning reveals functional constraints and antibody-escape potential of L,2024-02-05,2024-06-20,2024-07-17,9,117
+38906145,10.1016/j.immuni.2024.06.001,Immunity,A metabolic switch orchestrated by IL-18 and the cyclic dinucleotide cGAMP programs intest,2023-10-19,2024-06-04,2024-06-22,18,0
+39142274,10.1016/j.immuni.2024.07.013,Immunity,Macrophages dig into the obesity paradox in cancer.,2024-07-17,2024-07-17,2024-08-15,3,0
+39142273,10.1016/j.immuni.2024.07.007,Immunity,Hit me baby one more time…with microbial IPA.,2024-07-09,2024-07-11,2024-08-15,2,0
+39142272,10.1016/j.immuni.2024.07.014,Immunity,Wriggly woes: Helminths stirring up T cell trouble.,2024-07-09,2024-07-17,2024-08-15,3,0
+39142271,10.1016/j.immuni.2024.07.017,Immunity,ZFP318 fuels memory B cells for success.,2024-07-12,2024-07-18,2024-08-15,2,0
+39142270,10.1016/j.immuni.2024.07.018,Immunity,A non-canonical function of OAS1 to combat viral and bacterial infections.,2024-07-18,2024-07-18,2024-08-15,2,0
+39111315,10.1016/j.immuni.2024.07.003,Immunity,The cytokine Meteorin-like inhibits anti-tumor CD8+ T cell responses by disrupting mitocho,2023-08-15,2024-07-05,2024-08-08,31,63
+39096910,10.1016/j.immuni.2024.07.006,Immunity,The amalgam of naive CD4+ T cell transcriptional states is reconfigured by helminth infect,2023-01-09,2024-07-10,2024-08-04,17,61
+39079535,10.1016/j.immuni.2024.07.004,Immunity,Cancer stem cells release interleukin-33 within large oncosomes to promote immunosuppressi,2023-09-11,2024-07-08,2024-07-31,6,68
+39047731,10.1016/j.immuni.2024.06.015,Immunity,Single-cell chromatin accessibility and transposable element landscapes reveal shared feat,2023-10-02,2024-06-28,2024-07-26,17,0
+39043185,10.1016/j.immuni.2024.06.016,Immunity,Dynamic landscapes and protective immunity coordinated by influenza-specific lung-resident,2023-10-06,2024-06-28,2024-07-24,8,71
+39013465,10.1016/j.immuni.2024.06.010,Immunity,Antibiotic-driven dysbiosis in early life disrupts indole-3-propionic acid production and ,2023-06-23,2024-06-14,2024-07-17,9,0
+39002541,10.1016/j.immuni.2024.06.012,Immunity,Lipid-orchestrated paracrine circuit coordinates mast cell maturation and anaphylaxis thro,2023-11-10,2024-06-19,2024-07-14,20,0
+38964332,10.1016/j.immuni.2024.06.005,Immunity,Primary nasal influenza infection rewires tissue-scale memory response dynamics.,2023-05-05,2024-06-10,2024-07-05,10,117
+38955184,10.1016/j.immuni.2024.06.003,Immunity,The canonical antiviral protein oligoadenylate synthetase 1 elicits antibacterial function,2023-11-21,2024-06-07,2024-07-03,11,81
+38908373,10.1016/j.immuni.2024.05.025,Immunity,Cellular spermine targets JAK signaling to restrain cytokine-mediated autoimmunity.,2023-04-13,2024-05-30,2024-06-23,18,0
+38901428,10.1016/j.immuni.2024.05.024,Immunity,Autoantibodies inhibit Plasmodium falciparum growth and are associated with protection fro,2023-10-24,2024-05-30,2024-06-21,28,76
+38889716,10.1016/j.immuni.2024.05.022,Immunity,High recallability of memory B cells requires ZFP318-dependent transcriptional regulation ,2023-04-24,2024-05-22,2024-06-19,13,0
+38878769,10.1016/j.immuni.2024.05.021,Immunity,Fasting reshapes tissue-specific niches to improve NK cell-mediated anti-tumor immunity.,2023-06-15,2024-05-22,2024-06-16,14,84
+38843835,10.1016/j.immuni.2024.05.008,Immunity,Collaboration between distinct SWI/SNF chromatin remodeling complexes directs enhancer sel,2023-09-12,2024-05-08,2024-06-07,5,74
+38986440,10.1016/j.immuni.2024.06.007,Immunity,B cells! Don't go the wrong way in this tumor.,2024-06-10,2024-06-11,2024-07-11,2,0
+38986439,10.1016/j.immuni.2024.06.004,Immunity,Skin deep: Epithelial cell metabolism and chronic skin inflammation.,2024-06-10,2024-06-10,2024-07-11,2,0
+38986438,10.1016/j.immuni.2024.06.008,Immunity,Scavengers in islets fuel diabetic autoimmunity.,2024-06-07,2024-06-12,2024-07-11,2,0
+38986437,10.1016/j.immuni.2024.06.006,Immunity,The pros and confs of IL-18 activation.,2024-06-05,2024-06-11,2024-07-11,3,0
+38986436,10.1016/j.immuni.2024.06.002,Immunity,"RIPK1: Inflamed if you do, inflamed if you don't.",2024-06-06,2024-06-06,2024-07-11,2,0
+38897202,10.1016/j.immuni.2024.05.023,Immunity,The tissue-resident regulatory T cell pool is shaped by transient multi-tissue migration a,2023-10-05,2024-05-24,2024-06-20,18,0
+38878770,10.1016/j.immuni.2024.05.017,Immunity,The brain microvasculature is a primary mediator of interferon-α neurotoxicity in human ce,2022-02-22,2024-05-17,2024-06-16,18,61
+38876099,10.1016/j.immuni.2024.05.019,Immunity,Longitudinal humoral analysis in RSV-infected infants identifies pre-existing RSV strain-s,2023-03-14,2024-05-20,2024-06-15,9,0
+38876098,10.1016/j.immuni.2024.05.018,Immunity,Microbiota dictate T cell clonal selection to augment graft-versus-host disease after stem,2023-06-26,2024-05-20,2024-06-15,23,69
+38838672,10.1016/j.immuni.2024.05.009,Immunity,Opposing effects of pre-existing antibody and memory T cell help on the dynamics of recall,2023-10-10,2024-05-10,2024-06-06,5,47
+38821051,10.1016/j.immuni.2024.05.007,Immunity,Progenitors of distinct lineages shape the diversity of mature type 2 conventional dendrit,2023-08-29,2024-05-07,2024-06-01,9,0
+38788712,10.1016/j.immuni.2024.04.025,Immunity,A RIPK1-specific PROTAC degrader achieves potent antitumor activity by enhancing immunogen,2023-07-10,2024-04-25,2024-05-25,45,103
+38776917,10.1016/j.immuni.2024.04.027,Immunity,Single-cell proteomics and transcriptomics capture eosinophil development and identify the,2023-04-17,2024-04-30,2024-05-23,13,0
+38772365,10.1016/j.immuni.2024.04.022,Immunity,Metabolic coordination between skin epithelium and type 17 immunity sustains chronic skin ,2023-06-29,2024-04-24,2024-05-22,17,49
+38761804,10.1016/j.immuni.2024.04.023,Immunity,Deficiency of CBL and CBLB ubiquitin ligases leads to hyper T follicular helper cell respo,2023-09-10,2024-04-24,2024-05-19,15,0
+38754432,10.1016/j.immuni.2024.04.017,Immunity,CXCL16-dependent scavenging of oxidized lipids by islet macrophages promotes differentiati,2023-04-21,2024-04-17,2024-05-17,16,94
+38744293,10.1016/j.immuni.2024.04.016,Immunity,The RIPK1 death domain restrains ZBP1- and TRIF-mediated cell death and inflammation.,2023-07-04,2024-04-17,2024-05-15,9,0
+38733997,10.1016/j.immuni.2024.04.015,Immunity,Structural transitions enable interleukin-18 maturation and signaling.,2023-10-26,2024-04-17,2024-05-12,12,96
+38697119,10.1016/j.immuni.2024.04.010,Immunity,Lysosomal endonuclease RNase T2 and PLD exonucleases cooperatively generate RNA ligands fo,2023-10-16,2024-04-12,2024-05-03,15,52
+38865966,10.1016/j.immuni.2024.05.010,Immunity,Challenges and opportunities in long COVID research.,2024-01-02,2024-05-10,2024-06-13,2,206
+38865965,10.1016/j.immuni.2024.05.012,Immunity,Poking holes in the blood-brain barrier.,2024-05-13,2024-05-13,2024-06-13,2,10
+38865964,10.1016/j.immuni.2024.05.013,Immunity,Not so aDAMant after all: Plasticity of phagocytic microglia.,2024-05-05,2024-05-14,2024-06-13,1,0
+38865963,10.1016/j.immuni.2024.05.015,Immunity,Claudin 18 turns up the heat in cancer.,2024-05-07,2024-05-14,2024-06-13,2,0
+38865962,10.1016/j.immuni.2024.05.014,Immunity,CD8+ T cell tolerance: It doesn't translate.,2024-05-08,2024-05-14,2024-06-13,2,0
+38865961,10.1016/j.immuni.2024.05.011,Immunity,Mast cells: The Janus of type 2 inflammation.,2024-05-13,2024-05-13,2024-06-13,2,0
+38823390,10.1016/j.immuni.2024.05.002,Immunity,Isolation of human antibodies against influenza B neuraminidase and mechanisms of protecti,2023-09-19,2024-05-06,2024-06-02,20,71
+38821054,10.1016/j.immuni.2024.05.005,Immunity,An inducible genetic tool to track and manipulate specific microglial states reveals their,2023-08-18,2024-05-07,2024-06-01,18,89
+38821053,10.1016/j.immuni.2024.05.003,Immunity,Mast cells control lung type 2 inflammation via prostaglandin E2-driven soluble ST2.,2023-06-28,2024-05-06,2024-06-01,16,96
+38821052,10.1016/j.immuni.2024.05.006,Immunity,Deletion of the mRNA endonuclease Regnase-1 promotes NK cell anti-tumor activity via OCT2-,2023-07-13,2024-05-07,2024-06-01,12,0
+38815582,10.1016/j.immuni.2024.05.004,Immunity,Intestinal CXCR6+ ILC3s migrate to the kidney and exacerbate renal fibrosis via IL-23 rece,2023-12-21,2024-05-06,2024-05-31,39,80
+38788711,10.1016/j.immuni.2024.05.001,Immunity,Breadth of Fc-mediated effector function correlates with clinical immunity following human,2024-01-30,2024-05-01,2024-05-25,17,76
+38776918,10.1016/j.immuni.2024.04.026,Immunity,The CD8+ T cell tolerance checkpoint triggers a distinct differentiation state defined by ,2023-05-15,2024-04-30,2024-05-23,28,134
+38772366,10.1016/j.immuni.2024.04.024,Immunity,Metabolic regulator LKB1 controls adipose tissue ILC2 PD-1 expression and mitochondrial ho,2023-08-18,2024-04-25,2024-05-22,21,0
+38749447,10.1016/j.immuni.2024.04.021,Immunity,Expression of the membrane tetraspanin claudin 18 on cancer cells promotes T lymphocyte in,2023-05-24,2024-04-23,2024-05-16,28,0
+38749446,10.1016/j.immuni.2024.04.019,Immunity,Classical monocyte ontogeny dictates their functions and fates as tissue macrophages.,2023-07-08,2024-04-18,2024-05-16,17,0
+38744292,10.1016/j.immuni.2024.04.018,Immunity,Tuft cell acetylcholine is released into the gut lumen to promote anti-helminth immunity.,2023-06-18,2024-04-17,2024-05-15,26,47
+38744291,10.1016/j.immuni.2024.03.023,Immunity,Tuft cell-derived acetylcholine promotes epithelial chloride secretion and intestinal helm,2023-04-05,2024-03-29,2024-05-15,18,112
+38723638,10.1016/j.immuni.2024.04.014,Immunity,Antigen-level resolution of commensal-specific B cell responses can be enabled by phage di,2023-10-12,2024-04-16,2024-05-10,8,61
+38692280,10.1016/j.immuni.2024.04.002,Immunity,Adipose-tissue Treg cells restrain differentiation of stromal adipocyte precursors to prom,2023-05-23,2024-04-04,2024-05-02,6,63
+38749396,10.1016/j.immuni.2024.04.005,Immunity,Astrocytes remember inflammation.,2024-04-08,2024-04-09,2024-05-16,2,0
+38749395,10.1016/j.immuni.2024.04.020,Immunity,"A new superhero, the intraepithelial mast cell, joins the ""Guardians of the Gut"".",2024-04-10,2024-04-19,2024-05-16,2,0
+38749394,10.1016/j.immuni.2024.04.013,Immunity,Hair care: Stem cells control immune response during wound repair.,2024-04-12,2024-04-16,2024-05-16,2,0
+38749393,10.1016/j.immuni.2024.04.012,Immunity,Non-canonical IKKs side with N4BP1 against the family.,2024-04-12,2024-04-16,2024-05-16,1,0
+38749392,10.1016/j.immuni.2024.04.011,Immunity,Immunity by AS03ation: The natural adjuvantage.,2024-04-15,2024-04-16,2024-05-16,2,0
+38703775,10.1016/j.immuni.2024.04.006,Immunity,Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-der,2023-03-21,2024-04-09,2024-05-05,17,86
+38697118,10.1016/j.immuni.2024.04.009,Immunity,Integrating population and single-cell variations in vaccine responses identifies a natura,2023-03-28,2024-04-12,2024-05-03,12,0
+38697117,10.1016/j.immuni.2024.04.004,Immunity,N4BP1 coordinates ubiquitin-dependent crosstalk within the IκB kinase family to limit Toll,2023-06-29,2024-04-08,2024-05-03,13,66
+38697116,10.1016/j.immuni.2024.04.007,Immunity,A CTCF-binding site in the Mdm1-Il22-Ifng locus shapes cytokine expression profiles and pl,2022-10-31,2024-04-10,2024-05-03,27,55
+38677292,10.1016/j.immuni.2024.04.001,Immunity,Transcription factor Tox2 is required for metabolic adaptation and tissue residency of ILC,2023-12-06,2024-04-03,2024-04-28,25,83
+38677291,10.1016/j.immuni.2024.04.003,Immunity,CD80 on skin stem cells promotes local expansion of regulatory T cells upon injury to orch,2022-12-12,2024-04-05,2024-04-28,15,49
+38670113,10.1016/j.immuni.2024.03.022,Immunity,Eliciting a single amino acid change by vaccination generates antibody protection against ,2023-12-12,2024-03-29,2024-04-27,25,115
+38640930,10.1016/j.immuni.2024.03.021,Immunity,25-Hydroxycholesterol regulates lysosome AMP kinase activation and metabolic reprogramming,2023-09-05,2024-03-27,2024-04-20,21,0
+38636522,10.1016/j.immuni.2024.03.020,Immunity,Jagged2 targeting in lung cancer activates anti-tumor immunity via Notch-induced functiona,2023-04-05,2024-03-26,2024-04-19,28,65
+38614091,10.1016/j.immuni.2024.03.017,Immunity,Intraepithelial mast cells drive gasdermin C-mediated type 2 immunity.,2023-09-12,2024-03-19,2024-04-14,10,0
+38614090,10.1016/j.immuni.2024.03.018,Immunity,Regulation of T helper cell differentiation by the interplay between histone modification ,2023-08-13,2024-03-22,2024-04-14,13,130
+38593796,10.1016/j.immuni.2024.03.016,Immunity,Type I interferons induce an epigenetically distinct memory B cell subset in chronic viral,2023-03-08,2024-03-15,2024-04-10,22,121
+38599176,10.1016/j.immuni.2024.03.013,Immunity,Stressed out neutrophils drive metastasis.,2024-03-12,2024-03-12,2024-04-11,2,0
+38599175,10.1016/j.immuni.2024.03.011,Immunity,Depression: Monocytes on my mind.,2024-03-07,2024-03-12,2024-04-11,2,0
+38599174,10.1016/j.immuni.2024.03.006,Immunity,Hostile bile limits anti-cancer immunity.,2024-03-04,2024-03-06,2024-04-11,2,0
+38599173,10.1016/j.immuni.2024.03.009,Immunity,"Gums make IL-23, no professionals needed.",2024-03-07,2024-03-11,2024-04-11,1,0
+38518779,10.1016/j.immuni.2024.03.001,Immunity,Convergent evolution and targeting of diverse E2 epitopes by human broadly neutralizing an,2023-10-19,2024-03-01,2024-03-23,14,62
+38513666,10.1016/j.immuni.2024.02.018,Immunity,Interleukin-4 downregulates transcription factor BCL6 to promote memory B cell selection i,2023-02-24,2024-02-26,2024-03-22,8,79
+38513665,10.1016/j.immuni.2024.02.020,Immunity,Epithelial-derived interleukin-23 promotes oral mucosal immunopathology.,2023-08-28,2024-02-29,2024-03-22,24,96
+38490198,10.1016/j.immuni.2024.02.017,Immunity,Immunological imprinting shapes the specificity of human antibody responses against SARS-C,2024-01-08,2024-02-26,2024-03-16,9,56
+38490197,10.1016/j.immuni.2024.02.016,Immunity,Persistent immune imprinting occurs after vaccination with the COVID-19 XBB.1.5 mRNA boost,2023-12-01,2024-02-20,2024-03-16,10,82
+38479384,10.1016/j.immuni.2024.02.014,Immunity,Bile acids modified by the intestinal microbiota promote colorectal cancer growth by suppr,2023-02-24,2024-02-15,2024-03-14,23,0
+38479361,10.1016/j.immuni.2024.02.008,Immunity,Epstein-Barr virus gp42 antibodies reveal sites of vulnerability for receptor binding and ,2023-08-15,2024-02-08,2024-03-14,13,40
+38479358,10.1016/j.immuni.2024.02.010,Immunity,Complement-ary protection for all ages.,2024-02-12,2024-02-13,2024-03-14,2,0
+38479357,10.1016/j.immuni.2024.02.012,Immunity,Predicting plasma cell retention and loss over a lifetime.,2024-02-07,2024-02-14,2024-03-14,2,0
+38479356,10.1016/j.immuni.2024.02.015,Immunity,Dual checkpoint T(h1)eamwork makes the anti-cancer dream work.,2024-02-12,2024-02-15,2024-03-14,3,0
+38479355,10.1016/j.immuni.2024.02.013,Immunity,IL-4-ever young: Type 2 cytokine signaling in macrophages slows aging.,2024-02-05,2024-02-14,2024-03-14,2,0
+38479354,10.1016/j.immuni.2024.02.009,Immunity,The price of P2X7R freedom is neuroinflammation.,2024-02-04,2024-02-12,2024-03-14,2,0
+38447571,10.1016/j.immuni.2024.02.006,Immunity,Differentiation route determines the functional outputs of adult megakaryopoiesis.,2023-07-08,2024-02-08,2024-03-07,9,0
+38447570,10.1016/j.immuni.2024.02.005,Immunity,Tuning of plasma cell lifespan by competition explains the longevity and heterogeneity of ,2023-07-07,2024-02-07,2024-03-07,2,0
+38442708,10.1016/j.immuni.2024.02.007,Immunity,CD4+ T cell activation distinguishes response to anti-PD-L1+anti-CTLA4 therapy from anti-P,2022-12-26,2024-02-08,2024-03-06,26,0
+38430908,10.1016/j.immuni.2024.02.004,Immunity,The transcription factor NF-κB orchestrates nucleosome remodeling during the primary respo,2023-06-25,2024-02-07,2024-03-03,12,66
+38430907,10.1016/j.immuni.2024.02.003,Immunity,Protective human monoclonal antibodies target conserved sites of vulnerability on the unde,2023-03-27,2024-02-06,2024-03-03,19,75
+38423012,10.1016/j.immuni.2024.02.002,Immunity,Oligoadenylate synthetase 1 displays dual antiviral mechanisms in driving translational sh,2023-06-15,2024-02-05,2024-03-01,16,84
+38417442,10.1016/j.immuni.2024.01.019,Immunity,Lactate modulates RNA splicing to promote CTLA-4 expression in tumor-infiltrating regulato,2023-10-30,2024-01-30,2024-02-29,11,0
+38395698,10.1016/j.immuni.2024.01.018,Immunity,Disruption of the Na+/K+-ATPase-purinergic P2X7 receptor complex in microglia promotes str,2023-03-30,2024-01-29,2024-02-24,9,0
+38395697,10.1016/j.immuni.2024.01.017,Immunity,SARS-CoV-2-infection- and vaccine-induced antibody responses are long lasting with an init,2023-10-05,2024-01-29,2024-02-24,14,38
+38262419,10.1016/j.immuni.2024.01.001,Immunity,Type 2 cytokine signaling in macrophages protects from cellular senescence and organismal ,2023-07-27,2024-01-02,2024-01-24,8,0
+38354704,10.1016/j.immuni.2024.01.011,Immunity,Signaling via a CD27-TRAF2-SHP-1 axis during naive T cell activation promotes memory-assoc,2023-02-27,2024-01-11,2024-02-15,29,74
+38354703,10.1016/j.immuni.2024.01.007,Immunity,Antibody agonists trigger immune receptor signaling through local exclusion of receptor-ty,2022-10-11,2024-01-09,2024-02-15,35,83
+38354700,10.1016/j.immuni.2024.01.014,Immunity,A case of too much sugar: Lung DCs flummoxed by flu.,2024-01-01,2024-01-18,2024-02-15,2,0
+38354699,10.1016/j.immuni.2024.01.004,Immunity,"The diversity, destiny, and memory of DAMs.",2024-01-04,2024-01-08,2024-02-15,2,0
+38354698,10.1016/j.immuni.2024.01.012,Immunity,Neutrophils are itching to specialize.,2024-01-07,2024-01-11,2024-02-15,2,0
+38354697,10.1016/j.immuni.2024.01.016,Immunity,"Host-microbial crosstalk relies on ""tuft"" love.",2024-01-17,2024-01-18,2024-02-15,2,0
+38354696,10.1016/j.immuni.2024.01.015,Immunity,Immunity as biophysics at the surface of a T cell.,2024-01-16,2024-01-18,2024-02-15,1,0
+38309273,10.1016/j.immuni.2024.01.009,Immunity,Amphiregulin from regulatory T cells promotes liver fibrosis and insulin resistance in non,2022-09-23,2024-01-10,2024-02-04,16,84
+38309272,10.1016/j.immuni.2024.01.008,Immunity,Fate mapping of Spp1 expression reveals age-dependent plasticity of disease-associated mic,2023-03-15,2024-01-09,2024-02-04,16,0
+38301653,10.1016/j.immuni.2024.01.006,Immunity,An atlas of cells in the human tonsil.,2022-06-28,2024-01-09,2024-02-02,49,148
+38301652,10.1016/j.immuni.2023.12.006,Immunity,"Reversible, tunable epigenetic silencing of TCF1 generates flexibility in the T cell memor",2023-03-09,2023-12-07,2024-02-02,17,85
+38301651,10.1016/j.immuni.2024.01.005,Immunity,Small-molecule CBP/p300 histone acetyltransferase inhibition mobilizes leukocytes from the,2023-06-29,2024-01-08,2024-02-02,23,79
+38295799,10.1016/j.immuni.2024.01.003,Immunity,A GPCR-neuropeptide axis dampens hyperactive neutrophils by promoting an alternative-like ,2023-06-11,2024-01-08,2024-02-01,7,87
+38295798,10.1016/j.immuni.2024.01.002,Immunity,Microbiota-derived butyrate restricts tuft cell differentiation via histone deacetylase 3 ,2023-02-28,2024-01-05,2024-02-01,14,76
+38228150,10.1016/j.immuni.2023.12.010,Immunity,Lack of affinity signature for germinal center cells that have initiated plasma cell diffe,2023-04-01,2023-12-13,2024-01-17,12,56
+38198855,10.1016/j.immuni.2023.12.015,Immunity,"TIMely connections: APOE4, aging, and Alzheimer's.",2023-12-16,2023-12-18,2024-01-11,1,0
+38198854,10.1016/j.immuni.2023.12.013,Immunity,On blood and tissue-resident natural killer cells.,2023-12-12,2023-12-13,2024-01-11,3,0
+38198853,10.1016/j.immuni.2023.12.008,Immunity,Kidney macrophages tap the stream.,2023-12-05,2023-12-11,2024-01-11,2,0
+38198850,10.1016/j.immuni.2023.12.005,Immunity,Multi-omics analysis of innate and adaptive responses to BCG vaccination reveals epigeneti,2022-03-27,2023-12-07,2024-01-11,25,0
+38198848,10.1016/j.immuni.2023.12.011,Immunity,"You are the tumor queen, microbiome fiend, IL-17.",2023-12-11,2023-12-13,2024-01-11,2,0
+38198847,10.1016/j.immuni.2023.12.007,Immunity,TREMendous microglial effects on neurons.,2023-12-06,2023-12-11,2024-01-11,2,0
+38171362,10.1016/j.immuni.2023.12.004,Immunity,Neutralizing antibodies evolve to exploit vulnerable sites in the HCV envelope glycoprotei,2023-07-14,2023-12-06,2024-01-04,11,59
+38159573,10.1016/j.immuni.2023.12.003,Immunity,Renal macrophages monitor and remove particles from urine to prevent tubule obstruction.,2022-09-15,2023-12-05,2024-01-02,16,0
+38159572,10.1016/j.immuni.2023.12.002,Immunity,Trem2 expression in microglia is required to maintain normal neuronal bioenergetics during,2022-09-15,2023-12-05,2024-01-02,16,120
+38159571,10.1016/j.immuni.2023.12.001,Immunity,An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's,2023-02-23,2023-12-04,2024-01-02,3,103
+38157853,10.1016/j.immuni.2023.11.018,Immunity,Circulating NK cells establish tissue residency upon acute infection of skin and mediate a,2023-02-28,2023-11-28,2024-01-02,16,99
+38141610,10.1016/j.immuni.2023.11.017,Immunity,Tissue factor binds to and inhibits interferon-α receptor 1 signaling.,2022-08-14,2023-11-28,2023-12-24,30,0
+38091996,10.1016/j.immuni.2023.11.006,Immunity,Immunomodulatory leptin receptor+ sympathetic perineurial barrier cells protect against ob,2023-05-31,2023-11-10,2023-12-14,20,0
+38091995,10.1016/j.immuni.2023.11.007,Immunity,trans-Endothelial neutrophil migration activates bactericidal function via Piezo1 mechanos,2023-03-14,2023-11-10,2023-12-14,16,97
+41380684,10.1016/j.immuni.2025.11.018,Immunity,Tolerance to ferroptosis facilitates lipid metabolism and pathogenic type 2 immunity in al,2024-11-15,2025-11-14,2025-12-12,14,0
+41468886,10.1016/j.immuni.2025.11.019,Immunity,Remodeling of skull bone channels regulates immune infiltration into the meninges during n,2025-05-16,2025-11-14,2025-12-31,10,0
+41455473,10.1016/j.immuni.2025.11.022,Immunity,Transcription factor Maf promotes expression of repressor Zeb2 to drive microglia developm,2025-05-05,2025-11-20,2025-12-28,17,73
+41421339,10.1016/j.immuni.2025.11.020,Immunity,Positioning and reversible suppression of CCR7+ dendritic cells in perivascular tumor nich,2025-04-01,2025-11-19,2025-12-21,45,115
+41401810,10.1016/j.immuni.2025.11.014,Immunity,Opposing functions of distinct regulatory T cell subsets in colorectal cancer.,2025-03-20,2025-11-12,2025-12-17,15,86
+41386231,10.1016/j.immuni.2025.11.015,Immunity,Innate type 2 lymphocytes trigger an inflammatory switch in alveolar macrophages.,2025-06-09,2025-11-13,2025-12-13,21,0
+41371223,10.1016/j.immuni.2025.11.009,Immunity,The TCR-SUB1-DOCK2 axis promotes autoimmunity by driving pathogenic CD4+ T cell tissue inf,2025-01-28,2025-11-10,2025-12-11,6,0
+41365298,10.1016/j.immuni.2025.11.001,Immunity,A dysregulated hepcidin-iron axis impairs antiviral immunity and induces lethal liver path,2024-01-28,2025-11-03,2025-12-10,35,0
+41352342,10.1016/j.immuni.2025.11.004,Immunity,A chemical agonist and the Golgi-resident lipid PI4P activate STING by inducing transmembr,2025-01-13,2025-11-05,2025-12-07,12,0
+41274291,10.1016/j.immuni.2025.10.021,Immunity,"IL-9 signaling redirects CAR T cell fate toward CD8+ memory and CD4+ cycling states, enhan",2025-01-17,2025-10-27,2025-11-23,11,0
+41274289,10.1016/j.immuni.2025.10.024,Immunity,IL-9 as a naturally orthogonal cytokine with optimal JAK/STAT signaling for engineered T c,2025-01-02,2025-10-30,2025-11-23,20,59
+41237776,10.1016/j.immuni.2025.10.020,Immunity,FOXP3 expression depends on cell-type-specific cis-regulatory elements and transcription f,2025-03-23,2025-10-23,2025-11-15,30,96
+41371211,10.1016/j.immuni.2025.11.012,Immunity,A surprising link: TET2 clonal hematopoiesis boosts immune checkpoint therapy.,2025-11-12,2025-11-12,2025-12-11,2,0
+41371210,10.1016/j.immuni.2025.11.002,Immunity,Shape-shifting microglia respond to neuronal hyperexcitability.,2025-10-28,2025-11-03,2025-12-11,2,0
+41371209,10.1016/j.immuni.2025.11.017,Immunity,Intestinal plasma cells get in formation.,2025-11-13,2025-11-13,2025-12-11,2,0
+41371208,10.1016/j.immuni.2025.11.016,Immunity,Memories are I(F)N-credibly protective.,2025-11-11,2025-11-13,2025-12-11,2,0
+41371207,10.1016/j.immuni.2025.11.008,Immunity,Skin deep: Unconventional autophagy eats away TNF-driven skin inflammation.,2025-11-05,2025-11-10,2025-12-11,2,0
+41330367,10.1016/j.immuni.2025.11.005,Immunity,Clonal persistence dominates homeostatic intestinal IgA responses.,2025-03-28,2025-11-05,2025-12-03,11,0
+41317729,10.1016/j.immuni.2025.11.007,Immunity,Quantifying the waning of humoral immunity.,2025-01-09,2025-11-07,2025-11-30,7,67
+41308653,10.1016/j.immuni.2025.10.025,Immunity,Deep profiling of human T cells defines compartmentalized clones and phenotypic trajectori,2024-07-09,2025-10-30,2025-11-28,21,58
+41308652,10.1016/j.immuni.2025.11.003,Immunity,Human lung CD8+ tissue-resident memory T cell-derived interferon-γ orchestrates subset-spe,2024-12-20,2025-11-05,2025-11-28,18,0
+41289995,10.1016/j.immuni.2025.10.014,Immunity,Topography of the HLA-A protein enforces shared and convergent immunodominant B cell and a,2024-10-18,2025-10-09,2025-11-26,27,128
+41253159,10.1016/j.immuni.2025.10.022,Immunity,Sequential class switching generates antigen-specific gut IgA from IgG1 B cells.,2025-09-02,2025-10-27,2025-11-19,22,104
+41205611,10.1016/j.immuni.2025.10.008,Immunity,Highly functional and prolonged germinal center T follicular helper cell responses are ass,2025-03-20,2025-10-07,2025-11-09,18,98
+41175877,10.1016/j.immuni.2025.10.002,Immunity,TCR signaling via NFATc1 constrains IL-15-induced bystander activation of human memory CD8,2025-03-14,2025-10-02,2025-11-02,15,0
+41167189,10.1016/j.immuni.2025.10.003,Immunity,Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in ch,2025-04-16,2025-10-06,2025-10-31,28,0
+41118755,10.1016/j.immuni.2025.09.019,Immunity,ATG9A-mediated autophagy prevents inflammatory skin disease by limiting TNFR1-driven STING,2025-03-03,2025-09-28,2025-10-22,11,0
+41043413,10.1016/j.immuni.2025.09.004,Immunity,Eomesodermin+ CD4+ T cells are critical for curative immunotherapy outcomes.,2024-04-24,2025-09-05,2025-10-04,23,72
+40975067,10.1016/j.immuni.2025.08.016,Immunity,Rod-shaped microglia interact with neuronal dendrites to attenuate cortical excitability d,2024-07-23,2025-08-24,2025-09-21,19,74
+41223843,10.1016/j.immuni.2025.10.015,Immunity,Tame the Hydra's head: Targeting bone marrow maladaptive myelopoiesis to reverse macrophag,2025-10-05,2025-10-11,2025-11-13,2,0
+41223842,10.1016/j.immuni.2025.10.018,Immunity,Fermenting T cell stemness for cancer immunity.,2025-10-10,2025-10-15,2025-11-13,2,0
+41223841,10.1016/j.immuni.2025.10.010,Immunity,Myeloid TET2 tips the balance of neuro-epithelial crosstalk.,2025-10-07,2025-10-07,2025-11-13,2,0
+41223840,10.1016/j.immuni.2025.10.017,Immunity,A Notch too far: Treg plasticity in multiple sclerosis.,2025-10-14,2025-10-15,2025-11-13,2,0
+41223839,10.1016/j.immuni.2025.10.016,Immunity,Hidden survivors: Long-lived IgE-secreting plasma cells in the spleen.,2025-10-10,2025-10-14,2025-11-13,2,0
+41192430,10.1016/j.immuni.2025.10.006,Immunity,Long-lived IgE plasma cells persist in secondary lymphoid tissues using a navitoclax-sensi,2024-10-01,2025-10-07,2025-11-06,16,59
+41187762,10.1016/j.immuni.2025.10.012,Immunity,A myeloid Tet2-IL-1β axis modulates intestinal inflammation by restricting catecholaminerg,2024-10-14,2025-10-09,2025-11-05,11,62
+41187761,10.1016/j.immuni.2025.10.004,Immunity,Microbiota-derived butyrate promotes a FOXO1-induced stemness program and preserves CD8+ T,2025-03-14,2025-10-06,2025-11-05,27,0
+41175876,10.1016/j.immuni.2025.10.013,Immunity,Myeloid cells mediate interferon-driven resistance to immunotherapy in advanced renal cell,2024-12-20,2025-10-09,2025-11-02,19,94
+41175874,10.1016/j.immuni.2025.10.001,Immunity,Genomic copy-number variants drive apoptotic evasion underlying acquired resistance to imm,2024-09-16,2025-09-30,2025-11-02,17,71
+41175873,10.1016/j.immuni.2025.10.011,Immunity,Long-lived IgE plasma cells that reside in the spleen contribute to the persistence of the,2024-12-20,2025-10-08,2025-11-02,11,0
+41175872,10.1016/j.immuni.2025.10.007,Immunity,Membrane integrity changes upon viral infection activate sphingomyelinase SMPDL3B to restr,2024-11-02,2025-10-07,2025-11-02,10,0
+41172988,10.1016/j.immuni.2025.10.005,Immunity,The transcription factor NFIL3 drives innate lymphoid cell specification from lymphoid pro,2024-05-15,2025-10-06,2025-11-01,8,92
+41125076,10.1016/j.immuni.2025.09.018,Immunity,Spatial immune profiling defines a subset of human gliomas with functional tertiary lympho,2024-12-16,2025-09-28,2025-10-23,16,0
+41072404,10.1016/j.immuni.2025.09.014,Immunity,Cryo-EM structure of endogenous Pfs230:Pfs48/45 complex with six antibodies reveals mechan,2025-06-13,2025-09-17,2025-10-11,23,0
+41043415,10.1016/j.immuni.2025.09.007,Immunity,Notch3 destabilizes regulatory T cells to drive autoimmune neuroinflammation in multiple s,2025-06-03,2025-09-08,2025-10-04,23,95
+41005294,10.1016/j.immuni.2025.09.001,Immunity,S. aureus exposure during cutaneous antigen sensitization causes basophil- and interleukin,2024-09-24,2025-09-03,2025-09-27,28,113
+40957420,10.1016/j.immuni.2025.08.014,Immunity,Integrin CD103 expression in naive CD8+ T cells promotes cytokine-driven acquisition of me,2025-02-20,2025-08-15,2025-09-17,9,99
+40957419,10.1016/j.immuni.2025.08.015,Immunity,A TLR4-dependent fibroblast-monocyte axis in tumor-draining lymph nodes contributes to met,2024-07-31,2025-08-18,2025-09-17,30,0
+40845842,10.1016/j.immuni.2025.07.022,Immunity,Transcription factor BACH2 shapes tissue-resident memory T cell programs to promote HIV-1 ,2024-10-27,2025-07-25,2025-08-28,12,128
+41092897,10.1016/j.immuni.2025.09.009,Immunity,Primate resident memory T cells activate humoral and stromal immunity.,2024-11-20,2025-09-11,2025-10-16,31,70
+41092896,10.1016/j.immuni.2025.09.013,Immunity,Fibroblasts are not so scar-y in brain injury.,2025-09-15,2025-09-16,2025-10-16,2,0
+41092895,10.1016/j.immuni.2025.09.010,Immunity,"Alzheimer's alphabet soup: Find the letters ""Z-DNA-ZBP1-RIPK1"".",2025-09-09,2025-09-14,2025-10-16,2,10
+41092894,10.1016/j.immuni.2025.09.017,Immunity,Resident memory T cells call the shots in tissue immunity.,2025-09-18,2025-09-21,2025-10-16,2,0
+41092893,10.1016/j.immuni.2025.09.016,Immunity,Burning the candle at both ends: ROS-mediated telomere damage drives T cell dysfunction.,2025-09-18,2025-09-18,2025-10-16,2,0
+41092892,10.1016/j.immuni.2025.09.015,Immunity,Cutting the Gordian knot: Untangling gasdermin C from pyroptosis.,2025-09-17,2025-09-18,2025-10-16,2,0
+41043414,10.1016/j.immuni.2025.09.008,Immunity,The transcriptional repressor BLIMP1 enforces TCF-1-dependent and -independent restriction,2024-12-02,2025-09-11,2025-10-04,15,73
+41005293,10.1016/j.immuni.2025.09.003,Immunity,Intra-tumoral hypoxia promotes CD8+ T cell dysfunction via chronic activation of integrate,2024-11-04,2025-09-04,2025-09-27,24,83
+41005292,10.1016/j.immuni.2025.09.002,Immunity,Control of myeloid lineage fidelity and response to stimuli by ISWI-enforced nucleosome ph,2025-02-10,2025-09-03,2025-09-27,9,0
+40945518,10.1016/j.immuni.2025.08.009,Immunity,Multi-scaled transcriptomics of chronically inflamed nasal epithelium reveals immune-epith,2025-01-03,2025-08-08,2025-09-14,36,53
+40930086,10.1016/j.immuni.2025.08.008,Immunity,Oxidative-stress-induced telomere instability drives T cell dysfunction in cancer.,2024-03-26,2025-08-08,2025-09-11,14,82
+40914152,10.1016/j.immuni.2025.08.004,Immunity,Sensory neurons shape local macrophage identity via TGF-β signaling.,2023-12-15,2025-08-06,2025-09-07,25,0
+40902587,10.1016/j.immuni.2025.07.024,Immunity,Innate immune sensing of Z-nucleic acids by ZBP1-RIPK1 axis drives neuroinflammation in Al,2025-04-23,2025-07-31,2025-09-04,9,0
+40885192,10.1016/j.immuni.2025.08.001,Immunity,Anchored screening identifies transcription factor blueprints underlying dendritic cell di,2024-05-15,2025-08-01,2025-08-31,19,0
+40816269,10.1016/j.immuni.2025.07.017,Immunity,Succinate preserves CD8+ T cell fitness to augment antitumor immunity.,2024-11-11,2025-07-17,2025-08-16,19,0
+40816268,10.1016/j.immuni.2025.07.013,Immunity,Inhibition of tumor cell macropinocytosis driver DHODH reverses immunosuppression and over,2024-06-05,2025-07-15,2025-08-16,12,0
+40701157,10.1016/j.immuni.2025.06.018,Immunity,Gasdermin C cleavage by Cathepsin S modulates Rab7 vesicles in intestinal epithelial cells,2024-12-18,2025-06-26,2025-07-24,28,45
+40930076,10.1016/j.immuni.2025.08.006,Immunity,Gut microbe-derived metabolites drive psoriatic inflammation via modulation of skin Th17 c,2025-01-24,2025-08-06,2025-09-11,16,0
+40930075,10.1016/j.immuni.2025.08.010,Immunity,"Trio fatale: Neutrophils, NETs, and necrosis.",2025-08-08,2025-08-12,2025-09-11,2,0
+40930074,10.1016/j.immuni.2025.08.013,Immunity,Born to be wild: Wildings stay the course.,2025-08-08,2025-08-14,2025-09-11,2,0
+40930073,10.1016/j.immuni.2025.07.021,Immunity,Touch of youth: Mechanosensing expands stem-like CAR-T cells.,2025-07-25,2025-07-25,2025-09-11,2,0
+40930072,10.1016/j.immuni.2025.07.025,Immunity,Gut instincts: Gasdermin D feeds while it fights.,2025-07-25,2025-07-31,2025-09-11,2,0
+40930070,10.1016/j.immuni.2025.08.011,Immunity,Approaches toward understanding human immunity.,2025-08-12,2025-08-13,2025-09-11,10,0
+40902588,10.1016/j.immuni.2025.08.005,Immunity,Tolerance to non-inherited maternal antigen is sustained by LysM+ CD11c+ maternal microchi,2024-05-15,2025-08-06,2025-09-04,9,67
+40885191,10.1016/j.immuni.2025.08.003,Immunity,Nucleotide-dependent conformational changes direct peptide export by the transporter assoc,2025-02-11,2025-08-06,2025-08-31,3,65
+40865520,10.1016/j.immuni.2025.07.023,Immunity,Unfolded protein response transcription factor XBP1 suppresses necroptosis-induced colitis,2024-04-17,2025-07-30,2025-08-28,8,0
+40829590,10.1016/j.immuni.2025.07.020,Immunity,Immunopathogenesis of lethal H5N1 avian influenza virus clade 2.3.4.4b infection in macaqu,2025-03-10,2025-07-23,2025-08-20,39,0
+40818452,10.1016/j.immuni.2025.07.005,Immunity,Spatiotemporal dynamics of CXCL10 encode contextual immune information revealed by the gen,2024-12-07,2025-07-07,2025-08-17,12,0
+40782798,10.1016/j.immuni.2025.07.018,Immunity,Mechanical signaling via β2 integrin decouples T cell proliferation and differentiation fo,2024-08-09,2025-07-17,2025-08-10,18,0
+40738109,10.1016/j.immuni.2025.07.001,Immunity,Asynchronous aging and turnover of human circulating and tissue-resident memory T cells ac,2024-08-01,2025-07-01,2025-07-31,19,96
+40730165,10.1016/j.immuni.2025.07.004,Immunity,Naturalized immune responses are stable over years in a colony of laboratory mice with wil,2024-09-14,2025-07-03,2025-07-30,10,34
+40712560,10.1016/j.immuni.2025.06.019,Immunity,Gasdermin-D-mediated epithelial-immune circuit synchronizes nutrient absorption and host d,2025-04-25,2025-06-30,2025-07-28,20,0
+40680750,10.1016/j.immuni.2025.06.017,Immunity,Epigenetic silencing of interleukin-10 by host-derived oxidized phospholipids supports a l,2023-11-13,2025-06-18,2025-07-19,21,81
+40675160,10.1016/j.immuni.2025.06.011,Immunity,CINTER-seq: Chemical profiling reveals interaction-dependent cell landscapes and gene sign,2024-11-25,2025-06-11,2025-07-18,19,0
+40669468,10.1016/j.immuni.2025.06.016,Immunity,Cognate interaction-dependent pathogenicity of meningeal B cells drives neuroinflammation ,2024-01-31,2025-06-18,2025-07-17,8,0
+40803314,10.1016/j.immuni.2025.07.015,Immunity,Neural tuners of lung immunity.,2025-07-17,2025-07-17,2025-08-14,2,0
+40803313,10.1016/j.immuni.2025.07.003,Immunity,"Dumping polyamines helps regulatory T cells ""repair"" a cancerous relationship.",2025-07-01,2025-07-02,2025-08-14,2,0
+40803312,10.1016/j.immuni.2025.07.010,Immunity,The high (I)COSt of costimulation for exhausted T cells.,2025-07-08,2025-07-11,2025-08-14,2,0
+40803311,10.1016/j.immuni.2025.07.019,Immunity,No STINGs attached: How APOE-Christchurch dampens Alzheimer's pathology.,2025-07-17,2025-07-17,2025-08-14,2,0
+40749666,10.1016/j.immuni.2025.07.007,Immunity,Polyamines regulate adaptive antitumor immunity by functional specialization of regulatory,2024-04-04,2025-07-09,2025-08-02,25,0
+40749665,10.1016/j.immuni.2025.07.008,Immunity,Mutations in MLL3 promote breast cancer progression via HIF1α-dependent intratumoral recru,2024-01-26,2025-07-09,2025-08-02,19,94
+40749664,10.1016/j.immuni.2025.07.002,Immunity,Innate-like memory T cells rapidly emerge in humans after gene therapy for SCID-X1.,2024-10-03,2025-07-02,2025-08-02,17,41
+40664217,10.1016/j.immuni.2025.06.014,Immunity,Systems analysis of clinical malaria reveals proteomic perturbation and innate-adaptive cr,2024-12-23,2025-06-13,2025-07-16,16,0
+40628269,10.1016/j.immuni.2025.06.001,Immunity,The costimulatory molecule ICOS limits memory-like properties and function of exhausted PD,2024-06-26,2025-06-02,2025-07-09,18,104
+40609535,10.1016/j.immuni.2025.06.002,Immunity,Excitatory-neuron-derived interleukin-34 supports cortical developmental microglia functio,2024-04-04,2025-06-02,2025-07-04,13,70
+40555239,10.1016/j.immuni.2025.05.026,Immunity,A fungal-derived adjuvant amplifies the antitumoral potency of Bacillus Calmette-Guérin vi,2024-09-13,2025-05-29,2025-06-25,21,54
+40555238,10.1016/j.immuni.2025.05.023,Immunity,The R136S mutation in the APOE3 gene confers resilience against tau pathology via inhibiti,2024-04-10,2025-05-27,2025-06-25,25,78
+40532705,10.1016/j.immuni.2025.05.020,Immunity,"A conserved immune dysregulation signature is associated with infection severity, risk fac",2024-11-07,2025-05-22,2025-06-19,8,103
+40527324,10.1016/j.immuni.2025.05.018,Immunity,Nociceptor-derived CGRP enhances dermal type I conventional dendritic cell function to dri,2024-05-02,2025-05-16,2025-06-18,19,0
+40480220,10.1016/j.immuni.2025.05.001,Immunity,Cellular mechanisms underlying beneficial versus detrimental effects of bacterial antitumo,2024-02-06,2025-05-01,2025-06-07,10,107
+40466637,10.1016/j.immuni.2025.05.005,Immunity,A brain-to-lung signal from GABAergic neurons to ADRB2+ interstitial macrophages promotes ,2024-11-17,2025-05-07,2025-06-05,19,0
+40449484,10.1016/j.immuni.2025.05.002,Immunity,Nociceptor neurons suppress alveolar macrophage-induced Siglec-F+ neutrophil-mediated infl,2024-06-28,2025-05-05,2025-06-01,25,0
+40633528,10.1016/j.immuni.2025.06.012,Immunity,RORγt+ dendritic cells and regulatory T cells: A couple hiding in the shadows.,2025-06-11,2025-06-11,2025-07-10,1,0
+40633527,10.1016/j.immuni.2025.06.007,Immunity,Neuro-immune ChATing protects the heart.,2025-06-02,2025-06-06,2025-07-10,2,0
+40633526,10.1016/j.immuni.2025.06.013,Immunity,Who is who in differentiation of Trm-like TIL.,2025-06-10,2025-06-12,2025-07-10,3,0
+40633525,10.1016/j.immuni.2025.06.008,Immunity,Mitochondrial control of macrophage polarity in tumors.,2025-06-09,2025-06-09,2025-07-10,2,0
+40633524,10.1016/j.immuni.2025.06.009,Immunity,The Three Graces of T cell receptor Vγ9Vδ2 chain activation.,2025-06-06,2025-06-09,2025-07-10,2,0
+40592342,10.1016/j.immuni.2025.06.005,Immunity,Mutant p53 exploits enhancers to elevate immunosuppressive chemokine expression and impair,2024-09-27,2025-06-05,2025-07-02,20,131
+40592341,10.1016/j.immuni.2025.06.006,Immunity,Mitochondrial complex IV remodeling in tumor-associated macrophages amplifies interferon s,2024-06-25,2025-06-06,2025-07-02,12,102
+40580954,10.1016/j.immuni.2025.06.003,Immunity,Optogenetic vagal nerve stimulation attenuates heart failure by limiting the generation of,2024-07-03,2025-06-04,2025-07-01,15,0
+40578363,10.1016/j.immuni.2025.05.024,Immunity,Diet-derived LPS determines intestinal IgA induction and repertoire characteristics indepe,2024-10-16,2025-05-28,2025-06-28,10,0
+40570852,10.1016/j.immuni.2025.06.004,Immunity,DOCK8 in T cells promotes Th17 and Treg cell functionality to restrain mucosal mast cells ,2024-04-22,2025-06-04,2025-06-27,25,86
+40570851,10.1016/j.immuni.2025.05.025,Immunity,"Prolonged but finite antigen presentation promotes reversible defects of ""helpless"" memory",2024-02-13,2025-05-28,2025-06-27,17,125
+40543512,10.1016/j.immuni.2025.05.021,Immunity,Transcription factor T-bet regulates the maintenance and differentiation potential of lymp,2025-02-07,2025-05-23,2025-06-22,12,111
+40527323,10.1016/j.immuni.2025.05.016,Immunity,ILC3s sense gut microbiota through STING to initiate immune tolerance.,2024-03-08,2025-05-16,2025-06-18,7,112
+40505658,10.1016/j.immuni.2025.05.011,Immunity,Structures of butyrophilin multimers reveal a plier-like mechanism for Vγ9Vδ2 T cell recep,2024-12-24,2025-05-14,2025-06-13,10,0
+40494347,10.1016/j.immuni.2025.05.007,Immunity,Dectin-1 facilitates lung fungal-mediated pulmonary fibrosis.,2024-08-29,2025-05-12,2025-06-11,18,0
+40425012,10.1016/j.immuni.2025.04.030,Immunity,Enhancer-driven gene regulatory networks reveal transcription factors governing T cell ada,2024-03-12,2025-04-30,2025-05-28,20,89
+40373772,10.1016/j.immuni.2025.04.018,Immunity,Microglial TMEM119 binds to amyloid-β to promote its clearance in an Aβ-depositing mouse m,2024-07-11,2025-04-15,2025-05-16,19,0
+40334665,10.1016/j.immuni.2025.04.012,Immunity,Phosphoantigen-induced inside-out stabilization of butyrophilin receptor complexes drives ,2024-11-26,2025-04-10,2025-05-08,11,0
+40499517,10.1016/j.immuni.2025.05.014,Immunity,An inside job-CHIP infiltrates and promotes cancer.,2025-05-13,2025-05-15,2025-06-12,3,0
+40499516,10.1016/j.immuni.2025.05.017,Immunity,Spectosis: Dying for a complement.,2025-05-16,2025-05-16,2025-06-12,3,0
+40499515,10.1016/j.immuni.2025.05.015,Immunity,A sweet spot in myeloid cell pro-tumoral functions.,2025-05-13,2025-05-15,2025-06-12,2,0
+40499514,10.1016/j.immuni.2025.05.012,Immunity,Evolutionary medicine in action: Sickle hemoglobin fuels tumor progression.,2025-05-14,2025-05-14,2025-06-12,1,0
+40499513,10.1016/j.immuni.2025.05.010,Immunity,Mamma MIA! Decidual NK cells involved in fetal neurodevelopment.,2025-05-12,2025-05-14,2025-06-12,2,0
+40499512,10.1016/j.immuni.2025.05.009,Immunity,A backhanded complement: Prostacyclin turns inflammation off from the inside out.,2025-05-13,2025-05-14,2025-06-12,2,0
+40460833,10.1016/j.immuni.2025.05.006,Immunity,Efflux of N1-acetylspermidine from hepatoma fosters macrophage-mediated immune suppression,2024-06-28,2025-05-09,2025-06-04,12,0
+40449486,10.1016/j.immuni.2025.05.003,Immunity,A CD4+ T cell-intrinsic complement C5aR2-prostacyclin-IL-1R2 axis orchestrates Th1 cell co,2024-09-05,2025-05-06,2025-06-01,21,98
+40449485,10.1016/j.immuni.2025.05.004,Immunity,Antibody-Fab and -Fc features promote Mycobacterium tuberculosis restriction.,2024-10-20,2025-05-07,2025-06-01,27,70
+40393454,10.1016/j.immuni.2025.04.029,Immunity,Amyloid-β induces lipid droplet-mediated microglial dysfunction via the enzyme DGAT2 in Al,2023-10-27,2025-04-22,2025-05-21,30,122
+40381623,10.1016/j.immuni.2025.04.028,Immunity,Maternal natural killer cells drive neuroimmune disorders in offspring through aberrant se,2023-09-28,2025-04-22,2025-05-18,9,0
+40381622,10.1016/j.immuni.2025.04.027,Immunity,Glycosylation-driven programs coordinate immunoregulatory and pro-angiogenic functions of ,2022-09-06,2025-04-22,2025-05-18,24,0
+40373771,10.1016/j.immuni.2025.04.023,Immunity,Heterozygosity for Crohn's disease risk allele of ATG16L1 promotes unique protein interact,2024-03-08,2025-04-17,2025-05-16,13,71
+40367949,10.1016/j.immuni.2025.04.016,Immunity,Pre-existing epigenetic state and differential NF-κB activation shape type 2 immune cell r,2024-03-04,2025-04-15,2025-05-15,10,62
+40359940,10.1016/j.immuni.2025.04.020,Immunity,Sickle cell disease induces chromatin introversion and ferroptosis in CD8+ T cells to supp,2024-05-22,2025-04-16,2025-05-14,32,74
+40345199,10.1016/j.immuni.2025.04.015,Immunity,Computationally designed proteins mimic antibody immune evasion in viral evolution.,2024-05-21,2025-04-14,2025-05-10,23,63
+40339576,10.1016/j.immuni.2025.04.010,Immunity,Vaccination of nonhuman primates elicits a broadly neutralizing antibody lineage targeting,2024-11-01,2025-04-09,2025-05-09,30,63
+40339575,10.1016/j.immuni.2025.04.014,Immunity,Somatic hypermutation generates antibody specificities beyond the primary repertoire.,2024-11-28,2025-04-12,2025-05-09,17,33
+40318630,10.1016/j.immuni.2025.04.007,Immunity,Inflammasome signaling in astrocytes modulates hippocampal plasticity.,2024-04-18,2025-04-08,2025-05-04,11,99
+40215968,10.1016/j.immuni.2025.03.008,Immunity,Alcaligenes faecalis induces intestinal T helper-17 cells by enhancing Rorc transcription ,2024-07-28,2025-03-11,2025-04-12,16,0
+40367921,10.1016/j.immuni.2025.04.026,Immunity,Personalized syringes offer hope for pancreatic cancer patients.,2025-04-18,2025-04-18,2025-05-15,2,0
+40367920,10.1016/j.immuni.2025.04.025,Immunity,You know my NAMs.,2025-04-14,2025-04-18,2025-05-15,2,0
+40367919,10.1016/j.immuni.2025.04.021,Immunity,nACh receptors engage a nice ChAT with the liver: B cells serving up regeneration.,2025-03-25,2025-04-17,2025-05-15,2,0
+40367918,10.1016/j.immuni.2025.04.019,Immunity,Dietary fuel or fire: Fatty acids rewire gut ILC3s.,2025-04-16,2025-04-16,2025-05-15,2,0
+40318631,10.1016/j.immuni.2025.04.011,Immunity,A hierarchy of intestinal antigens instructs the CD4+ T cell receptor repertoire.,2024-06-03,2025-04-10,2025-05-04,11,65
+40315842,10.1016/j.immuni.2025.04.003,Immunity,Interleukin-34-dependent perivascular macrophages promote vascular function in the brain.,2025-01-21,2025-04-03,2025-05-03,36,0
+40311614,10.1016/j.immuni.2025.03.019,Immunity,Direct microglia replacement reveals pathologic and therapeutic contributions of brain mac,2024-07-03,2025-03-26,2025-05-02,30,89
+40311613,10.1016/j.immuni.2025.04.006,Immunity,Monocytes can efficiently replace all brain macrophages and fetal liver monocytes can gene,2024-07-05,2025-04-07,2025-05-02,25,92
+40306274,10.1016/j.immuni.2025.04.004,Immunity,IL-10 sensing by lung interstitial macrophages prevents bacterial dysbiosis-driven pulmona,2024-02-02,2025-04-03,2025-05-01,18,127
+40286791,10.1016/j.immuni.2025.04.002,Immunity,B cell-derived acetylcholine promotes liver regeneration by regulating Kupffer cell and he,2024-07-09,2025-04-02,2025-04-27,28,0
+40286790,10.1016/j.immuni.2025.04.001,Immunity,Nerve- and airway-associated interstitial macrophages mitigate SARS-CoV-2 pathogenesis via,2024-07-03,2025-04-02,2025-04-27,12,113
+40280129,10.1016/j.immuni.2025.03.020,Immunity,Immunothrombolytic monocyte-neutrophil axes dominate the single-cell landscape of human th,2024-08-30,2025-03-27,2025-04-26,40,0
+40280128,10.1016/j.immuni.2025.03.021,Immunity,Regulatory T cell depletion promotes myeloid cell activation and glioblastoma response to ,2023-06-26,2025-03-31,2025-04-26,41,0
+40233759,10.1016/j.immuni.2025.03.017,Immunity,Acute exposure to high-fat diet impairs ILC3 functions and gut homeostasis.,2024-07-04,2025-03-18,2025-04-16,14,0
+40203808,10.1016/j.immuni.2025.03.005,Immunity,Mitochondrial DNA released by senescent tumor cells enhances PMN-MDSC-driven immunosuppres,2024-01-11,2025-03-05,2025-04-10,25,0
+40203807,10.1016/j.immuni.2025.03.012,Immunity,T cells with a taste for tissue remodeling.,2025-03-11,2025-03-12,2025-04-10,2,0
+40203806,10.1016/j.immuni.2025.03.013,Immunity,Glia get RIPped in ALS.,2025-03-12,2025-03-12,2025-04-10,2,0
+40203805,10.1016/j.immuni.2025.03.009,Immunity,More than the sum: How vascular endothelial growth factor inhibition unlocks the full pote,2025-03-07,2025-03-08,2025-04-10,2,0
+40203804,10.1016/j.immuni.2025.03.010,Immunity,IL-9 and ZBTB18 are germinal center memory makers.,2025-03-07,2025-03-11,2025-04-10,2,0
+40203803,10.1016/j.immuni.2025.03.007,Immunity,2-5A is an immunotransmitter that fuels RNase L immunity.,2025-03-10,2025-03-11,2025-04-10,2,0
+40168992,10.1016/j.immuni.2025.03.003,Immunity,Diverse priming outcomes under conditions of very rare precursor B cells.,2024-10-11,2025-03-04,2025-04-02,45,98
+40168991,10.1016/j.immuni.2025.03.004,Immunity,Soluble CTLA-4 regulates immune homeostasis and promotes resolution of inflammation by sup,2023-08-17,2025-03-05,2025-04-02,2,0
+40157359,10.1016/j.immuni.2025.03.002,Immunity,Tumor-derived arachidonic acid reprograms neutrophils to promote immune suppression and th,2024-10-07,2025-03-03,2025-03-30,23,67
+40139188,10.1016/j.immuni.2025.02.027,Immunity,Metallophilic marginal zone macrophages cross-prime CD8+ T cell-mediated protective immuni,2024-04-27,2025-02-28,2025-03-27,14,0
+40139187,10.1016/j.immuni.2025.03.001,Immunity,Lung-resident memory B cells maintain allergic IgE responses in the respiratory tract.,2023-12-04,2025-03-03,2025-03-27,5,74
+40139186,10.1016/j.immuni.2025.02.026,Immunity,The transcription factor MEF2C restrains microglial overactivation by inhibiting kinase CD,2023-11-29,2025-02-26,2025-03-27,11,0
+40132594,10.1016/j.immuni.2025.02.024,Immunity,Single-cell transcriptomic and functional studies identify glial state changes and a role ,2024-03-22,2025-02-25,2025-03-26,24,0
+40132593,10.1016/j.immuni.2025.02.025,Immunity,Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccinatio,2024-04-02,2025-02-26,2025-03-26,37,71
+40118070,10.1016/j.immuni.2025.02.023,Immunity,Particle uptake by macrophages triggers bifurcated transcriptional pathways that different,2024-01-21,2025-02-21,2025-03-22,30,110
+40107274,10.1016/j.immuni.2025.02.022,Immunity,Single-cell atlas of endothelial and mural cells across primary and metastatic brain tumor,2024-06-19,2025-02-19,2025-03-20,14,0
+40107273,10.1016/j.immuni.2025.02.021,Immunity,An interleukin-9-ZBTB18 axis promotes germinal center development of memory B cells.,2024-05-28,2025-02-19,2025-03-20,6,0
+40088889,10.1016/j.immuni.2025.02.017,Immunity,Anti-vascular endothelial growth factor treatment potentiates immune checkpoint blockade t,2024-05-08,2025-02-12,2025-03-16,25,96
+40010341,10.1016/j.immuni.2025.01.016,Immunity,OAS cross-activates RNase L intercellularly through cell-to-cell transfer of 2-5A to sprea,2024-06-20,2025-01-29,2025-02-27,8,36
+40073845,10.1016/j.immuni.2025.02.015,Immunity,Immo-bile-izing CD8+ T cell anti-tumor immunity.,2025-02-11,2025-02-11,2025-03-13,2,0
+40073844,10.1016/j.immuni.2025.02.016,Immunity,Parts and ICRAFTs: Finding new immunotherapy targets.,2025-02-10,2025-02-12,2025-03-13,2,0
+40073843,10.1016/j.immuni.2025.02.018,Immunity,RIPK3: The Deadpool of neuronal cell death proteins?,2025-02-13,2025-02-13,2025-03-13,2,0
+40073842,10.1016/j.immuni.2025.02.014,Immunity,SPeak to the heart.,2025-02-07,2025-02-10,2025-03-13,2,0
+40073841,10.1016/j.immuni.2025.02.010,Immunity,The CREscendoing promise of HDAC targeting to limit atherosclerosis.,2025-01-29,2025-02-06,2025-03-13,2,0
+40023164,10.1016/j.immuni.2025.02.004,Immunity,Early influenza virus exposure shapes the B cell response to influenza vaccination in indi,2024-08-27,2025-02-04,2025-03-03,18,62
+40023163,10.1016/j.immuni.2025.02.003,Immunity,Bile acid receptor FXR promotes intestinal epithelial ferroptosis and subsequent ILC3 dysf,2024-04-21,2025-02-04,2025-03-03,20,0
+40023162,10.1016/j.immuni.2025.02.006,Immunity,Antigenic drift expands influenza viral escape pathways from recalled humoral immunity.,2024-04-23,2025-02-05,2025-03-03,3,70
+40023161,10.1016/j.immuni.2025.02.011,Immunity,The polyamine-regulating enzyme SSAT1 impairs tissue regulatory T cell function in chronic,2024-04-02,2025-02-06,2025-03-03,16,0
+40023160,10.1016/j.immuni.2025.02.013,Immunity,A heart-brain-spleen axis controls cardiac remodeling to hypertensive stress.,2024-10-24,2025-02-10,2025-03-03,21,0
+40023159,10.1016/j.immuni.2025.02.012,Immunity,Splenic TNF-α signaling potentiates the innate-to-adaptive transition of antiviral NK cell,2023-07-21,2025-02-07,2025-03-03,13,108
+40023158,10.1016/j.immuni.2025.02.007,Immunity,Integrated computational analysis identifies therapeutic targets with dual action in cance,2024-03-22,2025-02-04,2025-03-03,21,0
+40023157,10.1016/j.immuni.2025.02.005,Immunity,IL-17RA signaling provides dual tumor-suppressor function during late-stage colorectal car,2024-03-03,2025-02-05,2025-03-03,17,0
+40023156,10.1016/j.immuni.2025.02.009,Immunity,Collaboration between interleukin-7 and -15 enables adaptation of tissue-resident and circ,2024-05-31,2025-02-06,2025-03-03,12,70
+40020673,10.1016/j.immuni.2025.02.001,Immunity,The endogenous antigen-specific CD8+ T cell repertoire is composed of unbiased and biased ,2023-09-05,2025-02-03,2025-03-01,12,67
+40015270,10.1016/j.immuni.2025.02.002,Immunity,A bladder-blood immune barrier constituted by suburothelial perivascular macrophages restr,2023-10-23,2025-02-03,2025-02-28,10,0
+39999836,10.1016/j.immuni.2025.01.017,Immunity,The kinase RIPK3 promotes neuronal survival by suppressing excitatory neurotransmission du,2024-05-13,2025-01-30,2025-02-26,10,102
+39879983,10.1016/j.immuni.2025.01.003,Immunity,A cis-regulatory element controls expression of histone deacetylase 9 to fine-tune inflamm,2024-01-24,2025-01-03,2025-01-30,30,0
+39938482,10.1016/j.immuni.2024.11.018,Immunity,Early-age efferocytosis directs macrophage arachidonic acid metabolism for tissue regenera,2023-08-16,2024-11-21,2025-02-13,13,90
+39938481,10.1016/j.immuni.2025.01.015,Immunity,Everything everywhere all at once: Unraveling the waves of aging.,2025-01-17,2025-01-20,2025-02-13,2,12
+39938480,10.1016/j.immuni.2025.01.014,Immunity,Nerve-racking worms.,2025-01-14,2025-01-16,2025-02-13,2,0
+39938479,10.1016/j.immuni.2025.01.005,Immunity,Cutting to the chase: Pruning alloreactive T cells.,2025-01-07,2025-01-09,2025-02-13,2,10
+39938478,10.1016/j.immuni.2025.01.011,Immunity,Bacterial translocation promotes trained immunity.,2025-01-07,2025-01-10,2025-02-13,2,0
+39938477,10.1016/j.immuni.2025.01.012,Immunity,Next generation lysosome: Brought to you by cGAS-STING.,2025-01-05,2025-01-13,2025-02-13,2,0
+39909036,10.1016/j.immuni.2025.01.009,Immunity,In vivo engineering of murine T cells using the evolved adeno-associated virus variant Ark,2024-03-26,2025-01-10,2025-02-06,28,0
+39909035,10.1016/j.immuni.2025.01.010,Immunity,Structural basis for complement receptor engagement and virus neutralization through Epste,2023-04-25,2025-01-10,2025-02-06,19,0
+39904338,10.1016/j.immuni.2025.01.007,Immunity,NLRP3-mediated glutaminolysis controls microglial phagocytosis to promote Alzheimer's dise,2024-07-09,2025-01-10,2025-02-05,30,0
+39892391,10.1016/j.immuni.2025.01.006,Immunity,Recirculating regulatory T cells mediate thymic regeneration through amphiregulin followin,2023-09-01,2025-01-10,2025-02-02,20,59
+39889704,10.1016/j.immuni.2025.01.004,Immunity,Bi-directional communication between intrinsic enteric neurons and ILC2s inhibits host def,2024-06-06,2025-01-08,2025-02-01,29,0
+39889703,10.1016/j.immuni.2025.01.008,Immunity,Identification of indirect CD4+ T cell epitopes associated with transplant rejection provi,2024-04-17,2025-01-10,2025-02-01,17,0
+39862865,10.1016/j.immuni.2025.01.002,Immunity,Spatially restricted and ontogenically distinct hepatic macrophages are required for tissu,2023-12-01,2025-01-02,2025-01-26,32,0
+39848243,10.1016/j.immuni.2024.12.012,Immunity,Microbiota translocation following intestinal barrier disruption promotes Mincle-mediated ,2024-08-02,2024-12-31,2025-01-24,26,75
+39818208,10.1016/j.immuni.2024.12.011,Immunity,A triad of somatic mutagenesis converges in self-reactive B cells to cause a virus-induced,2024-01-30,2024-12-18,2025-01-17,25,0
+39719711,10.1016/j.immuni.2024.11.021,Immunity,Durable lymphocyte subset elimination upon a single dose of AAV-delivered depletion antibo,2024-06-19,2024-11-26,2024-12-25,12,0
+39701104,10.1016/j.immuni.2024.11.019,Immunity,The carbonyl nucleobase adduct M3Ade is a potent antigen for adaptive polyclonal MR1-restr,2023-10-06,2024-11-21,2024-12-20,23,0
+39689715,10.1016/j.immuni.2024.11.017,Immunity,The cGAS-STING pathway activates transcription factor TFEB to stimulate lysosome biogenesi,2024-05-24,2024-11-14,2024-12-18,10,0
+39813995,10.1016/j.immuni.2024.12.001,Immunity,IgG sialylation puts lung inflammation to REST.,2024-11-21,2024-12-03,2025-01-16,2,0
+39813994,10.1016/j.immuni.2024.12.007,Immunity,Mitochondria and NLRP3: To die or inflame.,2024-12-10,2024-12-16,2025-01-16,3,10
+39813991,10.1016/j.immuni.2024.12.005,Immunity,Interleukin-17 and fat: Timing is everything.,2024-12-06,2024-12-13,2025-01-16,4,0
+39813990,10.1016/j.immuni.2024.12.010,Immunity,Restimulation by macrophages exhausts T cells.,2024-12-13,2024-12-17,2025-01-16,2,0
+39813989,10.1016/j.immuni.2024.11.022,Immunity,Gut know-how: IL-22 from T cells boosts stress resilience.,2024-11-26,2024-11-26,2025-01-16,2,0
+39765229,10.1016/j.immuni.2024.12.002,Immunity,Structures of ATP-binding cassette transporter ABCC1 reveal the molecular basis of cyclic ,2024-03-28,2024-12-04,2025-01-08,12,61
+39755122,10.1016/j.immuni.2024.12.004,Immunity,Adoptive T cell therapy targeting an inducible and broadly shared product of aberrant mRNA,2024-02-13,2024-12-09,2025-01-05,24,0
+39742664,10.1016/j.immuni.2024.12.006,Immunity,Service.,2024-12-15,2024-12-16,2025-01-02,8,0
+39731911,10.1016/j.immuni.2024.11.025,Immunity,Cross-species analyses of thymic mimetic cells reveal evolutionarily ancient origins and b,2024-05-22,2024-11-27,2024-12-29,12,117
+39731910,10.1016/j.immuni.2024.12.003,Immunity,Splenic fibroblasts control marginal zone B cell movement and function via two distinct No,2024-01-09,2024-12-06,2024-12-29,30,99
+39729992,10.1016/j.immuni.2024.11.023,Immunity,Hyperreactive B cells instruct their elimination by T cells to curb autoinflammation and l,2024-02-21,2024-11-26,2024-12-28,39,0
+39724910,10.1016/j.immuni.2024.11.026,Immunity,Antigen presentation by tumor-associated macrophages drives T cells from a progenitor exha,2023-06-29,2024-11-27,2024-12-27,11,0
+39719712,10.1016/j.immuni.2024.11.020,Immunity,Pyrimidine synthesis enzyme CTP synthetase 1 suppresses antiviral interferon induction by ,2024-02-02,2024-11-22,2024-12-25,8,56
+39708817,10.1016/j.immuni.2024.11.007,Immunity,Deep profiling deconstructs features associated with memory CD8+ T cell tissue residence.,2024-05-22,2024-11-06,2024-12-22,18,111
+39657671,10.1016/j.immuni.2024.11.003,Immunity,Microglial lipid phosphatase SHIP1 limits complement-mediated synaptic pruning in the heal,2023-04-25,2024-11-04,2024-12-11,19,0
+39644894,10.1016/j.immuni.2024.11.008,Immunity,Elevated IL-22 as a result of stress-induced gut leakage suppresses septal neuron activati,2024-01-29,2024-11-06,2024-12-08,21,0
+39571574,10.1016/j.immuni.2024.10.012,Immunity,Acute suppression of mitochondrial ATP production prevents apoptosis and provides an essen,2024-02-13,2024-10-24,2024-11-22,57,0
+39541970,10.1016/j.immuni.2024.10.002,Immunity,Sialylated IgG induces the transcription factor REST in alveolar macrophages to protect ag,2024-06-15,2024-10-04,2024-11-15,23,83
+42962666,10.1016/j.immuni.2026.10.002,Immunity,Mitochondrial DNA abundance is a determinant of immunogenic cell death in cancer.,2025-02-24,2026-10-06,2026-10-30,20,0
+42956746,10.1016/j.immuni.2026.10.004,Immunity,Growth factor VEGF-B sustains intestinal Tfh cell stemness to restrict Taurinivorans outgr,2025-08-21,2026-10-08,2026-10-29,11,0
+42950826,10.1016/j.immuni.2026.10.003,Immunity,T cell cross-priming by PD-L1+ type 1 conventional dendritic cells mediates the antitumor ,2025-08-11,2026-10-07,2026-10-28,27,0
+42950825,10.1016/j.immuni.2026.10.001,Immunity,PD-L1 expression in germinal centers promotes humoral immunity by restricting T follicular,2025-12-05,2026-10-06,2026-10-28,5,0
+42933395,10.1016/j.immuni.2026.09.026,Immunity,A microbiome-reactive TMIGD2hi Th17 subset is spatially enriched at the intestinal epithel,2025-12-09,2026-09-28,2026-10-26,15,0
+42914982,10.1016/j.immuni.2026.09.025,Immunity,NF-κB phosphorylation controls enhancer selection to shape the inflammatory gene program.,2025-11-26,2026-09-25,2026-10-23,13,0
+42880261,10.1016/j.immuni.2026.09.022,Immunity,Lactate dehydrogenase A-dependent redox control of selective mRNA translation directs mono,2026-03-26,2026-09-21,2026-10-15,3,85
+42868996,10.1016/j.immuni.2026.09.014,Immunity,Astrocytes go into presenter mode.,2026-09-14,2026-09-15,2026-10-13,2,0
+42868995,10.1016/j.immuni.2026.09.020,Immunity,The narrow path to CD8+ T cell recognition of mutant p53.,2026-09-14,2026-09-16,2026-10-13,1,0
+42868994,10.1016/j.immuni.2026.09.018,Immunity,"Regulatory B cells: Induced, inspired, and ready to soothe neuroinflammation.",2026-09-09,2026-09-16,2026-10-13,3,0
+42868993,10.1016/j.immuni.2026.09.008,Immunity,The nerve rings twice.,2026-08-30,2026-09-11,2026-10-13,1,0
+42868992,10.1016/j.immuni.2026.09.021,Immunity,The matrix remembers.,2026-09-18,2026-09-18,2026-10-13,2,0
+42868991,10.1016/j.immuni.2026.09.017,Immunity,Viral deISGylation holds the key to the metabolic kingdom.,2026-09-09,2026-09-15,2026-10-13,2,0
+42868990,10.1016/j.immuni.2026.09.016,Immunity,Multidimensional view of immunotherapy.,2026-09-15,2026-09-15,2026-10-13,8,0
+42838057,10.1016/j.immuni.2026.09.006,Immunity,Induced regulatory B cells stably expressing interleukin-10 reverse central nervous system,2024-10-24,2026-09-09,2026-10-06,36,0
+42822444,10.1016/j.immuni.2026.09.009,Immunity,Distant lymph nodes compensate for resected tumor-draining lymph nodes during cancer immun,2024-10-17,2026-09-10,2026-10-01,20,87
+42822443,10.1016/j.immuni.2026.09.007,Immunity,Functional evaluation of TCR-pMHC pairs at scale allows in silico TCR reactivity predictio,2026-01-21,2026-09-09,2026-10-01,23,0
+42753739,10.1016/j.immuni.2026.08.011,Immunity,Cancers modulate processing and presentation of p53 neoantigens to evade T cell detection.,2026-01-13,2026-08-22,2026-09-17,26,103
+42664960,10.1016/j.immuni.2026.08.002,Immunity,A distinct effector B cell population drives autoantibody production in SARS-CoV-2 infecti,2025-09-20,2026-08-04,2026-08-28,31,108
+42648285,10.1016/j.immuni.2026.07.022,Immunity,Long-lasting extracellular matrix modifications reshape intestinal stem cell fate and prom,2025-07-02,2026-07-31,2026-08-26,21,0
+42648284,10.1016/j.immuni.2026.07.023,Immunity,T cell fate is dictated by different antigen-presenting cells in response to dietary versu,2025-11-13,2026-07-31,2026-08-26,9,40
+42580342,10.1016/j.immuni.2026.07.010,Immunity,The genesis of cutaneous neurogenic inflammation is a multi-step process requiring dendrit,2025-12-05,2026-07-14,2026-08-11,16,74
+42561937,10.1016/j.immuni.2026.07.007,Immunity,Virus-induced deconjugation of ISG15 dysregulates innate immunity and cellular metabolism.,2025-10-13,2026-07-09,2026-08-07,16,0
+42561936,10.1016/j.immuni.2026.07.011,Immunity,Group 2 innate lymphoid cells activate myelin-reactive T cells to augment neuroinflammatio,2025-01-14,2026-07-14,2026-08-07,20,0
+42551426,10.1016/j.immuni.2026.07.006,Immunity,CD163+ red pulp macrophages interact with marginal metallophilic macrophages during blood-,2025-07-20,2026-07-09,2026-08-09,13,0
+42546693,10.1016/j.immuni.2026.07.004,Immunity,Butyrophilin-like 3 and 8 tetramers clamp Vγ4Vδ1 T cell receptors for antigen-independent ,2026-02-04,2026-07-07,2026-08-04,7,0
+42863468,10.1016/j.immuni.2026.09.010,Immunity,Skin-resident CXCR6+ memory CD4+ T cells and dendritic cells form dermal perivascular hubs,2025-08-13,2026-09-11,2026-10-13,14,0
+42854692,10.1016/j.immuni.2026.09.012,Immunity,Single-cell analyses of global cohorts outline determinants of immune aging and link the r,2025-09-17,2026-09-14,2026-10-09,27,0
+42854691,10.1016/j.immuni.2026.09.013,Immunity,Lymphatic constraint of germinal centers optimizes protective antibody responses.,2025-11-03,2026-09-14,2026-10-09,21,74
+42849443,10.1016/j.immuni.2026.09.011,Immunity,"Microglia-mediated extracellular matrix disruption drives neuronal dysfunction, motor impa",2025-07-27,2026-09-11,2026-10-08,26,0
+42822442,10.1016/j.immuni.2026.09.004,Immunity,Glucose-deprived tumor microenvironment activates AMP-activated protein kinase to drive ad,2025-10-16,2026-09-02,2026-10-01,18,0
+42815461,10.1016/j.immuni.2026.09.003,Immunity,Aire is a cell-intrinsic regulator of natural IgM-secreting cells.,2025-11-16,2026-09-02,2026-09-30,27,0
+42810333,10.1016/j.immuni.2026.09.002,Immunity,Microglia with distinct origins and non-canonical phenotypes coexist within the border-lik,2025-07-16,2026-09-02,2026-09-29,29,0
+42785294,10.1016/j.immuni.2026.09.001,Immunity,Targeting a site of vulnerability on circumsporozoite protein inhibits Plasmodium vivax ma,2025-11-03,2026-09-02,2026-09-24,26,0
+42777702,10.1016/j.immuni.2026.08.013,Immunity,Germinal center interleukin-4 microniches drive tissue divergence of IgE memory B cell res,2025-11-29,2026-08-27,2026-09-23,18,0
+42772277,10.1016/j.immuni.2026.08.012,Immunity,Sensory neuronal mTORC1 kinase signaling establishes neuroimmune memory that initiates all,2025-11-10,2026-08-26,2026-09-22,21,0
+42710474,10.1016/j.immuni.2026.08.007,Immunity,Sensory nerves send lymphoid assembly up in smoke.,2026-08-04,2026-08-11,2026-09-08,2,0
+42710473,10.1016/j.immuni.2026.08.008,Immunity,Speedy delivery: EV-derived fungal antigens establish oral-gut Th17 crosstalk.,2026-08-10,2026-08-12,2026-09-08,2,0
+42710472,10.1016/j.immuni.2026.08.010,Immunity,Chromatin triggers tissue-specific immunity in 3D.,2026-08-12,2026-08-13,2026-09-08,2,0
+42710471,10.1016/j.immuni.2026.08.005,Immunity,Lending an ear to the lung.,2026-08-06,2026-08-10,2026-09-08,2,0
+42664959,10.1016/j.immuni.2026.08.003,Immunity,Temporal analyses of immune responses in sepsis reveal asynchrony between clinical stage o,2024-09-20,2026-08-04,2026-08-28,18,0
+42636801,10.1016/j.immuni.2026.08.001,Immunity,Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in,2025-05-29,2026-08-01,2026-08-24,11,56
+42624111,10.1016/j.immuni.2026.07.019,Immunity,An inflammatory bowel disease-linked lncRNA suppresses transcription factor T-BET expressi,2025-08-04,2026-07-29,2026-08-20,10,0
+42607677,10.1016/j.immuni.2026.07.021,Immunity,GPCR-Gα13 signaling regulates survival of intestinal intraepithelial CD8+ lymphocytes thro,2026-02-19,2026-07-29,2026-08-17,15,103
+42594873,10.1016/j.immuni.2026.07.018,Immunity,UV irradiation drives lineage-specific MITF-mediated transcription of PD-L1 to confer immu,2025-07-30,2026-07-27,2026-08-13,36,77
+42580341,10.1016/j.immuni.2026.07.014,Immunity,Coordinated transcriptional networks program organelle expansion and metabolic flows for h,2025-07-10,2026-07-16,2026-08-11,14,0
+42468528,10.1016/j.immuni.2026.06.020,Immunity,Autophagy maintains high endothelial venule identity and function during inflammation.,2025-07-02,2026-06-17,2026-07-18,21,81
+42468527,10.1016/j.immuni.2026.06.022,Immunity,The transcription factor BACH1 couples chromatin priming and repression to enable macropha,2025-05-29,2026-06-20,2026-07-18,25,0
+42456661,10.1016/j.immuni.2026.06.005,Immunity,Activation of the auricular vagus nerve reflex suppresses airway inflammation.,2026-01-08,2026-06-10,2026-07-16,23,0
+42447860,10.1016/j.immuni.2026.06.013,Immunity,Antigen-restricted Candida albicans Th17 cells link oral-gut immunity and adopt pathogenic,2025-09-10,2026-06-15,2026-07-15,30,0
+42442359,10.1016/j.immuni.2026.06.010,Immunity,Flavin adenine dinucleotide is an endogenous suppressor for cytosolic DNA and RNA sensors ,2025-06-09,2026-06-11,2026-07-14,28,0
+42413497,10.1016/j.immuni.2026.06.007,Immunity,Transcription factor BHLHE40 expression in group 3 innate lymphoid cells and RORγt⁺ antige,2026-03-23,2026-06-10,2026-07-08,14,62
+42705228,10.1016/j.immuni.2026.08.004,Immunity,A pulmonary innate lymphoid cell-driven serotonergic neuroimmune axis orchestrates airway ,2025-10-02,2026-08-10,2026-09-07,9,0
+42705227,10.1016/j.immuni.2026.08.009,Immunity,Twenty-year persistence of SARS-CoV-1 immune imprinting shapes antibody responses to SARS-,2025-08-23,2026-08-12,2026-09-07,24,0
+42580319,10.1016/j.immuni.2026.07.015,Immunity,Copy and paste: Humanizing IgH 155 kb at a time.,2026-07-16,2026-07-17,2026-08-11,2,0
+42580318,10.1016/j.immuni.2026.07.013,Immunity,Peripheral vision: Treg cell induction in the gut.,2026-07-14,2026-07-16,2026-08-11,2,0
+42580317,10.1016/j.immuni.2026.07.012,Immunity,The cost of persistence: MEK and metabolic demand.,2026-07-15,2026-07-16,2026-08-11,2,0
+42580316,10.1016/j.immuni.2026.07.016,Immunity,"Different lysosomal insults, one microglial fate.",2026-07-15,2026-07-17,2026-08-11,2,0
+42551427,10.1016/j.immuni.2026.07.002,Immunity,CCR7+ activated dendritic cells are essential for spontaneous and immunotherapy-driven ant,2025-07-02,2026-07-05,2026-08-09,21,0
+42546695,10.1016/j.immuni.2026.07.009,Immunity,Progranulin deficiency-induced lysosomal dysfunction drives maladaptive myeloid cell state,2025-04-22,2026-07-10,2026-08-04,22,0
+42546694,10.1016/j.immuni.2026.07.008,Immunity,Lysosomal dysfunction drives a transcriptional and epigenetic signature found in disease-a,2025-04-22,2026-07-09,2026-08-04,21,144
+42532039,10.1016/j.immuni.2026.07.005,Immunity,The liver-secreted protein FGL1 restrains a subset of innate-like B cell responses via the,2024-04-10,2026-07-08,2026-07-31,24,80
+42520796,10.1016/j.immuni.2026.06.025,Immunity,Environmentally induced cell stiffening shapes metastatic site selection by tuning the imm,2025-06-17,2026-06-30,2026-07-29,27,80
+42520795,10.1016/j.immuni.2026.07.001,Immunity,TCR origin and specificity to environmental or self-antigens on distinct antigen-presentin,2025-08-22,2026-07-05,2026-07-29,13,76
+42497861,10.1016/j.immuni.2026.06.024,Immunity,Disease-associated microglia adopt stage-specific phenotypes that regulate T cell fate and,2025-07-21,2026-06-30,2026-07-25,37,0
+42468529,10.1016/j.immuni.2026.06.023,Immunity,Purine and pyrimidine-based bacterial cyclic dinucleotides egress the phagosome and activa,2026-02-24,2026-06-20,2026-07-18,12,132
+42442358,10.1016/j.immuni.2026.06.012,Immunity,MEK-dependent bioenergetic demand drives terminal CD8+ T cell exhaustion.,2025-04-03,2026-06-15,2026-07-14,13,95
+42425083,10.1016/j.immuni.2026.06.008,Immunity,CRISPR-mediated precise large fragment insertion in zygotes enables rapid generation of hu,2025-08-21,2026-06-10,2026-07-10,14,89
+42392074,10.1016/j.immuni.2026.06.003,Immunity,B cell-derived type I interferon sustains T cell functionality upon strong TCR stimulation,2025-03-06,2026-06-09,2026-07-03,23,0
+42335893,10.1016/j.immuni.2026.05.017,Immunity,Monocytic niches escape T cell surveillance and promote Mycobacterium tuberculosis persist,2025-10-06,2026-05-22,2026-06-24,13,128
+42285104,10.1016/j.immuni.2026.05.016,Immunity,Interleukin 23 promotes a pro-inflammatory Th17 cell state by stabilizing RORγt and suppre,2025-06-20,2026-05-22,2026-06-13,28,0
+42285103,10.1016/j.immuni.2026.05.015,Immunity,A cell-intrinsic glucocorticoid biosynthesis and sensing circuit maintains a homeostatic T,2025-06-20,2026-05-22,2026-06-13,24,75
+42285102,10.1016/j.immuni.2026.05.012,Immunity,Analysis of monoclonal antibodies against the malaria invasion complex protein RIPR reveal,2026-01-27,2026-05-18,2026-06-13,31,0
+42447849,10.1016/j.immuni.2026.06.018,Immunity,The lasting legacy of motherhood in the gut.,2026-06-15,2026-06-17,2026-07-15,2,0
+42447848,10.1016/j.immuni.2026.06.021,Immunity,Lung lipids license neutrophils to grease the gate.,2026-06-12,2026-06-18,2026-07-15,2,0
+42447847,10.1016/j.immuni.2026.06.015,Immunity,Danger fuels immune escape.,2026-06-12,2026-06-16,2026-07-15,2,0
+42447846,10.1016/j.immuni.2026.06.017,Immunity,CD4+ T cells persist with their Eomes.,2026-06-16,2026-06-16,2026-07-15,2,0
+42447845,10.1016/j.immuni.2026.06.014,Immunity,Good 4 u: A classic cytokine rejuvenates hematopoiesis.,2026-06-11,2026-06-16,2026-07-15,2,0
+42398505,10.1016/j.immuni.2026.06.002,Immunity,Targeting cholesterol esterification sensitizes liver cancer to CD8+ T cell attack by impa,2024-12-13,2026-06-05,2026-07-04,20,0
+42392076,10.1016/j.immuni.2026.06.009,Immunity,Brain endothelial cells orchestrate a neuroprotective antiviral state in the CNS in respon,2025-04-25,2026-06-10,2026-07-03,20,138
+42392075,10.1016/j.immuni.2026.06.006,Immunity,Extracellular ATP-P2RY2 signaling drives intratumoral prostaglandin E2 accumulation and ad,2025-07-22,2026-06-10,2026-07-03,17,0
+42379164,10.1016/j.immuni.2026.06.004,Immunity,Lactate binds and inhibits the innate immune sensor STING to promote tumor immune evasion.,2024-06-20,2026-06-09,2026-07-01,25,0
+42349409,10.1016/j.immuni.2026.05.019,Immunity,Antibody binding geometry and affinity control inhibitory hFcγRIIB receptor signaling.,2025-07-02,2026-05-29,2026-06-26,27,0
+42341755,10.1016/j.immuni.2026.05.018,Immunity,The transcription factor Eomes drives a stemness program in CD4+ T cells that promotes ant,2025-01-21,2026-05-27,2026-06-25,23,0
+42341754,10.1016/j.immuni.2026.06.001,Immunity,Stem-like precursors of exhausted Th cells upheld by a Tox-Myb-Eomes transcriptional hiera,2025-01-07,2026-06-02,2026-06-25,13,0
+42330958,10.1016/j.immuni.2026.05.013,Immunity,Analysis of West Nile disease convalescents identifies human monoclonal antibodies protect,2025-08-18,2026-05-18,2026-06-22,42,108
+42296966,10.1016/j.immuni.2026.05.014,Immunity,Neutrophil regulation of immunotherapy for cancer is controlled by type II interferon.,2025-06-11,2026-05-20,2026-06-16,9,0
+42276071,10.1016/j.immuni.2026.05.005,Immunity,"Immunoediting restricts clonal neoantigens in primary, treatment-naive human tumors.",2025-07-02,2026-05-10,2026-06-12,15,82
+42214327,10.1016/j.immuni.2026.04.018,Immunity,Activating an interleukin 4-FLT3-STAT6 axis in multipotent progenitors restores lymphopoie,2025-04-26,2026-04-30,2026-05-30,3,69
+42161270,10.1016/j.immuni.2026.04.015,Immunity,Interleukin-4-producing type 2 innate lymphoid cells in the lymph node promote proallergic,2025-04-02,2026-04-21,2026-05-21,11,121
+42134327,10.1016/j.immuni.2026.04.009,Immunity,Modulation of the mevalonate pathway by TCR engagement regulates T follicular helper cell ,2025-04-28,2026-04-14,2026-05-15,19,0
+42034064,10.1016/j.immuni.2026.03.026,Immunity,Palmitic acid reprograms neutrophils to compromise vascular integrity and promote breast c,2026-02-18,2026-03-26,2026-04-26,11,0
+42034063,10.1016/j.immuni.2026.03.028,Immunity,Pharmacologic glycoengineering of Fcγ receptor IIIa enhances force-resistant IgG-FcγR inte,2025-10-21,2026-03-27,2026-04-26,8,42
+42263661,10.1016/j.immuni.2026.05.009,Immunity,Fibroblasts hold the key to TLS formation.,2026-05-11,2026-05-13,2026-06-10,2,0
+42263660,10.1016/j.immuni.2026.05.010,Immunity,Dendritic cells shape and sustain fibroblast niches.,2026-05-11,2026-05-13,2026-06-10,2,0
+42263659,10.1016/j.immuni.2026.05.008,Immunity,Exhaustion in name only: CD8+ T cells drive lupus nephritis.,2026-05-08,2026-05-12,2026-06-10,2,0
+42263658,10.1016/j.immuni.2026.05.006,Immunity,Guardian of two galaxies: Senescence-associated immune cells control disease tolerance and,2026-05-05,2026-05-11,2026-06-10,2,0
+42263657,10.1016/j.immuni.2026.05.004,Immunity,Astrocyte-microglia crosstalk unlocks Alzheimer's disease.,2026-04-27,2026-05-07,2026-06-10,2,0
+42263656,10.1016/j.immuni.2026.05.011,Immunity,Communicating science.,2026-05-09,2026-05-13,2026-06-10,9,0
+42208526,10.1016/j.immuni.2026.05.002,Immunity,A longitudinal atlas of human psoriatic skin reveals the mechanisms of anti-IL-23 therapy ,2025-08-07,2026-05-04,2026-05-29,18,68
+42190650,10.1016/j.immuni.2026.04.017,Immunity,Tumor-draining lymph nodes in ovarian cancer lack germinal centers but harbor tumor-reacti,2025-07-03,2026-04-29,2026-05-27,25,0
+42190649,10.1016/j.immuni.2026.05.001,Immunity,Dietary sulfur amino acids enhance anti-tumor immunity in colon cancer via an NKT cell-XCL,2025-07-21,2026-05-01,2026-05-27,27,179
+42161269,10.1016/j.immuni.2026.04.013,Immunity,Dietary soy shapes the microbiome to induce commensal-specific T follicular helper cells a,2024-12-03,2026-04-20,2026-05-21,24,0
+42140192,10.1016/j.immuni.2026.04.014,Immunity,Aged circulating CD8+ T cells and their secreted factors drive cognitive decline.,2024-07-21,2026-04-20,2026-05-16,13,62
+42097141,10.1016/j.immuni.2026.04.005,Immunity,Spatiotemporal analysis reveals distinct inflammatory programs underlying chronic colitis.,2025-02-12,2026-04-08,2026-05-08,18,0
+42066777,10.1016/j.immuni.2026.03.027,Immunity,NK cell dysfunction and interferon-γ production underlie autoinflammation in mevalonate ki,2025-06-26,2026-03-27,2026-05-02,35,0
+42034062,10.1016/j.immuni.2026.03.025,Immunity,Modular double-stranded DNA recognition defines specificity of the exonuclease TREX1 in cG,2025-03-07,2026-03-24,2026-04-26,8,0
+42030954,10.1016/j.immuni.2026.03.023,Immunity,Homeostatic mature dendritic cells instruct fibroblast specialization via Notch2 signaling,2025-06-05,2026-03-23,2026-04-25,23,119
+42025176,10.1016/j.immuni.2026.03.024,Immunity,MAIT cells egress the thymus at several maturation stages with selective capacity to seed ,2025-09-07,2026-03-24,2026-04-24,13,0
+42013863,10.1016/j.immuni.2026.03.022,Immunity,Organ injury in systemic autoimmunity is mediated by stem-like CD8+ T cells arising from t,2025-06-17,2026-03-23,2026-04-22,18,134
+41997160,10.1016/j.immuni.2026.03.019,Immunity,Intestinal dysbiosis exacerbates skin inflammation via microbial metabolite-driven Th2 cel,2024-12-18,2026-03-19,2026-04-18,21,0
+41962542,10.1016/j.immuni.2026.03.007,Immunity,Astrocytic calcium-dependent enzyme PAD2 governs microglia activity to exacerbate amyloid ,2025-07-03,2026-03-09,2026-04-11,14,0
+41903549,10.1016/j.immuni.2026.02.016,Immunity,NF-κB-activated fibroblasts orchestrate inflammaging and emergence of pro-inflammatory gra,2025-04-25,2026-02-20,2026-03-29,22,70
+41895292,10.1016/j.immuni.2026.02.013,Immunity,p16High immune cells control disease tolerance as a defense and health span-extending stra,2024-08-06,2026-02-18,2026-03-28,21,0
+42119368,10.1016/j.immuni.2026.04.012,Immunity,Paving the road for CARs in pediatric autoimmune diseases.,2026-04-13,2026-04-17,2026-05-13,2,0
+42119367,10.1016/j.immuni.2026.04.008,Immunity,Rogue gut microbes derail memory.,2026-04-05,2026-04-14,2026-05-13,2,0
+42119366,10.1016/j.immuni.2026.04.011,Immunity,ART Interrupted: Insights into ART-free HIV remission.,2026-04-14,2026-04-15,2026-05-13,2,0
+42119365,10.1016/j.immuni.2026.04.006,Immunity,CD8+ T cells turn resilient under stress.,2026-04-09,2026-04-10,2026-05-13,2,0
+42119364,10.1016/j.immuni.2026.04.007,Immunity,A Krüppel of factors regulate T cell residency and exhaustion.,2026-04-13,2026-04-13,2026-05-13,3,0
+42119363,10.1016/j.immuni.2026.04.010,Immunity,Daredevil human cDC2s tame wild TSLP to promote tolerance.,2026-04-10,2026-04-14,2026-05-13,2,0
+42061413,10.1016/j.immuni.2026.04.004,Immunity,Metabolic and transcriptional plasticity supports CD8+ T cell resilience and anti-tumor im,2025-01-22,2026-04-07,2026-05-01,26,191
+42061412,10.1016/j.immuni.2026.04.003,Immunity,Age- and tissue-dependent diversity of human plasmacytoid dendritic cells uncovers a cycli,2024-11-19,2026-04-02,2026-05-01,11,69
+42049035,10.1016/j.immuni.2026.04.001,Immunity,An SPP1-SOCS1 pathway constrains interferon responses in tumor-associated macrophages and ,2025-05-07,2026-03-31,2026-04-29,11,0
+42049034,10.1016/j.immuni.2026.03.029,Immunity,Krüppel-like factor 2 programs early exhausted T cell states and restrains antiviral immun,2025-03-31,2026-03-31,2026-04-29,23,0
+41990747,10.1016/j.immuni.2026.03.020,Immunity,Skin inflammation and itch response are independently regulated by distinct nociceptor sub,2024-11-04,2026-03-19,2026-04-17,25,0
+41956098,10.1016/j.immuni.2026.02.005,Immunity,Nonsense-mediated mRNA decay inhibition reshapes the cancer immunopeptidome.,2025-08-12,2026-02-09,2026-04-10,38,195
+41928520,10.1016/j.immuni.2026.03.008,Immunity,Acute and chronic infections drive distinct trajectories in human memory CD4+ T cell forma,2025-07-13,2026-03-10,2026-04-03,19,0
+41928519,10.1016/j.immuni.2026.03.006,Immunity,Multiplexed antigen panel analysis identifies B cell phenotype and receptor genetic contri,2024-07-03,2026-03-09,2026-04-03,37,39
+41928518,10.1016/j.immuni.2026.03.003,Immunity,Distinct tissue niches contribute to prostate tissue-resident memory CD8+ T cell different,2025-05-01,2026-03-06,2026-04-03,25,99
+41916319,10.1016/j.immuni.2026.03.004,Immunity,Perinatal infection elicits clonally restricted T follicular helper cell responses that dr,2025-08-20,2026-03-06,2026-04-01,15,0
+41916318,10.1016/j.immuni.2026.03.005,Immunity,Foxp3 and BATF cooperatively direct cis-regulatory programs and gene expression for effect,2025-01-29,2026-03-07,2026-04-01,16,0
+41903550,10.1016/j.immuni.2026.02.022,Immunity,Tuft cells promote reactivation of memory Th2 cells and are required for protective immuni,2025-08-25,2026-02-28,2026-03-29,9,0
+41903548,10.1016/j.immuni.2026.02.021,Immunity,Krüppel-like factors 2 and 3 regulate T cell exhaustion by directing T cell residency and ,2025-05-21,2026-02-27,2026-03-29,18,110
+41864210,10.1016/j.immuni.2026.01.029,Immunity,Multiomic analysis of ART-interruption cohorts identifies cell-extrinsic and -intrinsic me,2025-05-16,2026-01-26,2026-03-22,33,113
+41713421,10.1016/j.immuni.2026.01.028,Immunity,Homeostatic maturation programs drive human cDC2s into a tolerogenic state.,2025-04-25,2026-01-26,2026-02-20,25,0
+41985450,10.1016/j.immuni.2026.03.015,Immunity,Universal vaccines? Only if your antibody genes agree.,2026-03-16,2026-03-17,2026-04-16,2,0
+41985449,10.1016/j.immuni.2026.03.016,Immunity,Two to tango: Microglia in glioblastoma invasion.,2026-03-11,2026-03-18,2026-04-16,2,0
+41985448,10.1016/j.immuni.2026.03.018,Immunity,A fast way to lose antibodies.,2026-03-14,2026-03-18,2026-04-16,2,0
+41985447,10.1016/j.immuni.2026.03.017,Immunity,PANoptosis fuels the fire of arthritis.,2026-03-12,2026-03-18,2026-04-16,2,0
+41985446,10.1016/j.immuni.2026.03.021,Immunity,Runx writes the RORγt code for immune tolerance.,2026-03-19,2026-03-19,2026-04-16,1,0
+41985438,10.1016/j.immuni.2026.03.012,Immunity,Germline-targeting HIV immunogen induces cross-neutralizing antibodies in outbred macaques,2025-05-01,2026-03-12,2026-04-16,52,109
+41985437,10.1016/j.immuni.2026.02.007,Immunity,Human immune aging clock identifies RUNX1 as a decelerator of T cell senescence.,2025-03-27,2026-02-10,2026-04-16,34,0
+41932343,10.1016/j.immuni.2026.03.011,Immunity,Agonistic anti-CD40 antibody treatment converts resident regulatory T cells into activated,2024-10-15,2026-03-11,2026-04-04,14,92
+41923645,10.1016/j.immuni.2026.03.010,Immunity,Microglia-glioblastoma crosstalk mediates glioblastoma invasion at the far infiltration zo,2024-10-09,2026-03-11,2026-04-02,20,0
+41916320,10.1016/j.immuni.2026.02.014,Immunity,High-fat diet causes rapid loss of intestinal group 3 innate lymphoid cells through microb,2025-07-18,2026-02-18,2026-04-01,43,0
+41895293,10.1016/j.immuni.2026.03.002,Immunity,Genetically diverse influenza antibodies highlight the role of IG germline gene variation ,2025-08-07,2026-03-04,2026-03-28,18,93
+41881028,10.1016/j.immuni.2026.02.002,Immunity,A hierarchical Rorc(γt) cis-regulatory cascade orchestrates differentiation of RORγt⁺ inna,2025-03-10,2026-02-02,2026-03-26,16,0
+41844150,10.1016/j.immuni.2026.01.026,Immunity,Ultra-high-throughput IGH genotyping of 25 global populations reveals population-biased al,2025-07-21,2026-01-21,2026-03-18,7,0
+41806829,10.1016/j.immuni.2026.01.025,Immunity,Resident tissue macrophages maintain intraocular pressure homeostasis.,2025-01-17,2026-01-21,2026-03-11,17,57
+41794034,10.1016/j.immuni.2026.01.019,Immunity,Macrophage metabolic exhaustion and PANoptotic cell death drive chronic tissue inflammatio,2025-05-02,2026-01-14,2026-03-08,11,81
+41794032,10.1016/j.immuni.2026.01.023,Immunity,HIF-1α+ CD4+ T cells coordinate a tissue-resident immune cell network in the lung.,2025-06-13,2026-01-16,2026-03-08,18,107
+41759512,10.1016/j.immuni.2026.01.027,Immunity,B lymphocytes that enter the germinal center late preferentially differentiate into memory,2025-06-26,2026-01-21,2026-02-28,9,0
+41734766,10.1016/j.immuni.2026.01.002,Immunity,Fasting impairs humoral immunological memory by β-hydroxybutyrate-mediated depletion of pl,2025-08-11,2026-01-05,2026-02-25,22,0
+41812644,10.1016/j.immuni.2026.02.006,Immunity,Antibody responses against bacterial glycans affinity mature and diversify in germinal cen,2025-03-21,2026-02-10,2026-03-12,36,0
+41812643,10.1016/j.immuni.2026.02.001,Immunity,Human anti-glycan reactivity emerges from B cells utilizing private gene rearrangements th,2024-10-02,2026-02-01,2026-03-12,9,60
+41812642,10.1016/j.immuni.2026.02.008,Immunity,"Out of many, IL-1.",2026-02-02,2026-02-11,2026-03-12,2,0
+41812641,10.1016/j.immuni.2026.02.012,Immunity,Diversify and conquer: Antibody feedback in the germinal center.,2026-02-12,2026-02-17,2026-03-12,2,0
+41812640,10.1016/j.immuni.2026.02.011,Immunity,FLI-ing the script on NK cell persistence: Proteostasis as a limiting factor.,2026-02-06,2026-02-13,2026-03-12,2,0
+41812639,10.1016/j.immuni.2026.02.010,Immunity,Immune austerity: How the body balances its books when calories run low.,2026-01-28,2026-02-12,2026-03-12,2,0
+41812638,10.1016/j.immuni.2026.02.009,Immunity,Big-eaters choking? Macrophages can't stomach microplastics.,2026-02-03,2026-02-11,2026-03-12,3,0
+41759513,10.1016/j.immuni.2026.02.003,Immunity,A longitudinal study of children identifies antibody Fc-mediated functions and antigen tar,2024-12-09,2026-02-04,2026-02-28,17,55
+41759510,10.1016/j.immuni.2026.01.012,Immunity,MafB is a conserved transcriptional regulator of macrophage development and functional ide,2025-01-14,2026-01-08,2026-02-28,16,91
+41747736,10.1016/j.immuni.2026.01.031,Immunity,HIV broadly neutralizing antibody escape dynamics drive the outcome of AAV-vectored immuno,2025-07-09,2026-01-29,2026-02-27,25,116
+41747735,10.1016/j.immuni.2026.01.022,Immunity,Sensory neuron production of substance P and TAFA4 promotes disease tolerance during viral,2024-10-10,2026-01-16,2026-02-27,32,0
+41747734,10.1016/j.immuni.2026.01.006,Immunity,Effector differentiation by stem-like intraepithelial γδ T cells is required for host defe,2025-03-10,2026-01-06,2026-02-27,12,0
+41742422,10.1016/j.immuni.2026.01.008,Immunity,Antibody-mediated feedback modulates interclonal competition in the germinal center.,2025-02-11,2026-01-06,2026-02-26,13,63
+41742421,10.1016/j.immuni.2026.01.009,Immunity,Polystyrene microplastic-induced pathophysiology is driven by disruption of efferocytosis.,2025-06-17,2026-01-07,2026-02-26,19,108
+41722568,10.1016/j.immuni.2026.01.010,Immunity,Hyperactivation of sympathetic nerves fuels basophil infiltration in atopic dermatitis.,2025-03-10,2026-01-07,2026-02-22,21,0
+41713422,10.1016/j.immuni.2026.01.017,Immunity,The transcriptional repressor Fli1 inhibits proteostasis during nutrient stress to limit N,2025-05-08,2026-01-09,2026-02-20,10,0
+41702406,10.1016/j.immuni.2025.12.017,Immunity,Caspase-4 binds to LPS membranes with positive curvature for non-canonical inflammasome ac,2025-04-04,2025-12-23,2026-02-18,7,0
+41690309,10.1016/j.immuni.2026.01.011,Immunity,Local antibody feedback enforces a checkpoint on affinity maturation in the germinal cente,2025-05-29,2026-01-07,2026-02-15,42,107
+41672072,10.1016/j.immuni.2026.01.003,Immunity,Hormonal rewiring of immunity during dietary restriction ensures host defense and systemic,2025-02-23,2026-01-05,2026-02-12,13,103
+41666933,10.1016/j.immuni.2025.12.011,Immunity,Influenza hijacks myeloid cells to inflict type-I interferon-fueled damage in the heart.,2025-03-26,2025-12-16,2026-02-11,47,66
+41672043,10.1016/j.immuni.2025.12.005,Immunity,Chromatin-mediated anticipatory control of type I interferon production in plasmacytoid de,2025-01-03,2025-12-09,2026-02-12,15,102
+41672042,10.1016/j.immuni.2026.01.020,Immunity,Doping cDC1s for tolerance.,2026-01-10,2026-01-14,2026-02-12,2,0
+41672041,10.1016/j.immuni.2026.01.024,Immunity,TCRAFT: A Rosetta Stone for T cell receptors.,2026-01-13,2026-01-16,2026-02-12,2,0
+41672040,10.1016/j.immuni.2026.01.021,Immunity,Shedding light on interventions for brain aging.,2026-01-09,2026-01-14,2026-02-12,2,0
+41672039,10.1016/j.immuni.2026.01.018,Immunity,Cystine fuels ILC2s to survive lung inflammation.,2026-01-11,2026-01-13,2026-02-12,2,0
+41672038,10.1016/j.immuni.2026.01.007,Immunity,Microglia makeover: On-demand control panel revamp.,2026-01-05,2026-01-06,2026-02-12,1,0
+41633359,10.1016/j.immuni.2026.01.014,Immunity,Repression of RIPK1 kinase by INPP5D inhibits expression of diverse proinflammatory mediat,2025-03-10,2026-01-09,2026-02-04,33,0
+41619731,10.1016/j.immuni.2025.12.013,Immunity,Pre-existing neutralizing antibodies against cattle-transmitted influenza A virus H5N1 are,2025-02-05,2025-12-16,2026-02-01,28,0
+41619730,10.1016/j.immuni.2026.01.016,Immunity,Targeting immune cells in the aged brain reveals that engineered cytokine IL-10 enhances n,2024-07-22,2026-01-09,2026-02-01,23,122
+41619729,10.1016/j.immuni.2026.01.004,Immunity,Stepwise epigenetic signal integration drives adaptive programming of cytotoxic lymphocyte,2025-05-02,2026-01-05,2026-02-01,14,85
+41619728,10.1016/j.immuni.2026.01.015,Immunity,B cell-intrinsic IL-2 signaling regulates inflammation by promoting IL-10 expression in CD,2024-12-10,2026-01-09,2026-02-01,12,0
+41616767,10.1016/j.immuni.2026.01.005,Immunity,Commensal-myeloid crosstalk in neonatal skin regulates interleukin-1 signaling and cutaneo,2025-01-09,2026-01-05,2026-01-31,28,88
+41610845,10.1016/j.immuni.2025.12.010,Immunity,A type I interferon-mitochondrial axis regulates efferocytosis and interferon-stimulated g,2025-02-11,2025-12-15,2026-01-30,12,94
+41610844,10.1016/j.immuni.2026.01.001,Immunity,Scalable TCR synthesis and screening enable antigen reactivity mapping in vitiligo.,2025-04-24,2025-12-31,2026-01-30,26,92
+41592574,10.1016/j.immuni.2025.12.009,Immunity,Exosite-mediated targeting of GSDMB by dimeric granzyme A in lymphocyte pyroptotic killing,2025-05-15,2025-12-13,2026-01-28,7,0
+41592573,10.1016/j.immuni.2025.12.016,Immunity,Tumor-associated macrophages enhance peripheral nerve tumor infiltration and spinal cord r,2024-07-31,2025-12-18,2026-01-28,41,0
+41576959,10.1016/j.immuni.2025.12.008,Immunity,Innate lymphoid cells activated by the cytokine TL1A link colitis to emergency granulopoie,2024-10-07,2025-12-11,2026-01-24,24,92
+41558487,10.1016/j.immuni.2025.12.007,Immunity,Commensal-derived trehalose monocorynomycolate triggers γδ T cell-driven protective ocular,2025-03-12,2025-12-09,2026-01-21,24,43
+41506265,10.1016/j.immuni.2025.11.023,Immunity,State-specific enhancer landscapes govern microglial plasticity.,2024-10-06,2025-11-20,2026-01-09,18,98
+41380684,10.1016/j.immuni.2025.11.018,Immunity,Tolerance to ferroptosis facilitates lipid metabolism and pathogenic type 2 immunity in al,2024-11-15,2025-11-14,2025-12-12,14,0
+41534514,10.1016/j.immuni.2025.12.004,Immunity,A head start: Bone channels shape meningeal immunity.,2025-12-03,2025-12-08,2026-01-15,2,0
+41534513,10.1016/j.immuni.2025.12.003,Immunity,IRF4 sends alveolar macrophages spiraling into an identity crisis during type 2 immunity.,2025-12-03,2025-12-05,2026-01-15,2,0
+41534512,10.1016/j.immuni.2025.12.014,Immunity,Primitive macrophages take a road less traveled.,2025-12-17,2025-12-17,2026-01-15,2,0
+41534511,10.1016/j.immuni.2025.12.006,Immunity,To the nines: IL-9 boosts T cell function.,2025-12-08,2025-12-09,2026-01-15,2,0
+41534510,10.1016/j.immuni.2025.12.015,Immunity,Not aIL Treg-mediated suppress10n is equal.,2025-12-12,2025-12-17,2026-01-15,2,0
+41494536,10.1016/j.immuni.2025.12.002,Immunity,Population-level genomic analysis of immunoglobulin loci variation in rhesus macaques reve,2025-03-15,2025-12-02,2026-01-07,34,68
+41468886,10.1016/j.immuni.2025.11.019,Immunity,Remodeling of skull bone channels regulates immune infiltration into the meninges during n,2025-05-16,2025-11-14,2025-12-31,10,0
+41455473,10.1016/j.immuni.2025.11.022,Immunity,Transcription factor Maf promotes expression of repressor Zeb2 to drive microglia developm,2025-05-05,2025-11-20,2025-12-28,17,73
+41421339,10.1016/j.immuni.2025.11.020,Immunity,Positioning and reversible suppression of CCR7+ dendritic cells in perivascular tumor nich,2025-04-01,2025-11-19,2025-12-21,45,115
+41401810,10.1016/j.immuni.2025.11.014,Immunity,Opposing functions of distinct regulatory T cell subsets in colorectal cancer.,2025-03-20,2025-11-12,2025-12-17,15,86
+41386231,10.1016/j.immuni.2025.11.015,Immunity,Innate type 2 lymphocytes trigger an inflammatory switch in alveolar macrophages.,2025-06-09,2025-11-13,2025-12-13,21,0
+41371223,10.1016/j.immuni.2025.11.009,Immunity,The TCR-SUB1-DOCK2 axis promotes autoimmunity by driving pathogenic CD4+ T cell tissue inf,2025-01-28,2025-11-10,2025-12-11,6,0
+41365298,10.1016/j.immuni.2025.11.001,Immunity,A dysregulated hepcidin-iron axis impairs antiviral immunity and induces lethal liver path,2024-01-28,2025-11-03,2025-12-10,35,0
+41352342,10.1016/j.immuni.2025.11.004,Immunity,A chemical agonist and the Golgi-resident lipid PI4P activate STING by inducing transmembr,2025-01-13,2025-11-05,2025-12-07,12,0
+41274291,10.1016/j.immuni.2025.10.021,Immunity,"IL-9 signaling redirects CAR T cell fate toward CD8+ memory and CD4+ cycling states, enhan",2025-01-17,2025-10-27,2025-11-23,11,0
+41274289,10.1016/j.immuni.2025.10.024,Immunity,IL-9 as a naturally orthogonal cytokine with optimal JAK/STAT signaling for engineered T c,2025-01-02,2025-10-30,2025-11-23,20,59
+41237776,10.1016/j.immuni.2025.10.020,Immunity,FOXP3 expression depends on cell-type-specific cis-regulatory elements and transcription f,2025-03-23,2025-10-23,2025-11-15,30,96
