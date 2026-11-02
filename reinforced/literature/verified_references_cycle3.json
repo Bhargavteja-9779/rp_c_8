@@ -1,0 +1,30 @@
+{
+ "barber2023": {
+  "doi": "10.1214/23-aos2276",
+  "title": "Conformal prediction beyond exchangeability",
+  "year": 2023,
+  "venue": "The Annals of Statistics",
+  "authors": [
+   "Barber, Rina Foygel",
+   "Cand\u00e8s, Emmanuel J.",
+   "Ramdas, Aaditya",
+   "Tibshirani, Ryan J."
+  ],
+  "volume": "51",
+  "issue": "2",
+  "page": "816-845"
+ },
+ "angelopoulos2023": {
+  "doi": "10.1561/2200000101",
+  "title": "Conformal Prediction: A Gentle Introduction",
+  "year": 2023,
+  "venue": "Foundations and Trends\u00ae in Machine Learning",
+  "authors": [
+   "Angelopoulos, Anastasios N.",
+   "Bates, Stephen"
+  ],
+  "volume": "16",
+  "issue": "4",
+  "page": "494-591"
+ }
+}
