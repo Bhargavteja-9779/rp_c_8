@@ -1,10 +1,11 @@
 """Part D library: strictly out-of-time panel machinery and the cohort-shift smoothed forecaster CV (protocol Part D). All constants are fixed in the protocol."""
 import sys
 sys.path.insert(0, "/home/user/rp_c_8/code/src")
+import os
 import numpy as np, pandas as pd
 from scipy.special import ndtr
 from tdelay import protocol as P, forecasters as F, scoring as S
-TAUS = np.array([.1, .2, .3, .4, .5, .6, .7, .8, .9]); H = 91; CAP = 365; GAMMA = 0.05; GRID = np.linspace(1.0, 1.4, 17); WIN = H + CAP
+TAUS = np.array([.1, .2, .3, .4, .5, .6, .7, .8, .9]); H = 91; CAP = int(os.environ.get("D_CAP", "480")); GAMMA = 0.05; GRID = np.linspace(1.0, 1.4, 17); WIN = H + CAP
 def complete(o, t0): return pd.Timestamp(o) + pd.Timedelta(days=WIN) <= pd.Timestamp(t0)
 def build_store(df, pub_of, origins, cfg, min_tr=100, min_te=30):
     """store[o] = list of items with visible 12-month sample, 24-month sample and ages, and target sample; target = received in [o, o+91)."""

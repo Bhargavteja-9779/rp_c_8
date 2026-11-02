@@ -10,12 +10,12 @@ ROOT = "/home/user/rp_c_8"; OUT = f"{ROOT}/reinforced/results"; cfg = json.load(
 df = pd.read_csv(f"{ROOT}/data/processed/articles_clean.csv.gz", parse_dates=["received", "accepted", "V"]); fr = json.load(open(f"{ROOT}/data/raw/frame_eligible.json")); member = {j["issn"]: j["member"] for j in fr}; df = df[df.issn.isin(member)].copy()
 df["D"] = df.D.clip(upper=CAP); df["y"] = np.log(df.D.astype(float))
 imprint = pd.read_csv(f"{OUT}/journal_imprint_map.csv", index_col=0).iloc[:, 0]
-origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); eval_origins = [o for o in origins if o >= "2023-07-01"]
+origins = list(pd.date_range("2022-01-01", "2025-07-01", freq="QS").strftime("%Y-%m-%d")); END = pd.Timestamp("2026-10-20"); eval_origins = [o for o in origins if pd.Timestamp(o) >= pd.Timestamp("2022-01-01") + pd.Timedelta(days=WIN) and pd.Timestamp(o) + pd.Timedelta(days=WIN) <= END]; TAG = f"_cap{CAP}" if CAP != 480 else ""
 store = build_store(df, member, origins, cfg); rng = np.random.default_rng(SEED); rows = []; params = {}
 for t0 in eval_origins:
     use = [o for o in origins if complete(o, t0)]; par = learn(store, use, rng); params[t0] = {k: (v if k != "G" else None) for k, v in par.items()}
     rows += forecast_rows(store[t0], t0, par); print(t0, "complete origins", len(use), "items", len(store[t0]), "c", par["c"], "tau2_g", round(par["tau2_g"], 4), "alpha", round(par["alpha_aci"], 3), flush=True)
-D = pd.DataFrame(rows); D["imprint"] = D.issn.map(imprint); D.to_csv(f"{OUT}/D_panel_rows.csv", index=False); json.dump(params, open(f"{OUT}/D_params_by_origin.json", "w"), indent=1)
+D = pd.DataFrame(rows); D["imprint"] = D.issn.map(imprint); D.to_csv(f"{OUT}/D_panel_rows{TAG}.csv", index=False); json.dump(params, open(f"{OUT}/D_params_by_origin{TAG}.json", "w"), indent=1)
 # ---------------- summaries
 def jm(m, col): return D[D.method == m].groupby("issn")[col].mean()
 D["abs_err"] = (D.cov80 - 0.8).abs(); res = {"n_origins": len(eval_origins), "n_journals": int(D.issn.nunique()), "n_journal_origins": int(len(D[D.method == "F0"])), "n_target_papers": int(D[D.method == "F0"].n_te.sum())}
@@ -57,4 +57,4 @@ ev = {}
 for T in (72, 120, 180):
     for m in ("F0", "CV0", "CVb"):
         e = D[D.method == m]; br = ((e[f"p{T}"] - e[f"o{T}"]) ** 2); ev[f"{m}_T{T}"] = dict(brier=float(br.mean()), slope=float(np.polyfit(e[f"p{T}"], e[f"o{T}"], 1)[0]))
-res["events"] = ev; json.dump(res, open(f"{OUT}/D_summary.json", "w"), indent=1, default=float); print(json.dumps({k: res[k] for k in ["summary"]}, default=float)[:3000])
+res["events"] = ev; json.dump(res, open(f"{OUT}/D_summary{TAG}.json", "w"), indent=1, default=float); print(json.dumps({k: res[k] for k in ["summary"]}, default=float)[:3000])
