@@ -68,10 +68,9 @@ def mixed(parts, align=None, size=None, space=6):
         if size: r.font.size = Pt(size)
     return p
 P("Forecasting a journal's time to acceptance under cohort shift: a calibrated, strictly out-of-time method evaluated on 774 journals", bold=True, align="c", size=15, space=18)
-mixed([("P. N. Bhargav Teja", {}), ("1", {"sup": True}), (", Rajay Vedaraj I.S.", {}), ("2,*", {"sup": True})], align="c", size=12, space=14)
-mixed([("1 ", {"sup": True}), ("[Department/School, Institution, City, Postal code, Country: to be completed for P. N. Bhargav Teja]", {"hl": True})], size=11, space=3)
-mixed([("2 ", {"sup": True}), ("Vellore Institute of Technology, Vellore, Tamil Nadu 632014, India", {})], size=11, space=14)
-mixed([("E-mail addresses: ", {"bold": True}), ("P. N. Bhargav Teja, bhargavteja5098171@gmail.com; Rajay Vedaraj I.S., rajay@vit.ac.in", {})], size=11, space=10)
+mixed([("P. N. Bhargav Teja", {}), ("1", {"sup": True}), (", Rajay Vedaraj I.S.", {}), ("1,*", {"sup": True})], align="c", size=12, space=14)
+mixed([("1 ", {"sup": True}), ("Vellore Institute of Technology, Vellore, Tamil Nadu 632014, India", {})], size=11, space=14)
+mixed([("E-mail addresses: ", {"bold": True}), ("P. N. Bhargav Teja, bhargavteja.pn2023@vitstudent.ac.in; Rajay Vedaraj I.S., rajay@vit.ac.in", {})], size=11, space=10)
 mixed([("* Corresponding author: ", {"bold": True}), ("Rajay Vedaraj I.S., Vellore Institute of Technology, Vellore, Tamil Nadu 632014, India. E-mail: rajay@vit.ac.in", {})], size=11, space=10)
 doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 H("Abstract")
