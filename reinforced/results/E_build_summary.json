@@ -62,5 +62,9 @@
  "tau2": 0.04013282808082923,
  "rw_snapshot_sha256_gz": "9d1556fe6fdcf0b1538177072944ecadf3b32fd87ce585aaff340789cbbe5741",
  "median_refs_retracted": 31.0,
- "median_refs_other": 42.0
+ "median_refs_other": 42.0,
+ "same_day_excluded": {
+  "n_same_day": 10163,
+  "retracted_same_day": 2
+ }
 }
