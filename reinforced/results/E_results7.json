@@ -1,0 +1,510 @@
+{
+ "A20": {
+  "records_returned_total": 1956720,
+  "records_dated": 1840163,
+  "dated_share_overall": 0.9404324583997711,
+  "notices_total": 14239,
+  "cohort_retractions": 3454,
+  "coverage_overall": 0.24257321441112437,
+  "by_member": {
+   "Springer Nature": {
+    "notices": 5606,
+    "cohort_retractions": 1624,
+    "dated_share": 0.9696835638716359
+   },
+   "Taylor & Francis": {
+    "notices": 403,
+    "cohort_retractions": 24,
+    "dated_share": 0.9690043852956591
+   },
+   "Wiley": {
+    "notices": 8241,
+    "cohort_retractions": 1810,
+    "dated_share": 0.8756141579793152
+   }
+  },
+  "top_journals": [
+   {
+    "issn": "2314-6141",
+    "title": "BioMed Research International",
+    "cohort_process": 798,
+    "cohort_retracted": 799,
+    "notices": 1018,
+    "dated_share": 0.9051273677335075
+   },
+   {
+    "issn": "1866-7538",
+    "title": "Arabian Journal of Geosciences",
+    "cohort_process": 363,
+    "cohort_retracted": 364,
+    "notices": 378,
+    "dated_share": 0.9311582381729201
+   },
+   {
+    "issn": "1742-481X",
+    "title": "International Wound Journal",
+    "cohort_process": 300,
+    "cohort_retracted": 302,
+    "notices": 493,
+    "dated_share": 0.7295183202964183
+   },
+   {
+    "issn": "1687-5273",
+    "title": "Computational Intelligence and Neuroscience",
+    "cohort_process": 180,
+    "cohort_retracted": 181,
+    "notices": 1092,
+    "dated_share": 0.3637589062199114
+   },
+   {
+    "issn": "1572-817X",
+    "title": "Optical and Quantum Electronics",
+    "cohort_process": 135,
+    "cohort_retracted": 146,
+    "notices": 357,
+    "dated_share": 0.9353209514499837
+   },
+   {
+    "issn": "1600-0846",
+    "title": "Skin Research and Technology",
+    "cohort_process": 101,
+    "cohort_retracted": 103,
+    "notices": 112,
+    "dated_share": 0.8260162601626017
+   },
+   {
+    "issn": "1687-7268",
+    "title": "Journal of Sensors",
+    "cohort_process": 94,
+    "cohort_retracted": 95,
+    "notices": 471,
+    "dated_share": 0.5427408412483039
+   },
+   {
+    "issn": "1868-5145",
+    "title": "Journal of Ambient Intelligence and Humanized Computing",
+    "cohort_process": 89,
+    "cohort_retracted": 90,
+    "notices": 615,
+    "dated_share": 0.8080301129234629
+   },
+   {
+    "issn": "2190-5517",
+    "title": "Applied Nanoscience",
+    "cohort_process": 84,
+    "cohort_retracted": 89,
+    "notices": 93,
+    "dated_share": 0.9592274678111588
+   },
+   {
+    "issn": "1522-7278",
+    "title": "Environmental Toxicology",
+    "cohort_process": 64,
+    "cohort_retracted": 71,
+    "notices": 80,
+    "dated_share": 0.8861003861003861
+   }
+  ],
+  "sens": {
+   "coverage>=0.8": {
+    "or_mh": 4.674877222383402,
+    "ci_mh": [
+     3.7480579369883924,
+     5.8308802616641175
+    ],
+    "ci_cluster": [
+     0.8092002287679553,
+     12.117746470691094
+    ],
+    "exposed": 6649,
+    "exposed_events": 139,
+    "events": 777,
+    "n": 124977,
+    "journals": 52
+   },
+   "coverage>=0.5": {
+    "or_mh": 4.435856049540607,
+    "ci_mh": [
+     3.764182297291281,
+     5.227382028337341
+    ],
+    "ci_cluster": [
+     1.6773081544695516,
+     8.855465660379318
+    ],
+    "exposed": 15096,
+    "exposed_events": 284,
+    "events": 1931,
+    "n": 282749,
+    "journals": 111
+   },
+   "coverage<0.5": {
+    "or_mh": 3.619599444031339,
+    "ci_mh": [
+     2.819012435145789,
+     4.647549607050392
+    ],
+    "ci_cluster": [
+     1.9638003646610374,
+     6.448460851427809
+    ],
+    "exposed": 68692,
+    "exposed_events": 93,
+    "events": 629,
+    "n": 1277992,
+    "journals": 540
+   },
+   "dated_share>=0.95": {
+    "or_mh": 3.095302483471227,
+    "ci_mh": [
+     2.2232672139751855,
+     4.309377390157511
+    ],
+    "ci_cluster": [
+     2.060288429535671,
+     4.9078010428497425
+    ],
+    "exposed": 69990,
+    "exposed_events": 45,
+    "events": 326,
+    "n": 1313423,
+    "journals": 523
+   },
+   "dated_share>=0.90": {
+    "or_mh": 6.099234669050634,
+    "ci_mh": [
+     5.179122329429179,
+     7.182812295582385
+    ],
+    "ci_cluster": [
+     2.9582672162702965,
+     9.871718179839727
+    ],
+    "exposed": 87994,
+    "exposed_events": 290,
+    "events": 1695,
+    "n": 1641882,
+    "journals": 702
+   },
+   "dated_share<0.90": {
+    "or_mh": 2.0449749866483375,
+    "ci_mh": [
+     1.5851508534824112,
+     2.638185940997426
+    ],
+    "ci_cluster": [
+     0.8758000494300187,
+     4.476612572753945
+    ],
+    "exposed": 7770,
+    "exposed_events": 87,
+    "events": 865,
+    "n": 138316,
+    "journals": 96
+   }
+  }
+ },
+ "A21": {
+  "or_process": 4.189188905580355,
+  "or_pubother": 1.1306742742493685,
+  "events_pubother": 380,
+  "exposed_events_pubother": 23,
+  "ratio": 3.705036013454425,
+  "ratio_ci": [
+   1.640667749104755,
+   8.109823249769821
+  ],
+  "n_boot": 2000
+ },
+ "A22": {
+  "primary": {
+   "or_mh": 4.189188905580355,
+   "ci_mh": [
+    3.653104481052847,
+    4.803942448856465
+   ],
+   "ci_cluster": [
+    2.1101176312660948,
+    6.7422019407083855
+   ],
+   "exposed": 95230,
+   "exposed_events": 377,
+   "events": 2560,
+   "n": 1770173
+  },
+  "thresholds_nonretracted_only": {
+   "or_mh": 6.888438007593041,
+   "ci_mh": [
+    6.156755616938177,
+    7.707075144238076
+   ],
+   "ci_cluster": [
+    2.4548877606665487,
+    12.90960135199336
+   ],
+   "exposed": 95827,
+   "exposed_events": 735,
+   "events": 2560,
+   "n": 1770173
+  },
+  "strict_less_than": {
+   "or_mh": 4.138265076565688,
+   "ci_mh": [
+    3.5622727075536593,
+    4.807391025288384
+   ],
+   "ci_cluster": [
+    2.1850223886785165,
+    6.140737853780028
+   ],
+   "exposed": 85884,
+   "exposed_events": 307,
+   "events": 2560,
+   "n": 1770173
+  },
+  "random_tiebreak_exact_5pct": {
+   "or_mh": 4.32869209160595,
+   "ci_mh": [
+    3.749898783950755,
+    4.996821595326014
+   ],
+   "ci_cluster": [
+    2.241098051402752,
+    6.672491229138668
+   ],
+   "exposed": 86296,
+   "exposed_events": 345,
+   "events": 2560,
+   "n": 1770173
+  },
+  "flagged_share_primary": 0.053797001761974675,
+  "flagged_share_strict": 0.04851729181272113,
+  "same_day_excluded": {
+   "n_same_day": 10163,
+   "retracted_same_day": 2
+  }
+ },
+ "A23": {
+  "years": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "or": [
+   5.3610615987887575,
+   9.56744113617632,
+   2.0565256618061154,
+   0.7864118138868463
+  ],
+  "boot_se_log": [
+   0.485550806087356,
+   0.41817203423841104,
+   0.4114024826670343,
+   0.6948069757151097
+  ],
+  "Q": 12.744395356839245,
+  "df": 3,
+  "p": 0.005223271234725768,
+  "slope_per_year": -0.7295657906212979,
+  "slope_ci": [
+   -1.2133879605119895,
+   -0.11571617112440905
+  ],
+  "ratio_late_early": 0.24426580013354673,
+  "ratio_ci": [
+   0.0817389326368197,
+   0.8108902368849265
+  ],
+  "n_boot": 1996,
+  "min_followup_months_A11": 24.7700394218134
+ },
+ "A24": {
+  "all": {
+   "k": 20,
+   "pooled": 3.6294220305678357,
+   "ci": [
+    2.3249734131405764,
+    5.665744047445879
+   ],
+   "ci_hk": [
+    2.2171058586861307,
+    5.941396178429373
+   ],
+   "tau2": 0.8106213201516732,
+   "I2": 0.8711620529558509,
+   "pi_t": [
+    0.5159257660772189,
+    25.532169823826138
+   ],
+   "share_gt1": 0.9
+  },
+  "exposed_events_ge3": {
+   "k": 12,
+   "pooled": 5.384519457100881,
+   "ci": [
+    3.2528500202709383,
+    8.913122216893067
+   ],
+   "ci_hk": [
+    3.1444743041059593,
+    9.220316968734554
+   ],
+   "tau2": 0.6636038149924574,
+   "I2": 0.8910592216522188,
+   "pi_t": [
+    0.8026500614954875,
+    36.121656466179644
+   ],
+   "share_gt1": 1.0
+  },
+  "journals": [
+   {
+    "issn": "2314-6141",
+    "events": 794,
+    "exposed_events": 109,
+    "log_or": 1.8162870835913094,
+    "se": 0.15609643450784388
+   },
+   {
+    "issn": "1866-7538",
+    "events": 363,
+    "exposed_events": 101,
+    "log_or": 3.0500250344355044,
+    "se": 0.19337907188889727
+   },
+   {
+    "issn": "1742-481X",
+    "events": 300,
+    "exposed_events": 23,
+    "log_or": 0.5954456685403416,
+    "se": 0.24502568224318447
+   },
+   {
+    "issn": "1687-5273",
+    "events": 171,
+    "exposed_events": 13,
+    "log_or": 0.5400865836030682,
+    "se": 0.35362175590110767
+   },
+   {
+    "issn": "1572-817X",
+    "events": 135,
+    "exposed_events": 21,
+    "log_or": 1.3385577707701917,
+    "se": 0.2391953400988093
+   },
+   {
+    "issn": "1600-0846",
+    "events": 101,
+    "exposed_events": 1,
+    "log_or": -1.3111810086239573,
+    "se": 0.5895676680599424
+   },
+   {
+    "issn": "1868-5145",
+    "events": 89,
+    "exposed_events": 25,
+    "log_or": 2.5956483609147023,
+    "se": 0.2946230854998791
+   },
+   {
+    "issn": "2190-5517",
+    "events": 84,
+    "exposed_events": 8,
+    "log_or": 0.9633316988051355,
+    "se": 0.39163550957725163
+   },
+   {
+    "issn": "1522-7278",
+    "events": 64,
+    "exposed_events": 8,
+    "log_or": 1.176284016929181,
+    "se": 0.3757603772778277
+   },
+   {
+    "issn": "1687-7268",
+    "events": 63,
+    "exposed_events": 1,
+    "log_or": -0.7849331683022832,
+    "se": 0.7354061077965188
+   },
+   {
+    "issn": "1868-7873",
+    "events": 61,
+    "exposed_events": 11,
+    "log_or": 1.7491754457069053,
+    "se": 0.33273634074188674
+   },
+   {
+    "issn": "2193-567X",
+    "events": 53,
+    "exposed_events": 8,
+    "log_or": 1.5020346699528566,
+    "se": 0.3483317324944714
+   }
+  ]
+ },
+ "A25": {
+  "n": 742605,
+  "stratified_auc_weighted": 0.7816073209401265,
+  "stratified_auc_equal_weight_mean": 0.7076912791254224,
+  "stratified_auc_median": 0.7615975422427035,
+  "largest_stratum": {
+   "stratum": "2314-6141_2022",
+   "pair_share": 0.5533459226025292
+  },
+  "auc_without_largest_stratum": 0.7015869322527705,
+  "n_informative_strata": 54,
+  "auc_by_tau2": {
+   "pit": 0.7816073209401265,
+   "pit_tau0": 0.7816946645232478,
+   "pit_tau10": 0.7813773530250732
+  },
+  "pooled_auc_by_year": {
+   "2023": {
+    "neg_pit": 0.8118713263959262,
+    "neg_D": 0.849495137915238,
+    "journal_history": 0.4875848486136754,
+    "events": 502
+   },
+   "2024": {
+    "neg_pit": 0.6508792573860194,
+    "neg_D": 0.8482772212014879,
+    "journal_history": 0.4597139250610862,
+    "events": 215
+   }
+  }
+ },
+ "A26": {
+  "journal_months": 20291,
+  "journals": 727,
+  "events": 2325,
+  "fe_logit_per_10pts_fast_share": {
+   "or": 2.5864111128257474,
+   "ci": [
+    2.089246080944976,
+    3.201883447603653
+   ],
+   "p": 2.662977246516413e-18,
+   "journals_in_model": 59,
+   "journal_months_in_model": 2625
+  },
+  "flag_fast_ge_15pct": {
+   "flagged_months": 494,
+   "articles_flagged": 21164,
+   "events_flagged": 208,
+   "rate_flagged": 0.009828009828009828,
+   "rate_other": 0.0018499940576478073,
+   "share_events_captured": 0.08946236559139785,
+   "share_articles": 0.018158854801234157
+  },
+  "rate_ratio_flagged_vs_other": {
+   "est": 5.31245480891206,
+   "ci": [
+    0.4063100449923359,
+    18.02766667443317
+   ]
+  }
+ }
+}

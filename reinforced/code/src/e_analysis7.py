@@ -20,7 +20,7 @@ jc = df.groupby("issn").agg(cohort_ret=("R_any", "sum"), cohort_proc=("R_process
 jc["coverage"] = (jc.cohort_ret / jc.retraction_notices.replace(0, np.nan)).clip(upper=1.0); jc["dated_share"] = jc.dated / jc.total
 res["A20"] = {"records_returned_total": int(summ.total.sum()), "records_dated": int(summ.dated.sum()), "dated_share_overall": float(summ.dated.sum() / summ.total.sum()), "notices_total": int(cov.retraction_notices.sum()), "cohort_retractions": int(df.R_any.sum()),
               "coverage_overall": float(min(1.0, df.R_any.sum() / cov.retraction_notices.sum())), "by_member": {}, "top_journals": []}
-for m, g in jc.merge(summ[["issn"]].assign(_=1), on="issn").merge(df.drop_duplicates("issn")[["issn", "member"]], on="issn").groupby("member"): res["A20"]["by_member"][m] = {"notices": int(g.retraction_notices.sum()), "cohort_retractions": int(g.cohort_ret.sum()), "dated_share": float(g.dated.sum() / g.total.sum())}
+for m, g in jc.groupby("member"): res["A20"]["by_member"][m] = {"notices": int(g.retraction_notices.sum()), "cohort_retractions": int(g.cohort_ret.sum()), "dated_share": float(g.dated.sum() / g.total.sum())}
 top = jc.sort_values("cohort_proc", ascending=False).head(10); titles = pd.read_csv(f"{ROOT}/data/processed/journal_titles.csv", index_col=0).iloc[:, 0]
 for _, r in top.iterrows(): res["A20"]["top_journals"].append({"issn": r.issn, "title": str(titles.get(r.issn, "")), "cohort_process": int(r.cohort_proc), "cohort_retracted": int(r.cohort_ret), "notices": int(r.retraction_notices), "dated_share": float(r.dated_share)})
 d1 = d1.merge(jc[["issn", "coverage", "dated_share"]], on="issn", how="left"); res["A20"]["sens"] = {}
@@ -84,8 +84,8 @@ def pooled_auc(y_, s_):
     r = stats.rankdata(s_); n1 = y_.sum(); n0 = len(y_) - n1; return float((r[y_].sum() - n1 * (n1 + 1) / 2) / (n1 * n0))
 res["A25"]["pooled_auc_by_year"] = {}
 for yv in (2023, 2024):
-    d = d3[d3.acc_year == yv].copy(); prior = df[(df.acc_year < yv)]; ev = prior[prior.R_process & (prior.rdate < pd.Timestamp(f"{yv}-01-01"))].groupby("issn").size(); nn = prior.groupby("issn").size(); h = (ev.reindex(nn.index).fillna(0) / nn); d["hist"] = d.issn.map(h).fillna(0.0)
-    y_ = d.R_process.to_numpy(); res["A25"]["pooled_auc_by_year"][yv] = {"neg_pit": pooled_auc(y_, d.neg_pit.to_numpy()), "neg_D": pooled_auc(y_, d.neg_D.to_numpy()), "journal_history": pooled_auc(y_, d.hist.to_numpy()), "events": int(y_.sum())}
+    d = d3[d3.acc_year == yv].copy(); prior = df[(df.acc_year < yv)]; ev = prior[prior.R_process & (prior.rdate < pd.Timestamp(f"{yv}-01-01"))].groupby("issn").size(); nn = prior.groupby("issn").size(); h = (ev.reindex(nn.index).fillna(0) / nn); d["hist_rate"] = d.issn.map(h).fillna(0.0)
+    y_ = d.R_process.to_numpy(); res["A25"]["pooled_auc_by_year"][yv] = {"neg_pit": pooled_auc(y_, d.neg_pit.to_numpy()), "neg_D": pooled_auc(y_, d.neg_D.to_numpy()), "journal_history": pooled_auc(y_, d.hist_rate.to_numpy()), "events": int(y_.sum())}
 # ---------------- A26 group level (journal-month)
 g = df[df.X1.notna()].groupby("month_stratum").agg(issn=("issn", "first"), n=("doi", "size"), fast=("X1", "mean"), batch=("X4b", "mean"), ev=("R_process", "sum"), evany=("R_any", "sum")).reset_index(); g = g[g.n >= 30].copy(); res["A26"] = {"journal_months": int(len(g)), "journals": int(g.issn.nunique()), "events": int(g.ev.sum())}
 inf_j = g.groupby("issn").ev.sum(); gi = g[g.issn.isin(inf_j[inf_j > 0].index)].copy(); D_ = pd.get_dummies(gi.issn, drop_first=True).astype(float); X = pd.concat([(gi.fast * 10).rename("fast10"), D_], axis=1); X = sm.add_constant(X)
