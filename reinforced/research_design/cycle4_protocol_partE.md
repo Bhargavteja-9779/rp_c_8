@@ -45,3 +45,7 @@ The first run showed: fastest 5 % within journal-year, Mantel–Haenszel OR 4.4 
 * **A9 score calibration and pooled discrimination**: retraction rate (R_process, R_any) by PIT band (≤ 0.01, 0.01–0.05, 0.05–0.20, 0.20–0.80, 0.80–0.95, ≥ 0.95) in the A3 population; pooled (not stratified) AUC of −PIT, −D and batch size for the same population, with journal-cluster bootstrap CI.
 * **A10 time to retraction**: median months from acceptance to retraction for fast (X1) versus other retracted articles.
 * The follow-up dependence of the effect (OR by acceptance year) is reported as observed; a formal follow-up-adjusted analysis is not claimed.
+
+## Amendment E-A3 (specified before running; responds to the year pattern and event concentration seen in the first results)
+* **A11 equal follow-up**: outcomes R_process_24 and R_any_24 = retracted with a retraction date ≤ 730 days after the acceptance date; articles accepted 2020-01-01 to 2024-12-31 only (every article then has at least 21 months of follow-up before the 2026-11-24 data cut; the 24-month window is applied to the retraction date, and articles accepted after 2024-10-31 are excluded to guarantee a full window). MH odds ratio of X1 overall and by acceptance year.
+* **A12 event concentration**: share of process-related retractions in the 1, 5, 10 and 20 journals with most such events; MH odds ratio of X1 for R_process after removing the 1, 3, 5, 10 and 20 journals with most process-related retractions.
