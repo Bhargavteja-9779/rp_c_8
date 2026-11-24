@@ -52,7 +52,7 @@ for out in ("R_process", "R_any"):
     res["A1"][out] = {}
     for exp in ("X1", "X2", "X3", "X4", "X4b", "X5", "N1"):
         d = df[df[exp].notna()] if exp in ("X1", "X2") else df
-        res["A1"][out][exp] = mh_ci(strata_tables(d, exp, out), B=500)
+        res["A1"][out][exp] = mh_ci(strata_tables(d, exp, out), B=2000)
     res["A1"][out]["joint_fe_logit"] = fe_logit(d1, out, ["X1", "X2", "X4", "X5", "ln_auth"])
 p1 = [res["A1"]["R_process"]["joint_fe_logit"]["X1"]["p"], res["A1"]["R_any"]["joint_fe_logit"]["X1"]["p"]]; order = np.argsort(p1); adj = [0, 0]; m = 2
 for r, i in enumerate(order): adj[i] = min(1.0, (m - r) * p1[i])
