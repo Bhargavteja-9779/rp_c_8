@@ -1,0 +1,66 @@
+{
+ "flow": [
+  {
+   "step": "Crossref records, unique DOI (800 journals)",
+   "n": 1824388,
+   "retracted": 3526
+  },
+  {
+   "step": "received and accepted dates parsable",
+   "n": 1824388,
+   "retracted": 3526
+  },
+  {
+   "step": "1 <= D <= 1,460 days",
+   "n": 1813858,
+   "retracted": 3524
+  },
+  {
+   "step": "received on or after minimum date",
+   "n": 1813857,
+   "retracted": 3524
+  },
+  {
+   "step": "accepted not > 7 days after a TRUE first-online date",
+   "n": 1813852,
+   "retracted": 3524
+  },
+  {
+   "step": "title not non-research pattern",
+   "n": 1803587,
+   "retracted": 3454
+  }
+ ],
+ "n_articles": 1803587,
+ "n_retracted": 3454,
+ "n_process": 2639,
+ "n_ai": 1070,
+ "n_other": 815,
+ "n_nopub": 113,
+ "n_thirdparty": 1124,
+ "n_pit": 1161101,
+ "n_journals": 800,
+ "n_strata": 5625,
+ "true_first_online_share": 0.6340459318014601,
+ "by_member_retracted": {
+  "Wiley": 1810,
+  "Springer Nature": 1620,
+  "Taylor & Francis": 24
+ },
+ "by_year_retracted": {
+  "2013": 1,
+  "2017": 1,
+  "2019": 1,
+  "2020": 67,
+  "2021": 1312,
+  "2022": 905,
+  "2023": 671,
+  "2024": 431,
+  "2025": 61,
+  "2026": 4
+ },
+ "tau2": 0.04013282808082923,
+ "rw_snapshot_sha256_gz": "9d1556fe6fdcf0b1538177072944ecadf3b32fd87ce585aaff340789cbbe5741",
+ "median_refs_retracted": 31.0,
+ "median_refs_other": 42.0
+}

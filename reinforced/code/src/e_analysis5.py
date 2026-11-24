@@ -12,7 +12,7 @@ for out in ("R_process", "R_any"):
     t = np.where(d[out], (d.rdate - d.accepted).dt.days, (CUT - d.accepted).dt.days).astype(float); ev = d[out].to_numpy() & (t > 0); n_bad = int((d[out].to_numpy() & ~(t > 0)).sum())
     x = d.assign(t=t, ev=ev.astype(int)); x = x[(x.t > 0)]
     inf = x.groupby("stratum").ev.sum(); x = x[x.stratum.isin(inf[inf > 0].index)]
-    cols = ["X1", "X2", "X4", "X5", "ln_refs", "ln_auth"]; X = x[cols].astype(float).to_numpy(); tt = x.t.to_numpy(); st = x.ev.to_numpy(); sa = x.stratum.to_numpy(); jn = x.issn.to_numpy()
+    cols = ["X1", "X2", "X4", "X5", "ln_auth"]; X = x[cols].astype(float).to_numpy(); tt = x.t.to_numpy(); st = x.ev.to_numpy(); sa = x.stratum.to_numpy(); jn = x.issn.to_numpy()
     fit = PHReg(tt, X, status=st, strata=sa, ties="breslow").fit(disp=False); hr = np.exp(fit.params); ci = np.exp(fit.conf_int())
     res[out] = {"n_rows": int(len(x)), "n_events": int(x.ev.sum()), "n_strata": int(x.stratum.nunique()), "excluded_nonpositive_time": n_bad, "median_follow_up_days": float((CUT - x.accepted).dt.days.median())}
     rng = np.random.default_rng(5); js = np.unique(jn); idx = {a: np.where(jn == a)[0] for a in js}; bs = []
