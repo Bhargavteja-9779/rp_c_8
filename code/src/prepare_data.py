@@ -3,6 +3,7 @@ import json, sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 import pandas as pd
 from tdelay import data as D
+os.makedirs(os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")), "data", "processed"), exist_ok=True)
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 cfg = json.load(open(os.path.join(ROOT, "code/configs/config.json")))
 fr = json.load(open(os.path.join(ROOT, "data/raw/frame_eligible.json"))); member = {j["issn"]: j["member"] for j in fr}; title = {j["issn"]: j["title"] for j in fr}
