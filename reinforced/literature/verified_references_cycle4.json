@@ -1,0 +1,491 @@
+{
+ "bishop2023_hindawi_si": {
+  "doi": "10.31234/osf.io/6mbgv",
+  "title": "Red flags for paper mills need to go beyond the level of individual articles: a case study of Hindawi special issues",
+  "year": 2023,
+  "venue": "PsyArXiv (preprint)",
+  "authors": [
+   "Bishop, Dorothy Vera Margaret"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "richardson2025_pnas": {
+  "doi": "10.1073/pnas.2420092122",
+  "title": "The entities enabling scientific fraud at scale are large, resilient, and growing rapidly",
+  "year": 2025,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "authors": [
+   "Richardson, Reese A. K.",
+   "Hong, Spencer S.",
+   "Byrne, Jennifer A.",
+   "Stoeger, Thomas",
+   "Amaral, Luís A. Nunes"
+  ],
+  "volume": "122",
+  "issue": "32",
+  "page": "e2420092122"
+ },
+ "scanff2021_plosbiol": {
+  "doi": "10.1371/journal.pbio.3001133",
+  "title": "A survey of biomedical journals to detect editorial bias and nepotistic behavior",
+  "year": 2021,
+  "venue": "PLOS Biology",
+  "authors": [
+   "Scanff, Alexandre",
+   "Naudet, Florian",
+   "Cristea, Ioana A.",
+   "Moher, David",
+   "Bishop, Dorothy V. M.",
+   "Locher, Clara"
+  ],
+  "volume": "19",
+  "issue": "11",
+  "page": "e3001133"
+ },
+ "hanson2024_qss": {
+  "doi": "10.1162/qss_a_00327",
+  "title": "The strain on scientific publishing",
+  "year": 2024,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Hanson, Mark A.",
+   "Barreiro, Pablo Gómez",
+   "Crosetto, Paolo",
+   "Brockington, Dan"
+  ],
+  "volume": "5",
+  "issue": "4",
+  "page": "823-843"
+ },
+ "mascato2025_ripr": {
+  "doi": "10.1186/s41073-025-00177-9",
+  "title": "Identifying common patterns in journals that retracted papers from paper mills: a cross-sectional study",
+  "year": 2025,
+  "venue": "Research Integrity and Peer Review",
+  "authors": [
+   "Mascato Fontaíña, Noa",
+   "Candal-Pedreira, Cristina",
+   "García, Guadalupe",
+   "Ross, Joseph S.",
+   "Ruano-Ravina, Alberto",
+   "Martin-Gisbert, Lucía"
+  ],
+  "volume": "10",
+  "issue": "1",
+  "page": "21"
+ },
+ "schonhaut2022_rpsp": {
+  "doi": "10.26633/rpsp.2022.25",
+  "title": "Scientific publication speed and retractions of COVID-19 pandemic original articles",
+  "year": 2022,
+  "venue": "Revista Panamericana de Salud Pública",
+  "authors": [
+   "Schonhaut, Luisa",
+   "Costa-Roldan, Italo",
+   "Oppenheimer, Ilan",
+   "Pizarro, Vicente",
+   "Han, Dareen",
+   "Díaz, Franco"
+  ],
+  "volume": "46",
+  "issue": "",
+  "page": "1"
+ },
+ "sridharan2026_frma": {
+  "doi": "10.3389/frma.2025.1737168",
+  "title": "Artificial intelligence in the retraction spotlight: trends, causes and consequences of withdrawn AI literature through a systematic bibliometric review",
+  "year": 2026,
+  "venue": "Frontiers in Research Metrics and Analytics",
+  "authors": [
+   "Sridharan, Kannan",
+   "Sivaramakrishnan, Gowri"
+  ],
+  "volume": "10",
+  "issue": "",
+  "page": "1737168"
+ },
+ "kocyigit2023_jkms": {
+  "doi": "10.3346/jkms.2023.38.e390",
+  "title": "Characteristics of Retracted Publications From Kazakhstan: An Analysis Using the Retraction Watch Database",
+  "year": 2023,
+  "venue": "Journal of Korean Medical Science",
+  "authors": [
+   "Kocyigit, Burhan Fatih",
+   "Zhaksylyk, Alikhan",
+   "Akyol, Ahmet",
+   "Yessirkepov, Marlen"
+  ],
+  "volume": "38",
+  "issue": "46",
+  "page": "e390"
+ },
+ "aboelnour2025_ejp": {
+  "doi": "10.1007/s00431-025-06578-8",
+  "title": "Comprehensive bibliometric analysis of characteristics, patterns, and causes of retractions in pediatric literature",
+  "year": 2025,
+  "venue": "European Journal of Pediatrics",
+  "authors": [
+   "Abo-elnour, Dina Essam",
+   "Helal, Mohamed Mohsen",
+   "Albalasy, Abdulrahman Ahmed",
+   "Abdul-Hafez, Hamza A.",
+   "Abdelkader, Ahmed",
+   "El-Sherbini, Eman Raafat",
+   "Abdalla, Yomna Emad",
+   "Abdelrahman, Salma Tamer",
+   "Salem, Asmaa G.",
+   "Sarhan, Menna M.",
+   "Soliman, Esraa M.",
+   "Alshwayyat, Sakhr",
+   "Ibrahim, Ismail A.",
+   "Amer, Samar A."
+  ],
+  "volume": "184",
+  "issue": "12",
+  "page": "740"
+ },
+ "dianovics2025_lifecycle": {
+  "doi": "10.71240/lcyc.084124",
+  "title": "Acceptance and publication lags in scholarly journals between 2016 and 2025",
+  "year": 2025,
+  "venue": "Lifecycle Journal (research plan)",
+  "authors": [
+   "Dianovics, Dominik",
+   "Varga, Marton A",
+   "Bognar, Miklos",
+   "Aczel, Balazs"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "fletcher2025_ripr": {
+  "doi": "10.1186/s41073-025-00168-w",
+  "title": "Predicting retracted research: a dataset and machine learning approaches",
+  "year": 2025,
+  "venue": "Research Integrity and Peer Review",
+  "authors": [
+   "Fletcher, Aaron H. A.",
+   "Stevenson, Mark"
+  ],
+  "volume": "10",
+  "issue": "1",
+  "page": "9"
+ },
+ "singh2026_rw_revisions": {
+  "doi": "10.31222/osf.io/9wgpy_v2",
+  "title": "Asking Retraction Watch Twice: Retraction Data Revise Their Own Past",
+  "year": 2026,
+  "venue": "MetaArXiv (preprint)",
+  "authors": [
+   "Singh, Tanay Pratap"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "lemarchand2026_medrxiv": {
+  "doi": "10.64898/2026.08.17.26360597",
+  "title": "Editors and research articles: a retrospective study of self-publication in biomedical research",
+  "year": 2026,
+  "venue": "medRxiv (preprint)",
+  "authors": [
+   "Lemarchand, Cédric",
+   "Naudet, Florian",
+   "Pencolé, Marc-Antoine",
+   "Ropers, Louën",
+   "Scanff, Alexandre",
+   "Cristea, Ioana Alina",
+   "Locher, Clara"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "day2022_scientometrics": {
+  "doi": "10.1007/s11192-022-04504-5",
+  "title": "Exploratory analysis of text duplication in peer-review reveals peer-review fraud and paper mills",
+  "year": 2022,
+  "venue": "Scientometrics",
+  "authors": [
+   "Day, Adam"
+  ],
+  "volume": "127",
+  "issue": "10",
+  "page": "5965-5987"
+ },
+ "parker2024_jce": {
+  "doi": "10.1016/j.jclinepi.2024.111549",
+  "title": "Paper mill challenges: past, present, and future",
+  "year": 2024,
+  "venue": "Journal of Clinical Epidemiology",
+  "authors": [
+   "Parker, Lisa",
+   "Boughton, Stephanie",
+   "Bero, Lisa",
+   "Byrne, Jennifer A."
+  ],
+  "volume": "176",
+  "issue": "",
+  "page": "111549"
+ },
+ "candal2022_bmj": {
+  "doi": "10.1136/bmj-2022-071517",
+  "title": "Retracted papers originating from paper mills: cross sectional study",
+  "year": 2022,
+  "venue": "BMJ",
+  "authors": [
+   "Candal-Pedreira, Cristina",
+   "Ross, Joseph S",
+   "Ruano-Ravina, Alberto",
+   "Egilman, David S",
+   "Fernández, Esteve",
+   "Pérez-Ríos, Mónica"
+  ],
+  "volume": "379",
+  "issue": "",
+  "page": "e071517"
+ },
+ "sabel2025_naunyn": {
+  "doi": "10.1007/s00210-025-04275-9",
+  "title": "Fake publications in biomedical science: red-flagging method indicates mass production",
+  "year": 2025,
+  "venue": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "authors": [
+   "Sabel, Bernhard A.",
+   "Knaack, Emely",
+   "Gigerenzer, Gerd",
+   "Bilc, Mirela-Ioana"
+  ],
+  "volume": "399",
+  "issue": "2",
+  "page": "2943-2955"
+ },
+ "farquhar2026_osf": {
+  "doi": "10.31222/osf.io/3bvzc_v1",
+  "title": "Detecting Fraud-Associated Characteristics in the Medical AI Literature: A Multi-Signal NLP Framework Reveals Distinct Paper Mill Subtypes",
+  "year": 2026,
+  "venue": "MetaArXiv (preprint)",
+  "authors": [
+   "Farquhar, Hayden"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "scancar2026_bmj": {
+  "doi": "10.1136/bmj-2025-087581",
+  "title": "Machine learning based screening of potential paper mill publications in cancer research: methodological and cross sectional study",
+  "year": 2026,
+  "venue": "BMJ",
+  "authors": [
+   "Scancar, Baptiste",
+   "Byrne, Jennifer A",
+   "Causeur, David",
+   "Barnett, Adrian G"
+  ],
+  "volume": "392",
+  "issue": "",
+  "page": "e087581"
+ },
+ "horbach2020_qss": {
+  "doi": "10.1162/qss_a_00076",
+  "title": "Pandemic publishing: Medical journals strongly speed up their publication process for COVID-19",
+  "year": 2020,
+  "venue": "Quantitative Science Studies",
+  "authors": [
+   "Horbach, Serge P. J. M."
+  ],
+  "volume": "1",
+  "issue": "3",
+  "page": "1056-1067"
+ },
+ "sarigol2017_scientometrics": {
+  "doi": "10.1007/s11192-017-2309-y",
+  "title": "Quantifying the effect of editor–author relations on manuscript handling times",
+  "year": 2017,
+  "venue": "Scientometrics",
+  "authors": [
+   "Sarigöl, Emre",
+   "Garcia, David",
+   "Scholtes, Ingo",
+   "Schweitzer, Frank"
+  ],
+  "volume": "113",
+  "issue": "1",
+  "page": "609-631"
+ },
+ "ausloos2016_physica_a": {
+  "doi": "10.1016/j.physa.2016.03.032",
+  "title": "Day of the week effect in paper submission/acceptance/rejection to/in/by peer review journals",
+  "year": 2016,
+  "venue": "Physica A: Statistical Mechanics and its Applications",
+  "authors": [
+   "Ausloos, Marcel",
+   "Nedic, Olgica",
+   "Dekanski, Aleksandar"
+  ],
+  "volume": "456",
+  "issue": "",
+  "page": "197-203"
+ },
+ "cheng2026_scientometrics": {
+  "doi": "10.1007/s11192-026-05751-6",
+  "title": "Tracking the retracted paper mill articles: a bibliometric study",
+  "year": 2026,
+  "venue": "Scientometrics",
+  "authors": [
+   "Cheng, Michelle W. T.",
+   "Yang, Xinhua",
+   "Allen, Ryan M."
+  ],
+  "volume": "131",
+  "issue": "9",
+  "page": "6341-6361"
+ },
+ "copestm2022_paper_mills": {
+  "doi": "10.24318/jtbg8ihl",
+  "title": "Paper mills research",
+  "year": 2022,
+  "venue": "COPE and STM (report)",
+  "authors": [],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "gleasner2025_learnpubl": {
+  "doi": "10.1002/leap.1635",
+  "title": "Special issues: The roles of special issues in scholarly communication in a changing publishing landscape",
+  "year": 2024,
+  "venue": "Learned Publishing",
+  "authors": [
+   "Gleasner, Robyn M.",
+   "Sood, Akshay"
+  ],
+  "volume": "38",
+  "issue": "1",
+  "page": "e1635"
+ },
+ "mills2025_accres": {
+  "doi": "10.1080/08989621.2024.2374567",
+  "title": "‘Special issue-ization’ as a growth and revenue strategy: Reproduction by the “big five” and the risks for research integrity",
+  "year": 2024,
+  "venue": "Accountability in Research",
+  "authors": [
+   "Mills, David",
+   "Mertkan, Sefika",
+   "Onurkan Aliusta, Gulen"
+  ],
+  "volume": "32",
+  "issue": "6",
+  "page": "1027-1045"
+ },
+ "gomez2026_pjahs": {
+  "doi": "10.36413/pjahs.1001.001",
+  "title": "Fast Science, Fragile Trust: How Editorial Decisions Shape Retractions and Post-Publication Integrity",
+  "year": 2026,
+  "venue": "Philippine Journal of Allied Health Sciences",
+  "authors": [
+   "Gomez, Ivan Neil"
+  ],
+  "volume": "10",
+  "issue": "1",
+  "page": ""
+ },
+ "harvey2026_ssp": {
+  "doi": "10.14293/s2199-ssp-am26-01008",
+  "title": "Quantity Vs. Quality: What do low submission to acceptance times really say about your peer review?",
+  "year": 2026,
+  "venue": "SSP Annual Meeting 2026 (conference proceedings entry)",
+  "authors": [
+   "Harvey, Kelly"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "toraih2025_inplasy": {
+  "doi": "10.37766/inplasy2025.5.0088",
+  "title": "Rapid Publication during Crises: Analyzing Retractions During the COVID-19 Pandemic",
+  "year": 2025,
+  "venue": "INPLASY (protocol registration)",
+  "authors": [
+   "Toraih, Eman A.",
+   "El-Wazir, Mohamed",
+   "Elshazli, Rami M",
+   "Hussein, Mohammad H",
+   "Fawzy, Manal S.",
+   "Elroukh, Safinaz M"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "arjomandi2026_arxiv": {
+  "doi": "10.48550/arxiv.2611.10474",
+  "title": "Do links to retracted papers predict future retractions? An out-of-sample test on the open biomedical citation graph",
+  "year": 2026,
+  "venue": "arXiv (preprint)",
+  "authors": [
+   "Arjomandi, Hossein Mohasel"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "crosetto2026_arxiv": {
+  "doi": "10.48550/arxiv.2601.07563",
+  "title": "The Issue with Special Issues: when Guest Editors Publish in Support of Self",
+  "year": 2026,
+  "venue": "arXiv (preprint)",
+  "authors": [
+   "Crosetto, Paolo",
+   "Barreiro, Pablo Gómez",
+   "Hanson, Mark Austin"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "oppenlaender2026_arxiv": {
+  "doi": "10.48550/arxiv.2602.19197",
+  "title": "How Ten Publishers Retract Research",
+  "year": 2026,
+  "venue": "arXiv (preprint)",
+  "authors": [
+   "Oppenlaender, Jonas"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "abalkina2026_arxiv": {
+  "doi": "10.48550/arxiv.2604.22458",
+  "title": "Opening Pandora's box: Paper mills in conference proceedings",
+  "year": 2026,
+  "venue": "arXiv (preprint)",
+  "authors": [
+   "Abalkina, Anna",
+   "Kunešová, Marie",
+   "Ozturk, Yagmur",
+   "Pirelli, Solal"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "franti2024_arxiv": {
+  "doi": "10.48550/arxiv.2411.08051",
+  "title": "What is wrong with MDPI: Is it a predator or a serious competitor?",
+  "year": 2024,
+  "venue": "arXiv (preprint)",
+  "authors": [
+   "Fränti, Pasi"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ }
+}
