@@ -32,11 +32,16 @@ def fe_logit(d, out, exps, cluster="issn", iters=25):
     """Fixed-effects (stratum) logistic regression by Newton-Raphson with journal-cluster sandwich SE; informative strata only."""
     d = informative(d.dropna(subset=exps), out); X = d[exps].astype(float).to_numpy(); y = d[out].astype(float).to_numpy()
     codes, _ = pd.factorize(d.stratum); S = sp.csr_matrix((np.ones(len(d)), (np.arange(len(d)), codes))); Z = sp.hstack([sp.csr_matrix(X), S]).tocsr(); k = Z.shape[1]
-    beta = np.zeros(k); beta[len(exps):] = np.log(y.mean() / (1 - y.mean()))
-    for it in range(iters):
-        eta = Z @ beta; p = 1 / (1 + np.exp(-np.clip(eta, -30, 30))); W = p * (1 - p); H = (Z.T @ sp.diags(W) @ Z).toarray() + 1e-8 * np.eye(k); g = Z.T @ (y - p); step = np.linalg.solve(H, g); beta += step
-        if np.max(np.abs(step)) < 1e-7: break
-    p = 1 / (1 + np.exp(-np.clip(Z @ beta, -30, 30))); Hinv = np.linalg.inv((Z.T @ sp.diags(p * (1 - p)) @ Z).toarray() + 1e-8 * np.eye(k)); sc = Z.multiply((y - p)[:, None]).tocsr(); cl, _ = pd.factorize(d[cluster])
+    lam = np.concatenate([np.zeros(len(exps)), np.full(Z.shape[1] - len(exps), 1e-3)]); beta = np.zeros(k); beta[len(exps):] = np.log(y.mean() / (1 - y.mean()))
+    def ll(b): eta = np.clip(Z @ b, -30, 30); return float(np.sum(y * eta - np.log1p(np.exp(eta))) - 0.5 * np.sum(lam * b * b))
+    cur = ll(beta)
+    for it in range(60):
+        eta = Z @ beta; p = 1 / (1 + np.exp(-np.clip(eta, -30, 30))); W = p * (1 - p); H = (Z.T @ sp.diags(W) @ Z).toarray() + np.diag(lam) + 1e-9 * np.eye(k); g = Z.T @ (y - p) - lam * beta; step = np.linalg.solve(H, g); t = 1.0
+        while t > 1e-6 and ll(beta + t * step) < cur - 1e-9: t /= 2
+        beta = beta + t * step; new = ll(beta)
+        if abs(new - cur) < 1e-9 and np.max(np.abs(t * step)) < 1e-6: cur = new; break
+        cur = new
+    p = 1 / (1 + np.exp(-np.clip(Z @ beta, -30, 30))); Hinv = np.linalg.inv((Z.T @ sp.diags(p * (1 - p)) @ Z).toarray() + np.diag(lam) + 1e-9 * np.eye(k)); sc = Z.multiply((y - p)[:, None]).tocsr(); cl, _ = pd.factorize(d[cluster])
     G = sp.csr_matrix((np.ones(len(d)), (cl, np.arange(len(d))))); sg = (G @ sc).toarray(); meat = sg.T @ sg; V = Hinv @ meat @ Hinv; se = np.sqrt(np.diag(V))[:len(exps)]
     return {e: dict(or_=float(np.exp(beta[i])), ci=[float(np.exp(beta[i] - 1.96 * se[i])), float(np.exp(beta[i] + 1.96 * se[i]))], p=float(2 * (1 - stats.norm.cdf(abs(beta[i] / se[i]))))) for i, e in enumerate(exps)} | {"n_rows": int(len(d)), "n_strata": int(len(np.unique(codes))), "n_events": int(y.sum()), "n_clusters": int(len(np.unique(cl)))}
 d1 = df[df.X1.notna()].copy()  # strata with >=100 articles

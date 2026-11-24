@@ -34,3 +34,14 @@
 * Associations are conditional on journal and acceptance year, not causal. A retraction is a lagging, incomplete and publisher-dependent marker of problems, and unretracted problematic articles exist.
 * Timing flags must never be presented as evidence of misconduct for an individual paper; screening results are reported as enrichment (lift, PPV) with the number of flagged non-retracted articles.
 * Retraction Watch coverage and the publishers' retraction practices differ, so publisher-specific results are shown separately.
+
+## Amendment E-A1 (after the first analysis run; numerical only)
+The first run of `e_analysis.py` produced non-converged coefficients (overflow, odds ratios of 0 or infinity) in the joint fixed-effects logistic regression because plain Newton–Raphson diverged. The optimiser was replaced by Newton–Raphson with step-halving and a ridge penalty of 0.001 on the stratum dummies only; exposures, outcomes, strata and all other analyses are unchanged. The Mantel–Haenszel results of the first run (which do not depend on this model) were seen before the fix.
+
+## Amendment E-A2 (written after seeing the first Part E results; the analyses below were specified before they were run)
+The first run showed: fastest 5 % within journal-year, Mantel–Haenszel OR 4.4 for R_process (journal-cluster CI 2.1–8.2); slow articles OR 0.13; negative control N1 OR 1.09 (0.92–1.23); batch acceptance OR 1.4 (≥ 5) and 2.0 (≥ 10) but 0.9 after excluding mass-retraction journal-years; out-of-time stratified AUC of the PIT score 0.71 for R_process; the association weaker in later acceptance years and for Wiley; a negative journal-year-level correlation of the share of D ≤ 7 days with retraction. Added, all secondary and post hoc in the sense that they respond to these results:
+* **A7 external replication**: the same definitions (X1, X2, X3, X4, N1; strata journal × acceptance year; MH odds ratios with journal-cluster bootstrap) applied to the external PubMed-dated journals of other publishers (`data/raw/pubmed_ext`), with retraction outcomes from Retraction Watch matched on DOI (R_process, R_any).
+* **A8 reason subtypes**: MH odds ratios of X1 for retractions whose reasons contain (separately) "compromised peer review", "rogue editor", "paper mill", "concerns/issues about peer review"; and for R_other.
+* **A9 score calibration and pooled discrimination**: retraction rate (R_process, R_any) by PIT band (≤ 0.01, 0.01–0.05, 0.05–0.20, 0.20–0.80, 0.80–0.95, ≥ 0.95) in the A3 population; pooled (not stratified) AUC of −PIT, −D and batch size for the same population, with journal-cluster bootstrap CI.
+* **A10 time to retraction**: median months from acceptance to retraction for fast (X1) versus other retracted articles.
+* The follow-up dependence of the effect (OR by acceptance year) is reported as observed; a formal follow-up-adjusted analysis is not claimed.
