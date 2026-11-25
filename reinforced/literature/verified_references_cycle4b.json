@@ -11,9 +11,9 @@
    "Harron, Katie",
    "Moher, David",
    "Petersen, Irene",
-   "S\u00f8rensen, Henrik T.",
+   "Sørensen, Henrik T.",
    "von Elm, Erik",
-   "Langan, Sin\u00e9ad M.",
+   "Langan, Sinéad M.",
    ", "
   ],
   "volume": "12",
@@ -30,7 +30,7 @@
    "Altman, Douglas G",
    "Egger, Matthias",
    "Pocock, Stuart J",
-   "G\u00f8tzsche, Peter C",
+   "Gøtzsche, Peter C",
    "Vandenbroucke, Jan P"
   ],
   "volume": "370",
@@ -51,13 +51,13 @@
  },
  "coi_notices2026": {
   "doi": "10.1186/s41073-026-00236-9",
-  "title": "Retraction and correction of scientific articles due to conflicts of interest: a cross\u2011sectional analysis of the Retraction Watch database",
+  "title": "Retraction and correction of scientific articles due to conflicts of interest: a cross‑sectional analysis of the Retraction Watch database",
   "year": 2026,
   "venue": "Research Integrity and Peer Review",
   "authors": [
-   "Bo\u010dina, Ru\u017eica",
-   "Mijatovi\u0107, Antonija",
-   "Maru\u0161i\u0107, Ana"
+   "Bočina, Ružica",
+   "Mijatović, Antonija",
+   "Marušić, Ana"
   ],
   "volume": "11",
   "issue": "1",
@@ -79,7 +79,7 @@
  },
  "notice_type2026": {
   "doi": "10.1186/s41073-026-00271-6",
-  "title": "Publishers\u2019 responses to integrity concerns \u2013 does the type of notice influence subsequent citations? a cohort study",
+  "title": "Publishers’ responses to integrity concerns – does the type of notice influence subsequent citations? a cohort study",
   "year": 2026,
   "venue": "Research Integrity and Peer Review",
   "authors": [
@@ -91,5 +91,30 @@
   "volume": null,
   "issue": null,
   "page": null
+ },
+ "manusights2026_zenodo": {
+  "doi": "10.5281/zenodo.23353186",
+  "title": "Were later-retracted papers accepted faster? A within-journal comparison of 20,471 retracted papers in PubMed (analysis report and data; not peer reviewed, published by a manuscript-review company)",
+  "year": 2026,
+  "venue": "Zenodo (dataset)",
+  "authors": [
+   "Manusights"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "sevryugina2023_acsomega": {
+  "doi": "10.1021/acsomega.3c03689",
+  "title": "Analysis of Retracted Manuscripts in Chemistry: Errors vs Misconduct",
+  "year": 2023,
+  "venue": "ACS Omega",
+  "authors": [
+   "Sevryugina, Yulia V.",
+   "Jimenez, Dina"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
  }
 }

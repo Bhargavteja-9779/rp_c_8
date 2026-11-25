@@ -1,0 +1,101 @@
+{
+ "by_member": {
+  "Springer Nature": {
+   "articles": 1104654,
+   "journals": 440,
+   "retracted": 1569,
+   "process": 973,
+   "ai": 453,
+   "median_D": 125.0
+  },
+  "Taylor & Francis": {
+   "articles": 138691,
+   "journals": 94,
+   "retracted": 3,
+   "process": 0,
+   "ai": 0,
+   "median_D": 141.0
+  },
+  "Wiley": {
+   "articles": 493927,
+   "journals": 266,
+   "retracted": 827,
+   "process": 691,
+   "ai": 69,
+   "median_D": 116.0
+  }
+ },
+ "by_year": {
+  "2020": {
+   "articles": 32080,
+   "retracted": 61,
+   "process": 32,
+   "ai": 4,
+   "median_D": 123.0
+  },
+  "2021": {
+   "articles": 255318,
+   "retracted": 863,
+   "process": 678,
+   "ai": 376,
+   "median_D": 119.0
+  },
+  "2022": {
+   "articles": 257075,
+   "retracted": 375,
+   "process": 239,
+   "ai": 60,
+   "median_D": 123.0
+  },
+  "2023": {
+   "articles": 279984,
+   "retracted": 655,
+   "process": 499,
+   "ai": 26,
+   "median_D": 121.0
+  },
+  "2024": {
+   "articles": 304242,
+   "retracted": 387,
+   "process": 215,
+   "ai": 53,
+   "median_D": 122.0
+  },
+  "2025": {
+   "articles": 350219,
+   "retracted": 53,
+   "process": 1,
+   "ai": 2,
+   "median_D": 126.0
+  },
+  "2026": {
+   "articles": 258152,
+   "retracted": 3,
+   "process": 0,
+   "ai": 1,
+   "median_D": 131.0
+  }
+ },
+ "prevalence": {
+  "X3": 0.01113584976906322,
+  "X4": 0.3904172748999581,
+  "X4b": 0.14227420921997247,
+  "X5": 0.1661564798143296,
+  "N1": 0.17147228528405453,
+  "X1": 0.05350969213762706,
+  "X2": 0.051751703657062435
+ },
+ "D_quantiles": {
+  "0.05": 32.0,
+  "0.25": 77.0,
+  "0.5": 124.0,
+  "0.75": 195.0,
+  "0.95": 372.0
+ },
+ "strata": {
+  "n": 5616,
+  "n_ge100": 4612,
+  "median_size": 237.0
+ },
+ "retraction_lag_months_median": 15.571616294349539
+}

@@ -1,0 +1,28 @@
+{
+ "n_articles": 1737272,
+ "n_retracted": 2399,
+ "n_process": 1664,
+ "n_ai": 522,
+ "n_other": 735,
+ "n_reinstated_excluded": 0,
+ "n_pit": 1131523,
+ "n_strata": 5616,
+ "n_strata_ge100": 4612,
+ "by_member_retracted": {
+  "Springer Nature": 1569,
+  "Wiley": 827,
+  "Taylor & Francis": 3
+ },
+ "by_year_retracted": {
+  "2013": 1,
+  "2019": 1,
+  "2020": 61,
+  "2021": 863,
+  "2022": 375,
+  "2023": 655,
+  "2024": 387,
+  "2025": 53,
+  "2026": 3
+ },
+ "tau2": 0.04013282808082923
+}

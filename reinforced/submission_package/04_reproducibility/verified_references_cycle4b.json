@@ -1,0 +1,120 @@
+{
+ "record2015": {
+  "doi": "10.1371/journal.pmed.1001885",
+  "title": "The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) Statement",
+  "year": 2015,
+  "venue": "PLOS Medicine",
+  "authors": [
+   "Benchimol, Eric I.",
+   "Smeeth, Liam",
+   "Guttmann, Astrid",
+   "Harron, Katie",
+   "Moher, David",
+   "Petersen, Irene",
+   "Sørensen, Henrik T.",
+   "von Elm, Erik",
+   "Langan, Sinéad M.",
+   ", "
+  ],
+  "volume": "12",
+  "issue": "10",
+  "page": "e1001885"
+ },
+ "strobe2007": {
+  "doi": "10.1016/S0140-6736(07)61602-X",
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "year": 2007,
+  "venue": "The Lancet",
+  "authors": [
+   "von Elm, Erik",
+   "Altman, Douglas G",
+   "Egger, Matthias",
+   "Pocock, Stuart J",
+   "Gøtzsche, Peter C",
+   "Vandenbroucke, Jan P"
+  ],
+  "volume": "370",
+  "issue": "9596",
+  "page": "1453-1457"
+ },
+ "cox1972": {
+  "doi": "10.1111/j.2517-6161.1972.tb00899.x",
+  "title": "Regression Models and Life-Tables",
+  "year": 1972,
+  "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+  "authors": [
+   "Cox, D. R."
+  ],
+  "volume": "34",
+  "issue": "2",
+  "page": "187-202"
+ },
+ "coi_notices2026": {
+  "doi": "10.1186/s41073-026-00236-9",
+  "title": "Retraction and correction of scientific articles due to conflicts of interest: a cross‑sectional analysis of the Retraction Watch database",
+  "year": 2026,
+  "venue": "Research Integrity and Peer Review",
+  "authors": [
+   "Bočina, Ružica",
+   "Mijatović, Antonija",
+   "Marušić, Ana"
+  ],
+  "volume": "11",
+  "issue": "1",
+  "page": "56"
+ },
+ "cochrane_retracted2026": {
+  "doi": "10.1186/s41073-026-00205-2",
+  "title": "Research integrity within systematic reviews: investigating the prevalence of studies by authors with multiple retraction histories in Cochrane reviews",
+  "year": 2026,
+  "venue": "Research Integrity and Peer Review",
+  "authors": [
+   "Zaw, Theint Moh Moh",
+   "Heathers, James",
+   "Meyerowitz-Katz, Gideon"
+  ],
+  "volume": "11",
+  "issue": "1",
+  "page": "26"
+ },
+ "notice_type2026": {
+  "doi": "10.1186/s41073-026-00271-6",
+  "title": "Publishers’ responses to integrity concerns – does the type of notice influence subsequent citations? a cohort study",
+  "year": 2026,
+  "venue": "Research Integrity and Peer Review",
+  "authors": [
+   "Studd, Hugo",
+   "Avenell, Alison",
+   "Grey, Andrew",
+   "Bolland, Mark"
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null
+ },
+ "manusights2026_zenodo": {
+  "doi": "10.5281/zenodo.23353186",
+  "title": "Were later-retracted papers accepted faster? A within-journal comparison of 20,471 retracted papers in PubMed (analysis report and data; not peer reviewed, published by a manuscript-review company)",
+  "year": 2026,
+  "venue": "Zenodo (dataset)",
+  "authors": [
+   "Manusights"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ },
+ "sevryugina2023_acsomega": {
+  "doi": "10.1021/acsomega.3c03689",
+  "title": "Analysis of Retracted Manuscripts in Chemistry: Errors vs Misconduct",
+  "year": 2023,
+  "venue": "ACS Omega",
+  "authors": [
+   "Sevryugina, Yulia V.",
+   "Jimenez, Dina"
+  ],
+  "volume": "",
+  "issue": "",
+  "page": ""
+ }
+}
