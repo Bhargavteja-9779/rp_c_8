@@ -72,7 +72,7 @@ def dl(M):
     w = 1 / M.se ** 2; fe = (w * M.log_or).sum() / w.sum(); Q = (w * (M.log_or - fe) ** 2).sum(); k = len(M); tau2 = max(0.0, (Q - (k - 1)) / (w.sum() - (w ** 2).sum() / w.sum())); wr = 1 / (M.se ** 2 + tau2); re = (wr * M.log_or).sum() / wr.sum(); sre = np.sqrt(1 / wr.sum())
     qhk = (wr * (M.log_or - re) ** 2).sum() / (k - 1); se_hk = np.sqrt(qhk / wr.sum()); tq = stats.t.ppf(.975, k - 1); tp = stats.t.ppf(.975, k - 2)
     return dict(k=int(k), pooled=float(np.exp(re)), ci=[float(np.exp(re - 1.96 * sre)), float(np.exp(re + 1.96 * sre))], ci_hk=[float(np.exp(re - tq * se_hk)), float(np.exp(re + tq * se_hk))], tau2=float(tau2), I2=float(max(0, (Q - (k - 1)) / Q)) if Q > 0 else 0.0, pi_t=[float(np.exp(re - tp * np.sqrt(tau2 + sre ** 2))), float(np.exp(re + tp * np.sqrt(tau2 + sre ** 2)))], share_gt1=float((M.log_or > 0).mean()))
-res["A24"] = {"all": dl(M), "exposed_events_ge3": dl(M[M.exposed_events >= 3]), "journals": M.sort_values("events", ascending=False).head(12).to_dict("records")}
+res["A24"] = {"journal_or_range": [float(np.exp(M.log_or.min())), float(np.exp(M.log_or.max()))], "n_zero_exposed": int((M.exposed_events == 0).sum()), "n_le1_exposed": int((M.exposed_events <= 1).sum()), "all": dl(M), "exposed_events_ge3": dl(M[M.exposed_events >= 3]), "journals": M.sort_values("events", ascending=False).head(12).to_dict("records")}
 # ---------------- A25 screening revised
 d3 = df[(df.acc_year.between(2022, 2024)) & df.pit.notna()].copy(); res["A25"] = {"n": int(len(d3))}
 def strat_parts(d, score, out):

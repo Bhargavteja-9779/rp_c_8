@@ -1,16 +1,16 @@
 {
  "A20": {
-  "records_returned_total": 1956720,
-  "records_dated": 1840163,
-  "dated_share_overall": 0.9404324583997711,
+  "records_returned_total": 1945453,
+  "records_dated": 1829907,
+  "dated_share_overall": 0.9406071490804455,
   "notices_total": 14239,
   "cohort_retractions": 3454,
   "coverage_overall": 0.24257321441112437,
   "by_member": {
    "Springer Nature": {
-    "notices": 5606,
-    "cohort_retractions": 1624,
-    "dated_share": 0.9696835638716359
+    "notices": 5583,
+    "cohort_retractions": 1620,
+    "dated_share": 0.9702497961503717
    },
    "Taylor & Francis": {
     "notices": 403,
@@ -148,10 +148,10 @@
      1.9638003646610374,
      6.448460851427809
     ],
-    "exposed": 68692,
+    "exposed": 68212,
     "exposed_events": 93,
     "events": 629,
-    "n": 1277992,
+    "n": 1268917,
     "journals": 540
    },
    "dated_share>=0.95": {
@@ -164,10 +164,10 @@
      2.060288429535671,
      4.9078010428497425
     ],
-    "exposed": 69990,
+    "exposed": 69596,
     "exposed_events": 45,
     "events": 326,
-    "n": 1313423,
+    "n": 1305986,
     "journals": 523
    },
    "dated_share>=0.90": {
@@ -180,10 +180,10 @@
      2.9582672162702965,
      9.871718179839727
     ],
-    "exposed": 87994,
+    "exposed": 87514,
     "exposed_events": 290,
     "events": 1695,
-    "n": 1641882,
+    "n": 1632807,
     "journals": 702
    },
    "dated_share<0.90": {
@@ -196,23 +196,49 @@
      0.8758000494300187,
      4.476612572753945
     ],
-    "exposed": 7770,
+    "exposed": 7716,
     "exposed_events": 87,
     "events": 865,
-    "n": 138316,
+    "n": 137366,
     "journals": 96
    }
+  },
+  "rw_side": {
+   "rw_retractions_2021plus_in_frame_journals": 7870,
+   "in_cohort": 3369,
+   "share_in_cohort": 0.4280813214739517,
+   "by_member": {
+    "Springer Nature": {
+     "n": 1624,
+     "share_in_cohort": 0.9575123152709359
+    },
+    "Taylor & Francis": {
+     "n": 22,
+     "share_in_cohort": 0.9090909090909091
+    },
+    "Wiley": {
+     "n": 6224,
+     "share_in_cohort": 0.28823907455012854
+    }
+   },
+   "by_dated_share": {
+    "ge_0.9": 0.9672727272727273,
+    "lt_0.9": 0.18072289156626506,
+    "lt_0.5": 0.051643192488262914
+   },
+   "process_share_in_cohort": 0.7690709409320273,
+   "process_share_not_in_cohort": 0.9795600977560542
   }
  },
  "A21": {
   "or_process": 4.189188905580355,
-  "or_pubother": 1.1306742742493685,
-  "events_pubother": 380,
+  "or_pubother": 1.1367958714065682,
+  "events_pubother": 378,
   "exposed_events_pubother": 23,
-  "ratio": 3.705036013454425,
+  "ratio": 3.685084552952354,
   "ratio_ci": [
-   1.640667749104755,
-   8.109823249769821
+   1.6341583125063206,
+   8.084497256531865
   ],
   "n_boot": 2000
  },
@@ -320,6 +346,12 @@
   "min_followup_months_A11": 24.7700394218134
  },
  "A24": {
+  "journal_or_range": [
+   0.2695015846671189,
+   21.115873039885503
+  ],
+  "n_zero_exposed": 3,
+  "n_le1_exposed": 7,
   "all": {
    "k": 20,
    "pooled": 3.6294220305678357,
@@ -477,34 +509,74 @@
   }
  },
  "A26": {
-  "journal_months": 20291,
+  "journal_months": 20258,
   "journals": 727,
-  "events": 2325,
-  "fe_logit_per_10pts_fast_share": {
-   "or": 2.5864111128257474,
+  "events_in_eligible_months": 2102,
+  "events_total": 2639,
+  "largest_month": {
+   "month_stratum": "1866-7538_2021-07",
+   "events": 166,
+   "articles": 337
+  },
+  "naive_all_articles_exposure": {
+   "or": 2.76470528414646,
    "ci": [
-    2.089246080944976,
-    3.201883447603653
+    2.348685808012418,
+    3.2544137160073228
    ],
-   "p": 2.662977246516413e-18,
-   "journals_in_model": 59,
-   "journal_months_in_model": 2625
+   "journals": 58,
+   "journal_months": 2580
   },
-  "flag_fast_ge_15pct": {
-   "flagged_months": 494,
-   "articles_flagged": 21164,
-   "events_flagged": 208,
-   "rate_flagged": 0.009828009828009828,
-   "rate_other": 0.0018499940576478073,
-   "share_events_captured": 0.08946236559139785,
-   "share_articles": 0.018158854801234157
-  },
-  "rate_ratio_flagged_vs_other": {
-   "est": 5.31245480891206,
+  "exposure_from_nonretracted": {
+   "or": 1.1023686875535557,
    "ci": [
-    0.4063100449923359,
-    18.02766667443317
-   ]
+    0.4857766630432476,
+    2.5015955185775582
+   ],
+   "journals": 58,
+   "journal_months": 2580
+  },
+  "naive_without_largest_month": {
+   "or": 2.207393889498091,
+   "ci": [
+    1.2940879149283704,
+    3.7652679753702945
+   ],
+   "journals": 58,
+   "journal_months": 2579
+  },
+  "nonretracted_without_largest_month": {
+   "or": 1.0274196177811512,
+   "ci": [
+    0.4211694335049296,
+    2.5063335252443286
+   ],
+   "journals": 58,
+   "journal_months": 2579
+  },
+  "flag_all_articles": {
+   "flagged_months": 492,
+   "share_articles": 0.01812188840022226,
+   "events_flagged": 201,
+   "rate_flagged": 0.009525614899767783,
+   "rate_other": 0.0016627423265447498,
+   "share_of_all_events": 0.07616521409624857
+  },
+  "flag_nonretracted": {
+   "flagged_months": 493,
+   "share_articles": 0.017951842719769014,
+   "events_flagged": 95,
+   "rate_flagged": 0.004544802181505047,
+   "rate_other": 0.0017551530839797463,
+   "share_of_all_events": 0.03599848427434634
+  },
+  "flag_nonretracted_without_largest_month": {
+   "flagged_months": 493,
+   "share_articles": 0.017957039867497783,
+   "events_flagged": 95,
+   "rate_flagged": 0.004544802181505047,
+   "rate_other": 0.0016104580926612623,
+   "share_of_all_events": 0.03599848427434634
   }
  }
 }
