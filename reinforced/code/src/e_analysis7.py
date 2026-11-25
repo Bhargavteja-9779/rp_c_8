@@ -15,7 +15,7 @@ def boot_or(t, B):
         M = np.vstack([arr[js[i]] for i in rng.integers(0, len(js), len(js))]); a_, b_, c_, e_ = M.T; n_ = a_ + b_ + c_ + e_; den = (b_ * c_ / n_).sum(); out.append((a_ * e_ / n_).sum() / den if den > 0 else np.nan)
     return np.array(out)
 # ---------------- A20 coverage and date availability
-cov = pd.read_csv(f"{ROOT}/data/raw/coverage_notices.csv"); summ = pd.read_csv(f"{ROOT}/data/raw/collect_crossref_summary.tsv", sep="\t", header=None, names=["issn", "member", "total", "dated"], dtype={"issn": str})
+cov = pd.read_csv(f"{ROOT}/data/raw/coverage_notices.csv"); summ = pd.read_csv(f"{ROOT}/data/raw/collect_crossref_summary.tsv", sep="\t", header=None, names=["issn", "member", "total", "dated"], dtype={"issn": str}).drop_duplicates("issn")
 jc = df.groupby("issn").agg(cohort_ret=("R_any", "sum"), cohort_proc=("R_process", "sum"), articles=("doi", "size")).reset_index().merge(cov, on="issn", how="left").merge(summ, on="issn", how="left")
 jc["coverage"] = (jc.cohort_ret / jc.retraction_notices.replace(0, np.nan)).clip(upper=1.0); jc["dated_share"] = jc.dated / jc.total
 res["A20"] = {"records_returned_total": int(summ.total.sum()), "records_dated": int(summ.dated.sum()), "dated_share_overall": float(summ.dated.sum() / summ.total.sum()), "notices_total": int(cov.retraction_notices.sum()), "cohort_retractions": int(df.R_any.sum()),
@@ -26,6 +26,12 @@ for _, r in top.iterrows(): res["A20"]["top_journals"].append({"issn": r.issn, "
 d1 = d1.merge(jc[["issn", "coverage", "dated_share"]], on="issn", how="left"); res["A20"]["sens"] = {}
 for name, mask in (("coverage>=0.8", d1.coverage >= .8), ("coverage>=0.5", d1.coverage >= .5), ("coverage<0.5", d1.coverage < .5), ("dated_share>=0.95", d1.dated_share >= .95), ("dated_share>=0.90", d1.dated_share >= .90), ("dated_share<0.90", d1.dated_share < .90)):
     x = d1[mask]; t = strata_tables(x, "X1", "R_process"); res["A20"]["sens"][name] = mh_ci(t, B=500) | {"journals": int(x.issn.nunique()), "events": int(x.R_process.sum())}
+import re as _re
+rwf = pd.read_csv(f"{ROOT}/data/raw/retraction_watch/retraction_watch.csv.gz", low_memory=False); rwf = rwf[(rwf.RetractionNature == "Retraction") & rwf.OriginalPaperDOI.notna()].copy(); rwf["opd"] = pd.to_datetime(rwf.OriginalPaperDate, errors="coerce", format="mixed"); rwf = rwf[rwf.opd >= "2021-01-01"]
+norm = lambda t: _re.sub(r"[^a-z0-9]", "", str(t).lower()); tmap = {norm(v): k for k, v in titles.items()}; rwf["issn"] = rwf.Journal.map(lambda t: tmap.get(norm(t))); rwm = rwf[rwf.issn.notna()].copy(); rwm["doi"] = rwm.OriginalPaperDOI.str.lower().str.strip(); rwm["in_cohort"] = rwm.doi.isin(set(df.doi))
+rwm = rwm.drop_duplicates("doi"); res["A20"]["rw_side"] = {"rw_retractions_2021plus_in_frame_journals": int(len(rwm)), "in_cohort": int(rwm.in_cohort.sum()), "share_in_cohort": float(rwm.in_cohort.mean()), "by_member": {m: {"n": int(len(g)), "share_in_cohort": float(g.in_cohort.mean())} for m, g in rwm.assign(member=rwm.issn.map(jc.set_index("issn").member)).groupby("member")}}
+rwm["dated_share"] = rwm.issn.map(jc.set_index("issn").dated_share); res["A20"]["rw_side"]["by_dated_share"] = {"ge_0.9": float(rwm[rwm.dated_share >= .9].in_cohort.mean()), "lt_0.9": float(rwm[rwm.dated_share < .9].in_cohort.mean()), "lt_0.5": float(rwm[rwm.dated_share < .5].in_cohort.mean())}
+res["A20"]["rw_side"]["process_share_in_cohort"] = float(rwm[rwm.in_cohort].Reason.fillna("").str.lower().str.contains("peer review|rogue editor|paper mill|third party involvement").mean()); res["A20"]["rw_side"]["process_share_not_in_cohort"] = float(rwm[~rwm.in_cohort].Reason.fillna("").str.lower().str.contains("peer review|rogue editor|paper mill|third party involvement").mean())
 # ---------------- A21 ratio of ORs (process vs publisher-investigated other)
 t1 = strata_tables(d1, "X1", "R_process"); t2 = strata_tables(d1, "X1", "R_pubother"); js = np.union1d(t1.j.unique(), t2.j.unique()); ar1 = {j: g[["a", "b", "c", "e"]].to_numpy(float) for j, g in t1.groupby("j")}; ar2 = {j: g[["a", "b", "c", "e"]].to_numpy(float) for j, g in t2.groupby("j")}; z = np.zeros((1, 4))
 def mh_arr(M): a_, b_, c_, e_ = M.T; n_ = a_ + b_ + c_ + e_; return (a_ * e_ / n_).sum() / (b_ * c_ / n_).sum()
@@ -86,17 +92,19 @@ res["A25"]["pooled_auc_by_year"] = {}
 for yv in (2023, 2024):
     d = d3[d3.acc_year == yv].copy(); prior = df[(df.acc_year < yv)]; ev = prior[prior.R_process & (prior.rdate < pd.Timestamp(f"{yv}-01-01"))].groupby("issn").size(); nn = prior.groupby("issn").size(); h = (ev.reindex(nn.index).fillna(0) / nn); d["hist_rate"] = d.issn.map(h).fillna(0.0)
     y_ = d.R_process.to_numpy(); res["A25"]["pooled_auc_by_year"][yv] = {"neg_pit": pooled_auc(y_, d.neg_pit.to_numpy()), "neg_D": pooled_auc(y_, d.neg_D.to_numpy()), "journal_history": pooled_auc(y_, d.hist_rate.to_numpy()), "events": int(y_.sum())}
-# ---------------- A26 group level (journal-month)
-g = df[df.X1.notna()].groupby("month_stratum").agg(issn=("issn", "first"), n=("doi", "size"), fast=("X1", "mean"), batch=("X4b", "mean"), ev=("R_process", "sum"), evany=("R_any", "sum")).reset_index(); g = g[g.n >= 30].copy(); res["A26"] = {"journal_months": int(len(g)), "journals": int(g.issn.nunique()), "events": int(g.ev.sum())}
-inf_j = g.groupby("issn").ev.sum(); gi = g[g.issn.isin(inf_j[inf_j > 0].index)].copy(); D_ = pd.get_dummies(gi.issn, drop_first=True).astype(float); X = pd.concat([(gi.fast * 10).rename("fast10"), D_], axis=1); X = sm.add_constant(X)
-fit = sm.GLM(np.column_stack([gi.ev, gi.n - gi.ev]), X, family=sm.families.Binomial()).fit(cov_type="cluster", cov_kwds={"groups": pd.factorize(gi.issn)[0]}); b = fit.params["fast10"]; ci = fit.conf_int().loc["fast10"]
-res["A26"]["fe_logit_per_10pts_fast_share"] = {"or": float(np.exp(b)), "ci": [float(np.exp(ci[0])), float(np.exp(ci[1]))], "p": float(fit.pvalues["fast10"]), "journals_in_model": int(gi.issn.nunique()), "journal_months_in_model": int(len(gi))}
-g["flag"] = g.fast >= .15; tot_ev = g.ev.sum(); res["A26"]["flag_fast_ge_15pct"] = {"flagged_months": int(g.flag.sum()), "articles_flagged": int(g[g.flag].n.sum()), "events_flagged": int(g[g.flag].ev.sum()), "rate_flagged": float(g[g.flag].ev.sum() / g[g.flag].n.sum()), "rate_other": float(g[~g.flag].ev.sum() / g[~g.flag].n.sum()), "share_events_captured": float(g[g.flag].ev.sum() / tot_ev), "share_articles": float(g[g.flag].n.sum() / g.n.sum())}
-js_ = g.issn.unique(); gj = {j: g[g.issn == j][["n", "ev", "flag"]].to_numpy(float) for j in js_}; lifts = []
-for _ in range(1000):
-    M_ = np.vstack([gj[js_[i]] for i in rng.integers(0, len(js_), len(js_))]); f = M_[:, 2] == 1
-    if f.sum() and (~f).sum() and M_[~f, 1].sum() > 0: lifts.append((M_[f, 1].sum() / M_[f, 0].sum()) / (M_[~f, 1].sum() / M_[~f, 0].sum()))
-res["A26"]["rate_ratio_flagged_vs_other"] = {"est": res["A26"]["flag_fast_ge_15pct"]["rate_flagged"] / res["A26"]["flag_fast_ge_15pct"]["rate_other"], "ci": [float(np.quantile(lifts, .025)), float(np.quantile(lifts, .975))]}
+# ---------------- A26 group level (journal-month), redone (E-A8)
+base = df[df.X1.notna()].copy(); base["X1b"] = base.X1.astype(float)
+gm = base.groupby("month_stratum").agg(issn=("issn", "first"), n=("doi", "size"), ev=("R_process", "sum")).reset_index(); nr = base[~base.R_any].groupby("month_stratum").agg(n_nr=("doi", "size"), fast_nr=("X1b", "mean")); allf = base.groupby("month_stratum").X1b.mean().rename("fast_all"); gm = gm.merge(nr, on="month_stratum", how="left").merge(allf, on="month_stratum"); gm = gm[(gm.n >= 30) & (gm.n_nr >= 30)].copy()
+tot_all = int(df.R_process.sum()); res["A26"] = {"journal_months": int(len(gm)), "journals": int(gm.issn.nunique()), "events_in_eligible_months": int(gm.ev.sum()), "events_total": tot_all}
+def fe_fit(gx, col):
+    inf_j = gx.groupby("issn").ev.sum(); gi = gx[gx.issn.isin(inf_j[inf_j > 0].index)].copy(); D_ = pd.get_dummies(gi.issn, drop_first=True).astype(float); X = sm.add_constant(pd.concat([(gi[col] * 10).rename("fast10"), D_], axis=1))
+    f_ = sm.GLM(np.column_stack([gi.ev, gi.n - gi.ev]), X, family=sm.families.Binomial()).fit(cov_type="cluster", cov_kwds={"groups": pd.factorize(gi.issn)[0]}); c_ = f_.conf_int().loc["fast10"]
+    return {"or": float(np.exp(f_.params["fast10"])), "ci": [float(np.exp(c_[0])), float(np.exp(c_[1]))], "journals": int(gi.issn.nunique()), "journal_months": int(len(gi))}
+top_m = gm.sort_values("ev", ascending=False).iloc[0]; res["A26"]["largest_month"] = {"month_stratum": top_m.month_stratum, "events": int(top_m.ev), "articles": int(top_m.n)}
+res["A26"]["naive_all_articles_exposure"] = fe_fit(gm, "fast_all"); res["A26"]["exposure_from_nonretracted"] = fe_fit(gm, "fast_nr"); res["A26"]["naive_without_largest_month"] = fe_fit(gm[gm.month_stratum != top_m.month_stratum], "fast_all"); res["A26"]["nonretracted_without_largest_month"] = fe_fit(gm[gm.month_stratum != top_m.month_stratum], "fast_nr")
+def yield_(gx, col):
+    f = gx[col] >= .15; return {"flagged_months": int(f.sum()), "share_articles": float(gx[f].n.sum() / gx.n.sum()), "events_flagged": int(gx[f].ev.sum()), "rate_flagged": float(gx[f].ev.sum() / max(gx[f].n.sum(), 1)), "rate_other": float(gx[~f].ev.sum() / gx[~f].n.sum()), "share_of_all_events": float(gx[f].ev.sum() / tot_all)}
+res["A26"]["flag_all_articles"] = yield_(gm, "fast_all"); res["A26"]["flag_nonretracted"] = yield_(gm, "fast_nr"); res["A26"]["flag_nonretracted_without_largest_month"] = yield_(gm[gm.month_stratum != top_m.month_stratum], "fast_nr")
 json.dump(res, open(f"{OUT}/E_results7.json", "w"), indent=1, default=float); print("done")
 f = lambda v: (round(v["or_mh"], 2), [round(x, 2) for x in v["ci_cluster"]], v["exposed_events"], v["events"])
-print("A20", {k: v for k, v in res["A20"].items() if k not in ("sens", "top_journals")}); print({k: (f(v), v["journals"]) for k, v in res["A20"]["sens"].items()}); print("A21", res["A21"]); print("A22", {k: (f(v) if isinstance(v, dict) and "or_mh" in v else v) for k, v in res["A22"].items()}); print("A23", res["A23"]); print("A24", res["A24"]["all"], res["A24"]["exposed_events_ge3"]); print("A25", {k: v for k, v in res["A25"].items()}); print("A26", res["A26"])
+print("A20", {k: v for k, v in res["A20"].items() if k not in ("sens", "top_journals")}); print({k: (f(v), v["journals"]) for k, v in res["A20"]["sens"].items()}); print("A21", res["A21"]); print("A22", {k: (f(v) if isinstance(v, dict) and "or_mh" in v else v) for k, v in res["A22"].items()}); print("A23", res["A23"]); print("A24", res["A24"]["all"], res["A24"]["exposed_events_ge3"]); print("A25", {k: v for k, v in res["A25"].items()}); print("A26", json.dumps(res["A26"])[:2500]); print("A20rw", res["A20"]["rw_side"])
