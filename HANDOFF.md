@@ -33,3 +33,9 @@ Paths in scripts are absolute (`/home/user/rp_c_8`); edit `ROOT` or clone to tha
 * Additional raw data: `data/raw/retraction_watch/retraction_watch.csv.gz` (snapshot 2026-11-24), `data/raw/coverage_notices.csv`, `data/raw/pubmed_ext/`.
 * Order to run: prepare_data.py → e_build.py → e_analysis.py, e_analysis2.py, e_analysis3.py, e_analysis4.py, e_analysis6.py, e_analysis7.py, (e_analysis5.py, ~10 min), e_tables.py → e_figures.py → build_integrity_manuscript.py. `e_cover_collect.py` needs the live Crossref API.
 * Read `reinforced/AUTHOR_GUIDE.md` first. Rejected submission on record: RIPR, 2026-11-24 (cycle-3 manuscript).
+
+## Cycle 4 final state (2026-11-25)
+- Audit R7: every Part E result reproduces bit-for-bit; one duplicate-ISSN defect fixed (E-A8). Dispositions in `reinforced/review/cycle4_review_dispositions.md`.
+- Scripts hard-code `/home/user/rp_c_8`; in a new account either clone to that path or `grep -rl /home/user/rp_c_8 --include=*.py . | xargs sed -i 's#/home/user/rp_c_8#'$PWD'#g'`.
+- Install with `pip install -r code/requirements.txt` (versions pinned, incl. statsmodels).
+- Rejection reasons at RIPR: low novelty/impact and substantial generative AI use. Authors must verify, rewrite in their own words, deposit data/code (DOI) and choose a venue by its AI policy. See `reinforced/AUTHOR_GUIDE.md`.
