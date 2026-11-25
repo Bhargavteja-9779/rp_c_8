@@ -77,3 +77,26 @@ Manuscript (`manuscript/Revised_Manuscript.docx/.pdf`, ~5,000 words, 29 referenc
 4. Author-side declarations are placeholders.
 5. Reproducibility gaps: hard-coded absolute paths; live-API collection cannot be rerun to identical data; PubMed first-online date is an entry-date proxy.
 6. Effect size: the contribution is a modest calibration improvement plus a cautionary finding about truncation, not a large accuracy gain. Reviewers at selective venues may judge it incremental.
+
+---
+# Cycle 4 update (2026-11-25): new study aimed at research integrity after rejection by RIPR
+
+**Context.** *Research Integrity and Peer Review* rejected the cycle-3 manuscript (2026-11-24): "novelty and potential impact too low" for the journal's readers, and "substantial use of generative AI". No editing of that manuscript could change either reason, so cycle 4 changed the question: whether unusually fast editorial handling is followed by retraction for peer-review-related reasons, using the same Crossref dates linked to the Retraction Watch database.
+
+**Decision: B+ (substantially stronger and more on-topic than cycle 3; still not ready to submit).**
+
+## What exists
+* Manuscript `reinforced/manuscript/Integrity_Manuscript.docx/.pdf` (about 5,600 words, 32 references, 4 tables + supplement, 4 figures, RECORD/STROBE checklist), `Integrity_Supplement.docx`, `Integrity_Cover_Letter.docx`, `RECORD_STROBE_checklist.docx`.
+* Protocol `research_design/cycle4_protocol_partE.md` committed before the analyses; amendments E-A1..E-A7 written before the analyses they describe (five of them respond to results and are disclosed).
+* Benchmark of the target journal (`literature/agent_cycle4_ripr_benchmark.md`), prior-art search (`agent_cycle4_prior_art.md`), reviews R5 (first), R6 (second, found a cohort-selection error, now corrected), R8 (third), reproducibility audit R7, `AUTHOR_GUIDE.md`, `code/src/verify_headline_numbers.py`.
+* Product: companion audit module in `product/` (`timing_flags`, `group_alerts`, `batch_days`; 14 tests).
+
+## Findings (see manuscript for intervals)
+Fastest 5% of a journal-year: OR about 4.2 for peer-review-related retraction (stratified), hazard ratio 3.2, 3.3 within journal-months; specific to process-related reasons (ratio of odds ratios 3.7 against publisher-investigated other retractions); negative control without clear association; heterogeneous across journals (I² 87%) and years (2021–2022 strong, 2024 not detectable); stratified AUC 0.78 (0.70 without the largest stratum); screening yield low. The cohort contains only part of all retractions (articles without deposited dates are absent).
+
+## Honest remaining blockers
+1. **AI use.** One reason for the last rejection cannot be fixed by text. Editors expect the human authors to have verified and to be able to defend the work. `AUTHOR_GUIDE.md` and the verification script exist for that purpose; a human statistician should re-run the pipeline and sign off, and the text should be rewritten in the authors' own words.
+2. **Novelty/impact is arguable.** The signal is retrospective, concentrated in a few journals and weakening; the cohort is selected; ascertainment may be partly circular. These are disclosed, and some readers will still judge the impact modest.
+3. No DOI-bearing deposit; unarchived branch name announces autonomous AI work (archive a clean release).
+4. Declarations (competing interests, funding, contributions) are placeholders; journal not chosen; timelines and quartiles unverified; the 72-day condition cannot be verified.
+5. A cohort built from all Crossref records (not only dated ones) or publisher-supplied dates for the lost retractions would remove the largest limitation; this needs data or access that this project did not have.

@@ -27,3 +27,9 @@ Paths in scripts are absolute (`/home/user/rp_c_8`); edit `ROOT` or clone to tha
 ## Honest status and what a human must do
 * All analysis code, drafts and reviews were produced by AI instances (Claude) with automated reviews and audits; **no human has reviewed the work**. A journal rejected the cycle-3 paper partly for this. Before any submission the human authors must re-run the pipeline, check the key numbers, understand and be able to defend every analysis, rewrite the text in their own words, and disclose the AI use as the target journal's policy requires. Acceptance cannot be guaranteed.
 * Venue: `reinforced/audit/journal_fit_assessment.md` lists candidates; submission-to-acceptance times for most are unverifiable.
+
+## Cycle 4 status (2026-11-25)
+* Main manuscript to work on: `reinforced/manuscript/Integrity_Manuscript.docx` (+ supplement, cover letter, RECORD/STROBE checklist). Protocol: `reinforced/research_design/cycle4_protocol_partE.md`. Code: `reinforced/code/src/e_build.py`, `e_analysis.py` … `e_analysis7.py`, `e_figures.py`, `build_integrity_manuscript.py`, `build_integrity_cover_letter.py`, `build_record_checklist.py`, `verify_headline_numbers.py`. Results: `reinforced/results/E_*.json` (the `*_v1cohort.json` files are the superseded first cohort). Reviews: `reinforced/review/agent_R5…R8_*.md`.
+* Additional raw data: `data/raw/retraction_watch/retraction_watch.csv.gz` (snapshot 2026-11-24), `data/raw/coverage_notices.csv`, `data/raw/pubmed_ext/`.
+* Order to run: prepare_data.py → e_build.py → e_analysis.py, e_analysis2.py, e_analysis3.py, e_analysis4.py, e_analysis6.py, e_analysis7.py, (e_analysis5.py, ~10 min), e_tables.py → e_figures.py → build_integrity_manuscript.py. `e_cover_collect.py` needs the live Crossref API.
+* Read `reinforced/AUTHOR_GUIDE.md` first. Rejected submission on record: RIPR, 2026-11-24 (cycle-3 manuscript).
